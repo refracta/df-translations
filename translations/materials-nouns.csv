@@ -1,0 +1,705 @@
+rules,noun,noun_translation
+BLS,magma,岩浆
+,rock,岩石
+GSP/PRS/PSS,amber,琥珀
+GSP/PRS/PSS,coral,珊瑚
+BSS/GSP/MSM/PRS/PSS,green glass,绿玻璃
+BSS/GSP/MSM/PRS/PSS,clear glass,透明玻璃
+BSS/GSP/MSM/PRS/PSS,crystal glass,水晶玻璃
+,ice,冰
+,slush,泥地
+,snow,雪
+,steam,蒸汽
+,water,水
+PRS/SSL/SSP,coal,煤炭
+PRS/SSL,potash,草碱
+PRS/PSS,ash,灰烬
+PRS/PSS,pearlash,珍珠灰
+SSP,frozen lye,结冻碱液
+BLS/FLS/SLL,lye,碱液
+,dirt,土壤
+,mud,淤泥
+,pressed dirt,草径
+PRS,vomit,呕吐物
+BSS/MSM,salt,盐
+BLS/FLS/PRS/SLL,filth,污垢
+SSP,frozen filth,结冻污垢
+,unknown boiling substance,未知沸腾物质
+,unknown frozen powder,未知冻结粉末
+,unknown frozen substance,未知冻结物质
+,unknown slush,未知污水
+,unknown substance,未知物质
+PRS/PSS,grime,尘垢
+,unknown boiling creature substance,未知沸腾生物质
+,unknown creature paste,未知生物浓浆
+,unknown creature substance,未知生物质
+,unknown frozen creature powder,未知生物质粉末
+,unknown frozen creature substance,未知冻结生物质
+,unknown pressed frozen creature substance,未知压实冻结生物质
+,unknown boiling plant substance,未知沸腾植物衍生品
+,unknown frozen plant paste,未知冻结植属浓浆
+,unknown frozen plant powder,未知冻结植属粉末
+,unknown frozen plant substance,未知冻结植物衍生品
+,unknown plant substance,未知植物衍生品
+,unknown pressed frozen plant substance,未知压实冻结植物衍生品
+BSS/MSM,iron,铁
+BSS/MSM/SLD,gold,金
+,metal,金属
+BSS/MSM,silver,银
+BSS/MSM,copper,铜
+BSS/MSM,nickel,镍
+BSS/MSM,zinc,锌
+BSS/MSM,bronze,青铜
+BSS/MSM,brass,黄铜
+BSS/MSM,steel,钢
+BSS/MSM,pig iron,生铁
+BSS/MSM,platinum,铂
+BSS/MSM,electrum,琥珀金
+BSS/MSM,tin,锡
+BSS/MSM,fine pewter,精白锡
+BSS/MSM,trifle pewter,廉白锡
+BSS/MSM,lay pewter,劣白锡
+BSS/MSM,lead,铅
+BSS/MSM,aluminum,铝
+BSS/MSM,nickel silver,镍银
+BSS/MSM,billon,毕朗合金
+BSS/MSM,sterling silver,标准银
+BSS/MSM,black bronze,乌青铜
+BSS/MSM,rose gold,玫瑰金
+BSS/MSM,bismuth,铋
+BSS/MSM,bismuth bronze,铋青铜
+BSS/MSM,adamantine,精金
+,gypsum plaster,石膏灰泥
+,earthenware,瓦陶
+,stoneware,炻瓷
+,porcelain,瓷器
+,ash glaze,灰釉
+,tin glaze,锡釉
+,quicklime,生石灰
+,milk of lime,石灰乳
+,onyx,缟玛瑙
+,onyxes,缟玛瑙
+GPL,morion,黑水晶
+GPL,schorl,黑碧玺
+GPL,lace agate,蕾丝玛瑙
+GPL,blue jade,蓝翡翠
+GPL,lapis lazuli,青金石
+GPL,prase,苍绿石英
+GPL,prase opal,苍绿欧泊
+GPL,bloodstone,血石
+GPL,moss agate,苔藓玛瑙
+GPL,moss opal,苔藓欧泊
+GPL,variscite,磷铝石
+GPL,chrysoprase,绿玉髓
+GPL,chrysocolla,硅孔雀石
+GPL,sard,褐玉髓
+GPL,carnelian,红玉髓
+GPL,banded agate,条纹玛瑙
+,sardonyx,缠丝玛瑙
+,sardonyxes,缠丝玛瑙
+GPL,cherry opal,樱桃欧泊
+GPL,lavender jade,紫翡翠
+GPL,pink jade,粉红翡翠
+GPL,tube agate,管脉玛瑙
+GPL,fire agate,火玛瑙
+GPL,plume agate,羽毛玛瑙
+GPL,brown jasper,棕碧玉
+GPL,picture jasper,图画碧玉
+,smoky quartz,烟石英
+,smoky quartzes,烟石英
+GPL,wax opal,蜡质欧泊
+GPL,wood opal,木欧泊
+GPL,amber opal,琥珀欧泊
+GPL,gold opal,金欧泊
+GPL,citrine,黄水晶
+GPL,yellow jasper,黄碧玉
+GPL,tigereye,虎眼石
+GPL,tiger iron,虎铁石
+GPL,sunstone,日长石
+GPL,resin opal,脂光欧泊
+GPL,pyrite,黄铁矿
+GPL,clear tourmaline,透明碧玺
+,gray chalcedony,灰玉髓
+,gray chalcedonies,灰玉髓
+GPL,dendritic agate,枝纹玛瑙
+GPL,shell opal,贝壳欧泊
+GPL,bone opal,骨质欧泊
+,white chalcedony,白玉髓
+,white chalcedonies,白玉髓
+GPL,fortification agate,城垒玛瑙
+,milk quartz,乳石英
+,milk quartzes,乳石英
+GPL,moonstone,月长石
+GPL,white jade,白翡翠
+GPL,jasper opal,碧玉欧泊
+GPL,pineapple opal,凤梨欧泊
+GPL,onyx opal,缟纹欧泊
+GPL,milk opal,乳欧泊
+GPL,pipe opal,管纹欧泊
+GPL,aventurine,砂金石
+GPL,turquoise,绿松石
+,rose quartz,蔷薇石英
+,rose quartzes,蔷薇石英
+GPL,rock crystal,岩石水晶
+GPL,black zircon,黑锆石
+GPL,black pyrope,黑榴石
+GPL,melanite,墨榴石
+GPL,indigo tourmaline,靛蓝碧玺
+GPL,blue garnet,蓝榴石
+GPL,tsavorite,沙弗莱石
+GPL,green tourmaline,绿碧玺
+GPL,demantoid,翠榴石
+GPL,green zircon,绿锆石
+GPL,green jade,绿翡翠
+GPL,heliodor,绿柱石
+GPL,peridot,橄榄石
+GPL,red zircon,红锆石
+GPL,red tourmaline,红碧玺
+GPL,red pyrope,赤榴石
+GPL,almandine,殷榴石
+GPL,red grossular,红榴石
+GPL,pink tourmaline,粉红碧玺
+GPL,red beryl,红柱石
+GPL,fire opal,火欧泊
+GPL,rhodolite,朱榴石
+GPL,purple spinel,紫尖晶石
+GPL,alexandrite,紫翠玉
+GPL,tanzanite,坦桑石
+GPL,morganite,摩根石
+GPL,violet spessartine,紫榴石
+GPL,pink garnet,粉红榴石
+GPL,kunzite,紫锂辉石
+GPL,cinnamon grossular,褐榴石
+GPL,honey yellow beryl,蜜黄柱石
+GPL,jelly opal,冻胶欧泊
+GPL,brown zircon,棕锆石
+GPL,yellow zircon,黄锆石
+GPL,golden beryl,金柱石
+GPL,yellow spessartine,橙榴石
+,topaz,黄玉
+,topazes,黄玉
+GPL,topazolite,黄榴石
+GPL,yellow grossular,缃榴石
+GPL,rubicelle,橙尖晶石
+GPL,clear garnet,透明榴石
+GPL,goshenite,白柱石
+GPL,cat's eye,猫眼石
+GPL,clear zircon,透明锆石
+GPL,amethyst,紫水晶
+GPL,aquamarine,海蓝宝石
+GPL,red spinel,红尖晶石
+GPL,chrysoberyl,金绿玉
+GPL,precious fire opal,贵火欧泊
+GPL,red flash opal,红闪欧泊
+GPL,black opal,黑欧泊
+GPL,white opal,白欧泊
+GPL,crystal opal,水晶欧泊
+GPL,claro opal,烟欧泊
+GPL,levin opal,雷电欧泊
+GPL,harlequin opal,斑斓欧泊
+GPL,pinfire opal,星火欧泊
+GPL,bandfire opal,火纹欧泊
+GPL,light yellow diamond,亮黄钻石
+GPL,faint yellow diamond,微黄钻石
+GPL,emerald,祖母绿宝石
+,ruby,红宝石
+,rubies,红宝石
+GPL,sapphire,蓝玉
+GPL,clear diamond,透明钻石
+GPL,red diamond,红钻石
+GPL,green diamond,绿钻石
+GPL,blue diamond,蓝钻石
+GPL,yellow diamond,黄钻石
+GPL,black diamond,黑钻石
+GPL,star sapphire,星彩蓝玉
+,star ruby,星彩红宝石
+,star rubies,星彩红宝石
+,sandstone,砂岩
+,siltstone,粉砂岩
+,mudstone,泥岩
+,shale,页岩
+,claystone,黏土岩
+,rock salt,岩盐
+,limestone,石灰岩
+,conglomerate,砾岩
+,dolomite,白云石
+,chert,角岩
+,chalk,白垩岩
+,granite,花岗岩
+,diorite,闪长岩
+,gabbro,辉长岩
+,rhyolite,流纹岩
+,basalt,玄武岩
+,andesite,安山岩
+,dacite,英安岩
+,obsidian,黑曜石
+,quartzite,石英岩
+,slate,板岩
+,phyllite,千枚岩
+,schist,片岩
+,gneiss,片麻岩
+,marble,大理石
+,hematite,赤铁矿
+,limonite,褐铁矿
+,garnierite,硅镁镍矿
+BSS/MSM/SLD,native gold,天然金矿
+BSS/MSM,native silver,天然银矿
+BSS/MSM,native copper,天然铜矿
+,malachite,孔雀石
+,galena,方铅矿
+,sphalerite,闪锌矿
+,cassiterite,锡石
+,bituminous coal,烟煤
+,lignite,褐煤
+BSS/MSM,native platinum,天然铂矿
+,cinnabar,辰砂
+,cobaltite,辉钴矿
+,tetrahedrite,黝铜矿
+,horn silver,角银矿
+,gypsum,软石膏
+,talc,滑石
+,jet,煤玉
+,puddingstone,布丁岩
+,petrified wood,石化木
+,graphite,石墨
+,brimstone,硫磺
+,kimberlite,金伯利岩
+,bismuthinite,辉铋矿
+,realgar,雄黄
+,orpiment,雌黄
+,stibnite,辉锑矿
+,marcasite,白铁矿
+,sylvite,钾岩
+,cryolite,冰晶石
+,periclase,方镁石
+,ilmenite,钛铁矿
+,rutile,金红石
+,magnetite,磁铁矿
+,chromite,铬铁矿
+,pyrolusite,软锰矿
+,pitchblende,沥青铀矿
+,bauxite,铝土矿
+BSS/MSM,native aluminum,天然铝矿
+,borax,硼砂
+,olivine,橄榄岩
+,hornblende,角闪石
+,kaolinite,高岭石
+,serpentine,蛇纹石
+,orthoclase,正长石
+,microcline,微斜长石
+,mica,云母
+,calcite,方解石
+,saltpeter,硝石
+,alabaster,雪花石膏
+,selenite,透明石膏
+,satinspar,纤维石膏
+,anhydrite,硬石膏
+,alunite,明矾石
+BSS/MSM,raw adamantine,原始精金
+,slade,基岩
+,clay,黏土
+,silty clay,粉质粘土
+,sandy clay,砂质黏土
+,clay loam,黏质壤土
+,sandy clay loam,砂质黏壤土
+,silty clay loam,粉质黏壤土
+,loam,壤土
+,sandy loam,砂质壤土
+,silt loam,粉质壤土
+,loamy sand,壤砂
+,silt,淤泥
+,sand,沙
+,yellow sand,黄沙
+,white sand,白沙
+,black sand,黑沙
+,red sand,红沙
+,peat,泥炭
+,pelagic clay,深海黏土
+,calcareous ooze,钙质软泥
+,siliceous ooze,硅藻软泥
+,fire clay,火黏土
+,skin,皮肤
+,fat,脂肪
+,grease,油脂
+,muscle,肌肉
+SSM,bone,骨头
+,cartilage,软骨
+,tooth,牙齿
+,eye tissue,眼部组织
+,nervous tissue,神经组织
+,brain,大脑
+,lung tissue,肺部组织
+,heart tissue,心脏组织
+,liver tissue,肝脏组织
+,gut,肠
+,stomach tissue,胃组织
+,gizzard tissue,砂囊组织
+,pancreatic tissue,胰腺组织
+,spleen tissue,脾组织
+,kidney tissue,肾组织
+,leather,皮革
+,parchment,羊皮纸
+MSS,tallow,脂油
+MSS,soap,肥皂
+,sinew,肌腱
+BLS/FLS,blood,血液
+BLS/FLS,pus,脓
+BLS/FLS,ichor,脓水
+,feather,羽毛
+,nail,趾甲
+SSP,eggshell,蛋壳
+BLS/FLS,egg white,蛋白
+BLS/FLS,egg yolk,蛋黄
+,chitin,几丁壳
+BLS/FLS,bark scorpion venom,木蝎毒素
+BLS/FLS,bark scorpion man venom,木蝎人毒素
+BLS/FLS,giant bark scorpion venom,巨型木蝎毒素
+,shell,壳
+BLS/FLS,brown recluse spider venom,棕色遁蛛毒素
+,silk,真丝
+BLS/FLS,brown recluse spider man venom,棕色遁蛛人毒素
+BLS/FLS,giant brown recluse spider venom,巨型棕色遁蛛毒素
+,scale,鳞片
+BLS/FLS,gila monster venom,毒蜥毒素
+BLS/FLS,gila monster man venom,毒蜥人毒素
+BLS/FLS,giant gila monster venom,巨型毒蜥毒素
+,hair,毛发
+,hoof,蹄
+BLS/FLS,donkey's milk,驴奶
+BSS/MSS/SSP,donkey cheese,驴奶奶酪
+,cheese,奶酪
+BLS/FLS,horse's milk,马奶
+BSS/MSS/SSP,horse cheese,马奶奶酪
+,vellum,皮纸
+,horn,角
+BLS/FLS,cow's milk,牛奶
+BSS/MSS/SSP,cow cheese,牛奶奶酪
+,wool,绒线
+BLS/FLS,sheep's milk,羊奶
+BSS/MSS/SSP,sheep cheese,羊奶奶酪
+BLS/FLS,pig's milk,猪奶
+BSS/MSS/SSP,pig cheese,猪奶奶酪
+BLS/FLS,goat's milk,山羊奶
+BSS/MSS/SSP,goat cheese,山羊奶奶酪
+BLS/FLS,water buffalo's milk,水牛奶
+BSS/MSS/SSP,water buffalo cheese,水牛奶奶酪
+,antler,鹿角
+BLS/FLS,reindeer's milk,驯鹿奶
+BSS/MSS/SSP,reindeer cheese,驯鹿奶酪
+BLS/FLS,yak's milk,牦牛奶
+BSS/MSS/SSP,yak cheese,牦牛奶酪
+BLS/FLS,llama's milk,无峰驼奶
+BSS/MSS/SSP,llama cheese,无峰驼奶酪
+BLS/FLS,alpaca's milk,羊驼奶
+BSS/MSS/SSP,alpaca cheese,羊驼奶酪
+,wood,木制
+BSS/MSS/SSC,honey bee wax,蜂蜡
+BLS/FLS,honey bee royal jelly,蜜蜂蜂王浆
+BLS/FLS,honey bee honey,蜜蜂蜜
+BLS/FLS,mead,蜜酒
+BLS/FLS,honey bee venom,蜜蜂毒素
+BSS/MSS/SSC,bumblebee wax,大黄蜂
+BLS/FLS,bumblebee royal jelly,大黄蜂蜂王浆
+BLS/FLS,bumblebee honey,大黄蜂蜜
+BLS/FLS,bumblebee mead,大黄蜂蜜酒
+BLS/FLS,bumblebee venom,大黄蜂毒素
+BLS/FLS,sweat,汗液
+BLS/FLS,tears,眼泪
+BLS/FLS,spit,唾液
+,ivory,长牙
+BLS/FLS,platypus venom,鸭嘴兽毒素
+BLS/FLS,platypus man venom,鸭嘴兽人毒素
+BLS/FLS,giant platypus venom,巨型鸭嘴兽毒素
+BLS/FLS,one-humped camel's milk,单峰骆驼奶
+BSS/MSS/SSP,one-humped camel cheese,单峰骆驼奶酪
+BLS/FLS,one-humped camel man's milk,单峰骆驼人奶
+BSS/MSS/SSP,one-humped camel man cheese,单峰骆驼人奶酪
+BLS/FLS,giant one-humped camel's milk,巨型单峰骆驼奶
+BSS/MSS/SSP,giant one-humped camel cheese,巨型单峰骆驼奶酪
+BLS/FLS,two-humped camel's milk,双峰骆驼奶
+BSS/MSS/SSP,two-humped camel cheese,双峰骆驼奶酪
+BLS/FLS,two-humped camel man's milk,双峰骆驼人奶
+BSS/MSS/SSP,two-humped camel man cheese,双峰骆驼人奶酪
+BLS/FLS,giant two-humped camel's milk,巨型双峰骆驼奶
+BSS/MSS/SSP,giant two-humped camel cheese,巨型双峰骆驼奶酪
+,flesh,血肉
+BLS/FLS,helmet snake venom,头盔蛇毒素
+BLS/FLS,corrupted blood,腐败血液
+FLS,cave floater juice,洞穴飘浮者汁液
+,cave floater gas,洞穴飘浮者气体
+BSS/MSS,plump helmet man tissue,肉盔菇人组织
+BLS/FLS,cave blob fluid,洞穴滴团液体
+BLS/FLS,octopus ink,章鱼墨汁
+BLS/FLS,octopus man ink,章鱼人墨汁
+BLS/FLS,giant octopus ink,巨型章鱼墨汁
+BLS/FLS,cuttlefish ink,墨鱼墨汁
+BLS/FLS,cuttlefish man ink,墨鱼人墨汁
+BLS/FLS,giant cuttlefish ink,巨型墨鱼墨汁
+,sponge,海绵
+BLS/FLS,mog juice,泥浆
+BLS/FLS,goo,粘液
+,fluff,绒毛
+,pudge,球脂
+BLS/FLS,phantom spider venom,幻影蜘蛛毒素
+,spine,脊椎
+BLS/FLS,squid ink,鱿鱼墨汁
+BLS/FLS,squid man ink,鱿鱼人墨汁
+BLS/FLS,giant squid ink,巨型鱿鱼墨汁
+,fur,毛皮
+BLS/FLS,giant cave spider venom,巨型洞穴蜘蛛毒素
+BLS/FLS,cave spider venom,洞穴蜘蛛毒素
+,flames,火焰
+,liquid fire,液态火焰
+BLS/FLS,dwarven milk,矮人奶
+BSS/MSS/SSP,dwarven cheese,矮人奶酪
+,condensed iron man gas,稠密铁人气体
+,frozen iron man gas,结冻铁人气体
+,iron man gas,铁人气体
+BLS/FLS,serpent man venom,毒蛇人毒素
+BLS/FLS,kangaroo's milk,袋鼠奶
+BSS/MSS/SSP,kangaroo cheese,袋鼠奶酪
+BLS/FLS,kangaroo man's milk,袋鼠人奶
+BSS/MSS/SSP,kangaroo man cheese,袋鼠人奶酪
+BLS/FLS,giant kangaroo's milk,巨型袋鼠奶
+BSS/MSS/SSP,giant kangaroo cheese,巨型袋鼠奶酪
+BLS/FLS,adder venom,蝰蛇毒素
+BLS/FLS,adder man venom,蝰蛇人毒素
+BLS/FLS,giant adder venom,巨型蝰蛇毒素
+BLS/FLS,rattlesnake venom,响尾蛇毒素
+BLS/FLS,rattlesnake man venom,响尾蛇人毒素
+BLS/FLS,giant rattlesnake venom,巨型响尾蛇毒素
+BLS/FLS,copperhead snake venom,铜头蛇毒素
+BLS/FLS,copperhead snake man venom,铜头蛇人毒素
+BLS/FLS,giant copperhead snake venom,巨型铜头蛇毒素
+BLS/FLS,king cobra venom,眼镜王蛇毒素
+BLS/FLS,king cobra man venom,眼镜王蛇人毒素
+BLS/FLS,giant king cobra venom,巨型眼镜王蛇毒素
+BLS/FLS,black mamba venom,黑曼巴蛇毒素
+BLS/FLS,black mamba man venom,黑曼巴蛇人毒素
+BLS/FLS,giant black mamba venom,巨型黑曼巴蛇毒素
+BLS/FLS,bushmaster venom,巨蝮毒素
+BLS/FLS,bushmaster man venom,巨蝮人毒素
+BLS/FLS,giant bushmaster venom,巨型巨蝮毒素
+BLS/FLS,tapir's milk,貘奶
+BSS/MSS/SSP,tapir cheese,貘奶酪
+BLS/FLS,tapir man's milk,貘人奶
+BSS/MSS/SSP,tapir man cheese,貘人奶酪
+BLS/FLS,giant tapir's milk,巨型貘奶
+BSS/MSS/SSP,giant tapir cheese,巨型貘奶酪
+,plant,植物
+BLS/FLS,single-grain wheat beer,单粒小麦啤
+,single-grain wheat flour,单粒小麦面粉
+,leaf,叶
+,seed,种子
+BLS/FLS,two-grain wheat beer,双粒小麦啤
+,two-grain wheat flour,双粒小麦面粉
+BLS/FLS,soft wheat beer,软质小麦啤
+,soft wheat flour,软质小麦面粉
+BLS/FLS,hard wheat beer,硬质小麦啤
+,hard wheat flour,硬质小麦面粉
+BLS/FLS,spelt beer,斯佩尔特麦啤
+,spelt flour,斯佩尔特麦面粉
+BLS/FLS,barley wine,大麦酒
+,barley flour,大麦面粉
+BLS/FLS,buckwheat beer,荞麦啤酒
+,buckwheat flour,荞麦面粉
+,flower,黑麦啤酒
+,oat flour,燕麦啤酒
+BLS/FLS,rye beer,黑麦啤酒
+,rye flour,黑麦面粉
+BLS/FLS,sorghum beer,高粱啤酒
+,sorghum flour,高粱面粉
+BLS/FLS,rice beer,稻米啤酒
+,rice flour,稻米面粉
+BLS/FLS,maize beer,玉米啤酒
+,maize flour,玉米面粉
+BLS/FLS,quinoa beer,藜麦啤酒
+,quinoa flour,藜麦面粉
+BLS/FLS,kaniwa beer,彩藜啤酒
+,kaniwa flour,彩藜面粉
+BLS/FLS,pendant amaranth beer,吊坠苋啤酒
+,pendant amaranth flour,吊坠苋面粉
+BLS/FLS,blood amaranth beer,血苋啤酒
+,blood amaranth flour,血苋面粉
+BLS/FLS,purple amaranth beer,紫苋啤酒
+,purple amaranth flour,紫苋面粉
+BLS/FLS,pearl millet beer,珍珠粟啤酒
+,pearl millet flour,珍珠粟面粉
+BLS/FLS,white millet beer,白粟啤酒
+,white millet flour,白粟面粉
+BLS/FLS,finger millet beer,爪粟啤酒
+,finger millet flour,爪粟面粉
+BLS/FLS,foxtail millet beer,狐尾粟啤酒
+,foxtail millet flour,狐尾粟面粉
+BLS/FLS,fonio beer,非尼奥米啤酒
+,fonio flour,非尼奥米面粉
+BLS/FLS,teff beer,苔麸啤酒
+,teff flour,苔麸面粉
+BLS/FLS,linseed oil,亚麻籽油
+MSS,linseed oil soap,亚麻籽油肥皂
+,flax flour,亚麻面粉
+PSS/SPC,flax seed,亚麻种子
+SPP/SPS,linen,亚麻纤维
+,fiber,纤维
+SPP/SPS,jute,黄麻纤维
+BLS/FLS,hempseed oil,大麻籽油
+MSS,hempseed oil soap,大麻籽油肥皂
+,hemp flour,大麻面粉
+PSS/SPC,hemp seed,大麻种子
+SPP/SPS,hemp,大麻
+BLS/FLS,cottonseed oil,棉花籽油
+MSS,cottonseed oil soap,棉花籽油肥皂
+PSS/SPC,cotton seed,棉花种子
+SPP/SPS,cotton,棉花
+SPP/SPS,ramie,苎麻
+BLS/FLS,kenaf seed oil,洋麻籽油
+MSS,kenaf seed oil soap,洋麻籽油肥皂
+PSS/SPC,kenaf seed,洋麻种子
+SPP/SPS,kenaf,洋麻
+,papyrus,纸莎草
+BLS/FLS,artichoke wine,朝鲜蓟酒
+,fruit,果实
+BLS/FLS,beetroot wine,甜菜根酒
+,bud,花蕾
+BLS/FLS,carrot wine,胡萝卜酒
+BLS/FLS,cassava beer,木薯啤酒
+BLS/FLS,parsnip wine,欧防风酒
+BLS/FLS,potato wine,土豆酒
+BLS/FLS,radish wine,小萝卜酒
+BLS/FLS,sweet potato wine,甘薯酒
+BLS/FLS,tomato wine,番茄酒
+BLS/FLS,tomatillo wine,树番茄酒
+BLS/FLS,turnip wine,芜菁酒
+BLS/FLS,passion fruit wine,百香果酒
+BLS/FLS,wine,酒
+BLS/FLS,cranberry wine,蔓越莓酒
+BLS/FLS,bilberry wine,越橘酒
+BLS/FLS,blueberry wine,蓝莓酒
+BLS/FLS,blackberry wine,黑莓酒
+BLS/FLS,raspberry wine,树莓酒
+BLS/FLS,pineapple wine,菠萝酒
+BLS/FLS,banana beer,香蕉啤酒
+,carambola wood,阳桃木
+BLS/FLS,carambola wine,阳桃酒
+,cashew wood,腰果木
+,coffee wood,咖啡木
+,durian wood,榴梿木
+BLS/FLS,durian wine,榴梿酒
+,guava wood,番石榴木
+BLS/FLS,guava wine,番石榴酒
+,papaya wood,番木瓜木
+BLS/FLS,papaya wine,番木瓜酒
+,paradise nut wood,天堂果木
+,rambutan wood,红毛丹木
+BLS/FLS,rambutan wine,红毛丹酒
+,tea wood,茶木
+,avocado wood,鳄梨木
+,lime wood,青柠木
+,pomelo wood,柚子木
+,citron wood,香橼木
+,orange wood,橘子木
+,bitter orange wood,酸橙木
+,finger lime wood,手指青柠木
+,round lime wood,圆青柠木
+,desert lime wood,沙漠青柠木
+,kumquat wood,金橘木
+,custard-apple wood,番荔枝木
+BLS/FLS,custard-apple cider,番荔枝西打酒
+,date palm wood,海枣棕榈木
+BLS/FLS,date wine,海枣酒
+,lychee wood,荔枝木
+BLS/FLS,lychee wine,荔枝酒
+,macadamia wood,澳洲坚果木
+BLS/FLS,olive oil,橄榄油
+MSS,olive oil soap,橄榄油皂
+,olive wood,橄榄木
+,olive fruit,橄榄果
+,olive pomace,橄榄果酱
+,pomegranate wood,石榴木
+BLS/FLS,pomegranate wine,石榴酒
+,almond wood,扁桃木
+,apple wood,苹果木
+BLS/FLS,apple cider,苹果西打
+,apricot wood,杏木
+BLS/FLS,apricot wine,杏酒
+,bayberry wood,宾州杨梅木
+BLS/FLS,bayberry wine,宾州杨梅酒
+,cherry wood,樱桃木
+BLS/FLS,cherry wine,樱桃酒
+,ginkgo wood,银杏木
+,hazel wood,榛木
+,peach wood,桃木
+BLS/FLS,peach cider,桃子西打酒
+,pear wood,梨木
+BLS/FLS,perry,梨子酒
+,pecan wood,美洲山核桃木
+,persimmon wood,柿子木
+BLS/FLS,persimmon wine,柿子酒
+,plum wood,李子木
+BLS/FLS,plum wine,李子酒
+,sand pear wood,沙梨木
+BLS/FLS,sand pear cider,沙梨西打酒
+,walnut wood,胡桃木
+,mushroom,蘑菇
+BLS/FLS,dwarven wine,矮人酒
+BLS/FLS,dwarven ale,矮人艾尔啤酒
+SPP/SPS,pig tail,猪尾草
+BLS/FLS,dwarven beer,矮人啤酒
+,dwarven wheat flour,矮人小麦粉
+BLS/FLS,dwarven rum,矮人朗姆酒
+,dwarven sugar,矮人糖
+BLS/FLS,dwarven syrup,矮人糖浆
+BLS/FLS,rock nut oil,石头坚果油
+MSS,rock nut soap,石头坚果皂
+PSS/SPC,rock nut,石头坚果
+BLS/FLS,swamp whiskey,泥煤威士忌
+BLS/FLS,tuber beer,根啤
+BLS/FLS,gnomeblight,地精枯萎病
+BLS/FLS,prickle berry wine,脆莓酒
+BLS/FLS,strawberry wine,草莓酒
+BLS/FLS,Longland beer,长岛啤酒
+,Longland flour,长岛草面粉
+BLS/FLS,golden salve,金色药膏
+BLS/FLS,sewer brew,阴沟佳酿
+BLS/FLS,fisher berry wine,渔夫浆果酒
+BLS/FLS,river spirits,河川烈酒
+SPP/SPS,rope reed,绳索苇
+,dimple dye,窝杯染料
+,emerald dye,宝石绿染料
+,redroot dye,赤根染料
+BLS/FLS,gutter cruor,凝血酒
+,sliver dye,银色染料
+BLS/FLS,sunshine,日光酒
+BLS/FLS,whip wine,鞭酒
+,whip vine flour,鞭藤面粉
+,mangrove,红树
+,saguaro rib wood,巨刺柱肋木
+,pine,针松
+,cedar,雪松
+,oak,橡树
+,mahogany,褐芯树
+,acacia,刺槐
+,kapok,木棉树
+,maple,枫树
+,willow,柳树
+,tower-cap,塔菇
+,black-cap,黑菇
+,nether-cap,下界菇
+,goblin-cap,妖精菇
+,fungiwood,真菌木
+,tunnel tube,隧管菌
+,spore tree,孢子树
+,blood thorn,血荆棘
+,glumprong,紫影树
+,feather wood,羽毛树
+,highwood,极树
+,larch,落叶松
+,chestnut,板栗树
+,alder,桤树
+,birch,桦树
+,candlenut,石栗
+,mango wood,芒果树
+BLS/FLS,mango wine,芒果酒
+,rubber wood,橡胶树
+,cacao wood,可可树
+,coconut palm,椰棕榈

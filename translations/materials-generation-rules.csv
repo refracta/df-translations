@@ -1,0 +1,19 @@
+rule,state,prefix,suffix,template
+MSS,solid,melted,,融化的{}
+MSM,solid,molten,,熔融{}
+BSS,solid,boiling,,沸腾{}
+GSP,solid,ground,,磨碎的{}
+PRS,solid,pressed,,压制{}
+SSP,solid,,powder,{}粉末
+SSM,solid,,meal,骨粉
+SLD,solid,,dust,{}粉
+PSS,solid,,paste,{}膏
+SPS,solid,,slurry,{}浆
+SSL,solid,,slush,{}渣
+SSC,solid,,cake,{}饼
+SPC,solid,,press cake,{}压缩饼
+SPP,solid,,paper,{}纸
+BLS,liquid,boiling,,沸腾{}
+FLS,liquid,frozen,,结冻{}
+SLL,liquid,,slush,{}泥
+GPL,plural,,,{}

@@ -1,0 +1,46 @@
+help_id,help_name,type,text,text_translation
+*,*,按钮,Next,继续
+*,*,按钮,Okay,确认
+*,*,选择框,Don't show again,不再显示该提示
+1,EMBARK_TUTORIAL_CHOICE,按钮,Start tutorial,开始教程
+1,EMBARK_TUTORIAL_CHOICE,按钮,Skip tutorial,跳过教程
+3,START_TUTORIAL_CAMERA_CONTROLS,任务,Move the camera,移动视图
+3,START_TUTORIAL_CAMERA_CONTROLS,任务,Move the camera up,切换至上层
+3,START_TUTORIAL_CAMERA_CONTROLS,任务,Move the camera down,切换至下层
+3,START_TUTORIAL_CAMERA_CONTROLS,任务,Zoom in,放大视图
+3,START_TUTORIAL_CAMERA_CONTROLS,任务,Zoom out,缩小视图
+4,START_TUTORIAL_MINING,任务,Open mining mode,进入挖掘模式
+4,START_TUTORIAL_MINING,任务,Start stairway,设计楼梯起点
+4,START_TUTORIAL_MINING,任务,End stairway,设计楼梯终点
+4,START_TUTORIAL_MINING,任务,Unpause,取消暂停
+4,START_TUTORIAL_MINING,任务,Finish mining,完成挖掘
+4,START_TUTORIAL_MINING,任务,Room completed (,挖出一片空间（已挖
+4,START_TUTORIAL_MINING,任务, of 20),格还需20格）
+5,START_TUTORIAL_STOCKPILES,任务,Open stockpile mode,进入储物处设计模式
+5,START_TUTORIAL_STOCKPILES,任务,Place All stockpile,安置“全部”类型的储存处
+6,START_TUTORIAL_CHOPPING,任务,Open tree-felling mode,进入伐木模式
+6,START_TUTORIAL_CHOPPING,任务,Designate tree,标记待伐树木
+6,START_TUTORIAL_CHOPPING,任务,Chop down tree,砍倒树木
+6,START_TUTORIAL_CHOPPING,任务,Stockpile wood,将木头搬进储存处
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Open building mode,进入建筑模式
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Place carpenter's workshop,放置木匠工坊蓝图
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Construct workshop,完成木匠工坊建筑
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Click workshop,点击木匠工坊
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,"Add a ""Make bed"" task",添加一项“制作床”的任务
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Make the bed,做出一张床
+7,START_TUTORIAL_WORKSHOPS_AND_TASKS,任务,Place a bed,将床放置下来
+8,START_TUTORIAL_SHEETS,任务,Click a citizen or creature,点击一个居民或任意生物
+8,START_TUTORIAL_SHEETS,任务,Close the information sheet,关闭信息清单
+9,START_TUTORIAL_ALERTS,任务,Dismiss the large red alert,关闭那个大号的红色警报
+10,START_TUTORIAL_PREPARING_FOR_CARAVAN,菜单,Preparing for the caravan,迎接商队
+11,DONE_WITH_FIRST_STEPS_MESSAGE,任务,Click the help button,按下帮助按钮
+12,POPUP_ZONES,菜单,Popup: Zones,弹窗：储存区与功能区
+13,POPUP_BURROWS,菜单,Popup: Burrows,弹窗：互动区
+14,POPUP_HAULING,菜单,Popup: Hauling,弹窗：运输
+15,POPUP_STOCKS,菜单,Popup: Stocks,弹窗：库存管理
+16,POPUP_WORK_DETAILS,菜单,Popup: Work details,弹窗：工作细节
+17,POPUP_NOBLES,菜单,Popup: Nobles,弹窗：贵族
+18,POPUP_JUSTICE,菜单,Popup: Justice,弹窗：司法
+19,POPUP_SQUADS,菜单,Popup: Squads,弹窗：小队
+20,POPUP_WORLD,菜单,Popup: The world,弹窗：关于世界
+21,POPUP_WORK_ORDERS,菜单,Popup: Work orders,弹窗：工作订单
