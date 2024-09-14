@@ -1,0 +1,8 @@
+group,key,field,word,word_translation
+bushes,PLANT:PAPYRUS_SEDGE,SSG,papyrus seed,纸莎草种子
+bushes,PLANT:WILD_CARROT,SSG,carrot seed,胡萝卜种子
+bushes,PLANT:RED_BEAN,SSG,red bean,红豆
+trees,PLANT:MACADAMIA,SSG,macadamia nut,奶油果坚果
+trees,PLANT:HAZEL,SSG,hazel nut,榛子
+bushes,PLANT:BUSH_QUARRY,SSG,rock nut,岩石坚果
+trees,PLANT:OAK,SSG,acorn,橡子

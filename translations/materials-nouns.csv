@@ -344,19 +344,19 @@ MSS,soap,肥皂
 ,sinew,肌腱
 BLS/FLS,blood,血液
 BLS/FLS,pus,脓
-BLS/FLS,ichor,脓水
+BLS/FLS,ichor,体液
 ,feather,羽毛
-,nail,趾甲
+,nail,指甲
 SSP,eggshell,蛋壳
 BLS/FLS,egg white,蛋白
 BLS/FLS,egg yolk,蛋黄
-,chitin,几丁壳
-BLS/FLS,bark scorpion venom,木蝎毒素
-BLS/FLS,bark scorpion man venom,木蝎人毒素
-BLS/FLS,giant bark scorpion venom,巨型木蝎毒素
+,chitin,甲壳
+BLS/FLS,bark scorpion venom,树皮蝎毒素
+BLS/FLS,bark scorpion man venom,树皮蝎人毒素
+BLS/FLS,giant bark scorpion venom,巨型树皮蝎毒素
 ,shell,壳
 BLS/FLS,brown recluse spider venom,棕色遁蛛毒素
-,silk,真丝
+,silk,丝绸
 BLS/FLS,brown recluse spider man venom,棕色遁蛛人毒素
 BLS/FLS,giant brown recluse spider venom,巨型棕色遁蛛毒素
 ,scale,鳞片
@@ -398,7 +398,7 @@ BLS/FLS,honey bee royal jelly,蜜蜂蜂王浆
 BLS/FLS,honey bee honey,蜜蜂蜜
 BLS/FLS,mead,蜜酒
 BLS/FLS,honey bee venom,蜜蜂毒素
-BSS/MSS/SSC,bumblebee wax,大黄蜂
+BSS/MSS/SSC,bumblebee wax,大黄蜂蜡
 BLS/FLS,bumblebee royal jelly,大黄蜂蜂王浆
 BLS/FLS,bumblebee honey,大黄蜂蜜
 BLS/FLS,bumblebee mead,大黄蜂蜜酒
@@ -436,8 +436,8 @@ BLS/FLS,cuttlefish ink,墨鱼墨汁
 BLS/FLS,cuttlefish man ink,墨鱼人墨汁
 BLS/FLS,giant cuttlefish ink,巨型墨鱼墨汁
 ,sponge,海绵
-BLS/FLS,mog juice,泥浆
-BLS/FLS,goo,粘液
+BLS/FLS,mog juice,跳虫肉汁
+BLS/FLS,goo,稠血
 ,fluff,绒毛
 ,pudge,球脂
 BLS/FLS,phantom spider venom,幻影蜘蛛毒素
@@ -503,8 +503,8 @@ BLS/FLS,barley wine,大麦酒
 ,barley flour,大麦面粉
 BLS/FLS,buckwheat beer,荞麦啤酒
 ,buckwheat flour,荞麦面粉
-,flower,黑麦啤酒
-,oat flour,燕麦啤酒
+,flower,花
+,oat flour,燕麦面粉
 BLS/FLS,rye beer,黑麦啤酒
 ,rye flour,黑麦面粉
 BLS/FLS,sorghum beer,高粱啤酒
@@ -531,8 +531,8 @@ BLS/FLS,finger millet beer,爪粟啤酒
 ,finger millet flour,爪粟面粉
 BLS/FLS,foxtail millet beer,狐尾粟啤酒
 ,foxtail millet flour,狐尾粟面粉
-BLS/FLS,fonio beer,非尼奥米啤酒
-,fonio flour,非尼奥米面粉
+BLS/FLS,fonio beer,非尼奥啤酒
+,fonio flour,非尼奥面粉
 BLS/FLS,teff beer,苔麸啤酒
 ,teff flour,苔麸面粉
 BLS/FLS,linseed oil,亚麻籽油
@@ -557,21 +557,21 @@ MSS,kenaf seed oil soap,洋麻籽油肥皂
 PSS/SPC,kenaf seed,洋麻种子
 SPP/SPS,kenaf,洋麻
 ,papyrus,纸莎草
-BLS/FLS,artichoke wine,朝鲜蓟酒
+BLS/FLS,artichoke wine,洋蓟酒
 ,fruit,果实
 BLS/FLS,beetroot wine,甜菜根酒
 ,bud,花蕾
 BLS/FLS,carrot wine,胡萝卜酒
 BLS/FLS,cassava beer,木薯啤酒
-BLS/FLS,parsnip wine,欧防风酒
-BLS/FLS,potato wine,土豆酒
+BLS/FLS,parsnip wine,防风草酒
+BLS/FLS,potato wine,马铃薯酒
 BLS/FLS,radish wine,小萝卜酒
 BLS/FLS,sweet potato wine,甘薯酒
 BLS/FLS,tomato wine,番茄酒
-BLS/FLS,tomatillo wine,树番茄酒
+BLS/FLS,tomatillo wine,灯笼番茄酒
 BLS/FLS,turnip wine,芜菁酒
 BLS/FLS,passion fruit wine,百香果酒
-BLS/FLS,wine,酒
+BLS/FLS,wine,葡萄酒
 BLS/FLS,cranberry wine,蔓越莓酒
 BLS/FLS,bilberry wine,越橘酒
 BLS/FLS,blueberry wine,蓝莓酒
@@ -579,8 +579,8 @@ BLS/FLS,blackberry wine,黑莓酒
 BLS/FLS,raspberry wine,树莓酒
 BLS/FLS,pineapple wine,菠萝酒
 BLS/FLS,banana beer,香蕉啤酒
-,carambola wood,阳桃木
-BLS/FLS,carambola wine,阳桃酒
+,carambola wood,杨桃木
+BLS/FLS,carambola wine,杨桃酒
 ,cashew wood,腰果木
 ,coffee wood,咖啡木
 ,durian wood,榴梿木
@@ -594,27 +594,27 @@ BLS/FLS,papaya wine,番木瓜酒
 BLS/FLS,rambutan wine,红毛丹酒
 ,tea wood,茶木
 ,avocado wood,鳄梨木
-,lime wood,青柠木
-,pomelo wood,柚子木
+,lime wood,酸橙木
+,pomelo wood,蜜柚木
 ,citron wood,香橼木
 ,orange wood,橘子木
-,bitter orange wood,酸橙木
-,finger lime wood,手指青柠木
-,round lime wood,圆青柠木
-,desert lime wood,沙漠青柠木
+,bitter orange wood,苦橙木
+,finger lime wood,指橘木
+,round lime wood,圆橘木
+,desert lime wood,漠橘木
 ,kumquat wood,金橘木
 ,custard-apple wood,番荔枝木
-BLS/FLS,custard-apple cider,番荔枝西打酒
-,date palm wood,海枣棕榈木
-BLS/FLS,date wine,海枣酒
+BLS/FLS,custard-apple cider,番荔枝西打
+,date palm wood,椰枣棕榈木
+BLS/FLS,date wine,椰枣酒
 ,lychee wood,荔枝木
 BLS/FLS,lychee wine,荔枝酒
-,macadamia wood,澳洲坚果木
+,macadamia wood,奶油果木
 BLS/FLS,olive oil,橄榄油
 MSS,olive oil soap,橄榄油皂
 ,olive wood,橄榄木
 ,olive fruit,橄榄果
-,olive pomace,橄榄果酱
+,olive pomace,橄榄果渣
 ,pomegranate wood,石榴木
 BLS/FLS,pomegranate wine,石榴酒
 ,almond wood,扁桃木
@@ -622,40 +622,40 @@ BLS/FLS,pomegranate wine,石榴酒
 BLS/FLS,apple cider,苹果西打
 ,apricot wood,杏木
 BLS/FLS,apricot wine,杏酒
-,bayberry wood,宾州杨梅木
-BLS/FLS,bayberry wine,宾州杨梅酒
+,bayberry wood,杨梅木
+BLS/FLS,bayberry wine,杨梅酒
 ,cherry wood,樱桃木
 BLS/FLS,cherry wine,樱桃酒
 ,ginkgo wood,银杏木
 ,hazel wood,榛木
 ,peach wood,桃木
-BLS/FLS,peach cider,桃子西打酒
+BLS/FLS,peach cider,桃子西打
 ,pear wood,梨木
-BLS/FLS,perry,梨子酒
-,pecan wood,美洲山核桃木
-,persimmon wood,柿子木
-BLS/FLS,persimmon wine,柿子酒
+BLS/FLS,perry,梨酒
+,pecan wood,碧根果木
+,persimmon wood,柿木
+BLS/FLS,persimmon wine,柿酒
 ,plum wood,李子木
 BLS/FLS,plum wine,李子酒
 ,sand pear wood,沙梨木
-BLS/FLS,sand pear cider,沙梨西打酒
+BLS/FLS,sand pear cider,沙梨西打
 ,walnut wood,胡桃木
 ,mushroom,蘑菇
 BLS/FLS,dwarven wine,矮人酒
-BLS/FLS,dwarven ale,矮人艾尔啤酒
+BLS/FLS,dwarven ale,矮人精酿
 SPP/SPS,pig tail,猪尾草
-BLS/FLS,dwarven beer,矮人啤酒
+BLS/FLS,dwarven beer,矮人麦啤
 ,dwarven wheat flour,矮人小麦粉
 BLS/FLS,dwarven rum,矮人朗姆酒
-,dwarven sugar,矮人糖
+,dwarven sugar,矮人砂糖
 BLS/FLS,dwarven syrup,矮人糖浆
 BLS/FLS,rock nut oil,石头坚果油
 MSS,rock nut soap,石头坚果皂
 PSS/SPC,rock nut,石头坚果
-BLS/FLS,swamp whiskey,泥煤威士忌
-BLS/FLS,tuber beer,根啤
+BLS/FLS,swamp whiskey,沼泽威士忌
+BLS/FLS,tuber beer,地根啤酒
 BLS/FLS,gnomeblight,地精枯萎病
-BLS/FLS,prickle berry wine,脆莓酒
+BLS/FLS,prickle berry wine,刺莓酒
 BLS/FLS,strawberry wine,草莓酒
 BLS/FLS,Longland beer,长岛啤酒
 ,Longland flour,长岛草面粉
@@ -668,9 +668,9 @@ SPP/SPS,rope reed,绳索苇
 ,emerald dye,宝石绿染料
 ,redroot dye,赤根染料
 BLS/FLS,gutter cruor,凝血酒
-,sliver dye,银色染料
+,sliver dye,裂钩染料
 BLS/FLS,sunshine,日光酒
-BLS/FLS,whip wine,鞭酒
+BLS/FLS,whip wine,长鞭酒
 ,whip vine flour,鞭藤面粉
 ,mangrove,红树
 ,saguaro rib wood,巨刺柱肋木

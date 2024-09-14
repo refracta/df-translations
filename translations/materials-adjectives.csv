@@ -85,22 +85,22 @@ source_noun,adjective,adjective_translation_override
 ,unknown frozen plant powder,
 ,unknown frozen plant paste,
 ,unknown pressed frozen plant substance,
-,iron,铁制
+,iron,
 ,molten iron,
 ,boiling iron,
-gold dust,gold,金制
+gold dust,gold,
 ,molten gold,
 ,boiling gold,
-,silver,银制
+,silver,
 ,molten silver,
 ,boiling silver,
-,copper,铜制
+,copper,
 ,molten copper,
 ,boiling copper,
-,nickel,镍制
+,nickel,
 ,molten nickel,
 ,boiling nickel,
-,zinc,锌制
+,zinc,
 ,molten zinc,
 ,boiling zinc,
 ,bronze,
@@ -109,19 +109,19 @@ gold dust,gold,金制
 ,brass,
 ,molten brass,
 ,boiling brass,
-,steel,钢制
+,steel,
 ,molten steel,
 ,boiling steel,
 ,pig iron,
 ,molten pig iron,
 ,boiling pig iron,
-,platinum,铂制
+,platinum,
 ,molten platinum,
 ,boiling platinum,
 ,electrum,
 ,molten electrum,
 ,boiling electrum,
-,tin,锡制
+,tin,
 ,molten tin,
 ,boiling tin,
 ,fine pewter,
@@ -133,10 +133,10 @@ gold dust,gold,金制
 ,lay pewter,
 ,molten lay pewter,
 ,boiling lay pewter,
-,lead,铅制
+,lead,
 ,molten lead,
 ,boiling lead,
-,aluminum,铝制
+,aluminum,
 ,molten aluminum,
 ,boiling aluminum,
 ,nickel silver,
@@ -154,7 +154,7 @@ gold dust,gold,金制
 ,rose gold,
 ,molten rose gold,
 ,boiling rose gold,
-,bismuth,铋制
+,bismuth,
 ,molten bismuth,
 ,boiling bismuth,
 ,bismuth bronze,
@@ -1230,10 +1230,10 @@ sponge,spongy,
 ,boiling whip wine,
 ,whip vine flour,
 ,mangrove,
-saguaro rib wood,saguaro rib,
+saguaro rib wood,saguaro rib,巨刺柱肋木制
 ,pine,
 ,cedar,
-oak,oaken,
+oak,oaken,橡木制
 ,mahogany,
 ,acacia,
 ,kapok,
@@ -1253,8 +1253,8 @@ oak,oaken,
 ,larch,
 ,chestnut,
 ,alder,
-birch,birchen,
-ash,ashen,
+birch,birchen,白桦木制
+ash,ashen,灰制
 ,candlenut,
 ,mango wood,
 ,frozen mango wine,

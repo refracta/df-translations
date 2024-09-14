@@ -1,0 +1,27 @@
+rule,source,target,match_word,build_word,match_translation,build_translation
+CPY,NSG,NPL,{},{},{},{}
+STP,NSG,NPL,{},{}s,{},{}
+ESP,NSG,NPL,{},{}es,{},{}
+YPL,NSG,NPL,{}y,{}ies,{},{}
+USP,NSG,NPL,{}us,{}i,{},{}
+CPY,SSG,SPL,{},{},{},{}
+STP,SSG,SPL,{},{}s,{},{}
+CPY,NSG,ADJ,{},{},{},{}
+ENA,NSG,ADJ,{},{}en,{},{}
+CPY,NSG,SSG,{},{},{},{}
+STD,NSG,SSG,{},{} seed,{},{}种子
+SPN,NSG,SSG,{},{} spawn,{},{}菌种
+TPN,NSG,SSG,{} tree,{},{}树,{}
+TSD,NSG,SSG,{} tree,{} seed,{}树,{}种子
+TPP,NSG,SSG,{} tree,{} pit,{}树,{}核
+TBN,NSG,SSG,{} tree,{} bean,{}树,{}豆
+BSD,NSG,SSG,{} bush,{} seed,{}灌木,{}种子
+PLT,NSG,SSG,{} plant,{},{}植株,{}
+PLS,NSG,SSG,{} plant,{} seed,{}植株,{}种子
+VNS,NSG,SSG,{} vine,{} seed,{}藤,{}种子
+STD,NSG,RTN,{},{} roots,{},{}根
+STD,NSG,TKN,{},{} trunk,{},{}干
+STD,NSG,HBN,{},thick {} branches,{},{}粗枝
+STD,NSG,LBN,{},{} branches,{},{}树枝
+STD,NSG,TGN,{},{} twigs,{},{}细枝
+STD,NSG,CPN,{},{} cap,{},{}冠
