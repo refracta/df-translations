@@ -5,6 +5,18 @@ require 'rubyXL'
 RubyXL.class_variable_set(:@@suppress_warnings, true)
 
 configs = {
+  '植物（基础）' => {
+    name: 'plants-base.csv',
+    header: %w[group key npl adj ssg spl rtn tkn hbn lbn tgn cpn name name_translation],
+  },
+  '植物（特殊）' => {
+    name: 'plants-special.csv',
+    header: %w[group key field word word_translation],
+  },
+  '植物（规则）' => {
+    name: 'plants-rules.csv',
+    header: %w[rule source target match_word build_word match_translation build_translation],
+  },
   '帮助文档' => {
     name: 'help-documents.csv',
     header: %w[help_id help_name section_id title title_translation document document_translation],
@@ -18,8 +30,8 @@ configs = {
     header: %w[filename key noun_single noun_plural noun_translation adjective adjective_translation],
   },
   '内置物品' => {
-    name: 'items-others.csv',
-    header: %w[id type noun noun_translation],
+    name: 'items-builtin.csv',
+    header: %w[id type wildcard wildcard_translation use_noun_for_adj use_standard_plural],
   },
   '物质名词' => {
     name: 'materials-nouns.csv',
@@ -64,7 +76,8 @@ configs.each do |key, config|
     row = worksheet[i]
     break if row.nil?
 
-    csv += header.count.times.map { |j| row[j]&.value }.to_csv(row_sep: "\r\n")
+    csv_row = header.count.times.map { |j| row[j]&.value }
+    csv += csv_row.to_csv(row_sep: "\r\n") unless csv_row.all?(&:nil?)
   end
 
   File.write(File.join(TARGET_DIR, name), csv)
