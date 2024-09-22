@@ -1,0 +1,10 @@
+viewscreen,context,alignment,text,text_translation
+initial_prep,loading,LEFT,Loading...,正在载入...
+title,mainmenu,CENTER,Continue active game,继续游戏
+title,mainmenu,CENTER,Start new game in existing world,在现有的世界中开始新游戏
+title,mainmenu,CENTER,Create new world,创建新的世界
+title,mainmenu,CENTER,Object testing arena,目标测试竞技场
+title,mainmenu,CENTER,Mods,模组
+title,mainmenu,CENTER,Settings,设置
+title,mainmenu,CENTER,About DF,关于DF
+title,mainmenu,CENTER,Quit,退出

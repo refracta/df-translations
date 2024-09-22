@@ -5,6 +5,10 @@ require 'rubyXL'
 RubyXL.class_variable_set(:@@suppress_warnings, true)
 
 configs = {
+  '界面' => {
+    name: 'interfaces.csv',
+    header: %w[viewscreen context alignment text text_translation],
+  },
   '植物（基础）' => {
     name: 'plants-base.csv',
     header: %w[group key npl adj ssg spl rtn tkn hbn lbn tgn cpn name name_translation],
