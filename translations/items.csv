@@ -1,112 +1,354 @@
-filename,key,noun_single,noun_plural,noun_translation,adjective,adjective_translation
-item_ammo,ITEM_AMMO:ITEM_AMMO_BOLTS,bolt,bolts,弩矢,,
-item_ammo,ITEM_AMMO:ITEM_AMMO_ARROWS,arrow,arrows,弓箭,,
-item_ammo,ITEM_AMMO:ITEM_AMMO_BLOWDARTS,blowdart,blowdarts,吹箭,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_BREASTPLATE,breastplate,breastplates,板甲,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_MAIL_SHIRT,mail shirt,mail shirts,链甲,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_LEATHER,armor,armor,盔甲,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_COAT,coat,coats,大衣,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_SHIRT,shirt,shirts,衬衫,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_CLOAK,cloak,cloaks,斗篷,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_TUNIC,tunic,tunics,短袍,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_TOGA,toga,togas,宽袍,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_CAPE,cape,capes,披风,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_VEST,vest,vests,背心,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_DRESS,dress,dresses,裙装,,
-item_armor,ITEM_ARMOR:ITEM_ARMOR_ROBE,robe,robes,长袍,,
-item_food,ITEM_FOOD:ITEM_FOOD_BISCUITS,biscuits,,饼干,,
-item_food,ITEM_FOOD:ITEM_FOOD_STEW,stew,,炖菜,,
-item_food,ITEM_FOOD:ITEM_FOOD_ROAST,roast,,烧烤,,
-item_gloves,ITEM_GLOVES:ITEM_GLOVES_GAUNTLETS,gauntlet,gauntlets,护手,,
-item_gloves,ITEM_GLOVES:ITEM_GLOVES_GLOVES,glove,gloves,手套,,
-item_gloves,ITEM_GLOVES:ITEM_GLOVES_MITTENS,mitten,mittens,连指手套,,
-item_helm,ITEM_HELM:ITEM_HELM_HELM,helm,helms,头盔,,
-item_helm,ITEM_HELM:ITEM_HELM_CAP,cap,caps,帽子,,
-item_helm,ITEM_HELM:ITEM_HELM_HOOD,hood,hoods,兜帽,,
-item_helm,ITEM_HELM:ITEM_HELM_TURBAN,turban,turbans,头巾,,
-item_helm,ITEM_HELM:ITEM_HELM_MASK,mask,masks,面罩,,
-item_helm,ITEM_HELM:ITEM_HELM_VEIL_HEAD,head veil,head veils,头纱,,
-item_helm,ITEM_HELM:ITEM_HELM_VEIL_FACE,face veil,face veils,面纱,,
-item_helm,ITEM_HELM:ITEM_HELM_SCARF_HEAD,headscarf,headscarves,丝巾,,
-item_pants,ITEM_PANTS:ITEM_PANTS_PANTS,trousers,trousers,长裤,,
-item_pants,ITEM_PANTS:ITEM_PANTS_GREAVES,greaves,greaves,胫甲,,
-item_pants,ITEM_PANTS:ITEM_PANTS_LEGGINGS,leggings,leggings,护腿,,
-item_pants,ITEM_PANTS:ITEM_PANTS_LOINCLOTH,loincloth,loincloths,缠腰布,,
-item_pants,ITEM_PANTS:ITEM_PANTS_THONG,thong,thongs,内裤,,
-item_pants,ITEM_PANTS:ITEM_PANTS_SKIRT,skirt,skirts,裙,,
-item_pants,ITEM_PANTS:ITEM_PANTS_SKIRT_SHORT,skirt,skirts,裙,short,短
-item_pants,ITEM_PANTS:ITEM_PANTS_SKIRT_LONG,skirt,skirts,裙,long,长
-item_pants,ITEM_PANTS:ITEM_PANTS_BRAIES,braies,braies,短裤,,
-item_shield,ITEM_SHIELD:ITEM_SHIELD_SHIELD,shield,shields,盾牌,,
-item_shield,ITEM_SHIELD:ITEM_SHIELD_BUCKLER,buckler,bucklers,小盾,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_SHOES,shoe,shoes,鞋,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_BOOTS,high boot,high boots,高筒靴,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_BOOTS_LOW,low boot,low boots,短筒靴,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_SANDAL,sandal,sandals,凉鞋,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_CHAUSSE,chausse,chausses,马裤,,
-item_shoes,ITEM_SHOES:ITEM_SHOES_SOCKS,sock,socks,袜,,
-item_siegeammo,ITEM_SIEGEAMMO:ITEM_SIEGEAMMO_BALLISTA,ballista arrow,ballista arrows,弩炮箭矢,,
-item_tool,ITEM_TOOL:ITEM_TOOL_CAULDRON,cauldron,cauldrons,坩埚,,
-item_tool,ITEM_TOOL:ITEM_TOOL_LADLE,ladle,ladles,长柄勺,,
-item_tool,ITEM_TOOL:ITEM_TOOL_BOWL,bowl,bowls,碗,,
-item_tool,ITEM_TOOL:ITEM_TOOL_MORTAR,mortar,mortars,研钵,,
-item_tool,ITEM_TOOL:ITEM_TOOL_PESTLE,pestle,pestles,研杵,,
-item_tool,ITEM_TOOL:ITEM_TOOL_KNIFE_CARVING,carving knife,carving knives,雕刻刀,,
-item_tool,ITEM_TOOL:ITEM_TOOL_KNIFE_BONING,boning knife,boning knives,剔骨刀,,
-item_tool,ITEM_TOOL:ITEM_TOOL_KNIFE_SLICING,slicing knife,slicing knives,削片刀,,
-item_tool,ITEM_TOOL:ITEM_TOOL_KNIFE_MEAT_CLEAVER,meat cleaver,meat cleavers,切肉刀,,
-item_tool,ITEM_TOOL:ITEM_TOOL_FORK_CARVING,carving fork,carving forks,切肉叉,,
-item_tool,ITEM_TOOL:ITEM_TOOL_NEST_BOX,nest box,nest boxes,巢箱,,
-item_tool,ITEM_TOOL:ITEM_TOOL_JUG,jug,jugs,壶,,
-item_tool,ITEM_TOOL:ITEM_TOOL_LARGE_POT,pot,pots,罐,large,大
-item_tool,ITEM_TOOL:ITEM_TOOL_HIVE,hive,hives,蜂箱,,
-item_tool,ITEM_TOOL:ITEM_TOOL_HONEYCOMB,honeycomb,honeycombs,蜜脾,,
-item_tool,ITEM_TOOL:ITEM_TOOL_POUCH,pouch,pouches,钱包,,
-item_tool,ITEM_TOOL:ITEM_TOOL_MINECART,minecart,minecarts,矿车,,
-item_tool,ITEM_TOOL:ITEM_TOOL_WHEELBARROW,wheelbarrow,wheelbarrows,手推车,,
-item_tool,ITEM_TOOL:ITEM_TOOL_STEPLADDER,stepladder,stepladders,梯子,,
-item_tool,ITEM_TOOL:ITEM_TOOL_SCROLL_ROLLERS,scroll rollers,scroll rollers,卷筒,,
-item_tool,ITEM_TOOL:ITEM_TOOL_BOOK_BINDING,book binding,book bindings,书籍装帧,,
-item_tool,ITEM_TOOL:ITEM_TOOL_SCROLL,scroll,scrolls,卷轴,,
-item_tool,ITEM_TOOL:ITEM_TOOL_QUIRE,quire,quires,手稿,,
-item_tool,ITEM_TOOL:ITEM_TOOL_BOOKCASE,bookcase,bookcases,书架,,
-item_tool,ITEM_TOOL:ITEM_TOOL_HELVE,helve,helves,斧柄,,
-item_tool,ITEM_TOOL:ITEM_TOOL_STONE_AXE,axe,axes,斧,,
-item_tool,ITEM_TOOL:ITEM_TOOL_PEDESTAL,pedestal,pedestals,基座,,
-item_tool,ITEM_TOOL:ITEM_TOOL_DISPLAY_CASE,display case,display cases,展示柜,,
-item_tool,ITEM_TOOL:ITEM_TOOL_ALTAR,altar,altars,祭坛,,
-item_tool,ITEM_TOOL:ITEM_TOOL_DIE,die,dice,骰子,,
-item_toy,ITEM_TOY:ITEM_TOY_PUZZLEBOX,puzzlebox,puzzleboxes,解谜盒,,
-item_toy,ITEM_TOY:ITEM_TOY_BOAT,toy boat,toy boats,玩具船,,
-item_toy,ITEM_TOY:ITEM_TOY_HAMMER,toy hammer,toy hammers,玩具锤,,
-item_toy,ITEM_TOY:ITEM_TOY_AXE,toy axe,toy axes,玩具斧,,
-item_toy,ITEM_TOY:ITEM_TOY_MINIFORGE,mini-forge,mini-forges,迷你砧,,
-item_trapcomp,ITEM_TRAPCOMP:ITEM_TRAPCOMP_GIANTAXEBLADE,axe blade,axe blades,斧刃,giant,巨型
-item_trapcomp,ITEM_TRAPCOMP:ITEM_TRAPCOMP_ENORMOUSCORKSCREW,corkscrew,corkscrews,螺杆,enormous,大号
-item_trapcomp,ITEM_TRAPCOMP:ITEM_TRAPCOMP_SPIKEDBALL,ball,balls,圆球,spiked,尖刺
-item_trapcomp,ITEM_TRAPCOMP:ITEM_TRAPCOMP_LARGESERRATEDDISC,disc,discs,锯盘,"large, serrated",大型
-item_trapcomp,ITEM_TRAPCOMP:ITEM_TRAPCOMP_MENACINGSPIKE,spike,spikes,尖刺,menacing,险恶
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_WHIP,whip,whips,长鞭,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_AXE_BATTLE,battle axe,battle axes,战斧,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_HAMMER_WAR,war hammer,war hammers,战锤,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT,short sword,short swords,短剑,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SPEAR,spear,spears,矛,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_MACE,mace,maces,页锤,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_CROSSBOW,crossbow,crossbows,十字弩,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_PICK,pick,picks,鹤嘴锄,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_BOW,bow,bows,弓,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_BLOWGUN,blowgun,blowguns,吹管,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_PIKE,pike,pikes,长枪,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_HALBERD,halberd,halberds,斧枪,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SWORD_2H,two-handed sword,two-handed swords,双手剑,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SWORD_LONG,long sword,long swords,长剑,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_MAUL,maul,mauls,大锤,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_AXE_GREAT,great axe,great axes,巨斧,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_DAGGER_LARGE,dagger,daggers,刺剑,large,大
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SCOURGE,scourge,scourges,散鞭,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_FLAIL,flail,flails,连枷,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_MORNINGSTAR,morningstar,morningstars,钉头锤,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SCIMITAR,scimitar,scimitars,短弯刀,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_AXE_TRAINING,training axe,training axes,训练斧,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SWORD_SHORT_TRAINING,training sword,training swords,训练剑,,
-item_weapon,ITEM_WEAPON:ITEM_WEAPON_SPEAR_TRAINING,training spear,training spears,训练矛,,
+table,text,translation
+ITEM:^0,grown,生长的
+ITEM:^0,,
+ITEM,{BAR},{BAR}
+ITEM,{SMALLGEM},{SMALLGEM}
+ITEM,{BLOCKS},{BLOCKS}
+ITEM,{ROUGH},{ROUGH}
+ITEM,{BOULDER},{BOULDER}
+ITEM,{WOOD},{WOOD}
+ITEM,{DOOR},{DOOR}
+ITEM,{FLOODGATE},{FLOODGATE}
+ITEM,{BED},{BED}
+ITEM,{CHAIR},{CHAIR}
+ITEM,{CHAIN},{CHAIN}
+ITEM,{FLASK},{FLASK}
+ITEM,{GOBLET},{GOBLET}
+ITEM,{INSTRUMENT},{INSTRUMENT}
+ITEM,{TOY},{TOY}
+ITEM,{WINDOW},{WINDOW}
+ITEM,{CAGE},{CAGE}
+ITEM,{BARREL},{BARREL}
+ITEM,{BUCKET},{BUCKET}
+ITEM,{ANIMALTRAP},{ANIMALTRAP}
+ITEM,{TABLE},{TABLE}
+ITEM,{COFFIN},{COFFIN}
+ITEM,{STATUE},{STATUE}
+ITEM,{CORPSE},{CORPSE}
+ITEM,{WEAPON},{WEAPON}
+ITEM,{ARMOR},{ARMOR}
+ITEM,{SHOES},{SHOES}
+ITEM,{SHIELD},{SHIELD}
+ITEM,{HELM},{HELM}
+ITEM,{GLOVES},{GLOVES}
+ITEM,{BOX},{BOX}
+ITEM,{BAG},{BAG}
+ITEM,{BIN},{BIN}
+ITEM,{ARMORSTAND},{ARMORSTAND}
+ITEM,{WEAPONRACK},{WEAPONRACK}
+ITEM,{CABINET},{CABINET}
+ITEM,{FIGURINE},{FIGURINE}
+ITEM,{AMULET},{AMULET}
+ITEM,{SCEPTER},{SCEPTER}
+ITEM,{AMMO},{AMMO}
+ITEM,{CROWN},{CROWN}
+ITEM,{RING},{RING}
+ITEM,{EARRING},{EARRING}
+ITEM,{BRACELET},{BRACELET}
+ITEM,{GEM},{GEM}
+ITEM,{ANVIL},{ANVIL}
+ITEM,{CORPSEPIECE},{CORPSEPIECE}
+ITEM,{REMAINS},{REMAINS}
+ITEM,{MEAT},{MEAT}
+ITEM,{FISH},{FISH}
+ITEM,{FISH_RAW},{FISH_RAW}
+ITEM,{VERMIN},{VERMIN}
+ITEM,{PET},{PET}
+ITEM:PREFIX:EQUIPMENT,small,小
+ITEM:PREFIX:EQUIPMENT,large,大
+ITEM:BAR,bars,条锭
+ITEM:BAR,{:MATERIAL},{:MATERIAL}
+ITEM:BAR,{INORGANIC},{INORGANIC}
+ITEM:BAR,{COAL},{COAL}
+ITEM:BAR:INORGANIC,metal bars,金属锭
+ITEM:BAR:INORGANIC,{:MATERIAL} bars,{:MATERIAL}锭
+ITEM:BAR:INORGANIC,{:MATERIAL} wafers,{:MATERIAL}薄片
+ITEM:BAR:COAL,charcoal,木炭
+ITEM:BAR:COAL,coke,焦炭
+ITEM:BAR:COAL,refined coal,精炼煤
+ITEM:SMALLGEM,gems,宝石
+ITEM:SMALLGEM,cut gems,切割宝石
+ITEM:SMALLGEM,cut green glass gems,切割绿玻璃宝石
+ITEM:SMALLGEM,cut clear glass gems,切割透明玻璃宝石
+ITEM:SMALLGEM,cut crystal glass gems,切割水晶玻璃宝石
+ITEM:SMALLGEM,{:GEM:PLURAL},{:GEM:PLURAL}
+ITEM:SMALLGEM,{:GEM_DETAILS:PLURAL},{:GEM_DETAILS:PLURAL}
+ITEM:BLOCKS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BLOCKS:^0,,
+ITEM:BLOCKS,blocks,方块
+ITEM:BLOCKS,bricks,砖块
+ITEM:ROUGH,rough gems,粗糙宝石
+ITEM:ROUGH,raw green glass,粗糙绿玻璃
+ITEM:ROUGH,raw clear glass,粗糙透明玻璃
+ITEM:ROUGH,raw crystal glass,粗糙水晶玻璃
+ITEM:ROUGH,rough {:GEM:PLURAL},粗糙{:GEM:PLURAL}
+ITEM:BOULDER,stones,石头
+ITEM:BOULDER,{:MATERIAL},{:MATERIAL}
+ITEM:BOULDER,gold nuggets,金块
+ITEM:BOULDER,silver nuggets,银块
+ITEM:BOULDER,copper nuggets,铜块
+ITEM:BOULDER,platinum nuggets,铂块
+ITEM:WOOD,logs,原木
+ITEM:WOOD,{:MATERIAL} logs,{:MATERIAL}原木
+ITEM:DOOR:^0,{:MATERIAL},{:MATERIAL}
+ITEM:DOOR:^0,,
+ITEM:DOOR,door,房门
+ITEM:DOOR,doors,房门
+ITEM:DOOR,portal,晶门
+ITEM:DOOR,portals,晶门
+ITEM:FLOODGATE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:FLOODGATE:^0,,
+ITEM:FLOODGATE,floodgate,闸门
+ITEM:FLOODGATE,floodgates,闸门
+ITEM:BED:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BED:^0,,
+ITEM:BED,bed,床
+ITEM:BED,beds,床
+ITEM:CHAIR:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:CHAIR:^0,,
+ITEM:CHAIR,chair,座椅
+ITEM:CHAIR,chairs,座椅
+ITEM:CHAIR,throne,王座
+ITEM:CHAIR,thrones,王座
+ITEM:CHAIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:CHAIN:^0,,
+ITEM:CHAIN,chain,链条
+ITEM:CHAIN,chains,链条
+ITEM:CHAIN,rope,绳索
+ITEM:CHAIN,ropes,绳索
+ITEM:FLASK:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:FLASK:^0,,
+ITEM:FLASK,flask,携带瓶
+ITEM:FLASK,flasks,携带瓶
+ITEM:FLASK,vial,小瓶
+ITEM:FLASK,vials,小瓶
+ITEM:FLASK,waterskin,水袋
+ITEM:FLASK,waterskins,水袋
+ITEM:GOBLET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:GOBLET:^0,,
+ITEM:GOBLET,goblet,高脚杯
+ITEM:GOBLET,cup,茶杯
+ITEM:GOBLET,mug,柄杯
+ITEM:INSTRUMENT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:INSTRUMENT:^0,,
+ITEM:INSTRUMENT,musical instrument,乐器
+ITEM:INSTRUMENT,musical instruments,乐器
+ITEM:TOY:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:TOY:^0,,
+ITEM:TOY,toy,玩具
+ITEM:TOY,toys,玩具
+ITEM:WINDOW:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:WINDOW:^0,,
+ITEM:WINDOW,window,窗
+ITEM:WINDOW,windows,窗
+ITEM:CAGE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:CAGE:^0,,
+ITEM:CAGE,cage,笼子
+ITEM:CAGE,cages,笼子
+ITEM:CAGE,terrarium,玻璃缸
+ITEM:CAGE,terrariums,玻璃缸
+ITEM:BARREL:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BARREL:^0,,
+ITEM:BARREL,barrel,圆桶
+ITEM:BARREL,barrels,圆桶
+ITEM:BUCKET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BUCKET:^0,,
+ITEM:BUCKET,bucket,提桶
+ITEM:BUCKET,buckets,提桶
+ITEM:ANIMALTRAP:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:ANIMALTRAP:^0,,
+ITEM:ANIMALTRAP,animal trap,动物陷阱
+ITEM:ANIMALTRAP,animal traps,动物陷阱
+ITEM:TABLE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:TABLE:^0,,
+ITEM:TABLE,table,桌子
+ITEM:TABLE,tables,桌子
+ITEM:COFFIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:COFFIN:^0,,
+ITEM:COFFIN,coffin,灵柩
+ITEM:COFFIN,coffins,灵柩
+ITEM:COFFIN,casket,棺
+ITEM:COFFIN,caskets,棺
+ITEM:COFFIN,sarcophagus,华棺
+ITEM:COFFIN,sarcophagi,华棺
+ITEM:STATUE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:STATUE:^0,,
+ITEM:STATUE,statue,雕像
+ITEM:STATUE,statues,雕像
+ITEM:CORPSE:^0,rotten,腐烂的
+ITEM:CORPSE:^0,,
+ITEM:CORPSE,corpse,尸体
+ITEM:CORPSE,corpses,尸体
+ITEM:WEAPON,{DEFAULT},{DEFAULT}
+ITEM:WEAPON,{:WEAPON},{:WEAPON}
+ITEM:WEAPON:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:WEAPON:DEFAULT:^0,,
+ITEM:WEAPON:DEFAULT,weapon,武器
+ITEM:WEAPON:DEFAULT,weapons,武器
+ITEM:ARMOR:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
+ITEM:ARMOR:^0,,
+ITEM:ARMOR,{DEFAULT},{DEFAULT}
+ITEM:ARMOR,{:ARMOR},{:ARMOR}
+ITEM:ARMOR:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:ARMOR:DEFAULT:^0,,
+ITEM:ARMOR:DEFAULT:^1,suits of,
+ITEM:ARMOR:DEFAULT:^1,,
+ITEM:ARMOR:DEFAULT,armor,盔甲
+ITEM:SHOES:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
+ITEM:SHOES:^0,,
+ITEM:SHOES,{DEFAULT},{DEFAULT}
+ITEM:SHOES,{:SHOES},{:SHOES}
+ITEM:SHOES:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:SHOES:DEFAULT:^0,,
+ITEM:SHOES:DEFAULT,footwear,足装
+ITEM:SHIELD,{DEFAULT},{DEFAULT}
+ITEM:SHIELD,{:SHIELD},{:SHIELD}
+ITEM:SHIELD:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:SHIELD:DEFAULT:^0,,
+ITEM:SHIELD:DEFAULT,shield/buckler,尖盾/圆盾
+ITEM:SHIELD:DEFAULT,shields/bucklers,尖盾/圆盾
+ITEM:HELM:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
+ITEM:HELM:^0,,
+ITEM:HELM,{DEFAULT},{DEFAULT}
+ITEM:HELM,{:HELM},{:HELM}
+ITEM:HELM:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:HELM:DEFAULT:^0,,
+ITEM:HELM:DEFAULT,headwear,头装
+ITEM:GLOVES:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
+ITEM:GLOVES:^0,,
+ITEM:GLOVES,{DEFAULT},{DEFAULT}
+ITEM:GLOVES,{:GLOVES},{:GLOVES}
+ITEM:GLOVES:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:GLOVES:DEFAULT:^0,,
+ITEM:GLOVES:DEFAULT,handwear,手装
+ITEM:BOX:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BOX:^0,,
+ITEM:BOX,box,盒子
+ITEM:BOX,boxes,盒子
+ITEM:BOX,coffer,保险箱
+ITEM:BOX,coffers,保险箱
+ITEM:BOX,chest,箱子
+ITEM:BOX,chests,箱子
+ITEM:BAG:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BAG:^0,,
+ITEM:BAG,bag,袋子
+ITEM:BAG,bags,袋子
+ITEM:BIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BIN:^0,,
+ITEM:BIN,bin,储物箱
+ITEM:BIN,bins,储物箱
+ITEM:ARMORSTAND:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:ARMORSTAND:^0,,
+ITEM:ARMORSTAND,armor stand,盔甲支架
+ITEM:ARMORSTAND,armor stands,盔甲支架
+ITEM:WEAPONRACK:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:WEAPONRACK:^0,,
+ITEM:WEAPONRACK,weapon rack,武器支架
+ITEM:WEAPONRACK,weapon racks,武器支架
+ITEM:CABINET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:CABINET:^0,,
+ITEM:CABINET,cabinet,柜子
+ITEM:CABINET,cabinets,柜子
+ITEM:FIGURINE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:FIGURINE:^0,,
+ITEM:FIGURINE,figurine,小塑像
+ITEM:FIGURINE,figurines,小塑像
+ITEM:AMULET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:AMULET:^0,,
+ITEM:AMULET,amulet,护符
+ITEM:AMULET,amulets,护符
+ITEM:SCEPTER:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:SCEPTER:^0,,
+ITEM:SCEPTER,scepter,节杖
+ITEM:SCEPTER,scepters,节杖
+ITEM:AMMO,{DEFAULT},{DEFAULT}
+ITEM:AMMO,{:AMMO},{:AMMO}
+ITEM:AMMO:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:AMMO:DEFAULT:^0,,
+ITEM:AMMO:DEFAULT,ammunition,弹药
+ITEM:CROWN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:CROWN:^0,,
+ITEM:CROWN,crown,王冠
+ITEM:CROWN,crowns,王冠
+ITEM:RING:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:RING:^0,,
+ITEM:RING,ring,戒指
+ITEM:RING,rings,戒指
+ITEM:EARRING:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:EARRING:^0,,
+ITEM:EARRING,earring,耳环
+ITEM:EARRING,earrings,耳环
+ITEM:BRACELET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:BRACELET:^0,,
+ITEM:BRACELET,bracelet,手镯
+ITEM:BRACELET,bracelets,手镯
+ITEM:GEM:^0,large,大型
+ITEM:GEM:^0,perfect,完美
+ITEM:GEM,gem,宝石
+ITEM:GEM,gems,宝石
+ITEM:GEM,{:GEM},{:GEM}
+ITEM:GEM,{:GEM_DETAILS},{:GEM_DETAILS}
+ITEM:ANVIL:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
+ITEM:ANVIL:^0,,
+ITEM:ANVIL,anvil,金属砧
+ITEM:ANVIL,anvils,金属砧
+ITEM:CORPSEPIECE:^0,rotten,腐烂的
+ITEM:CORPSEPIECE:^0,,
+ITEM:CORPSEPIECE,body part,身体部分
+ITEM:CORPSEPIECE,body parts,身体部分
+ITEM:CORPSEPIECE,wooden body part,木制身体部分
+ITEM:CORPSEPIECE,wooden body parts,木制身体部分
+ITEM:CORPSEPIECE,plant part,植物身体部分
+ITEM:CORPSEPIECE,plant parts,植物身体部分
+ITEM:CORPSEPIECE,silk body part,丝绸身体部分
+ITEM:CORPSEPIECE,silk body parts,丝绸身体部分
+ITEM:CORPSEPIECE,leather body part,皮革身体部分
+ITEM:CORPSEPIECE,leather body parts,皮革身体部分
+ITEM:CORPSEPIECE,bone,骨头
+ITEM:CORPSEPIECE,bones,骨头
+ITEM:CORPSEPIECE,shell,壳
+ITEM:CORPSEPIECE,shells,壳
+ITEM:CORPSEPIECE,soap body part,肥皂身体部分
+ITEM:CORPSEPIECE,soap body parts,肥皂身体部分
+ITEM:CORPSEPIECE,tooth,牙齿
+ITEM:CORPSEPIECE,teeth,牙齿
+ITEM:CORPSEPIECE,horn,角
+ITEM:CORPSEPIECE,horns,角
+ITEM:CORPSEPIECE,pearl,珍珠
+ITEM:CORPSEPIECE,pearls,珍珠
+ITEM:CORPSEPIECE,yarn body part,丝绸身体部分
+ITEM:CORPSEPIECE,yarn body parts,丝绸身体部分
+ITEM:CORPSEPIECE,strand body part,丝状身体部分
+ITEM:CORPSEPIECE,strand body parts,丝状身体部分
+ITEM:REMAINS:^0,Rotten,腐烂的
+ITEM:REMAINS:^0,,
+ITEM:REMAINS:^1,{:CREATURE:SINGULAR},{:CREATURE:SINGULAR}
+ITEM:REMAINS:^1,,
+ITEM:REMAINS,remains,残骸
+ITEM:REMAINS,chunk,残块
+ITEM:REMAINS,chunks,残块
+ITEM:MEAT:^0,rotten,腐烂的
+ITEM:MEAT:^0,,
+ITEM:MEAT:^1,preserved,保存的
+ITEM:MEAT:^1,,
+ITEM:MEAT,meat,肉
+ITEM:MEAT,{:MEAT},{:MEAT}
+ITEM:FISH:^0,rotten,腐烂的
+ITEM:FISH:^0,,
+ITEM:FISH,fish,鱼
+ITEM:FISH,{:CREATURE:CASTE:SINGULAR},{:CREATURE:CASTE:SINGULAR}
+ITEM:FISH,"{:CREATURE:CASTE:SINGULAR}, ♀","{:CREATURE:CASTE:SINGULAR}, ♀"
+ITEM:FISH,"{:CREATURE:CASTE:SINGULAR}, ♂","{:CREATURE:CASTE:SINGULAR}, ♂"
+ITEM:FISH_RAW:^0,rotten,腐烂的
+ITEM:FISH_RAW:^0,,
+ITEM:FISH_RAW:^1,raw,未处理的
+ITEM:FISH_RAW,fish,鱼
+ITEM:FISH_RAW,{:CREATURE:CASTE:SINGULAR},{:CREATURE:CASTE:SINGULAR}
+ITEM:FISH_RAW,"{:CREATURE:CASTE:SINGULAR}, ♀","{:CREATURE:CASTE:SINGULAR}, ♀"
+ITEM:FISH_RAW,"{:CREATURE:CASTE:SINGULAR}, ♂","{:CREATURE:CASTE:SINGULAR}, ♂"
+ITEM:VERMIN,small live animal,活的小动物
+ITEM:VERMIN,small live animals,活的小动物
+ITEM:VERMIN,live {:CREATURE:CASTE:SINGULAR},活{:CREATURE:CASTE:SINGULAR}
+ITEM:PET,small tame animal,驯化小动物
+ITEM:PET,small tame animals,驯化小动物
+ITEM:PET,tame {:CREATURE:CASTE:SINGULAR},驯化{:CREATURE:CASTE:SINGULAR}

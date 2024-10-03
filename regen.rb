@@ -5,21 +5,89 @@ require 'rubyXL'
 RubyXL.class_variable_set(:@@suppress_warnings, true)
 
 configs = {
-  '界面' => {
-    name: 'interfaces.csv',
-    header: %w[viewscreen context alignment text text_translation],
+  '查询表-生物' => {
+    name: 'creatures.csv',
+    header: %w[table text translation],
   },
-  '植物（基础）' => {
-    name: 'plants-base.csv',
-    header: %w[group key npl adj ssg spl rtn tkn hbn lbn tgn cpn name name_translation],
+  '查询表-植物' => {
+    name: 'plants.csv',
+    header: %w[table text translation],
   },
-  '植物（特殊）' => {
-    name: 'plants-special.csv',
-    header: %w[group key field word word_translation],
+  '查询表-植物生长' => {
+    name: 'plants-growths.csv',
+    header: %w[table text translation],
   },
-  '植物（规则）' => {
-    name: 'plants-rules.csv',
-    header: %w[rule source target match_word build_word match_translation build_translation],
+  '查询表-技能' => {
+    name: 'skills.csv',
+    header: %w[table text translation],
+  },
+  '查询表-职业' => {
+    name: 'professions.csv',
+    header: %w[table text translation],
+  },
+  '查询表-职位' => {
+    name: 'positions.csv',
+    header: %w[table text translation],
+  },
+  '查询表-物质' => {
+    name: 'materials.csv',
+    header: %w[table text translation],
+  },
+  '查询表-图块' => {
+    name: 'tiles.csv',
+    header: %w[table text translation],
+  },
+  '查询表-信息标签' => {
+    name: 'info-tags.csv',
+    header: %w[table text translation],
+  },
+  '查询表-宝石' => {
+    name: 'gems.csv',
+    header: %w[table text translation],
+  },
+  '查询表-宝石细节' => {
+    name: 'gems-details.csv',
+    header: %w[table text translation],
+  },
+  '查询表-武器' => {
+    name: 'weapons.csv',
+    header: %w[table text translation],
+  },
+  '查询表-盔甲' => {
+    name: 'armors.csv',
+    header: %w[table text translation],
+  },
+  '查询表-足装' => {
+    name: 'shoes.csv',
+    header: %w[table text translation],
+  },
+  '查询表-盾牌' => {
+    name: 'shields.csv',
+    header: %w[table text translation],
+  },
+  '查询表-头装' => {
+    name: 'helms.csv',
+    header: %w[table text translation],
+  },
+  '查询表-手装' => {
+    name: 'gloves.csv',
+    header: %w[table text translation],
+  },
+  '查询表-弹药' => {
+    name: 'ammos.csv',
+    header: %w[table text translation],
+  },
+  '查询表-肉类' => {
+    name: 'meats.csv',
+    header: %w[table text translation],
+  },
+  '查询表-物品（未完成）' => {
+    name: 'items.csv',
+    header: %w[table text translation],
+  },
+  '查询表-任务（临时）' => {
+    name: 'tasks.csv',
+    header: %w[table text translation],
   },
   '帮助文档' => {
     name: 'help-documents.csv',
@@ -29,37 +97,9 @@ configs = {
     name: 'help-texts.csv',
     header: %w[help_id help_name type text text_translation],
   },
-  '物品' => {
-    name: 'items.csv',
-    header: %w[filename key noun_single noun_plural noun_translation adjective adjective_translation],
-  },
-  '内置物品' => {
-    name: 'items-builtin.csv',
-    header: %w[id type wildcard wildcard_translation use_noun_for_adj use_standard_plural],
-  },
-  '物质名词' => {
-    name: 'materials-nouns.csv',
-    header: %w[rules noun noun_translation],
-  },
-  '物质形容词' => {
-    name: 'materials-adjectives.csv',
-    header: %w[source_noun adjective adjective_translation_override],
-  },
-  '物质生成规则' => {
-    name: 'materials-generation-rules.csv',
-    header: %w[rule state prefix suffix template],
-  },
-  '材料模板' => {
-    name: 'materials_templates.csv',
-    header: %w[filename key noun_all_solid noun_all_solid_translation noun_solid noun_solid_translation noun_powder noun_powder_translation noun_liquid noun_liquid_translation noun_gas noun_gas_translation adjective_all_solid adjective_all_solid_translation adjective_solid adjective_solid_translation adjective_powder adjective_powder_translation adjective_liquid adjective_liquid_translation adjective_gas adjective_gas_translation],
-  },
-  '经验' => {
-    name: 'skill_levels.csv',
-    header: %w[id adjective adjective_translation],
-  },
-  '技能' => {
-    name: 'skill_names.csv',
-    header: %w[id noun noun_translation noun_dwarf_single noun_dwarf_plural noun_dwarf_translation],
+  '界面' => {
+    name: 'interfaces.csv',
+    header: %w[viewscreen context alignment text text_translation],
   },
 }
 
@@ -69,6 +109,7 @@ FileUtils.mkdir_p(TARGET_DIR)
 
 workbook = RubyXL::Parser.parse(ARGV.first)
 configs.each do |key, config|
+  puts key
   worksheet = workbook[key]
   name, header = config.values_at(:name, :header)
 
@@ -81,7 +122,9 @@ configs.each do |key, config|
     break if row.nil?
 
     csv_row = header.count.times.map { |j| row[j]&.value }
-    csv += csv_row.to_csv(row_sep: "\r\n") unless csv_row.all?(&:nil?)
+    break if csv_row.all?(&:nil?)
+
+    csv += csv_row.to_csv(row_sep: "\r\n")
   end
 
   File.write(File.join(TARGET_DIR, name), csv)

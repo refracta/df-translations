@@ -1,0 +1,5 @@
+table,text,translation
+TASK:^0,Assemble,组装
+TASK:^0,Forge,打造
+TASK:^0,Make,制作
+TASK,{:ITEM},{:ITEM}

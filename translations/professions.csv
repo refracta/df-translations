@@ -1,0 +1,64 @@
+table,text,translation
+PROFESSION,Woodworker,樵夫
+PROFESSION,Stoneworker,石材工人
+PROFESSION,Ranger,游侠
+PROFESSION,Hunter,猎人
+PROFESSION,Metalsmith,金属锻工
+PROFESSION,Armorer,盔甲匠
+PROFESSION,Metalcrafter,金属工匠
+PROFESSION,Jeweler,珠宝匠
+PROFESSION,Craftsman,工匠
+PROFESSION,Stonecrafter,石艺师
+PROFESSION,Fishery Worker,渔业工人
+PROFESSION,Farmer,农夫
+PROFESSION,Soap Maker,制肥皂者
+PROFESSION,Engineer,工程师
+PROFESSION,Clerk,文员
+PROFESSION,Administrator,管理员
+PROFESSION,Trader,交易者
+PROFESSION,Doctor,医师
+PROFESSION,Merchant,商人
+PROFESSION,Hammer Lord,战锤之主
+PROFESSION,Spearmaster,持矛主宰
+PROFESSION,Elite Crossbowman,精英弩手
+PROFESSION,Elite Wrestler,精英摔跤手
+PROFESSION,Axe Lord,战斧之主
+PROFESSION,Swordmaster,利剑主宰
+PROFESSION,Mace Lord,页锤之主
+PROFESSION,Pikemaster,长枪主宰
+PROFESSION,Elite Bowman,精英弓手
+PROFESSION,Master Blowgunner,吹管大师
+PROFESSION,Master Lasher,鞭挞大师
+PROFESSION,Recruit,新兵
+PROFESSION,Hunting,狩猎
+PROFESSION,War,战争
+PROFESSION,Master Thief,盗贼大师
+PROFESSION,Thief,盗贼
+PROFESSION,Peasant,平民
+PROFESSION,Child,孩童
+PROFESSION,Baby,婴儿
+PROFESSION,Drunk,酗酒者
+PROFESSION,Monster Slayer,怪物猎手
+PROFESSION,Scout,侦察员
+PROFESSION,Beast Hunter,猛兽猎手
+PROFESSION,Snatcher,绑架者
+PROFESSION,Mercenary,雇佣兵
+PROFESSION,Performer,演员
+PROFESSION,Bard,吟游诗人
+PROFESSION,Sage,智者
+PROFESSION,Scholar,学者
+PROFESSION,Philosopher,哲学家
+PROFESSION,Historian,历史学家
+PROFESSION,Naturalist,博物学家
+PROFESSION,Scribe,抄写员
+PROFESSION,Tavern Keeper,酒保
+PROFESSION,Criminal,罪犯
+PROFESSION,Peddler,小贩
+PROFESSION,Prophet,预言家
+PROFESSION,Pilgrim,朝圣者
+PROFESSION,Monk,僧侣
+PROFESSION,Messenger,信使
+PROFESSION,craftsdwarf,矮人工匠
+PROFESSION,Elite Marksdwarf,精英矮人弩手
+PROFESSION,Elite Bowdwarf,精英矮人弓手
+PROFESSION,{:SKILL:NAME},{:SKILL:NAME}

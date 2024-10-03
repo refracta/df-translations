@@ -1,0 +1,164 @@
+table,text,translation
+SKILL,{:SKILL:LEVEL} {:SKILL:NAME},{:SKILL:LEVEL}{:SKILL:NAME}
+SKILL:LEVEL,Dabbling,涉足的
+SKILL:LEVEL,Novice,新手的
+SKILL:LEVEL,Adequate,勉强的
+SKILL:LEVEL,Competent,合格的
+SKILL:LEVEL,Skilled,熟练的
+SKILL:LEVEL,Proficient,精通的
+SKILL:LEVEL,Talented,聪颖的
+SKILL:LEVEL,Adept,拿手的
+SKILL:LEVEL,Expert,专业的
+SKILL:LEVEL,Professional,内行的
+SKILL:LEVEL,Accomplished,娴熟的
+SKILL:LEVEL,Great,伟大的
+SKILL:LEVEL,Master,大师级的
+SKILL:LEVEL,High Master,宗师级的
+SKILL:LEVEL,Grand Master,泰斗级的
+SKILL:LEVEL,Legendary,传奇的
+SKILL:NAME,Miner,矿工
+SKILL:NAME,Woodcutter,樵夫
+SKILL:NAME,Carpenter,木匠
+SKILL:NAME,Engraver,雕刻师
+SKILL:NAME,Mason,石匠
+SKILL:NAME,Animal Trainer,驯兽师
+SKILL:NAME,Animal Caretaker,动物护理员
+SKILL:NAME,Fish Dissector,剖鱼工
+SKILL:NAME,Animal Dissector,动物解剖员
+SKILL:NAME,Fish Cleaner,洗鱼工
+SKILL:NAME,Butcher,屠夫
+SKILL:NAME,Trapper,诱捕者
+SKILL:NAME,Tanner,制革工
+SKILL:NAME,Weaver,织工
+SKILL:NAME,Brewer,酿造师
+SKILL:NAME,Clothier,裁缝
+SKILL:NAME,Miller,碾磨工
+SKILL:NAME,Thresher,脱粒工
+SKILL:NAME,Cheesemaker,制酪工
+SKILL:NAME,Milker,挤奶工
+SKILL:NAME,Cook,厨师
+SKILL:NAME,Planter,播种者
+SKILL:NAME,Herbalist,草药师
+SKILL:NAME,Fisherman,渔夫
+SKILL:NAME,Furnace Operator,火炉操作员
+SKILL:NAME,Strand Extractor,缕丝提取师
+SKILL:NAME,Weaponsmith,武器匠
+SKILL:NAME,Armorsmith,盔甲匠
+SKILL:NAME,Blacksmith,锻造师
+SKILL:NAME,Gem Cutter,宝石切割师
+SKILL:NAME,Gem Setter,宝石镶嵌师
+SKILL:NAME,Woodcrafter,木艺师
+SKILL:NAME,Stone Crafter,石艺师
+SKILL:NAME,Metal Crafter,金属工匠
+SKILL:NAME,Glassmaker,玻璃匠
+SKILL:NAME,Leatherworker,皮匠
+SKILL:NAME,Bone Carver,骨雕师
+SKILL:NAME,Axeman,斧手
+SKILL:NAME,Swordsman,剑士
+SKILL:NAME,Knife User,小刀使用者
+SKILL:NAME,Maceman,页锤手
+SKILL:NAME,Hammerman,战锤手
+SKILL:NAME,Spearman,矛手
+SKILL:NAME,Crossbowman,弩手
+SKILL:NAME,Shield User,盾牌使用者
+SKILL:NAME,Armor User,盔甲使用者
+SKILL:NAME,Siege Engineer,攻城器技师
+SKILL:NAME,Siege Operator,攻城器操作员
+SKILL:NAME,Bowyer,弩匠
+SKILL:NAME,Pikeman,长枪手
+SKILL:NAME,Lasher,鞭挞者
+SKILL:NAME,Bowman,弓手
+SKILL:NAME,Blowgunner,吹管手
+SKILL:NAME,Thrower,投掷者
+SKILL:NAME,Mechanic,机械师
+SKILL:NAME,Druid,德鲁伊
+SKILL:NAME,Ambusher,伏击者
+SKILL:NAME,Wound Dresser,裹伤师
+SKILL:NAME,Diagnostician,诊断医师
+SKILL:NAME,Surgeon,外科医师
+SKILL:NAME,Bone Doctor,骨科医师
+SKILL:NAME,Suturer,缝合师
+SKILL:NAME,Crutch-walker,拄拐行者
+SKILL:NAME,Wood Burner,烧炭工
+SKILL:NAME,Lye Maker,制碱液者
+SKILL:NAME,Soaper,皂工
+SKILL:NAME,Potash Maker,制草碱者
+SKILL:NAME,Dyer,染工
+SKILL:NAME,Pump Operator,泵机操作员
+SKILL:NAME,Swimmer,游泳者
+SKILL:NAME,Persuader,说服者
+SKILL:NAME,Negotiator,交涉者
+SKILL:NAME,Judge of Intent,意图判断
+SKILL:NAME,Appraiser,估价员
+SKILL:NAME,Organizer,组织者
+SKILL:NAME,Record Keeper,记录员
+SKILL:NAME,Liar,说谎者
+SKILL:NAME,Intimidator,恐吓者
+SKILL:NAME,Conversationalist,健谈者
+SKILL:NAME,Comedian,趣者
+SKILL:NAME,Flatterer,奉承者
+SKILL:NAME,Consoler,慰藉者
+SKILL:NAME,Pacifier,调解者
+SKILL:NAME,Tracker,追踪者
+SKILL:NAME,Student,学生
+SKILL:NAME,Concentration,专注
+SKILL:NAME,Discipline,遵守纪律
+SKILL:NAME,Observer,观察者
+SKILL:NAME,Wordsmith,文学家
+SKILL:NAME,Writer,作者
+SKILL:NAME,Poet,诗人
+SKILL:NAME,Reader,阅读者
+SKILL:NAME,Speaker,讲述者
+SKILL:NAME,Coordination,协调
+SKILL:NAME,Balance,平衡
+SKILL:NAME,Leader,领导者
+SKILL:NAME,Teacher,教师
+SKILL:NAME,Fighter,战士
+SKILL:NAME,Archer,射手
+SKILL:NAME,Wrestler,摔跤手
+SKILL:NAME,Biter,撕咬者
+SKILL:NAME,Striker,搏击者
+SKILL:NAME,Kicker,踢击者
+SKILL:NAME,Dodger,躲闪者
+SKILL:NAME,Misc. Object User,杂物使用者
+SKILL:NAME,Knapper,碎石者
+SKILL:NAME,Tactician,战术家
+SKILL:NAME,Shearer,剪毛工
+SKILL:NAME,Spinner,纺纱工
+SKILL:NAME,Potter,陶艺师
+SKILL:NAME,Glazer,釉工
+SKILL:NAME,Presser,压榨工
+SKILL:NAME,Beekeeper,养蜂人
+SKILL:NAME,Wax Worker,蜡工
+SKILL:NAME,Climber,攀爬者
+SKILL:NAME,Gelder,骟匠
+SKILL:NAME,Dancer,舞蹈家
+SKILL:NAME,Musician,音乐家
+SKILL:NAME,Singer,歌唱家
+SKILL:NAME,Keyboardist,键盘乐师
+SKILL:NAME,Stringed Instrumentalist,弦乐师
+SKILL:NAME,Wind Instrumentalist,管乐师
+SKILL:NAME,Percussionist,打击乐师
+SKILL:NAME,Critical Thinker,批判思考者
+SKILL:NAME,Logician,逻辑学家
+SKILL:NAME,Mathematician,数学家
+SKILL:NAME,Astronomer,天文学家
+SKILL:NAME,Chemist,化学家
+SKILL:NAME,Geographer,地理学家
+SKILL:NAME,Optics Engineer,光学工程师
+SKILL:NAME,Fluid Engineer,流体工程师
+SKILL:NAME,Papermaker,造纸工
+SKILL:NAME,Bookbinder,书籍装订员
+SKILL:NAME,Schemer,阴谋家
+SKILL:NAME,Rider,骑手
+SKILL:NAME,Stonecutter,切石师
+SKILL:NAME,Stone Carver,石雕师
+SKILL:NAME,fisherdwarf,矮人渔夫
+SKILL:NAME,axedwarf,矮人斧手
+SKILL:NAME,swordsdwarf,矮人剑士
+SKILL:NAME,macedwarf,矮人页锤手
+SKILL:NAME,hammerdwarf,矮人战锤手
+SKILL:NAME,speardwarf,矮人矛手
+SKILL:NAME,marksdwarf,矮人弩手
+SKILL:NAME,pikedwarf,矮人长枪手
+SKILL:NAME,bowdwarf,矮人弓手

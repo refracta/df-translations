@@ -1,0 +1,586 @@
+table,text,translation
+PLANT,{SINGULAR},{SINGULAR}
+PLANT,{PLURAL},{PLURAL}
+PLANT:SINGULAR,{:PLANT:BUSH:SINGULAR},{:PLANT:BUSH:SINGULAR}
+PLANT:SINGULAR,{:PLANT:TREE:SINGULAR},{:PLANT:TREE:SINGULAR}
+PLANT:SINGULAR,{:PLANT:GRASS:SINGULAR},{:PLANT:GRASS:SINGULAR}
+PLANT:PLURAL,{:PLANT:BUSH:PLURAL},{:PLANT:BUSH:PLURAL}
+PLANT:PLURAL,{:PLANT:TREE:PLURAL},{:PLANT:TREE:PLURAL}
+PLANT:PLURAL,{:PLANT:GRASS:PLURAL},{:PLANT:GRASS:PLURAL}
+PLANT:BUSH:SINGULAR,single-grain wheat,单粒小麦
+PLANT:BUSH:SINGULAR,two-grain wheat,双粒小麦
+PLANT:BUSH:SINGULAR,soft wheat,软质小麦
+PLANT:BUSH:SINGULAR,hard wheat,硬质小麦
+PLANT:BUSH:SINGULAR,spelt,斯佩尔特麦
+PLANT:BUSH:SINGULAR,barley,大麦
+PLANT:BUSH:SINGULAR,buckwheat,荞麦
+PLANT:BUSH:SINGULAR,oat,燕麦
+PLANT:BUSH:SINGULAR,alfalfa,苜蓿
+PLANT:BUSH:SINGULAR,rye,黑麦
+PLANT:BUSH:SINGULAR,sorghum,高粱
+PLANT:BUSH:SINGULAR,quinoa,藜麦
+PLANT:BUSH:SINGULAR,kaniwa,彩藜
+PLANT:BUSH:SINGULAR,bitter vetch,苦野豌豆
+PLANT:BUSH:SINGULAR,pendant amaranth,吊坠苋
+PLANT:BUSH:SINGULAR,blood amaranth,血苋
+PLANT:BUSH:SINGULAR,purple amaranth,紫苋
+PLANT:BUSH:SINGULAR,red spinach,红菠菜
+PLANT:BUSH:SINGULAR,elephant-head amaranth,象头苋
+PLANT:BUSH:SINGULAR,papyrus sedge,纸莎草
+PLANT:BUSH:SINGULAR,artichoke,洋蓟
+PLANT:BUSH:SINGULAR,asparagus,芦笋
+PLANT:BUSH:SINGULAR,cabbage,卷心菜
+PLANT:BUSH:SINGULAR,cassava,木薯
+PLANT:BUSH:SINGULAR,celery,芹菜
+PLANT:BUSH:SINGULAR,chicory,菊苣
+PLANT:BUSH:SINGULAR,eggplant,茄子
+PLANT:BUSH:SINGULAR,garden cress,水芹
+PLANT:BUSH:SINGULAR,leek,韭葱
+PLANT:BUSH:SINGULAR,lettuce,生菜
+PLANT:BUSH:SINGULAR,rhubarb,大黄
+PLANT:BUSH:SINGULAR,spinach,菠菜
+PLANT:BUSH:SINGULAR,taro,芋头
+PLANT:BUSH:SINGULAR,plump helmet,肉盔菇
+PLANT:BUSH:SINGULAR,pig tail,猪尾草
+PLANT:BUSH:SINGULAR,cave wheat,洞穴小麦
+PLANT:BUSH:SINGULAR,sweet pod,甜豆荚
+PLANT:BUSH:SINGULAR,muck root,淤曲根
+PLANT:BUSH:SINGULAR,bloated tuber,膨地根
+PLANT:BUSH:SINGULAR,kobold bulb,犬蜥球茎
+PLANT:BUSH:SINGULAR,prickle berry,刺莓
+PLANT:BUSH:SINGULAR,Longland grass,长岛草
+PLANT:BUSH:SINGULAR,valley herb,山谷香草
+PLANT:BUSH:SINGULAR,rat weed,杂鼠草
+PLANT:BUSH:SINGULAR,fisher berry,渔夫浆果
+PLANT:BUSH:SINGULAR,rope reed,绳索苇
+PLANT:BUSH:SINGULAR,dimple cup,窝杯菇
+PLANT:BUSH:SINGULAR,blade weed,刀刃草
+PLANT:BUSH:SINGULAR,hide root,匿茎草
+PLANT:BUSH:SINGULAR,sliver barb,裂钩草
+PLANT:BUSH:SINGULAR,sun berry,太阳浆果
+PLANT:BUSH:SINGULAR,{:PLANT:BUSH:PLANT} plant,{:PLANT:BUSH:PLANT}植株
+PLANT:BUSH:SINGULAR,{:PLANT:BUSH:BUSH} bush,{:PLANT:BUSH:BUSH}灌木
+PLANT:BUSH:SINGULAR,{:PLANT:BUSH:VINE} vine,{:PLANT:BUSH:VINE}藤
+PLANT:BUSH:PLURAL,single-grain wheat,单粒小麦
+PLANT:BUSH:PLURAL,two-grain wheat,双粒小麦
+PLANT:BUSH:PLURAL,soft wheat,软质小麦
+PLANT:BUSH:PLURAL,hard wheat,硬质小麦
+PLANT:BUSH:PLURAL,spelt,斯佩尔特麦
+PLANT:BUSH:PLURAL,barley,大麦
+PLANT:BUSH:PLURAL,buckwheat,荞麦
+PLANT:BUSH:PLURAL,oats,燕麦
+PLANT:BUSH:PLURAL,alfalfa,苜蓿
+PLANT:BUSH:PLURAL,rye,黑麦
+PLANT:BUSH:PLURAL,sorghum,高粱
+PLANT:BUSH:PLURAL,quinoa,藜麦
+PLANT:BUSH:PLURAL,kaniwa,彩藜
+PLANT:BUSH:PLURAL,bitter vetch,苦野豌豆
+PLANT:BUSH:PLURAL,pendant amaranths,吊坠苋
+PLANT:BUSH:PLURAL,blood amaranths,血苋
+PLANT:BUSH:PLURAL,purple amaranths,紫苋
+PLANT:BUSH:PLURAL,red spinach,红菠菜
+PLANT:BUSH:PLURAL,elephant-head amaranths,象头苋
+PLANT:BUSH:PLURAL,papyrus sedges,纸莎草
+PLANT:BUSH:PLURAL,artichokes,洋蓟
+PLANT:BUSH:PLURAL,asparagus,芦笋
+PLANT:BUSH:PLURAL,cabbages,卷心菜
+PLANT:BUSH:PLURAL,cassavas,木薯
+PLANT:BUSH:PLURAL,celery,芹菜
+PLANT:BUSH:PLURAL,chicory,菊苣
+PLANT:BUSH:PLURAL,eggplants,茄子
+PLANT:BUSH:PLURAL,garden cress,水芹
+PLANT:BUSH:PLURAL,leeks,韭葱
+PLANT:BUSH:PLURAL,lettuces,生菜
+PLANT:BUSH:PLURAL,rhubarbs,大黄
+PLANT:BUSH:PLURAL,spinach,菠菜
+PLANT:BUSH:PLURAL,taro,芋头
+PLANT:BUSH:PLURAL,plump helmets,肉盔菇
+PLANT:BUSH:PLURAL,pig tails,猪尾草
+PLANT:BUSH:PLURAL,cave wheat,洞穴小麦
+PLANT:BUSH:PLURAL,sweet pods,甜豆荚
+PLANT:BUSH:PLURAL,muck roots,淤曲根
+PLANT:BUSH:PLURAL,bloated tubers,膨地根
+PLANT:BUSH:PLURAL,kobold bulbs,犬蜥球茎
+PLANT:BUSH:PLURAL,prickle berries,刺莓
+PLANT:BUSH:PLURAL,Longland grass,长岛草
+PLANT:BUSH:PLURAL,valley herbs,山谷香草
+PLANT:BUSH:PLURAL,rat weed,杂鼠草
+PLANT:BUSH:PLURAL,fisher berries,渔夫浆果
+PLANT:BUSH:PLURAL,rope reeds,绳索苇
+PLANT:BUSH:PLURAL,dimple cups,窝杯菇
+PLANT:BUSH:PLURAL,blade weed,刀刃草
+PLANT:BUSH:PLURAL,hide root,匿茎草
+PLANT:BUSH:PLURAL,sliver barbs,裂钩草
+PLANT:BUSH:PLURAL,sun berries,太阳浆果
+PLANT:BUSH:PLURAL,{:PLANT:BUSH:PLANT} plants,{:PLANT:BUSH:PLANT}植株
+PLANT:BUSH:PLURAL,{:PLANT:BUSH:BUSH} bushes,{:PLANT:BUSH:BUSH}灌木
+PLANT:BUSH:PLURAL,{:PLANT:BUSH:VINE} vines,{:PLANT:BUSH:VINE}藤
+PLANT:BUSH:PLANT,rice,稻米
+PLANT:BUSH:PLANT,maize,玉米
+PLANT:BUSH:PLANT,pearl millet,珍珠粟
+PLANT:BUSH:PLANT,white millet,白粟
+PLANT:BUSH:PLANT,finger millet,爪粟
+PLANT:BUSH:PLANT,foxtail millet,狐尾粟
+PLANT:BUSH:PLANT,fonio,非尼奥米
+PLANT:BUSH:PLANT,teff,苔麸
+PLANT:BUSH:PLANT,flax,亚麻
+PLANT:BUSH:PLANT,jute,黄麻
+PLANT:BUSH:PLANT,hemp,大麻
+PLANT:BUSH:PLANT,cotton,棉花
+PLANT:BUSH:PLANT,ramie,苎麻
+PLANT:BUSH:PLANT,kenaf,洋麻
+PLANT:BUSH:PLANT,bambara groundnut,班巴拉花生
+PLANT:BUSH:PLANT,string bean,青豆
+PLANT:BUSH:PLANT,broad bean,蚕豆
+PLANT:BUSH:PLANT,beet,甜菜
+PLANT:BUSH:PLANT,wild carrot,野胡萝卜
+PLANT:BUSH:PLANT,chickpea,鹰嘴豆
+PLANT:BUSH:PLANT,cowpea,豇豆
+PLANT:BUSH:PLANT,garlic,大蒜
+PLANT:BUSH:PLANT,lentil,扁豆
+PLANT:BUSH:PLANT,mung bean,绿豆
+PLANT:BUSH:PLANT,onion,洋葱
+PLANT:BUSH:PLANT,parsnip,防风草
+PLANT:BUSH:PLANT,pea,豌豆
+PLANT:BUSH:PLANT,peanut,花生
+PLANT:BUSH:PLANT,pepper,胡椒
+PLANT:BUSH:PLANT,potato,马铃薯
+PLANT:BUSH:PLANT,radish,小萝卜
+PLANT:BUSH:PLANT,soybean,黄豆
+PLANT:BUSH:PLANT,sweet potato,甘薯
+PLANT:BUSH:PLANT,tomato,番茄
+PLANT:BUSH:PLANT,tomatillo,灯笼番茄
+PLANT:BUSH:PLANT,turnip,芜菁
+PLANT:BUSH:PLANT,urad bean,尤拉德黑豆
+PLANT:BUSH:PLANT,lesser yam,小山药
+PLANT:BUSH:PLANT,long yam,长山药
+PLANT:BUSH:PLANT,purple yam,紫薯
+PLANT:BUSH:PLANT,white yam,白薯
+PLANT:BUSH:PLANT,pineapple,菠萝
+PLANT:BUSH:PLANT,strawberry,草莓
+PLANT:BUSH:BUSH,caper,刺山柑
+PLANT:BUSH:BUSH,bilberry,越橘
+PLANT:BUSH:BUSH,blueberry,蓝莓
+PLANT:BUSH:BUSH,blackberry,黑莓
+PLANT:BUSH:BUSH,raspberry,树莓
+PLANT:BUSH:BUSH,quarry,矿场
+PLANT:BUSH:VINE,bitter melon,苦瓜
+PLANT:BUSH:VINE,cucumber,黄瓜
+PLANT:BUSH:VINE,horned melon,刺角瓜
+PLANT:BUSH:VINE,muskmelon,甜瓜
+PLANT:BUSH:VINE,red bean,红豆
+PLANT:BUSH:VINE,squash,西葫芦
+PLANT:BUSH:VINE,watermelon,西瓜
+PLANT:BUSH:VINE,winter melon,冬瓜
+PLANT:BUSH:VINE,passion fruit,百香果
+PLANT:BUSH:VINE,grape,葡萄
+PLANT:BUSH:VINE,cranberry,蔓越莓
+PLANT:BUSH:VINE,whip,鞭
+PLANT:TREE:SINGULAR,date palm,枣棕榈
+PLANT:TREE:SINGULAR,mangrove,红树
+PLANT:TREE:SINGULAR,saguaro,巨刺柱
+PLANT:TREE:SINGULAR,pine,针松
+PLANT:TREE:SINGULAR,cedar,雪松
+PLANT:TREE:SINGULAR,oak,橡树
+PLANT:TREE:SINGULAR,mahogany,褐芯树
+PLANT:TREE:SINGULAR,acacia,刺槐
+PLANT:TREE:SINGULAR,kapok,木棉树
+PLANT:TREE:SINGULAR,maple,枫树
+PLANT:TREE:SINGULAR,willow,柳树
+PLANT:TREE:SINGULAR,tower-cap,塔菇
+PLANT:TREE:SINGULAR,black-cap,黑菇
+PLANT:TREE:SINGULAR,nether-cap,下界菇
+PLANT:TREE:SINGULAR,goblin-cap,妖精菇
+PLANT:TREE:SINGULAR,fungiwood,真菌木
+PLANT:TREE:SINGULAR,tunnel tube,隧管菌
+PLANT:TREE:SINGULAR,blood thorn,血荆棘
+PLANT:TREE:SINGULAR,glumprong,紫影树
+PLANT:TREE:SINGULAR,highwood,极树
+PLANT:TREE:SINGULAR,larch,落叶松
+PLANT:TREE:SINGULAR,chestnut,板栗树
+PLANT:TREE:SINGULAR,alder,桤树
+PLANT:TREE:SINGULAR,birch,桦树
+PLANT:TREE:SINGULAR,ash,白蜡树
+PLANT:TREE:SINGULAR,candlenut,石栗
+PLANT:TREE:SINGULAR,coconut palm,椰棕榈
+PLANT:TREE:SINGULAR,{:PLANT:TREE:TREE} tree,{:PLANT:TREE:TREE}树
+PLANT:TREE:PLURAL,date palms,枣棕榈
+PLANT:TREE:PLURAL,mangroves,红树
+PLANT:TREE:PLURAL,saguaros,巨刺柱
+PLANT:TREE:PLURAL,pines,针松
+PLANT:TREE:PLURAL,cedars,雪松
+PLANT:TREE:PLURAL,oaks,橡树
+PLANT:TREE:PLURAL,mahoganies,褐芯树
+PLANT:TREE:PLURAL,acacias,刺槐
+PLANT:TREE:PLURAL,kapoks,木棉树
+PLANT:TREE:PLURAL,maples,枫树
+PLANT:TREE:PLURAL,willows,柳树
+PLANT:TREE:PLURAL,tower-caps,塔菇
+PLANT:TREE:PLURAL,black-caps,黑菇
+PLANT:TREE:PLURAL,nether-caps,下界菇
+PLANT:TREE:PLURAL,goblin-caps,妖精菇
+PLANT:TREE:PLURAL,fungiwoods,真菌木
+PLANT:TREE:PLURAL,tunnel tubes,隧管菌
+PLANT:TREE:PLURAL,blood thorn,血荆棘
+PLANT:TREE:PLURAL,glumprongs,紫影树
+PLANT:TREE:PLURAL,highwoods,极树
+PLANT:TREE:PLURAL,larches,落叶松
+PLANT:TREE:PLURAL,chestnuts,板栗树
+PLANT:TREE:PLURAL,alders,桤树
+PLANT:TREE:PLURAL,birches,桦树
+PLANT:TREE:PLURAL,ashes,白蜡树
+PLANT:TREE:PLURAL,candlenuts,石栗
+PLANT:TREE:PLURAL,coconut palms,椰棕榈
+PLANT:TREE:PLURAL,{:PLANT:TREE:TREE} trees,{:PLANT:TREE:TREE}树
+PLANT:TREE:TREE,abaca,蕉麻
+PLANT:TREE:TREE,banana,香蕉
+PLANT:TREE:TREE,carambola,杨桃
+PLANT:TREE:TREE,cashew,腰果
+PLANT:TREE:TREE,coffee,咖啡
+PLANT:TREE:TREE,durian,榴梿
+PLANT:TREE:TREE,guava,番石榴
+PLANT:TREE:TREE,papaya,番木瓜
+PLANT:TREE:TREE,paradise nut,天堂果
+PLANT:TREE:TREE,rambutan,红毛果
+PLANT:TREE:TREE,tea,茶
+PLANT:TREE:TREE,avocado,鳄梨
+PLANT:TREE:TREE,lime,酸橙
+PLANT:TREE:TREE,pomelo,蜜柚
+PLANT:TREE:TREE,citron,香橼
+PLANT:TREE:TREE,orange,橘子
+PLANT:TREE:TREE,bitter orange,苦橙
+PLANT:TREE:TREE,finger lime,指橘
+PLANT:TREE:TREE,round lime,圆橘
+PLANT:TREE:TREE,desert lime,漠橘
+PLANT:TREE:TREE,kumquat,金橘
+PLANT:TREE:TREE,custard-apple,番荔枝
+PLANT:TREE:TREE,lychee,荔枝
+PLANT:TREE:TREE,macadamia,奶油果
+PLANT:TREE:TREE,olive,橄榄
+PLANT:TREE:TREE,pomegranate,石榴
+PLANT:TREE:TREE,almond,扁桃
+PLANT:TREE:TREE,apple,苹果
+PLANT:TREE:TREE,apricot,杏
+PLANT:TREE:TREE,bayberry,杨梅
+PLANT:TREE:TREE,cherry,樱桃
+PLANT:TREE:TREE,ginkgo,银杏
+PLANT:TREE:TREE,hazel,榛
+PLANT:TREE:TREE,peach,桃
+PLANT:TREE:TREE,pear,白梨
+PLANT:TREE:TREE,pecan,碧根果
+PLANT:TREE:TREE,persimmon,柿
+PLANT:TREE:TREE,plum,李
+PLANT:TREE:TREE,sand pear,沙梨
+PLANT:TREE:TREE,walnut,核桃
+PLANT:TREE:TREE,spore,孢子
+PLANT:TREE:TREE,feather,羽毛
+PLANT:TREE:TREE,mango,芒果
+PLANT:TREE:TREE,rubber,橡胶
+PLANT:TREE:TREE,cacao,可可
+PLANT:GRASS:SINGULAR,meadow-grass,甸草
+PLANT:GRASS:SINGULAR,hair grass,发草
+PLANT:GRASS:SINGULAR,bentgrass,糠穗草
+PLANT:GRASS:SINGULAR,ryegrass,绿麦草
+PLANT:GRASS:SINGULAR,fescue grass,细叶草
+PLANT:GRASS:SINGULAR,reedgrass,茅草
+PLANT:GRASS:SINGULAR,knotgrass,绳结草
+PLANT:GRASS:SINGULAR,zoysia,结缕草
+PLANT:GRASS:SINGULAR,dog's tooth grass,狗牙草
+PLANT:GRASS:SINGULAR,dallisgrass,雀稗草
+PLANT:GRASS:SINGULAR,carpetgrass,地毯草
+PLANT:GRASS:SINGULAR,satintail,缎尾草
+PLANT:GRASS:SINGULAR,grama,格兰马草
+PLANT:GRASS:SINGULAR,dropseed grass,落籽草
+PLANT:GRASS:SINGULAR,needle grass,针草
+PLANT:GRASS:SINGULAR,baby toes succulent,幼趾多肉
+PLANT:GRASS:SINGULAR,pebble plant,生石花植株
+PLANT:GRASS:SINGULAR,blue sedge,蓝苔莎
+PLANT:GRASS:SINGULAR,field sedge,田野莎草
+PLANT:GRASS:SINGULAR,purple moor grass,紫泽草
+PLANT:GRASS:SINGULAR,velvet grass,丝绒草
+PLANT:GRASS:SINGULAR,meadowsweet,绣线菊
+PLANT:GRASS:SINGULAR,rush,灯心草
+PLANT:GRASS:SINGULAR,marsh thistle,沼泽蓟
+PLANT:GRASS:SINGULAR,common reed,芦苇
+PLANT:GRASS:SINGULAR,cattail,猫尾草
+PLANT:GRASS:SINGULAR,sawgrass,锯齿草
+PLANT:GRASS:SINGULAR,cottongrass,棉草
+PLANT:GRASS:SINGULAR,white mountain heather,白山石楠
+PLANT:GRASS:SINGULAR,mountain avens,山蔷薇
+PLANT:GRASS:SINGULAR,cloudberry,云莓
+PLANT:GRASS:SINGULAR,wormy tendril,蠕虫卷须
+PLANT:GRASS:SINGULAR,staring eyeball,凝视眼球
+PLANT:GRASS:SINGULAR,bubble bulb,泡泡球茎
+PLANT:GRASS:SINGULAR,downy grass,羽绒草
+PLANT:GRASS:SINGULAR,cave moss,洞穴苔藓
+PLANT:GRASS:SINGULAR,floor fungus,地真菌
+PLANT:GRASS:SINGULAR,underlichen,洞窟地衣
+PLANT:GRASS:SINGULAR,arrow bamboo,箭竹
+PLANT:GRASS:SINGULAR,golden bamboo,金竹
+PLANT:GRASS:SINGULAR,hedge bamboo,篱笆竹
+PLANT:GRASS:PLURAL,meadow-grass,甸草
+PLANT:GRASS:PLURAL,hair grass,发草
+PLANT:GRASS:PLURAL,bentgrass,糠穗草
+PLANT:GRASS:PLURAL,ryegrass,绿麦草
+PLANT:GRASS:PLURAL,fescue grass,细叶草
+PLANT:GRASS:PLURAL,reedgrass,茅草
+PLANT:GRASS:PLURAL,knotgrass,绳结草
+PLANT:GRASS:PLURAL,zoysia,结缕草
+PLANT:GRASS:PLURAL,dog's tooth grass,狗牙草
+PLANT:GRASS:PLURAL,dallisgrass,雀稗草
+PLANT:GRASS:PLURAL,carpetgrass,地毯草
+PLANT:GRASS:PLURAL,satintail,缎尾草
+PLANT:GRASS:PLURAL,grama,格兰马草
+PLANT:GRASS:PLURAL,dropseed grass,落籽草
+PLANT:GRASS:PLURAL,needle grass,针草
+PLANT:GRASS:PLURAL,baby toes succulents,幼趾多肉
+PLANT:GRASS:PLURAL,pebble plants,生石花植株
+PLANT:GRASS:PLURAL,blue sedge,蓝苔莎
+PLANT:GRASS:PLURAL,field sedge,田野莎草
+PLANT:GRASS:PLURAL,purple moor grass,紫泽草
+PLANT:GRASS:PLURAL,velvet grass,丝绒草
+PLANT:GRASS:PLURAL,meadowsweet,绣线菊
+PLANT:GRASS:PLURAL,rushes,灯心草
+PLANT:GRASS:PLURAL,marsh thistles,沼泽蓟
+PLANT:GRASS:PLURAL,common reeds,芦苇
+PLANT:GRASS:PLURAL,cattails,猫尾草
+PLANT:GRASS:PLURAL,sawgrass,锯齿草
+PLANT:GRASS:PLURAL,cottongrass,棉草
+PLANT:GRASS:PLURAL,white mountain heather,白山石楠
+PLANT:GRASS:PLURAL,mountain avens,山蔷薇
+PLANT:GRASS:PLURAL,cloudberries,云莓
+PLANT:GRASS:PLURAL,wormy tendrils,蠕虫卷须
+PLANT:GRASS:PLURAL,staring eyeballs,凝视眼球
+PLANT:GRASS:PLURAL,bubble bulbs,泡泡球茎
+PLANT:GRASS:PLURAL,downy grass,羽绒草
+PLANT:GRASS:PLURAL,cave moss,洞穴苔藓
+PLANT:GRASS:PLURAL,floor fungi,地真菌
+PLANT:GRASS:PLURAL,underlichen,洞窟地衣
+PLANT:GRASS:PLURAL,arrow bamboo,箭竹
+PLANT:GRASS:PLURAL,golden bamboo,金竹
+PLANT:GRASS:PLURAL,hedge bamboo,篱笆竹
+PLANT:ADJECTIVE,single-grain wheat,单粒小麦
+PLANT:ADJECTIVE,two-grain wheat,双粒小麦
+PLANT:ADJECTIVE,soft wheat,软质小麦
+PLANT:ADJECTIVE,hard wheat,硬质小麦
+PLANT:ADJECTIVE,spelt,斯佩尔特麦
+PLANT:ADJECTIVE,barley,大麦
+PLANT:ADJECTIVE,buckwheat,荞麦
+PLANT:ADJECTIVE,oat,燕麦
+PLANT:ADJECTIVE,alfalfa,苜蓿
+PLANT:ADJECTIVE,rye,黑麦
+PLANT:ADJECTIVE,sorghum,高粱
+PLANT:ADJECTIVE,rice plant,稻米植株
+PLANT:ADJECTIVE,maize plant,玉米植株
+PLANT:ADJECTIVE,quinoa,藜麦
+PLANT:ADJECTIVE,kaniwa,彩藜
+PLANT:ADJECTIVE,bitter vetch,苦野豌豆
+PLANT:ADJECTIVE,pendant amaranth,吊坠苋
+PLANT:ADJECTIVE,blood amaranth,血苋
+PLANT:ADJECTIVE,purple amaranth,紫苋
+PLANT:ADJECTIVE,red spinach,红菠菜
+PLANT:ADJECTIVE,elephant-head amaranth,象头苋
+PLANT:ADJECTIVE,pearl millet plant,珍珠粟植株
+PLANT:ADJECTIVE,white millet plant,白粟植株
+PLANT:ADJECTIVE,finger millet plant,爪粟植株
+PLANT:ADJECTIVE,foxtail millet plant,狐尾粟植株
+PLANT:ADJECTIVE,fonio plant,非尼奥米植株
+PLANT:ADJECTIVE,teff plant,苔麸植株
+PLANT:ADJECTIVE,flax plant,亚麻植株
+PLANT:ADJECTIVE,jute plant,黄麻植株
+PLANT:ADJECTIVE,hemp plant,大麻植株
+PLANT:ADJECTIVE,cotton plant,棉花植株
+PLANT:ADJECTIVE,ramie plant,苎麻植株
+PLANT:ADJECTIVE,kenaf plant,洋麻植株
+PLANT:ADJECTIVE,papyrus sedge,纸莎草
+PLANT:ADJECTIVE,artichoke,洋蓟
+PLANT:ADJECTIVE,asparagus,芦笋
+PLANT:ADJECTIVE,bambara groundnut plant,班巴拉花生植株
+PLANT:ADJECTIVE,string bean plant,青豆植株
+PLANT:ADJECTIVE,broad bean plant,蚕豆植株
+PLANT:ADJECTIVE,beet plant,甜菜植株
+PLANT:ADJECTIVE,bitter melon vine,苦瓜藤
+PLANT:ADJECTIVE,cabbage,卷心菜
+PLANT:ADJECTIVE,caper bush,刺山柑灌木
+PLANT:ADJECTIVE,wild carrot plant,野胡萝卜植株
+PLANT:ADJECTIVE,cassava,木薯
+PLANT:ADJECTIVE,celery,芹菜
+PLANT:ADJECTIVE,chickpea plant,鹰嘴豆植株
+PLANT:ADJECTIVE,chicory,菊苣
+PLANT:ADJECTIVE,cowpea plant,豇豆植株
+PLANT:ADJECTIVE,cucumber vine,黄瓜藤
+PLANT:ADJECTIVE,eggplant,茄子
+PLANT:ADJECTIVE,garden cress,水芹
+PLANT:ADJECTIVE,garlic plant,大蒜植株
+PLANT:ADJECTIVE,horned melon vine,刺角瓜藤
+PLANT:ADJECTIVE,leek,韭葱
+PLANT:ADJECTIVE,lentil plant,扁豆植株
+PLANT:ADJECTIVE,lettuce,生菜
+PLANT:ADJECTIVE,mung bean plant,绿豆植株
+PLANT:ADJECTIVE,muskmelon vine,甜瓜藤
+PLANT:ADJECTIVE,onion plant,洋葱植株
+PLANT:ADJECTIVE,parsnip plant,防风草植株
+PLANT:ADJECTIVE,pea plant,豌豆植株
+PLANT:ADJECTIVE,peanut plant,花生植株
+PLANT:ADJECTIVE,pepper plant,胡椒植株
+PLANT:ADJECTIVE,potato plant,马铃薯植株
+PLANT:ADJECTIVE,radish plant,小萝卜植株
+PLANT:ADJECTIVE,red bean vine,红豆藤
+PLANT:ADJECTIVE,rhubarb,大黄
+PLANT:ADJECTIVE,soybean plant,黄豆植株
+PLANT:ADJECTIVE,spinach,菠菜
+PLANT:ADJECTIVE,squash vine,西葫芦藤
+PLANT:ADJECTIVE,sweet potato plant,甘薯植株
+PLANT:ADJECTIVE,taro,芋头
+PLANT:ADJECTIVE,tomato plant,番茄植株
+PLANT:ADJECTIVE,tomatillo plant,灯笼番茄植株
+PLANT:ADJECTIVE,turnip plant,芜菁植株
+PLANT:ADJECTIVE,urad bean plant,尤拉德黑豆植株
+PLANT:ADJECTIVE,watermelon vine,西瓜藤
+PLANT:ADJECTIVE,winter melon vine,冬瓜藤
+PLANT:ADJECTIVE,lesser yam plant,小山药植株
+PLANT:ADJECTIVE,long yam plant,长山药植株
+PLANT:ADJECTIVE,purple yam plant,紫薯植株
+PLANT:ADJECTIVE,white yam plant,白薯植株
+PLANT:ADJECTIVE,passion fruit vine,百香果藤
+PLANT:ADJECTIVE,grape vine,葡萄藤
+PLANT:ADJECTIVE,cranberry vine,蔓越莓藤
+PLANT:ADJECTIVE,bilberry bush,越橘灌木
+PLANT:ADJECTIVE,blueberry bush,蓝莓灌木
+PLANT:ADJECTIVE,blackberry bush,黑莓灌木
+PLANT:ADJECTIVE,raspberry bush,树莓灌木
+PLANT:ADJECTIVE,pineapple plant,菠萝植株
+PLANT:ADJECTIVE,plump helmet,肉盔菇
+PLANT:ADJECTIVE,pig tail,猪尾草
+PLANT:ADJECTIVE,cave wheat,洞穴小麦
+PLANT:ADJECTIVE,sweet pod,甜豆荚
+PLANT:ADJECTIVE,quarry bush,矿场灌木
+PLANT:ADJECTIVE,muck root,淤曲根
+PLANT:ADJECTIVE,bloated tuber,膨地根
+PLANT:ADJECTIVE,kobold bulb,犬蜥球茎
+PLANT:ADJECTIVE,prickle berry,刺莓
+PLANT:ADJECTIVE,strawberry plant,草莓植株
+PLANT:ADJECTIVE,Longland grass,长岛草
+PLANT:ADJECTIVE,valley herb,山谷香草
+PLANT:ADJECTIVE,rat weed,杂鼠草
+PLANT:ADJECTIVE,fisher berry,渔夫浆果
+PLANT:ADJECTIVE,rope reed,绳索苇
+PLANT:ADJECTIVE,dimple cup,窝杯菇
+PLANT:ADJECTIVE,blade weed,刀刃草
+PLANT:ADJECTIVE,hide root,匿茎草
+PLANT:ADJECTIVE,sliver barb,裂钩草
+PLANT:ADJECTIVE,sun berry,太阳浆果
+PLANT:ADJECTIVE,whip vine,鞭藤
+PLANT:ADJECTIVE,abaca tree,蕉麻树
+PLANT:ADJECTIVE,banana tree,香蕉树
+PLANT:ADJECTIVE,carambola tree,杨桃树
+PLANT:ADJECTIVE,cashew tree,腰果树
+PLANT:ADJECTIVE,coffee tree,咖啡树
+PLANT:ADJECTIVE,durian tree,榴梿树
+PLANT:ADJECTIVE,guava tree,番石榴树
+PLANT:ADJECTIVE,papaya tree,番木瓜树
+PLANT:ADJECTIVE,paradise nut tree,天堂果树
+PLANT:ADJECTIVE,rambutan tree,红毛果树
+PLANT:ADJECTIVE,tea tree,茶树
+PLANT:ADJECTIVE,avocado tree,鳄梨树
+PLANT:ADJECTIVE,lime tree,酸橙树
+PLANT:ADJECTIVE,pomelo tree,蜜柚树
+PLANT:ADJECTIVE,citron tree,香橼树
+PLANT:ADJECTIVE,orange tree,橘子树
+PLANT:ADJECTIVE,bitter orange tree,苦橙树
+PLANT:ADJECTIVE,finger lime tree,指橘树
+PLANT:ADJECTIVE,round lime tree,圆橘树
+PLANT:ADJECTIVE,desert lime tree,漠橘树
+PLANT:ADJECTIVE,kumquat tree,金橘树
+PLANT:ADJECTIVE,custard-apple tree,番荔枝树
+PLANT:ADJECTIVE,date palm,枣棕榈
+PLANT:ADJECTIVE,lychee tree,荔枝树
+PLANT:ADJECTIVE,macadamia tree,奶油果树
+PLANT:ADJECTIVE,olive tree,橄榄树
+PLANT:ADJECTIVE,pomegranate tree,石榴树
+PLANT:ADJECTIVE,almond tree,扁桃树
+PLANT:ADJECTIVE,apple tree,苹果树
+PLANT:ADJECTIVE,apricot tree,杏树
+PLANT:ADJECTIVE,bayberry tree,杨梅树
+PLANT:ADJECTIVE,cherry tree,樱桃树
+PLANT:ADJECTIVE,ginkgo tree,银杏树
+PLANT:ADJECTIVE,hazel tree,榛树
+PLANT:ADJECTIVE,peach tree,桃树
+PLANT:ADJECTIVE,pear tree,白梨树
+PLANT:ADJECTIVE,pecan tree,碧根果树
+PLANT:ADJECTIVE,persimmon tree,柿树
+PLANT:ADJECTIVE,plum tree,李树
+PLANT:ADJECTIVE,sand pear tree,沙梨树
+PLANT:ADJECTIVE,walnut tree,核桃树
+PLANT:ADJECTIVE,mangrove,红树
+PLANT:ADJECTIVE,saguaro,巨刺柱
+PLANT:ADJECTIVE,pine,针松
+PLANT:ADJECTIVE,cedar,雪松
+PLANT:ADJECTIVE,oaken,橡树
+PLANT:ADJECTIVE,mahogany,褐芯树
+PLANT:ADJECTIVE,acacia,刺槐
+PLANT:ADJECTIVE,kapok,木棉树
+PLANT:ADJECTIVE,maple,枫树
+PLANT:ADJECTIVE,willow,柳树
+PLANT:ADJECTIVE,tower-cap,塔菇
+PLANT:ADJECTIVE,black-cap,黑菇
+PLANT:ADJECTIVE,nether-cap,下界菇
+PLANT:ADJECTIVE,goblin-cap,妖精菇
+PLANT:ADJECTIVE,fungiwood,真菌木
+PLANT:ADJECTIVE,tunnel tube,隧管菌
+PLANT:ADJECTIVE,spore tree,孢子树
+PLANT:ADJECTIVE,blood thorn,血荆棘
+PLANT:ADJECTIVE,glumprong,紫影树
+PLANT:ADJECTIVE,feather tree,羽毛树
+PLANT:ADJECTIVE,highwood,极树
+PLANT:ADJECTIVE,larch,落叶松
+PLANT:ADJECTIVE,chestnut,板栗树
+PLANT:ADJECTIVE,alder,桤树
+PLANT:ADJECTIVE,birchen,桦树
+PLANT:ADJECTIVE,ashen,白蜡树
+PLANT:ADJECTIVE,candlenut,石栗
+PLANT:ADJECTIVE,mango tree,芒果树
+PLANT:ADJECTIVE,rubber tree,橡胶树
+PLANT:ADJECTIVE,cacao tree,可可树
+PLANT:ADJECTIVE,coconut palm,椰棕榈
+PLANT:ADJECTIVE,meadow-grass,甸草
+PLANT:ADJECTIVE,hair grass,发草
+PLANT:ADJECTIVE,bentgrass,糠穗草
+PLANT:ADJECTIVE,ryegrass,绿麦草
+PLANT:ADJECTIVE,fescue grass,细叶草
+PLANT:ADJECTIVE,reedgrass,茅草
+PLANT:ADJECTIVE,knotgrass,绳结草
+PLANT:ADJECTIVE,zoysia,结缕草
+PLANT:ADJECTIVE,dog's tooth grass,狗牙草
+PLANT:ADJECTIVE,dallisgrass,雀稗草
+PLANT:ADJECTIVE,carpetgrass,地毯草
+PLANT:ADJECTIVE,satintail,缎尾草
+PLANT:ADJECTIVE,grama,格兰马草
+PLANT:ADJECTIVE,dropseed grass,落籽草
+PLANT:ADJECTIVE,needle grass,针草
+PLANT:ADJECTIVE,baby toes succulent,幼趾多肉
+PLANT:ADJECTIVE,pebble plant,生石花植株
+PLANT:ADJECTIVE,blue sedge,蓝苔莎
+PLANT:ADJECTIVE,field sedge,田野莎草
+PLANT:ADJECTIVE,purple moor grass,紫泽草
+PLANT:ADJECTIVE,velvet grass,丝绒草
+PLANT:ADJECTIVE,meadowsweet,绣线菊
+PLANT:ADJECTIVE,rush,灯心草
+PLANT:ADJECTIVE,marsh thistle,沼泽蓟
+PLANT:ADJECTIVE,common reed,芦苇
+PLANT:ADJECTIVE,cattail,猫尾草
+PLANT:ADJECTIVE,sawgrass,锯齿草
+PLANT:ADJECTIVE,cottongrass,棉草
+PLANT:ADJECTIVE,white mountain heather,白山石楠
+PLANT:ADJECTIVE,mountain avens,山蔷薇
+PLANT:ADJECTIVE,cloudberry,云莓
+PLANT:ADJECTIVE,wormy tendril,蠕虫卷须
+PLANT:ADJECTIVE,staring eyeball,凝视眼球
+PLANT:ADJECTIVE,bubble bulb,泡泡球茎
+PLANT:ADJECTIVE,downy grass,羽绒草
+PLANT:ADJECTIVE,cave moss,洞穴苔藓
+PLANT:ADJECTIVE,floor fungus,地真菌
+PLANT:ADJECTIVE,underlichen,洞窟地衣
+PLANT:ADJECTIVE,arrow bamboo,箭竹
+PLANT:ADJECTIVE,golden bamboo,金竹
+PLANT:ADJECTIVE,hedge bamboo,篱笆竹

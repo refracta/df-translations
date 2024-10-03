@@ -1,0 +1,261 @@
+table,text,translation
+GEM,{SINGULAR},{SINGULAR}
+GEM,{PLURAL},{PLURAL}
+GEM:SINGULAR,{:GEM:MATERIAL:SINGULAR},{:GEM:MATERIAL:SINGULAR}
+GEM:SINGULAR,{:MATERIAL},{:MATERIAL}
+GEM:PLURAL,{:GEM:MATERIAL:PLURAL},{:GEM:MATERIAL:PLURAL}
+GEM:PLURAL,{:MATERIAL},{:MATERIAL}
+GEM:MATERIAL:SINGULAR,onyx,缟玛瑙
+GEM:MATERIAL:SINGULAR,morion,黑水晶
+GEM:MATERIAL:SINGULAR,schorl,黑碧玺
+GEM:MATERIAL:SINGULAR,lace agate,蕾丝玛瑙
+GEM:MATERIAL:SINGULAR,blue jade,蓝翡翠
+GEM:MATERIAL:SINGULAR,lapis lazuli,青金石
+GEM:MATERIAL:SINGULAR,prase,苍绿石英
+GEM:MATERIAL:SINGULAR,prase opal,苍绿欧泊
+GEM:MATERIAL:SINGULAR,bloodstone,血石
+GEM:MATERIAL:SINGULAR,moss agate,苔藓玛瑙
+GEM:MATERIAL:SINGULAR,moss opal,苔藓欧泊
+GEM:MATERIAL:SINGULAR,variscite,磷铝石
+GEM:MATERIAL:SINGULAR,chrysoprase,绿玉髓
+GEM:MATERIAL:SINGULAR,chrysocolla,硅孔雀石
+GEM:MATERIAL:SINGULAR,sard,褐玉髓
+GEM:MATERIAL:SINGULAR,carnelian,红玉髓
+GEM:MATERIAL:SINGULAR,banded agate,条纹玛瑙
+GEM:MATERIAL:SINGULAR,sardonyx,缠丝玛瑙
+GEM:MATERIAL:SINGULAR,cherry opal,樱桃欧泊
+GEM:MATERIAL:SINGULAR,lavender jade,紫翡翠
+GEM:MATERIAL:SINGULAR,pink jade,粉红翡翠
+GEM:MATERIAL:SINGULAR,tube agate,管脉玛瑙
+GEM:MATERIAL:SINGULAR,fire agate,火玛瑙
+GEM:MATERIAL:SINGULAR,plume agate,羽毛玛瑙
+GEM:MATERIAL:SINGULAR,brown jasper,棕碧玉
+GEM:MATERIAL:SINGULAR,picture jasper,图画碧玉
+GEM:MATERIAL:SINGULAR,smoky quartz,烟石英
+GEM:MATERIAL:SINGULAR,wax opal,蜡质欧泊
+GEM:MATERIAL:SINGULAR,wood opal,木欧泊
+GEM:MATERIAL:SINGULAR,amber opal,琥珀欧泊
+GEM:MATERIAL:SINGULAR,gold opal,金欧泊
+GEM:MATERIAL:SINGULAR,citrine,黄水晶
+GEM:MATERIAL:SINGULAR,yellow jasper,黄碧玉
+GEM:MATERIAL:SINGULAR,tigereye,虎眼石
+GEM:MATERIAL:SINGULAR,tiger iron,虎铁石
+GEM:MATERIAL:SINGULAR,sunstone,日长石
+GEM:MATERIAL:SINGULAR,resin opal,脂光欧泊
+GEM:MATERIAL:SINGULAR,pyrite,黄铁矿
+GEM:MATERIAL:SINGULAR,clear tourmaline,透明碧玺
+GEM:MATERIAL:SINGULAR,gray chalcedony,灰玉髓
+GEM:MATERIAL:SINGULAR,dendritic agate,枝纹玛瑙
+GEM:MATERIAL:SINGULAR,shell opal,贝壳欧泊
+GEM:MATERIAL:SINGULAR,bone opal,骨质欧泊
+GEM:MATERIAL:SINGULAR,white chalcedony,白玉髓
+GEM:MATERIAL:SINGULAR,fortification agate,城垒玛瑙
+GEM:MATERIAL:SINGULAR,milk quartz,乳石英
+GEM:MATERIAL:SINGULAR,moonstone,月长石
+GEM:MATERIAL:SINGULAR,white jade,白翡翠
+GEM:MATERIAL:SINGULAR,jasper opal,碧玉欧泊
+GEM:MATERIAL:SINGULAR,pineapple opal,凤梨欧泊
+GEM:MATERIAL:SINGULAR,onyx opal,缟纹欧泊
+GEM:MATERIAL:SINGULAR,milk opal,乳欧泊
+GEM:MATERIAL:SINGULAR,pipe opal,管纹欧泊
+GEM:MATERIAL:SINGULAR,aventurine,砂金石
+GEM:MATERIAL:SINGULAR,turquoise,绿松石
+GEM:MATERIAL:SINGULAR,rose quartz,蔷薇石英
+GEM:MATERIAL:SINGULAR,rock crystal,岩石水晶
+GEM:MATERIAL:SINGULAR,black zircon,黑锆石
+GEM:MATERIAL:SINGULAR,black pyrope,黑榴石
+GEM:MATERIAL:SINGULAR,melanite,墨榴石
+GEM:MATERIAL:SINGULAR,indigo tourmaline,靛蓝碧玺
+GEM:MATERIAL:SINGULAR,blue garnet,蓝榴石
+GEM:MATERIAL:SINGULAR,tsavorite,沙弗莱石
+GEM:MATERIAL:SINGULAR,green tourmaline,绿碧玺
+GEM:MATERIAL:SINGULAR,demantoid,翠榴石
+GEM:MATERIAL:SINGULAR,green zircon,绿锆石
+GEM:MATERIAL:SINGULAR,green jade,绿翡翠
+GEM:MATERIAL:SINGULAR,heliodor,绿柱石
+GEM:MATERIAL:SINGULAR,peridot,橄榄石
+GEM:MATERIAL:SINGULAR,red zircon,红锆石
+GEM:MATERIAL:SINGULAR,red tourmaline,红碧玺
+GEM:MATERIAL:SINGULAR,red pyrope,赤榴石
+GEM:MATERIAL:SINGULAR,almandine,殷榴石
+GEM:MATERIAL:SINGULAR,red grossular,红榴石
+GEM:MATERIAL:SINGULAR,pink tourmaline,粉红碧玺
+GEM:MATERIAL:SINGULAR,red beryl,红柱石
+GEM:MATERIAL:SINGULAR,fire opal,火欧泊
+GEM:MATERIAL:SINGULAR,rhodolite,朱榴石
+GEM:MATERIAL:SINGULAR,purple spinel,紫尖晶石
+GEM:MATERIAL:SINGULAR,alexandrite,紫翠玉
+GEM:MATERIAL:SINGULAR,tanzanite,坦桑石
+GEM:MATERIAL:SINGULAR,morganite,摩根石
+GEM:MATERIAL:SINGULAR,violet spessartine,紫榴石
+GEM:MATERIAL:SINGULAR,pink garnet,粉红榴石
+GEM:MATERIAL:SINGULAR,kunzite,紫锂辉石
+GEM:MATERIAL:SINGULAR,cinnamon grossular,褐榴石
+GEM:MATERIAL:SINGULAR,honey yellow beryl,蜜黄柱石
+GEM:MATERIAL:SINGULAR,jelly opal,冻胶欧泊
+GEM:MATERIAL:SINGULAR,brown zircon,棕锆石
+GEM:MATERIAL:SINGULAR,yellow zircon,黄锆石
+GEM:MATERIAL:SINGULAR,golden beryl,金柱石
+GEM:MATERIAL:SINGULAR,yellow spessartine,橙榴石
+GEM:MATERIAL:SINGULAR,topaz,黄玉
+GEM:MATERIAL:SINGULAR,topazolite,黄榴石
+GEM:MATERIAL:SINGULAR,yellow grossular,缃榴石
+GEM:MATERIAL:SINGULAR,rubicelle,橙尖晶石
+GEM:MATERIAL:SINGULAR,clear garnet,透明榴石
+GEM:MATERIAL:SINGULAR,goshenite,白柱石
+GEM:MATERIAL:SINGULAR,cat's eye,猫眼石
+GEM:MATERIAL:SINGULAR,clear zircon,透明锆石
+GEM:MATERIAL:SINGULAR,amethyst,紫水晶
+GEM:MATERIAL:SINGULAR,aquamarine,海蓝宝石
+GEM:MATERIAL:SINGULAR,red spinel,红尖晶石
+GEM:MATERIAL:SINGULAR,chrysoberyl,金绿玉
+GEM:MATERIAL:SINGULAR,precious fire opal,贵火欧泊
+GEM:MATERIAL:SINGULAR,red flash opal,红闪欧泊
+GEM:MATERIAL:SINGULAR,black opal,黑欧泊
+GEM:MATERIAL:SINGULAR,white opal,白欧泊
+GEM:MATERIAL:SINGULAR,crystal opal,水晶欧泊
+GEM:MATERIAL:SINGULAR,claro opal,烟欧泊
+GEM:MATERIAL:SINGULAR,levin opal,雷电欧泊
+GEM:MATERIAL:SINGULAR,harlequin opal,斑斓欧泊
+GEM:MATERIAL:SINGULAR,pinfire opal,星火欧泊
+GEM:MATERIAL:SINGULAR,bandfire opal,火纹欧泊
+GEM:MATERIAL:SINGULAR,light yellow diamond,亮黄钻石
+GEM:MATERIAL:SINGULAR,faint yellow diamond,微黄钻石
+GEM:MATERIAL:SINGULAR,emerald,祖母绿宝石
+GEM:MATERIAL:SINGULAR,ruby,红宝石
+GEM:MATERIAL:SINGULAR,sapphire,蓝玉
+GEM:MATERIAL:SINGULAR,clear diamond,透明钻石
+GEM:MATERIAL:SINGULAR,red diamond,红钻石
+GEM:MATERIAL:SINGULAR,green diamond,绿钻石
+GEM:MATERIAL:SINGULAR,blue diamond,蓝钻石
+GEM:MATERIAL:SINGULAR,yellow diamond,黄钻石
+GEM:MATERIAL:SINGULAR,black diamond,黑钻石
+GEM:MATERIAL:SINGULAR,star sapphire,星彩蓝玉
+GEM:MATERIAL:SINGULAR,star ruby,星彩红宝石
+GEM:MATERIAL:PLURAL,onyxes,缟玛瑙
+GEM:MATERIAL:PLURAL,morions,黑水晶
+GEM:MATERIAL:PLURAL,schorls,黑碧玺
+GEM:MATERIAL:PLURAL,lace agates,蕾丝玛瑙
+GEM:MATERIAL:PLURAL,blue jades,蓝翡翠
+GEM:MATERIAL:PLURAL,lapis lazulis,青金石
+GEM:MATERIAL:PLURAL,prases,苍绿石英
+GEM:MATERIAL:PLURAL,prase opals,苍绿欧泊
+GEM:MATERIAL:PLURAL,bloodstones,血石
+GEM:MATERIAL:PLURAL,moss agates,苔藓玛瑙
+GEM:MATERIAL:PLURAL,moss opals,苔藓欧泊
+GEM:MATERIAL:PLURAL,variscites,磷铝石
+GEM:MATERIAL:PLURAL,chrysoprases,绿玉髓
+GEM:MATERIAL:PLURAL,chrysocollas,硅孔雀石
+GEM:MATERIAL:PLURAL,sards,褐玉髓
+GEM:MATERIAL:PLURAL,carnelians,红玉髓
+GEM:MATERIAL:PLURAL,banded agates,条纹玛瑙
+GEM:MATERIAL:PLURAL,sardonyxes,缠丝玛瑙
+GEM:MATERIAL:PLURAL,cherry opals,樱桃欧泊
+GEM:MATERIAL:PLURAL,lavender jades,紫翡翠
+GEM:MATERIAL:PLURAL,pink jades,粉红翡翠
+GEM:MATERIAL:PLURAL,tube agates,管脉玛瑙
+GEM:MATERIAL:PLURAL,fire agates,火玛瑙
+GEM:MATERIAL:PLURAL,plume agates,羽毛玛瑙
+GEM:MATERIAL:PLURAL,brown jaspers,棕碧玉
+GEM:MATERIAL:PLURAL,picture jaspers,图画碧玉
+GEM:MATERIAL:PLURAL,smoky quartzes,烟石英
+GEM:MATERIAL:PLURAL,wax opals,蜡质欧泊
+GEM:MATERIAL:PLURAL,wood opals,木欧泊
+GEM:MATERIAL:PLURAL,amber opals,琥珀欧泊
+GEM:MATERIAL:PLURAL,gold opals,金欧泊
+GEM:MATERIAL:PLURAL,citrines,黄水晶
+GEM:MATERIAL:PLURAL,yellow jaspers,黄碧玉
+GEM:MATERIAL:PLURAL,tigereyes,虎眼石
+GEM:MATERIAL:PLURAL,tiger irons,虎铁石
+GEM:MATERIAL:PLURAL,sunstones,日长石
+GEM:MATERIAL:PLURAL,resin opals,脂光欧泊
+GEM:MATERIAL:PLURAL,pyrites,黄铁矿
+GEM:MATERIAL:PLURAL,clear tourmalines,透明碧玺
+GEM:MATERIAL:PLURAL,gray chalcedonies,灰玉髓
+GEM:MATERIAL:PLURAL,dendritic agates,枝纹玛瑙
+GEM:MATERIAL:PLURAL,shell opals,贝壳欧泊
+GEM:MATERIAL:PLURAL,bone opals,骨质欧泊
+GEM:MATERIAL:PLURAL,white chalcedonies,白玉髓
+GEM:MATERIAL:PLURAL,fortification agates,城垒玛瑙
+GEM:MATERIAL:PLURAL,milk quartzes,乳石英
+GEM:MATERIAL:PLURAL,moonstones,月长石
+GEM:MATERIAL:PLURAL,white jades,白翡翠
+GEM:MATERIAL:PLURAL,jasper opals,碧玉欧泊
+GEM:MATERIAL:PLURAL,pineapple opals,凤梨欧泊
+GEM:MATERIAL:PLURAL,onyx opals,缟纹欧泊
+GEM:MATERIAL:PLURAL,milk opals,乳欧泊
+GEM:MATERIAL:PLURAL,pipe opals,管纹欧泊
+GEM:MATERIAL:PLURAL,aventurines,砂金石
+GEM:MATERIAL:PLURAL,turquoises,绿松石
+GEM:MATERIAL:PLURAL,rose quartzes,蔷薇石英
+GEM:MATERIAL:PLURAL,rock crystals,岩石水晶
+GEM:MATERIAL:PLURAL,black zircons,黑锆石
+GEM:MATERIAL:PLURAL,black pyropes,黑榴石
+GEM:MATERIAL:PLURAL,melanites,墨榴石
+GEM:MATERIAL:PLURAL,indigo tourmalines,靛蓝碧玺
+GEM:MATERIAL:PLURAL,blue garnets,蓝榴石
+GEM:MATERIAL:PLURAL,tsavorites,沙弗莱石
+GEM:MATERIAL:PLURAL,green tourmalines,绿碧玺
+GEM:MATERIAL:PLURAL,demantoids,翠榴石
+GEM:MATERIAL:PLURAL,green zircons,绿锆石
+GEM:MATERIAL:PLURAL,green jades,绿翡翠
+GEM:MATERIAL:PLURAL,heliodors,绿柱石
+GEM:MATERIAL:PLURAL,peridots,橄榄石
+GEM:MATERIAL:PLURAL,red zircons,红锆石
+GEM:MATERIAL:PLURAL,red tourmalines,红碧玺
+GEM:MATERIAL:PLURAL,red pyropes,赤榴石
+GEM:MATERIAL:PLURAL,almandines,殷榴石
+GEM:MATERIAL:PLURAL,red grossulars,红榴石
+GEM:MATERIAL:PLURAL,pink tourmalines,粉红碧玺
+GEM:MATERIAL:PLURAL,red beryls,红柱石
+GEM:MATERIAL:PLURAL,fire opals,火欧泊
+GEM:MATERIAL:PLURAL,rhodolites,朱榴石
+GEM:MATERIAL:PLURAL,purple spinels,紫尖晶石
+GEM:MATERIAL:PLURAL,alexandrites,紫翠玉
+GEM:MATERIAL:PLURAL,tanzanites,坦桑石
+GEM:MATERIAL:PLURAL,morganites,摩根石
+GEM:MATERIAL:PLURAL,violet spessartines,紫榴石
+GEM:MATERIAL:PLURAL,pink garnets,粉红榴石
+GEM:MATERIAL:PLURAL,kunzites,紫锂辉石
+GEM:MATERIAL:PLURAL,cinnamon grossulars,褐榴石
+GEM:MATERIAL:PLURAL,honey yellow beryls,蜜黄柱石
+GEM:MATERIAL:PLURAL,jelly opals,冻胶欧泊
+GEM:MATERIAL:PLURAL,brown zircons,棕锆石
+GEM:MATERIAL:PLURAL,yellow zircons,黄锆石
+GEM:MATERIAL:PLURAL,golden beryls,金柱石
+GEM:MATERIAL:PLURAL,yellow spessartines,橙榴石
+GEM:MATERIAL:PLURAL,topazes,黄玉
+GEM:MATERIAL:PLURAL,topazolites,黄榴石
+GEM:MATERIAL:PLURAL,yellow grossulars,缃榴石
+GEM:MATERIAL:PLURAL,rubicelles,橙尖晶石
+GEM:MATERIAL:PLURAL,clear garnets,透明榴石
+GEM:MATERIAL:PLURAL,goshenites,白柱石
+GEM:MATERIAL:PLURAL,cat's eyes,猫眼石
+GEM:MATERIAL:PLURAL,clear zircons,透明锆石
+GEM:MATERIAL:PLURAL,amethysts,紫水晶
+GEM:MATERIAL:PLURAL,aquamarines,海蓝宝石
+GEM:MATERIAL:PLURAL,red spinels,红尖晶石
+GEM:MATERIAL:PLURAL,chrysoberyls,金绿玉
+GEM:MATERIAL:PLURAL,precious fire opals,贵火欧泊
+GEM:MATERIAL:PLURAL,red flash opals,红闪欧泊
+GEM:MATERIAL:PLURAL,black opals,黑欧泊
+GEM:MATERIAL:PLURAL,white opals,白欧泊
+GEM:MATERIAL:PLURAL,crystal opals,水晶欧泊
+GEM:MATERIAL:PLURAL,claro opals,烟欧泊
+GEM:MATERIAL:PLURAL,levin opals,雷电欧泊
+GEM:MATERIAL:PLURAL,harlequin opals,斑斓欧泊
+GEM:MATERIAL:PLURAL,pinfire opals,星火欧泊
+GEM:MATERIAL:PLURAL,bandfire opals,火纹欧泊
+GEM:MATERIAL:PLURAL,light yellow diamonds,亮黄钻石
+GEM:MATERIAL:PLURAL,faint yellow diamonds,微黄钻石
+GEM:MATERIAL:PLURAL,emeralds,祖母绿宝石
+GEM:MATERIAL:PLURAL,rubies,红宝石
+GEM:MATERIAL:PLURAL,sapphires,蓝玉
+GEM:MATERIAL:PLURAL,clear diamonds,透明钻石
+GEM:MATERIAL:PLURAL,red diamonds,红钻石
+GEM:MATERIAL:PLURAL,green diamonds,绿钻石
+GEM:MATERIAL:PLURAL,blue diamonds,蓝钻石
+GEM:MATERIAL:PLURAL,yellow diamonds,黄钻石
+GEM:MATERIAL:PLURAL,black diamonds,黑钻石
+GEM:MATERIAL:PLURAL,star sapphires,星彩蓝玉
+GEM:MATERIAL:PLURAL,star rubies,星彩红宝石

@@ -1,0 +1,747 @@
+table,text,translation
+MATERIAL,{:MATERIAL:PREFIX} {:MATERIAL:STATE},{:MATERIAL:PREFIX}{:MATERIAL:STATE}
+MATERIAL:ADJECTIVE,{:MATERIAL:PREFIX} {:MATERIAL:STATE:ADJECTIVE},{:MATERIAL:PREFIX}{:MATERIAL:STATE:ADJECTIVE}
+MATERIAL:JOB,wood,木头
+MATERIAL:JOB,{:MATERIAL:JOB:SHARED},{:MATERIAL:JOB:SHARED}
+MATERIAL:JOB:ADJECTIVE,wooden,木制
+MATERIAL:JOB:ADJECTIVE,{:MATERIAL:JOB:SHARED},{:MATERIAL:JOB:SHARED}
+MATERIAL:JOB:SHARED,plant,植物
+MATERIAL:JOB:SHARED,cloth,布匹
+MATERIAL:JOB:SHARED,silk,丝绸
+MATERIAL:JOB:SHARED,leather,皮革
+MATERIAL:JOB:SHARED,bone,骨头
+MATERIAL:JOB:SHARED,shell,壳
+MATERIAL:JOB:SHARED,soap,肥皂
+MATERIAL:JOB:SHARED,ivory/tooth,长牙/牙齿
+MATERIAL:JOB:SHARED,horn,角
+MATERIAL:JOB:SHARED,pearl,珍珠
+MATERIAL:JOB:SHARED,yarn,纱线
+MATERIAL:PREFIX,{:PLANT:SINGULAR},{:PLANT:SINGULAR}
+MATERIAL:PREFIX,{:CREATURE:SINGULAR},{:CREATURE:SINGULAR}
+MATERIAL:PREFIX,,
+MATERIAL:STATE,gold dust,金粉
+MATERIAL:STATE,metal,金属
+MATERIAL:STATE,native gold dust,天然金粉
+MATERIAL:STATE,fat,脂肪
+MATERIAL:STATE,grease,油脂
+MATERIAL:STATE,cartilage,软骨
+MATERIAL:STATE,cheese,奶酪
+MATERIAL:STATE,wood,木头
+MATERIAL:STATE,sponge,海绵
+MATERIAL:STATE,saguaro rib wood,巨刺柱肋木
+MATERIAL:STATE,oak,橡树
+MATERIAL:STATE,birch,桦树
+MATERIAL:STATE,{:MATERIAL:STATE:SHARED},{:MATERIAL:STATE:SHARED}
+MATERIAL:STATE:ADJECTIVE,fatty,脂肪
+MATERIAL:STATE:ADJECTIVE,greasy,油脂
+MATERIAL:STATE:ADJECTIVE,cartilaginous,软骨
+MATERIAL:STATE:ADJECTIVE,cheesy,奶酪
+MATERIAL:STATE:ADJECTIVE,wooden,木制
+MATERIAL:STATE:ADJECTIVE,spongy,海绵
+MATERIAL:STATE:ADJECTIVE,saguaro rib,巨刺柱肋木
+MATERIAL:STATE:ADJECTIVE,oaken,橡木
+MATERIAL:STATE:ADJECTIVE,birchen,白桦木
+MATERIAL:STATE:ADJECTIVE,ashen,白蜡木
+MATERIAL:STATE:ADJECTIVE,{:MATERIAL:STATE:SHARED},{:MATERIAL:STATE:SHARED}
+MATERIAL:STATE:SHARED:^0,boiling,沸腾
+MATERIAL:STATE:SHARED:^0,ground,磨碎的
+MATERIAL:STATE:SHARED:^0,pressed,压制
+MATERIAL:STATE:SHARED:^0,molten,融化的
+MATERIAL:STATE:SHARED:^0,frozen,结冻
+MATERIAL:STATE:SHARED:^0,melted,熔融
+MATERIAL:STATE:SHARED:^0,,
+MATERIAL:STATE:SHARED:$0,paste,膏
+MATERIAL:STATE:SHARED:$0,powder,粉末
+MATERIAL:STATE:SHARED:$0,press cake,压缩饼
+MATERIAL:STATE:SHARED:$0,slurry,浆
+MATERIAL:STATE:SHARED:$0,paper,纸
+MATERIAL:STATE:SHARED:$0,,
+MATERIAL:STATE:SHARED,rock,岩石
+MATERIAL:STATE:SHARED,magma,岩浆
+MATERIAL:STATE:SHARED,amber,琥珀
+MATERIAL:STATE:SHARED,coral,珊瑚
+MATERIAL:STATE:SHARED,green glass,绿玻璃
+MATERIAL:STATE:SHARED,clear glass,透明玻璃
+MATERIAL:STATE:SHARED,crystal glass,水晶玻璃
+MATERIAL:STATE:SHARED,ice,冰
+MATERIAL:STATE:SHARED,water,水
+MATERIAL:STATE:SHARED,steam,蒸汽
+MATERIAL:STATE:SHARED,snow,雪
+MATERIAL:STATE:SHARED,slush,泥地
+MATERIAL:STATE:SHARED,coal,煤炭
+MATERIAL:STATE:SHARED,coal slush,煤炭渣
+MATERIAL:STATE:SHARED,potash,草碱
+MATERIAL:STATE:SHARED,potash slush,草碱渣
+MATERIAL:STATE:SHARED,ash,灰烬
+MATERIAL:STATE:SHARED,pearlash,珍珠灰
+MATERIAL:STATE:SHARED,lye,碱液
+MATERIAL:STATE:SHARED,lye slush,碱液泥
+MATERIAL:STATE:SHARED,mud,淤泥
+MATERIAL:STATE:SHARED,dirt,土壤
+MATERIAL:STATE:SHARED,vomit,呕吐物
+MATERIAL:STATE:SHARED,salt,盐
+MATERIAL:STATE:SHARED,filth,污垢
+MATERIAL:STATE:SHARED,filth slush,污垢泥
+MATERIAL:STATE:SHARED,unknown frozen substance,未知冻结物质
+MATERIAL:STATE:SHARED,unknown substance,未知物质
+MATERIAL:STATE:SHARED,unknown boiling substance,未知沸腾物质
+MATERIAL:STATE:SHARED,unknown frozen,未知冻结
+MATERIAL:STATE:SHARED,unknown slush,未知污水
+MATERIAL:STATE:SHARED,grime,尘垢
+MATERIAL:STATE:SHARED,unknown frozen creature substance,未知冻结生物质
+MATERIAL:STATE:SHARED,unknown creature substance,未知生物质
+MATERIAL:STATE:SHARED,unknown boiling creature substance,未知沸腾生物质
+MATERIAL:STATE:SHARED,unknown frozen creature,未知生物质
+MATERIAL:STATE:SHARED,unknown creature,未知生物
+MATERIAL:STATE:SHARED,unknown pressed frozen creature substance,未知压实冻结生物质
+MATERIAL:STATE:SHARED,unknown frozen plant substance,未知冻结植物衍生品
+MATERIAL:STATE:SHARED,unknown plant substance,未知植物衍生品
+MATERIAL:STATE:SHARED,unknown boiling plant substance,未知沸腾植物衍生品
+MATERIAL:STATE:SHARED,unknown frozen plant,未知冻结植属
+MATERIAL:STATE:SHARED,unknown pressed frozen plant substance,未知压实冻结植物衍生品
+MATERIAL:STATE:SHARED,iron,铁
+MATERIAL:STATE:SHARED,gold,金
+MATERIAL:STATE:SHARED,silver,银
+MATERIAL:STATE:SHARED,copper,铜
+MATERIAL:STATE:SHARED,nickel,镍
+MATERIAL:STATE:SHARED,zinc,锌
+MATERIAL:STATE:SHARED,bronze,青铜
+MATERIAL:STATE:SHARED,brass,黄铜
+MATERIAL:STATE:SHARED,steel,钢
+MATERIAL:STATE:SHARED,pig iron,生铁
+MATERIAL:STATE:SHARED,platinum,铂
+MATERIAL:STATE:SHARED,electrum,琥珀金
+MATERIAL:STATE:SHARED,tin,锡
+MATERIAL:STATE:SHARED,fine pewter,精白锡
+MATERIAL:STATE:SHARED,trifle pewter,廉白锡
+MATERIAL:STATE:SHARED,lay pewter,劣白锡
+MATERIAL:STATE:SHARED,lead,铅
+MATERIAL:STATE:SHARED,aluminum,铝
+MATERIAL:STATE:SHARED,nickel silver,镍银
+MATERIAL:STATE:SHARED,billon,毕朗合金
+MATERIAL:STATE:SHARED,sterling silver,标准银
+MATERIAL:STATE:SHARED,black bronze,乌青铜
+MATERIAL:STATE:SHARED,rose gold,玫瑰金
+MATERIAL:STATE:SHARED,bismuth,铋
+MATERIAL:STATE:SHARED,bismuth bronze,铋青铜
+MATERIAL:STATE:SHARED,adamantine,精金
+MATERIAL:STATE:SHARED,gypsum plaster,石膏灰泥
+MATERIAL:STATE:SHARED,earthenware,瓦陶
+MATERIAL:STATE:SHARED,stoneware,炻瓷
+MATERIAL:STATE:SHARED,porcelain,瓷器
+MATERIAL:STATE:SHARED,ash glaze,灰釉
+MATERIAL:STATE:SHARED,tin glaze,锡釉
+MATERIAL:STATE:SHARED,quicklime,生石灰
+MATERIAL:STATE:SHARED,milk of lime,石灰乳
+MATERIAL:STATE:SHARED,onyx,缟玛瑙
+MATERIAL:STATE:SHARED,morion,黑水晶
+MATERIAL:STATE:SHARED,schorl,黑碧玺
+MATERIAL:STATE:SHARED,lace agate,蕾丝玛瑙
+MATERIAL:STATE:SHARED,blue jade,蓝翡翠
+MATERIAL:STATE:SHARED,lapis lazuli,青金石
+MATERIAL:STATE:SHARED,prase,苍绿石英
+MATERIAL:STATE:SHARED,prase opal,苍绿欧泊
+MATERIAL:STATE:SHARED,bloodstone,血石
+MATERIAL:STATE:SHARED,moss agate,苔藓玛瑙
+MATERIAL:STATE:SHARED,moss opal,苔藓欧泊
+MATERIAL:STATE:SHARED,variscite,磷铝石
+MATERIAL:STATE:SHARED,chrysoprase,绿玉髓
+MATERIAL:STATE:SHARED,chrysocolla,硅孔雀石
+MATERIAL:STATE:SHARED,sard,褐玉髓
+MATERIAL:STATE:SHARED,carnelian,红玉髓
+MATERIAL:STATE:SHARED,banded agate,条纹玛瑙
+MATERIAL:STATE:SHARED,sardonyx,缠丝玛瑙
+MATERIAL:STATE:SHARED,cherry opal,樱桃欧泊
+MATERIAL:STATE:SHARED,lavender jade,紫翡翠
+MATERIAL:STATE:SHARED,pink jade,粉红翡翠
+MATERIAL:STATE:SHARED,tube agate,管脉玛瑙
+MATERIAL:STATE:SHARED,fire agate,火玛瑙
+MATERIAL:STATE:SHARED,plume agate,羽毛玛瑙
+MATERIAL:STATE:SHARED,brown jasper,棕碧玉
+MATERIAL:STATE:SHARED,picture jasper,图画碧玉
+MATERIAL:STATE:SHARED,smoky quartz,烟石英
+MATERIAL:STATE:SHARED,wax opal,蜡质欧泊
+MATERIAL:STATE:SHARED,wood opal,木欧泊
+MATERIAL:STATE:SHARED,amber opal,琥珀欧泊
+MATERIAL:STATE:SHARED,gold opal,金欧泊
+MATERIAL:STATE:SHARED,citrine,黄水晶
+MATERIAL:STATE:SHARED,yellow jasper,黄碧玉
+MATERIAL:STATE:SHARED,tigereye,虎眼石
+MATERIAL:STATE:SHARED,tiger iron,虎铁石
+MATERIAL:STATE:SHARED,sunstone,日长石
+MATERIAL:STATE:SHARED,resin opal,脂光欧泊
+MATERIAL:STATE:SHARED,pyrite,黄铁矿
+MATERIAL:STATE:SHARED,clear tourmaline,透明碧玺
+MATERIAL:STATE:SHARED,gray chalcedony,灰玉髓
+MATERIAL:STATE:SHARED,dendritic agate,枝纹玛瑙
+MATERIAL:STATE:SHARED,shell opal,贝壳欧泊
+MATERIAL:STATE:SHARED,bone opal,骨质欧泊
+MATERIAL:STATE:SHARED,white chalcedony,白玉髓
+MATERIAL:STATE:SHARED,fortification agate,城垒玛瑙
+MATERIAL:STATE:SHARED,milk quartz,乳石英
+MATERIAL:STATE:SHARED,moonstone,月长石
+MATERIAL:STATE:SHARED,white jade,白翡翠
+MATERIAL:STATE:SHARED,jasper opal,碧玉欧泊
+MATERIAL:STATE:SHARED,pineapple opal,凤梨欧泊
+MATERIAL:STATE:SHARED,onyx opal,缟纹欧泊
+MATERIAL:STATE:SHARED,milk opal,乳欧泊
+MATERIAL:STATE:SHARED,pipe opal,管纹欧泊
+MATERIAL:STATE:SHARED,aventurine,砂金石
+MATERIAL:STATE:SHARED,turquoise,绿松石
+MATERIAL:STATE:SHARED,rose quartz,蔷薇石英
+MATERIAL:STATE:SHARED,rock crystal,岩石水晶
+MATERIAL:STATE:SHARED,black zircon,黑锆石
+MATERIAL:STATE:SHARED,black pyrope,黑榴石
+MATERIAL:STATE:SHARED,melanite,墨榴石
+MATERIAL:STATE:SHARED,indigo tourmaline,靛蓝碧玺
+MATERIAL:STATE:SHARED,blue garnet,蓝榴石
+MATERIAL:STATE:SHARED,tsavorite,沙弗莱石
+MATERIAL:STATE:SHARED,green tourmaline,绿碧玺
+MATERIAL:STATE:SHARED,demantoid,翠榴石
+MATERIAL:STATE:SHARED,green zircon,绿锆石
+MATERIAL:STATE:SHARED,green jade,绿翡翠
+MATERIAL:STATE:SHARED,heliodor,绿柱石
+MATERIAL:STATE:SHARED,peridot,橄榄石
+MATERIAL:STATE:SHARED,red zircon,红锆石
+MATERIAL:STATE:SHARED,red tourmaline,红碧玺
+MATERIAL:STATE:SHARED,red pyrope,赤榴石
+MATERIAL:STATE:SHARED,almandine,殷榴石
+MATERIAL:STATE:SHARED,red grossular,红榴石
+MATERIAL:STATE:SHARED,pink tourmaline,粉红碧玺
+MATERIAL:STATE:SHARED,red beryl,红柱石
+MATERIAL:STATE:SHARED,fire opal,火欧泊
+MATERIAL:STATE:SHARED,rhodolite,朱榴石
+MATERIAL:STATE:SHARED,purple spinel,紫尖晶石
+MATERIAL:STATE:SHARED,alexandrite,紫翠玉
+MATERIAL:STATE:SHARED,tanzanite,坦桑石
+MATERIAL:STATE:SHARED,morganite,摩根石
+MATERIAL:STATE:SHARED,violet spessartine,紫榴石
+MATERIAL:STATE:SHARED,pink garnet,粉红榴石
+MATERIAL:STATE:SHARED,kunzite,紫锂辉石
+MATERIAL:STATE:SHARED,cinnamon grossular,褐榴石
+MATERIAL:STATE:SHARED,honey yellow beryl,蜜黄柱石
+MATERIAL:STATE:SHARED,jelly opal,冻胶欧泊
+MATERIAL:STATE:SHARED,brown zircon,棕锆石
+MATERIAL:STATE:SHARED,yellow zircon,黄锆石
+MATERIAL:STATE:SHARED,golden beryl,金柱石
+MATERIAL:STATE:SHARED,yellow spessartine,橙榴石
+MATERIAL:STATE:SHARED,topaz,黄玉
+MATERIAL:STATE:SHARED,topazolite,黄榴石
+MATERIAL:STATE:SHARED,yellow grossular,缃榴石
+MATERIAL:STATE:SHARED,rubicelle,橙尖晶石
+MATERIAL:STATE:SHARED,clear garnet,透明榴石
+MATERIAL:STATE:SHARED,goshenite,白柱石
+MATERIAL:STATE:SHARED,cat's eye,猫眼石
+MATERIAL:STATE:SHARED,clear zircon,透明锆石
+MATERIAL:STATE:SHARED,amethyst,紫水晶
+MATERIAL:STATE:SHARED,aquamarine,海蓝宝石
+MATERIAL:STATE:SHARED,red spinel,红尖晶石
+MATERIAL:STATE:SHARED,chrysoberyl,金绿玉
+MATERIAL:STATE:SHARED,precious fire opal,贵火欧泊
+MATERIAL:STATE:SHARED,red flash opal,红闪欧泊
+MATERIAL:STATE:SHARED,black opal,黑欧泊
+MATERIAL:STATE:SHARED,white opal,白欧泊
+MATERIAL:STATE:SHARED,crystal opal,水晶欧泊
+MATERIAL:STATE:SHARED,claro opal,烟欧泊
+MATERIAL:STATE:SHARED,levin opal,雷电欧泊
+MATERIAL:STATE:SHARED,harlequin opal,斑斓欧泊
+MATERIAL:STATE:SHARED,pinfire opal,星火欧泊
+MATERIAL:STATE:SHARED,bandfire opal,火纹欧泊
+MATERIAL:STATE:SHARED,light yellow diamond,亮黄钻石
+MATERIAL:STATE:SHARED,faint yellow diamond,微黄钻石
+MATERIAL:STATE:SHARED,emerald,祖母绿宝石
+MATERIAL:STATE:SHARED,ruby,红宝石
+MATERIAL:STATE:SHARED,sapphire,蓝玉
+MATERIAL:STATE:SHARED,clear diamond,透明钻石
+MATERIAL:STATE:SHARED,red diamond,红钻石
+MATERIAL:STATE:SHARED,green diamond,绿钻石
+MATERIAL:STATE:SHARED,blue diamond,蓝钻石
+MATERIAL:STATE:SHARED,yellow diamond,黄钻石
+MATERIAL:STATE:SHARED,black diamond,黑钻石
+MATERIAL:STATE:SHARED,star sapphire,星彩蓝玉
+MATERIAL:STATE:SHARED,star ruby,星彩红宝石
+MATERIAL:STATE:SHARED,sandstone,砂岩
+MATERIAL:STATE:SHARED,siltstone,粉砂岩
+MATERIAL:STATE:SHARED,mudstone,泥岩
+MATERIAL:STATE:SHARED,shale,页岩
+MATERIAL:STATE:SHARED,claystone,黏土岩
+MATERIAL:STATE:SHARED,rock salt,岩盐
+MATERIAL:STATE:SHARED,limestone,石灰岩
+MATERIAL:STATE:SHARED,conglomerate,砾岩
+MATERIAL:STATE:SHARED,dolomite,白云石
+MATERIAL:STATE:SHARED,chert,角岩
+MATERIAL:STATE:SHARED,chalk,白垩岩
+MATERIAL:STATE:SHARED,granite,花岗岩
+MATERIAL:STATE:SHARED,diorite,闪长岩
+MATERIAL:STATE:SHARED,gabbro,辉长岩
+MATERIAL:STATE:SHARED,rhyolite,流纹岩
+MATERIAL:STATE:SHARED,basalt,玄武岩
+MATERIAL:STATE:SHARED,andesite,安山岩
+MATERIAL:STATE:SHARED,dacite,英安岩
+MATERIAL:STATE:SHARED,obsidian,黑曜石
+MATERIAL:STATE:SHARED,quartzite,石英岩
+MATERIAL:STATE:SHARED,slate,板岩
+MATERIAL:STATE:SHARED,phyllite,千枚岩
+MATERIAL:STATE:SHARED,schist,片岩
+MATERIAL:STATE:SHARED,gneiss,片麻岩
+MATERIAL:STATE:SHARED,marble,大理石
+MATERIAL:STATE:SHARED,hematite,赤铁矿
+MATERIAL:STATE:SHARED,limonite,褐铁矿
+MATERIAL:STATE:SHARED,garnierite,硅镁镍矿
+MATERIAL:STATE:SHARED,native gold,天然金矿
+MATERIAL:STATE:SHARED,native silver,天然银矿
+MATERIAL:STATE:SHARED,native copper,天然铜矿
+MATERIAL:STATE:SHARED,malachite,孔雀石
+MATERIAL:STATE:SHARED,galena,方铅矿
+MATERIAL:STATE:SHARED,sphalerite,闪锌矿
+MATERIAL:STATE:SHARED,cassiterite,锡石
+MATERIAL:STATE:SHARED,bituminous coal,烟煤
+MATERIAL:STATE:SHARED,lignite,褐煤
+MATERIAL:STATE:SHARED,native platinum,天然铂矿
+MATERIAL:STATE:SHARED,cinnabar,辰砂
+MATERIAL:STATE:SHARED,cobaltite,辉钴矿
+MATERIAL:STATE:SHARED,tetrahedrite,黝铜矿
+MATERIAL:STATE:SHARED,horn silver,角银矿
+MATERIAL:STATE:SHARED,gypsum,软石膏
+MATERIAL:STATE:SHARED,talc,滑石
+MATERIAL:STATE:SHARED,jet,煤玉
+MATERIAL:STATE:SHARED,puddingstone,布丁岩
+MATERIAL:STATE:SHARED,petrified wood,石化木
+MATERIAL:STATE:SHARED,graphite,石墨
+MATERIAL:STATE:SHARED,brimstone,硫磺
+MATERIAL:STATE:SHARED,kimberlite,金伯利岩
+MATERIAL:STATE:SHARED,bismuthinite,辉铋矿
+MATERIAL:STATE:SHARED,realgar,雄黄
+MATERIAL:STATE:SHARED,orpiment,雌黄
+MATERIAL:STATE:SHARED,stibnite,辉锑矿
+MATERIAL:STATE:SHARED,marcasite,白铁矿
+MATERIAL:STATE:SHARED,sylvite,钾岩
+MATERIAL:STATE:SHARED,cryolite,冰晶石
+MATERIAL:STATE:SHARED,periclase,方镁石
+MATERIAL:STATE:SHARED,ilmenite,钛铁矿
+MATERIAL:STATE:SHARED,rutile,金红石
+MATERIAL:STATE:SHARED,magnetite,磁铁矿
+MATERIAL:STATE:SHARED,chromite,铬铁矿
+MATERIAL:STATE:SHARED,pyrolusite,软锰矿
+MATERIAL:STATE:SHARED,pitchblende,沥青铀矿
+MATERIAL:STATE:SHARED,bauxite,铝土矿
+MATERIAL:STATE:SHARED,native aluminum,天然铝矿
+MATERIAL:STATE:SHARED,borax,硼砂
+MATERIAL:STATE:SHARED,olivine,橄榄岩
+MATERIAL:STATE:SHARED,hornblende,角闪石
+MATERIAL:STATE:SHARED,kaolinite,高岭石
+MATERIAL:STATE:SHARED,serpentine,蛇纹石
+MATERIAL:STATE:SHARED,orthoclase,正长石
+MATERIAL:STATE:SHARED,microcline,微斜长石
+MATERIAL:STATE:SHARED,mica,云母
+MATERIAL:STATE:SHARED,calcite,方解石
+MATERIAL:STATE:SHARED,saltpeter,硝石
+MATERIAL:STATE:SHARED,alabaster,雪花石膏
+MATERIAL:STATE:SHARED,selenite,透明石膏
+MATERIAL:STATE:SHARED,satinspar,纤维石膏
+MATERIAL:STATE:SHARED,anhydrite,硬石膏
+MATERIAL:STATE:SHARED,alunite,明矾石
+MATERIAL:STATE:SHARED,raw adamantine,原始精金
+MATERIAL:STATE:SHARED,slade,基岩
+MATERIAL:STATE:SHARED,clay,黏土
+MATERIAL:STATE:SHARED,silty clay,粉质粘土
+MATERIAL:STATE:SHARED,sandy clay,砂质黏土
+MATERIAL:STATE:SHARED,clay loam,黏质壤土
+MATERIAL:STATE:SHARED,sandy clay loam,砂质黏壤土
+MATERIAL:STATE:SHARED,silty clay loam,粉质黏壤土
+MATERIAL:STATE:SHARED,loam,壤土
+MATERIAL:STATE:SHARED,sandy loam,砂质壤土
+MATERIAL:STATE:SHARED,silt loam,粉质壤土
+MATERIAL:STATE:SHARED,loamy sand,壤砂
+MATERIAL:STATE:SHARED,silt,淤泥
+MATERIAL:STATE:SHARED,sand,沙
+MATERIAL:STATE:SHARED,yellow sand,黄沙
+MATERIAL:STATE:SHARED,white sand,白沙
+MATERIAL:STATE:SHARED,black sand,黑沙
+MATERIAL:STATE:SHARED,red sand,红沙
+MATERIAL:STATE:SHARED,peat,泥炭
+MATERIAL:STATE:SHARED,pelagic clay,深海黏土
+MATERIAL:STATE:SHARED,calcareous ooze,钙质软泥
+MATERIAL:STATE:SHARED,siliceous ooze,硅藻软泥
+MATERIAL:STATE:SHARED,fire clay,火黏土
+MATERIAL:STATE:SHARED,skin,皮肤
+MATERIAL:STATE:SHARED,muscle,肌肉
+MATERIAL:STATE:SHARED,bone,骨头
+MATERIAL:STATE:SHARED,bone meal,骨粉
+MATERIAL:STATE:SHARED,tooth,牙齿
+MATERIAL:STATE:SHARED,eye tissue,眼部组织
+MATERIAL:STATE:SHARED,nervous tissue,神经组织
+MATERIAL:STATE:SHARED,brain,大脑
+MATERIAL:STATE:SHARED,lung tissue,肺部组织
+MATERIAL:STATE:SHARED,heart tissue,心脏组织
+MATERIAL:STATE:SHARED,liver tissue,肝脏组织
+MATERIAL:STATE:SHARED,gut,肠
+MATERIAL:STATE:SHARED,stomach tissue,胃组织
+MATERIAL:STATE:SHARED,gizzard tissue,砂囊组织
+MATERIAL:STATE:SHARED,pancreatic tissue,胰腺组织
+MATERIAL:STATE:SHARED,spleen tissue,脾组织
+MATERIAL:STATE:SHARED,kidney tissue,肾组织
+MATERIAL:STATE:SHARED,leather,皮革
+MATERIAL:STATE:SHARED,parchment,羊皮纸
+MATERIAL:STATE:SHARED,tallow,脂油
+MATERIAL:STATE:SHARED,soap,肥皂
+MATERIAL:STATE:SHARED,sinew,肌腱
+MATERIAL:STATE:SHARED,blood,血液
+MATERIAL:STATE:SHARED,pus,脓
+MATERIAL:STATE:SHARED,ichor,体液
+MATERIAL:STATE:SHARED,feather,羽毛
+MATERIAL:STATE:SHARED,nail,指甲
+MATERIAL:STATE:SHARED,eggshell,蛋壳
+MATERIAL:STATE:SHARED,egg white,蛋白
+MATERIAL:STATE:SHARED,egg yolk,蛋黄
+MATERIAL:STATE:SHARED,chitin,甲壳
+MATERIAL:STATE:SHARED,bark scorpion venom,树皮蝎毒素
+MATERIAL:STATE:SHARED,bark scorpion man venom,树皮蝎人毒素
+MATERIAL:STATE:SHARED,giant bark scorpion venom,巨型树皮蝎毒素
+MATERIAL:STATE:SHARED,shell,壳
+MATERIAL:STATE:SHARED,brown recluse spider venom,棕色遁蛛毒素
+MATERIAL:STATE:SHARED,silk,丝绸
+MATERIAL:STATE:SHARED,brown recluse spider man venom,棕色遁蛛人毒素
+MATERIAL:STATE:SHARED,giant brown recluse spider venom,巨型棕色遁蛛毒素
+MATERIAL:STATE:SHARED,scale,鳞片
+MATERIAL:STATE:SHARED,gila monster venom,毒蜥毒素
+MATERIAL:STATE:SHARED,gila monster man venom,毒蜥人毒素
+MATERIAL:STATE:SHARED,giant gila monster venom,巨型毒蜥毒素
+MATERIAL:STATE:SHARED,hair,毛发
+MATERIAL:STATE:SHARED,hoof,蹄
+MATERIAL:STATE:SHARED,donkey's milk,驴奶
+MATERIAL:STATE:SHARED,donkey cheese,驴奶奶酪
+MATERIAL:STATE:SHARED,horse's milk,马奶
+MATERIAL:STATE:SHARED,horse cheese,马奶奶酪
+MATERIAL:STATE:SHARED,vellum,皮纸
+MATERIAL:STATE:SHARED,horn,角
+MATERIAL:STATE:SHARED,cow's milk,牛奶
+MATERIAL:STATE:SHARED,cow cheese,牛奶奶酪
+MATERIAL:STATE:SHARED,wool,绒线
+MATERIAL:STATE:SHARED,sheep's milk,羊奶
+MATERIAL:STATE:SHARED,sheep cheese,羊奶奶酪
+MATERIAL:STATE:SHARED,pig's milk,猪奶
+MATERIAL:STATE:SHARED,pig cheese,猪奶奶酪
+MATERIAL:STATE:SHARED,goat's milk,山羊奶
+MATERIAL:STATE:SHARED,goat cheese,山羊奶奶酪
+MATERIAL:STATE:SHARED,water buffalo's milk,水牛奶
+MATERIAL:STATE:SHARED,water buffalo cheese,水牛奶奶酪
+MATERIAL:STATE:SHARED,antler,鹿角
+MATERIAL:STATE:SHARED,reindeer's milk,驯鹿奶
+MATERIAL:STATE:SHARED,reindeer cheese,驯鹿奶酪
+MATERIAL:STATE:SHARED,yak's milk,牦牛奶
+MATERIAL:STATE:SHARED,yak cheese,牦牛奶酪
+MATERIAL:STATE:SHARED,llama's milk,无峰驼奶
+MATERIAL:STATE:SHARED,llama cheese,无峰驼奶酪
+MATERIAL:STATE:SHARED,alpaca's milk,羊驼奶
+MATERIAL:STATE:SHARED,alpaca cheese,羊驼奶酪
+MATERIAL:STATE:SHARED,honey bee wax,蜂蜡
+MATERIAL:STATE:SHARED,honey bee wax cake,蜂蜡饼
+MATERIAL:STATE:SHARED,honey bee royal jelly,蜜蜂蜂王浆
+MATERIAL:STATE:SHARED,honey bee honey,蜜蜂蜜
+MATERIAL:STATE:SHARED,mead,蜜酒
+MATERIAL:STATE:SHARED,honey bee venom,蜜蜂毒素
+MATERIAL:STATE:SHARED,bumblebee wax,大黄蜂蜡
+MATERIAL:STATE:SHARED,bumblebee wax cake,大黄蜂蜡饼
+MATERIAL:STATE:SHARED,bumblebee royal jelly,大黄蜂蜂王浆
+MATERIAL:STATE:SHARED,bumblebee honey,大黄蜂蜜
+MATERIAL:STATE:SHARED,bumblebee mead,大黄蜂蜜酒
+MATERIAL:STATE:SHARED,bumblebee venom,大黄蜂毒素
+MATERIAL:STATE:SHARED,sweat,汗液
+MATERIAL:STATE:SHARED,tears,眼泪
+MATERIAL:STATE:SHARED,spit,唾液
+MATERIAL:STATE:SHARED,ivory,长牙
+MATERIAL:STATE:SHARED,platypus venom,鸭嘴兽毒素
+MATERIAL:STATE:SHARED,platypus man venom,鸭嘴兽人毒素
+MATERIAL:STATE:SHARED,giant platypus venom,巨型鸭嘴兽毒素
+MATERIAL:STATE:SHARED,one-humped camel's milk,单峰骆驼奶
+MATERIAL:STATE:SHARED,one-humped camel cheese,单峰骆驼奶酪
+MATERIAL:STATE:SHARED,one-humped camel man's milk,单峰骆驼人奶
+MATERIAL:STATE:SHARED,one-humped camel man cheese,单峰骆驼人奶酪
+MATERIAL:STATE:SHARED,giant one-humped camel's milk,巨型单峰骆驼奶
+MATERIAL:STATE:SHARED,giant one-humped camel cheese,巨型单峰骆驼奶酪
+MATERIAL:STATE:SHARED,two-humped camel's milk,双峰骆驼奶
+MATERIAL:STATE:SHARED,two-humped camel cheese,双峰骆驼奶酪
+MATERIAL:STATE:SHARED,two-humped camel man's milk,双峰骆驼人奶
+MATERIAL:STATE:SHARED,two-humped camel man cheese,双峰骆驼人奶酪
+MATERIAL:STATE:SHARED,giant two-humped camel's milk,巨型双峰骆驼奶
+MATERIAL:STATE:SHARED,giant two-humped camel cheese,巨型双峰骆驼奶酪
+MATERIAL:STATE:SHARED,flesh,血肉
+MATERIAL:STATE:SHARED,helmet snake venom,头盔蛇毒素
+MATERIAL:STATE:SHARED,corrupted blood,腐败血液
+MATERIAL:STATE:SHARED,cave floater juice,洞穴飘浮者汁液
+MATERIAL:STATE:SHARED,cave floater gas,洞穴飘浮者气体
+MATERIAL:STATE:SHARED,plump helmet man tissue,肉盔菇人组织
+MATERIAL:STATE:SHARED,cave blob fluid,洞穴滴团液体
+MATERIAL:STATE:SHARED,octopus ink,章鱼墨汁
+MATERIAL:STATE:SHARED,octopus man ink,章鱼人墨汁
+MATERIAL:STATE:SHARED,giant octopus ink,巨型章鱼墨汁
+MATERIAL:STATE:SHARED,cuttlefish ink,墨鱼墨汁
+MATERIAL:STATE:SHARED,cuttlefish man ink,墨鱼人墨汁
+MATERIAL:STATE:SHARED,giant cuttlefish ink,巨型墨鱼墨汁
+MATERIAL:STATE:SHARED,mog juice,跳虫肉汁
+MATERIAL:STATE:SHARED,goo,稠血
+MATERIAL:STATE:SHARED,fluff,绒毛
+MATERIAL:STATE:SHARED,pudge,球脂
+MATERIAL:STATE:SHARED,phantom spider venom,幻影蜘蛛毒素
+MATERIAL:STATE:SHARED,spine,脊椎
+MATERIAL:STATE:SHARED,squid ink,鱿鱼墨汁
+MATERIAL:STATE:SHARED,squid man ink,鱿鱼人墨汁
+MATERIAL:STATE:SHARED,giant squid ink,巨型鱿鱼墨汁
+MATERIAL:STATE:SHARED,fur,毛皮
+MATERIAL:STATE:SHARED,giant cave spider venom,巨型洞穴蜘蛛毒素
+MATERIAL:STATE:SHARED,cave spider venom,洞穴蜘蛛毒素
+MATERIAL:STATE:SHARED,flames,火焰
+MATERIAL:STATE:SHARED,liquid fire,液态火焰
+MATERIAL:STATE:SHARED,dwarven milk,矮人奶
+MATERIAL:STATE:SHARED,dwarven cheese,矮人奶酪
+MATERIAL:STATE:SHARED,iron man gas,铁人气体
+MATERIAL:STATE:SHARED,condensed iron man gas,稠密铁人气体
+MATERIAL:STATE:SHARED,serpent man venom,毒蛇人毒素
+MATERIAL:STATE:SHARED,kangaroo's milk,袋鼠奶
+MATERIAL:STATE:SHARED,kangaroo cheese,袋鼠奶酪
+MATERIAL:STATE:SHARED,kangaroo man's milk,袋鼠人奶
+MATERIAL:STATE:SHARED,kangaroo man cheese,袋鼠人奶酪
+MATERIAL:STATE:SHARED,giant kangaroo's milk,巨型袋鼠奶
+MATERIAL:STATE:SHARED,giant kangaroo cheese,巨型袋鼠奶酪
+MATERIAL:STATE:SHARED,adder venom,蝰蛇毒素
+MATERIAL:STATE:SHARED,adder man venom,蝰蛇人毒素
+MATERIAL:STATE:SHARED,giant adder venom,巨型蝰蛇毒素
+MATERIAL:STATE:SHARED,rattlesnake venom,响尾蛇毒素
+MATERIAL:STATE:SHARED,rattlesnake man venom,响尾蛇人毒素
+MATERIAL:STATE:SHARED,giant rattlesnake venom,巨型响尾蛇毒素
+MATERIAL:STATE:SHARED,copperhead snake venom,铜头蛇毒素
+MATERIAL:STATE:SHARED,copperhead snake man venom,铜头蛇人毒素
+MATERIAL:STATE:SHARED,giant copperhead snake venom,巨型铜头蛇毒素
+MATERIAL:STATE:SHARED,king cobra venom,眼镜王蛇毒素
+MATERIAL:STATE:SHARED,king cobra man venom,眼镜王蛇人毒素
+MATERIAL:STATE:SHARED,giant king cobra venom,巨型眼镜王蛇毒素
+MATERIAL:STATE:SHARED,black mamba venom,黑曼巴蛇毒素
+MATERIAL:STATE:SHARED,black mamba man venom,黑曼巴蛇人毒素
+MATERIAL:STATE:SHARED,giant black mamba venom,巨型黑曼巴蛇毒素
+MATERIAL:STATE:SHARED,bushmaster venom,巨蝮毒素
+MATERIAL:STATE:SHARED,bushmaster man venom,巨蝮人毒素
+MATERIAL:STATE:SHARED,giant bushmaster venom,巨型巨蝮毒素
+MATERIAL:STATE:SHARED,tapir's milk,貘奶
+MATERIAL:STATE:SHARED,tapir cheese,貘奶酪
+MATERIAL:STATE:SHARED,tapir man's milk,貘人奶
+MATERIAL:STATE:SHARED,tapir man cheese,貘人奶酪
+MATERIAL:STATE:SHARED,giant tapir's milk,巨型貘奶
+MATERIAL:STATE:SHARED,giant tapir cheese,巨型貘奶酪
+MATERIAL:STATE:SHARED,plant,植物
+MATERIAL:STATE:SHARED,single-grain wheat beer,单粒小麦啤
+MATERIAL:STATE:SHARED,single-grain wheat flour,单粒小麦面粉
+MATERIAL:STATE:SHARED,leaf,叶
+MATERIAL:STATE:SHARED,seed,种子
+MATERIAL:STATE:SHARED,two-grain wheat beer,双粒小麦啤
+MATERIAL:STATE:SHARED,two-grain wheat flour,双粒小麦面粉
+MATERIAL:STATE:SHARED,soft wheat beer,软质小麦啤
+MATERIAL:STATE:SHARED,soft wheat flour,软质小麦面粉
+MATERIAL:STATE:SHARED,hard wheat beer,硬质小麦啤
+MATERIAL:STATE:SHARED,hard wheat flour,硬质小麦面粉
+MATERIAL:STATE:SHARED,spelt beer,斯佩尔特麦啤
+MATERIAL:STATE:SHARED,spelt flour,斯佩尔特麦面粉
+MATERIAL:STATE:SHARED,barley wine,大麦酒
+MATERIAL:STATE:SHARED,barley flour,大麦面粉
+MATERIAL:STATE:SHARED,buckwheat beer,荞麦啤酒
+MATERIAL:STATE:SHARED,buckwheat flour,荞麦面粉
+MATERIAL:STATE:SHARED,flower,花
+MATERIAL:STATE:SHARED,oat flour,燕麦面粉
+MATERIAL:STATE:SHARED,rye beer,黑麦啤酒
+MATERIAL:STATE:SHARED,rye flour,黑麦面粉
+MATERIAL:STATE:SHARED,sorghum beer,高粱啤酒
+MATERIAL:STATE:SHARED,sorghum flour,高粱面粉
+MATERIAL:STATE:SHARED,rice beer,稻米啤酒
+MATERIAL:STATE:SHARED,rice flour,稻米面粉
+MATERIAL:STATE:SHARED,maize beer,玉米啤酒
+MATERIAL:STATE:SHARED,maize flour,玉米面粉
+MATERIAL:STATE:SHARED,quinoa beer,藜麦啤酒
+MATERIAL:STATE:SHARED,quinoa flour,藜麦面粉
+MATERIAL:STATE:SHARED,kaniwa beer,彩藜啤酒
+MATERIAL:STATE:SHARED,kaniwa flour,彩藜面粉
+MATERIAL:STATE:SHARED,pendant amaranth beer,吊坠苋啤酒
+MATERIAL:STATE:SHARED,pendant amaranth flour,吊坠苋面粉
+MATERIAL:STATE:SHARED,blood amaranth beer,血苋啤酒
+MATERIAL:STATE:SHARED,blood amaranth flour,血苋面粉
+MATERIAL:STATE:SHARED,purple amaranth beer,紫苋啤酒
+MATERIAL:STATE:SHARED,purple amaranth flour,紫苋面粉
+MATERIAL:STATE:SHARED,pearl millet beer,珍珠粟啤酒
+MATERIAL:STATE:SHARED,pearl millet flour,珍珠粟面粉
+MATERIAL:STATE:SHARED,white millet beer,白粟啤酒
+MATERIAL:STATE:SHARED,white millet flour,白粟面粉
+MATERIAL:STATE:SHARED,finger millet beer,爪粟啤酒
+MATERIAL:STATE:SHARED,finger millet flour,爪粟面粉
+MATERIAL:STATE:SHARED,foxtail millet beer,狐尾粟啤酒
+MATERIAL:STATE:SHARED,foxtail millet flour,狐尾粟面粉
+MATERIAL:STATE:SHARED,fonio beer,非尼奥啤酒
+MATERIAL:STATE:SHARED,fonio flour,非尼奥面粉
+MATERIAL:STATE:SHARED,teff beer,苔麸啤酒
+MATERIAL:STATE:SHARED,teff flour,苔麸面粉
+MATERIAL:STATE:SHARED,linseed oil,亚麻籽油
+MATERIAL:STATE:SHARED,linseed oil soap,亚麻籽油肥皂
+MATERIAL:STATE:SHARED,flax flour,亚麻面粉
+MATERIAL:STATE:SHARED,flax seed,亚麻种子
+MATERIAL:STATE:SHARED,linen,亚麻纤维
+MATERIAL:STATE:SHARED,fiber,纤维
+MATERIAL:STATE:SHARED,jute,黄麻纤维
+MATERIAL:STATE:SHARED,hempseed oil,大麻籽油
+MATERIAL:STATE:SHARED,hempseed oil soap,大麻籽油肥皂
+MATERIAL:STATE:SHARED,hemp flour,大麻面粉
+MATERIAL:STATE:SHARED,hemp seed,大麻种子
+MATERIAL:STATE:SHARED,hemp,大麻
+MATERIAL:STATE:SHARED,cottonseed oil,棉花籽油
+MATERIAL:STATE:SHARED,cottonseed oil soap,棉花籽油肥皂
+MATERIAL:STATE:SHARED,cotton seed,棉花种子
+MATERIAL:STATE:SHARED,cotton,棉花
+MATERIAL:STATE:SHARED,ramie,苎麻
+MATERIAL:STATE:SHARED,kenaf seed oil,洋麻籽油
+MATERIAL:STATE:SHARED,kenaf seed oil soap,洋麻籽油肥皂
+MATERIAL:STATE:SHARED,kenaf seed,洋麻种子
+MATERIAL:STATE:SHARED,kenaf,洋麻
+MATERIAL:STATE:SHARED,papyrus,纸莎草
+MATERIAL:STATE:SHARED,artichoke wine,洋蓟酒
+MATERIAL:STATE:SHARED,fruit,果实
+MATERIAL:STATE:SHARED,beetroot wine,甜菜根酒
+MATERIAL:STATE:SHARED,bud,花蕾
+MATERIAL:STATE:SHARED,carrot wine,胡萝卜酒
+MATERIAL:STATE:SHARED,cassava beer,木薯啤酒
+MATERIAL:STATE:SHARED,parsnip wine,防风草酒
+MATERIAL:STATE:SHARED,potato wine,马铃薯酒
+MATERIAL:STATE:SHARED,radish wine,小萝卜酒
+MATERIAL:STATE:SHARED,sweet potato wine,甘薯酒
+MATERIAL:STATE:SHARED,tomato wine,番茄酒
+MATERIAL:STATE:SHARED,tomatillo wine,灯笼番茄酒
+MATERIAL:STATE:SHARED,turnip wine,芜菁酒
+MATERIAL:STATE:SHARED,passion fruit wine,百香果酒
+MATERIAL:STATE:SHARED,wine,葡萄酒
+MATERIAL:STATE:SHARED,cranberry wine,蔓越莓酒
+MATERIAL:STATE:SHARED,bilberry wine,越橘酒
+MATERIAL:STATE:SHARED,blueberry wine,蓝莓酒
+MATERIAL:STATE:SHARED,blackberry wine,黑莓酒
+MATERIAL:STATE:SHARED,raspberry wine,树莓酒
+MATERIAL:STATE:SHARED,pineapple wine,菠萝酒
+MATERIAL:STATE:SHARED,banana beer,香蕉啤酒
+MATERIAL:STATE:SHARED,carambola wood,杨桃木
+MATERIAL:STATE:SHARED,carambola wine,杨桃酒
+MATERIAL:STATE:SHARED,cashew wood,腰果木
+MATERIAL:STATE:SHARED,coffee wood,咖啡木
+MATERIAL:STATE:SHARED,durian wood,榴梿木
+MATERIAL:STATE:SHARED,durian wine,榴梿酒
+MATERIAL:STATE:SHARED,guava wood,番石榴木
+MATERIAL:STATE:SHARED,guava wine,番石榴酒
+MATERIAL:STATE:SHARED,papaya wood,番木瓜木
+MATERIAL:STATE:SHARED,papaya wine,番木瓜酒
+MATERIAL:STATE:SHARED,paradise nut wood,天堂果木
+MATERIAL:STATE:SHARED,rambutan wood,红毛丹木
+MATERIAL:STATE:SHARED,rambutan wine,红毛丹酒
+MATERIAL:STATE:SHARED,tea wood,茶木
+MATERIAL:STATE:SHARED,avocado wood,鳄梨木
+MATERIAL:STATE:SHARED,lime wood,酸橙木
+MATERIAL:STATE:SHARED,pomelo wood,蜜柚木
+MATERIAL:STATE:SHARED,citron wood,香橼木
+MATERIAL:STATE:SHARED,orange wood,橘子木
+MATERIAL:STATE:SHARED,bitter orange wood,苦橙木
+MATERIAL:STATE:SHARED,finger lime wood,指橘木
+MATERIAL:STATE:SHARED,round lime wood,圆橘木
+MATERIAL:STATE:SHARED,desert lime wood,漠橘木
+MATERIAL:STATE:SHARED,kumquat wood,金橘木
+MATERIAL:STATE:SHARED,custard-apple wood,番荔枝木
+MATERIAL:STATE:SHARED,custard-apple cider,番荔枝西打
+MATERIAL:STATE:SHARED,date palm wood,椰枣棕榈木
+MATERIAL:STATE:SHARED,date wine,椰枣酒
+MATERIAL:STATE:SHARED,lychee wood,荔枝木
+MATERIAL:STATE:SHARED,lychee wine,荔枝酒
+MATERIAL:STATE:SHARED,macadamia wood,奶油果木
+MATERIAL:STATE:SHARED,olive oil,橄榄油
+MATERIAL:STATE:SHARED,olive oil soap,橄榄油皂
+MATERIAL:STATE:SHARED,olive wood,橄榄木
+MATERIAL:STATE:SHARED,olive fruit,橄榄果
+MATERIAL:STATE:SHARED,olive pomace,橄榄果渣
+MATERIAL:STATE:SHARED,pomegranate wood,石榴木
+MATERIAL:STATE:SHARED,pomegranate wine,石榴酒
+MATERIAL:STATE:SHARED,almond wood,扁桃木
+MATERIAL:STATE:SHARED,apple wood,苹果木
+MATERIAL:STATE:SHARED,apple cider,苹果西打
+MATERIAL:STATE:SHARED,apricot wood,杏木
+MATERIAL:STATE:SHARED,apricot wine,杏酒
+MATERIAL:STATE:SHARED,bayberry wood,杨梅木
+MATERIAL:STATE:SHARED,bayberry wine,杨梅酒
+MATERIAL:STATE:SHARED,cherry wood,樱桃木
+MATERIAL:STATE:SHARED,cherry wine,樱桃酒
+MATERIAL:STATE:SHARED,ginkgo wood,银杏木
+MATERIAL:STATE:SHARED,hazel wood,榛木
+MATERIAL:STATE:SHARED,peach wood,桃木
+MATERIAL:STATE:SHARED,peach cider,桃子西打
+MATERIAL:STATE:SHARED,pear wood,梨木
+MATERIAL:STATE:SHARED,perry,梨酒
+MATERIAL:STATE:SHARED,pecan wood,碧根果木
+MATERIAL:STATE:SHARED,persimmon wood,柿木
+MATERIAL:STATE:SHARED,persimmon wine,柿酒
+MATERIAL:STATE:SHARED,plum wood,李子木
+MATERIAL:STATE:SHARED,plum wine,李子酒
+MATERIAL:STATE:SHARED,sand pear wood,沙梨木
+MATERIAL:STATE:SHARED,sand pear cider,沙梨西打
+MATERIAL:STATE:SHARED,walnut wood,胡桃木
+MATERIAL:STATE:SHARED,mushroom,蘑菇
+MATERIAL:STATE:SHARED,dwarven wine,矮人酒
+MATERIAL:STATE:SHARED,dwarven ale,矮人精酿
+MATERIAL:STATE:SHARED,pig tail,猪尾草
+MATERIAL:STATE:SHARED,dwarven beer,矮人麦啤
+MATERIAL:STATE:SHARED,dwarven wheat flour,矮人小麦粉
+MATERIAL:STATE:SHARED,dwarven rum,矮人朗姆酒
+MATERIAL:STATE:SHARED,dwarven sugar,矮人砂糖
+MATERIAL:STATE:SHARED,dwarven syrup,矮人糖浆
+MATERIAL:STATE:SHARED,rock nut oil,石头坚果油
+MATERIAL:STATE:SHARED,rock nut soap,石头坚果皂
+MATERIAL:STATE:SHARED,rock nut,石头坚果
+MATERIAL:STATE:SHARED,swamp whiskey,沼泽威士忌
+MATERIAL:STATE:SHARED,tuber beer,地根啤酒
+MATERIAL:STATE:SHARED,gnomeblight,地精枯萎病
+MATERIAL:STATE:SHARED,prickle berry wine,刺莓酒
+MATERIAL:STATE:SHARED,strawberry wine,草莓酒
+MATERIAL:STATE:SHARED,Longland beer,长岛啤酒
+MATERIAL:STATE:SHARED,Longland flour,长岛草面粉
+MATERIAL:STATE:SHARED,golden salve,金色药膏
+MATERIAL:STATE:SHARED,sewer brew,阴沟佳酿
+MATERIAL:STATE:SHARED,fisher berry wine,渔夫浆果酒
+MATERIAL:STATE:SHARED,river spirits,河川烈酒
+MATERIAL:STATE:SHARED,rope reed,绳索苇
+MATERIAL:STATE:SHARED,dimple dye,窝杯染料
+MATERIAL:STATE:SHARED,emerald dye,宝石绿染料
+MATERIAL:STATE:SHARED,redroot dye,赤根染料
+MATERIAL:STATE:SHARED,gutter cruor,凝血酒
+MATERIAL:STATE:SHARED,sliver dye,裂钩染料
+MATERIAL:STATE:SHARED,sunshine,日光酒
+MATERIAL:STATE:SHARED,whip wine,长鞭酒
+MATERIAL:STATE:SHARED,whip vine flour,鞭藤面粉
+MATERIAL:STATE:SHARED,mangrove,红树
+MATERIAL:STATE:SHARED,pine,针松
+MATERIAL:STATE:SHARED,cedar,雪松
+MATERIAL:STATE:SHARED,mahogany,褐芯树
+MATERIAL:STATE:SHARED,acacia,刺槐
+MATERIAL:STATE:SHARED,kapok,木棉树
+MATERIAL:STATE:SHARED,maple,枫树
+MATERIAL:STATE:SHARED,willow,柳树
+MATERIAL:STATE:SHARED,tower-cap,塔菇
+MATERIAL:STATE:SHARED,black-cap,黑菇
+MATERIAL:STATE:SHARED,nether-cap,下界菇
+MATERIAL:STATE:SHARED,goblin-cap,妖精菇
+MATERIAL:STATE:SHARED,fungiwood,真菌木
+MATERIAL:STATE:SHARED,tunnel tube,隧管菌
+MATERIAL:STATE:SHARED,spore tree,孢子树
+MATERIAL:STATE:SHARED,blood thorn,血荆棘
+MATERIAL:STATE:SHARED,glumprong,紫影树
+MATERIAL:STATE:SHARED,feather wood,羽毛树
+MATERIAL:STATE:SHARED,highwood,极树
+MATERIAL:STATE:SHARED,larch,落叶松
+MATERIAL:STATE:SHARED,chestnut,板栗树
+MATERIAL:STATE:SHARED,alder,桤树
+MATERIAL:STATE:SHARED,candlenut,石栗
+MATERIAL:STATE:SHARED,mango wood,芒果树
+MATERIAL:STATE:SHARED,mango wine,芒果酒
+MATERIAL:STATE:SHARED,rubber wood,橡胶树
+MATERIAL:STATE:SHARED,cacao wood,可可树
+MATERIAL:STATE:SHARED,coconut palm,椰棕榈
+MATERIAL:STATE:SHARED,rubber wood,橡胶树
+MATERIAL:STATE:SHARED,cacao wood,可可树
+MATERIAL:STATE:SHARED,coconut palm,椰棕榈
