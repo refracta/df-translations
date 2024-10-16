@@ -85,18 +85,6 @@ configs = {
     name: 'tasks.csv',
     header: %w[table text translation],
   },
-  '帮助文档' => {
-    name: 'help-documents.csv',
-    header: %w[help_id help_name section_id title title_translation document document_translation],
-  },
-  '帮助文本' => {
-    name: 'help-texts.csv',
-    header: %w[help_id help_name type text text_translation],
-  },
-  '界面' => {
-    name: 'interfaces.csv',
-    header: %w[viewscreen context alignment text text_translation],
-  },
 }
 
 TARGET_DIR = 'lookups'
