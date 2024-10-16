@@ -13,10 +13,6 @@ configs = {
     name: 'plants.csv',
     header: %w[table text translation],
   },
-  '查询表-植物生长' => {
-    name: 'plants-growths.csv',
-    header: %w[table text translation],
-  },
   '查询表-技能' => {
     name: 'skills.csv',
     header: %w[table text translation],
@@ -103,7 +99,7 @@ configs = {
   },
 }
 
-TARGET_DIR = 'translations'
+TARGET_DIR = 'lookups'
 FileUtils.rm_rf(TARGET_DIR)
 FileUtils.mkdir_p(TARGET_DIR)
 
