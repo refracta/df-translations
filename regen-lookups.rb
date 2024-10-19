@@ -77,7 +77,19 @@ configs = {
     name: 'meats.csv',
     header: %w[table text translation],
   },
-  '查询表-物品（未完成）' => {
+  '查询表-腿装' => {
+    name: 'pants.csv',
+    header: %w[table text translation],
+  },
+  '查询表-攻城弹药' => {
+    name: 'siegeammos.csv',
+    header: %w[table text translation],
+  },
+  '查询表-陷阱组件' => {
+    name: 'trapcomps.csv',
+    header: %w[table text translation],
+  },
+  '查询表-物品' => {
     name: 'items.csv',
     header: %w[table text translation],
   },
