@@ -13,10 +13,6 @@ configs = {
     name: 'plants.csv',
     header: %w[table text translation],
   },
-  '查询表-植物生长' => {
-    name: 'plants-growths.csv',
-    header: %w[table text translation],
-  },
   '查询表-技能' => {
     name: 'skills.csv',
     header: %w[table text translation],
@@ -89,21 +85,9 @@ configs = {
     name: 'tasks.csv',
     header: %w[table text translation],
   },
-  '帮助文档' => {
-    name: 'help-documents.csv',
-    header: %w[help_id help_name section_id title title_translation document document_translation],
-  },
-  '帮助文本' => {
-    name: 'help-texts.csv',
-    header: %w[help_id help_name type text text_translation],
-  },
-  '界面' => {
-    name: 'interfaces.csv',
-    header: %w[viewscreen context alignment text text_translation],
-  },
 }
 
-TARGET_DIR = 'translations'
+TARGET_DIR = 'lookups'
 FileUtils.rm_rf(TARGET_DIR)
 FileUtils.mkdir_p(TARGET_DIR)
 
