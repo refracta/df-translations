@@ -5,6 +5,10 @@ require 'rubyXL'
 RubyXL.class_variable_set(:@@suppress_warnings, true)
 
 configs = {
+  '查询表-主表' => {
+    name: 'index.csv',
+    header: %w[table text translation],
+  },
   '查询表-生物' => {
     name: 'creatures.csv',
     header: %w[table text translation],
@@ -91,6 +95,10 @@ configs = {
   },
   '查询表-物品' => {
     name: 'items.csv',
+    header: %w[table text translation],
+  },
+  '查询表-构筑菜单' => {
+    name: 'construction-menus.csv',
     header: %w[table text translation],
   },
   '查询表-任务（临时）' => {
