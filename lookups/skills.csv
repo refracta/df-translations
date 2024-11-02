@@ -1,5 +1,5 @@
 table,text,translation
-SKILL,{LEVEL} {NAME},{LEVEL} {NAME}
+SKILL,{LEVEL} {NAME},{LEVEL}{NAME}
 SKILL:LEVEL,Dabbling,涉足的
 SKILL:LEVEL,Novice,新手的
 SKILL:LEVEL,Adequate,勉强的
