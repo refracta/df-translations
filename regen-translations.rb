@@ -17,6 +17,14 @@ configs = {
     name: 'interfaces.csv',
     header: %w[viewscreen context alignment text text_translation],
   },
+  '月份' => {
+    name: 'months.csv',
+    header: %w[id text text_translation],
+  },
+  '季节' => {
+    name: 'seasons.csv',
+    header: %w[id text text_translation],
+  },
 }
 
 TARGET_DIR = 'translations'

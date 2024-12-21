@@ -8,3 +8,11 @@ title,mainmenu,CENTER,Mods,模组
 title,mainmenu,CENTER,Settings,设置
 title,mainmenu,CENTER,About DF,关于DF
 title,mainmenu,CENTER,Quit,退出
+dwarfmode,gamemenu,CENTER,Dwarf Fortress,矮人要塞
+dwarfmode,gamemenu,CENTER,Save and return to title menu,保存并返回主菜单 
+dwarfmode,gamemenu,CENTER,Save and continue playing,保存并继续游戏 
+dwarfmode,gamemenu,CENTER,Retire the fortress (for the time being),撤出要塞（暂时）
+dwarfmode,gamemenu,CENTER,Abandon the fortress to ruin,放弃要塞成为废墟
+dwarfmode,gamemenu,CENTER,Quit without saving,不保存退出 
+dwarfmode,gamemenu,CENTER,Settings,设置
+dwarfmode,gamemenu,CENTER,Return to game,返回游戏
