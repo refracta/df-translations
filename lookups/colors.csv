@@ -1,0 +1,139 @@
+table,text,translation
+COLOR,{NAME},{NAME}
+COLOR:NAME,amber,琥珀色
+COLOR:NAME,amethyst,紫水晶色
+COLOR:NAME,apple green,苹果绿
+COLOR:NAME,aqua,水色
+COLOR:NAME,aquamarine,海蓝宝色
+COLOR:NAME,ash gray,灰白色
+COLOR:NAME,auburn,赤褐色
+COLOR:NAME,azure,天青色
+COLOR:NAME,beige,米色
+COLOR:NAME,black,黑色
+COLOR:NAME,blue,蓝色
+COLOR:NAME,blue-gray,蓝灰色
+COLOR:NAME,brass,黄铜色
+COLOR:NAME,bright green,亮绿色
+COLOR:NAME,bronze,青铜色
+COLOR:NAME,brown,棕色
+COLOR:NAME,buff,浅黄褐色
+COLOR:NAME,burnt sienna,焦赭色
+COLOR:NAME,burnt umber,焦棕色
+COLOR:NAME,cardinal,深猩红色
+COLOR:NAME,carmine,胭脂红
+COLOR:NAME,cerulean,蔚蓝色
+COLOR:NAME,charcoal,木炭灰
+COLOR:NAME,chartreuse,查特酒绿
+COLOR:NAME,chestnut,栗色
+COLOR:NAME,chocolate,巧克力色
+COLOR:NAME,cinnamon,肉桂色
+COLOR:NAME,clear,透明色
+COLOR:NAME,cobalt,钴蓝色
+COLOR:NAME,copper,铜色
+COLOR:NAME,cornflower,矢车菊蓝
+COLOR:NAME,cream,奶油色
+COLOR:NAME,crimson,绯红色
+COLOR:NAME,crocus purple,番红花紫
+COLOR:NAME,dark azure,深天青色
+COLOR:NAME,dark blue,深蓝色
+COLOR:NAME,dark brown,深棕色
+COLOR:NAME,dark chestnut,深栗色
+COLOR:NAME,dark green,深绿色
+COLOR:NAME,dark indigo,深靛蓝
+COLOR:NAME,dark olive,深橄榄色
+COLOR:NAME,dark peach,深桃色
+COLOR:NAME,dark pink,深粉色
+COLOR:NAME,dark scarlet,深猩红
+COLOR:NAME,dark tan,深棕褐色
+COLOR:NAME,dark violet,深紫罗兰色
+COLOR:NAME,deep sea blue,深海蓝
+COLOR:NAME,ecru,米白色
+COLOR:NAME,eggplant,茄紫色
+COLOR:NAME,emerald,祖母绿色
+COLOR:NAME,eucalyptus,桉树绿
+COLOR:NAME,fern green,蕨类绿
+COLOR:NAME,flax,亚麻色
+COLOR:NAME,foxglove,毛地黄紫
+COLOR:NAME,fuchsia,紫红色
+COLOR:NAME,glacier blue,冰川蓝
+COLOR:NAME,gold,金色
+COLOR:NAME,golden yellow,金黄色
+COLOR:NAME,goldenrod,金麒麟黄
+COLOR:NAME,grass green,草绿色
+COLOR:NAME,gray,灰色
+COLOR:NAME,green,绿色
+COLOR:NAME,green-yellow,黄绿色
+COLOR:NAME,heliotrope,缬草紫
+COLOR:NAME,indigo,靛青色
+COLOR:NAME,ivory,象牙色
+COLOR:NAME,jade,翡翠色
+COLOR:NAME,lavender,薰衣草色
+COLOR:NAME,lavender blush,薰衣草粉
+COLOR:NAME,leaf green,叶绿色
+COLOR:NAME,lemon,柠檬黄
+COLOR:NAME,light blue,浅蓝色
+COLOR:NAME,light brown,浅棕色
+COLOR:NAME,lilac,丁香紫
+COLOR:NAME,lime,酸橙绿
+COLOR:NAME,mahogany,桃花心木色
+COLOR:NAME,maroon,栗红色
+COLOR:NAME,mauve,淡紫色
+COLOR:NAME,mauve taupe,灰紫褐色
+COLOR:NAME,midnight blue,午夜蓝
+COLOR:NAME,mint green,薄荷绿
+COLOR:NAME,moss green,苔藓绿
+COLOR:NAME,ochre,赭黄色
+COLOR:NAME,olive,橄榄色
+COLOR:NAME,orange,橙色
+COLOR:NAME,orchid pink,兰花粉
+COLOR:NAME,pale blue,淡蓝色
+COLOR:NAME,pale brown,淡棕色
+COLOR:NAME,pale chestnut,淡栗色
+COLOR:NAME,pale pink,淡粉色
+COLOR:NAME,peach,桃色
+COLOR:NAME,pearl,珍珠色
+COLOR:NAME,periwinkle,长春花蓝
+COLOR:NAME,pine green,松树绿
+COLOR:NAME,pink,粉色
+COLOR:NAME,plum,梅子色
+COLOR:NAME,puce,暗紫褐色
+COLOR:NAME,pumpkin,南瓜色
+COLOR:NAME,purple,紫色
+COLOR:NAME,raspberry pink,树莓粉
+COLOR:NAME,raw umber,生赭色
+COLOR:NAME,red,红色
+COLOR:NAME,red-purple,红紫色
+COLOR:NAME,river blue,河畔蓝
+COLOR:NAME,rose,玫瑰色
+COLOR:NAME,russet,赤褐色
+COLOR:NAME,rust,铁锈色
+COLOR:NAME,saffron,藏红花色
+COLOR:NAME,sapphire,宝石蓝
+COLOR:NAME,scarlet,猩红色
+COLOR:NAME,sea foam,海沫绿
+COLOR:NAME,sea green,海绿色
+COLOR:NAME,sepia,乌贼墨色
+COLOR:NAME,silver,银色
+COLOR:NAME,sky blue,天蓝色
+COLOR:NAME,slate gray,板岩灰
+COLOR:NAME,spring green,春绿色
+COLOR:NAME,tan,棕褐色
+COLOR:NAME,taupe,褐色
+COLOR:NAME,taupe gray,灰褐色
+COLOR:NAME,dark taupe,深灰褐色
+COLOR:NAME,taupe medium,中灰褐色
+COLOR:NAME,pale taupe,浅褐色
+COLOR:NAME,purple taupe,紫褐色
+COLOR:NAME,rose taupe,玫瑰褐色
+COLOR:NAME,sandy taupe,沙褐色
+COLOR:NAME,teal,水鸭色
+COLOR:NAME,turquoise,青绿色
+COLOR:NAME,ultramarine,群青色
+COLOR:NAME,vermilion,朱红色
+COLOR:NAME,vibrant green,亮翠绿
+COLOR:NAME,violet,紫罗兰色
+COLOR:NAME,white,白色
+COLOR:NAME,woodland green,林地绿
+COLOR:NAME,yellow,黄色
+COLOR:NAME,yellow-green,黄绿
+COLOR:NAME,zesty green,鲜柠檬绿

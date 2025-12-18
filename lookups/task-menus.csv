@@ -1,0 +1,32 @@
+table,text,translation
+TASK_MENU:$0,(opens menu), (打开菜单)
+TASK_MENU:$0,,
+TASK_MENU,Weapons and Ammunition,武器与弹药
+TASK_MENU,Armor,护甲
+TASK_MENU,wood,木头
+TASK_MENU,Furniture,家具
+TASK_MENU,Siege equipment,围攻装备
+TASK_MENU,Trap components,陷阱部件
+TASK_MENU,Other objects,其他物体
+TASK_MENU,Metal clothing,金属衣物
+TASK_MENU,Make instrument piece,制作乐器零件
+TASK_MENU,Make instrument,制作乐器
+TASK_MENU,Engrave memorial slab,雕刻纪念石板
+TASK_MENU,Metalsmith's Forge,锻造间
+TASK_MENU,stoneworker's Workshop,石匠工坊
+TASK_MENU,bowyer's workshop,弓弩匠工坊
+TASK_MENU,siege workshop,攻城器工坊
+TASK_MENU,Clothier's shop,裁缝铺
+TASK_MENU,Dyer's shop,染坊
+TASK_MENU,Butcher's shop,屠宰场
+TASK_MENU,Tanner's shop,制革作坊
+TASK_MENU,Jeweler's workshop,珠宝工坊
+TASK_MENU,Polish stones,抛光石头
+TASK_MENU,Craftsdwarf's Workshop,手艺工坊
+TASK_MENU,Carpenter's Workshop,木匠工坊
+TASK_MENU,{CLOTHIER},{CLOTHIER}
+TASK_MENU:CLOTHIER,cloth (opens menu),布匹 (打开菜单)
+TASK_MENU:CLOTHIER,silk (opens menu),丝绸 (打开菜单)
+TASK_MENU:CLOTHIER,yarn (opens menu),纱线 (打开菜单)
+TASK_MENU,{FORGE},{FORGE}
+TASK_MENU:FORGE,{:MATERIAL:STATE:SHARED} (opens menu),{:MATERIAL:STATE:SHARED} (打开菜单)

@@ -1,0 +1,245 @@
+table,text,translation
+WARNING:$0,{:NUM:MUTY},{:NUM:MUTY}
+WARNING:$0,,
+WARNING:^0,{:POSITION},{:POSITION}
+WARNING:^0,{:PROFESSION},{:PROFESSION}
+WARNING:^0,,
+WARNING,The dwarves were unable to complete the {:ITEM},矮人未能完成建筑任务: {:ITEM}
+WARNING,The dwarves suspended the construction of {:ITEM},矮人暂停了建筑{:ITEM}
+WARNING,cancels {:TASK} {:WARNING:REASON},取消{:TASK} {:WARNING:REASON}
+WARNING,{REASON},{REASON}
+WARNING:REASON,Job item lost or destroyed.,任务物品失踪或被摧毁。
+WARNING:REASON,Forbidden area.,被限制通行区域。
+WARNING:REASON,Inappropriate building.,不恰当的建筑。
+WARNING:REASON,Item blocking site.,目标位置被物品阻挡。
+WARNING:REASON,Creature occupying site.,生物站拒目标位置。
+WARNING:REASON,Building site submerged.,建筑地点被淹没。
+WARNING:REASON,Could not find path.,无法找到路径。
+WARNING:REASON,Equipment mismatch.,装备无法适配。
+WARNING:REASON,Item inaccessible.,没有可以抵达物品位置的路径。
+WARNING:REASON,Needs {:ITEM},需要{:ITEM}
+WARNING,{TRANCE},{TRANCE}
+WARNING:TRANCE,{:PROFESSION} has entered a martial trance!,{:PROFESSION}陷入了武术恍惚!
+WARNING,{ORDER},{ORDER}
+WARNING:ORDER,{:TASK} {:NUM:NUMBER} has been completed.,{:TASK}{:NUM:NUMBER}已经完成。
+WARNING,{NOBLE},{NOBLE}
+WARNING:NOBLE,{:POSITION} has imposed a ban on certain exports.,{:POSITION}颁布了一条出口禁令。
+WARNING:NOBLE,{:PROFESSION} has imposed a ban on certain exports.,{:POSITION}颁布了一条出口禁令。
+WARNING,{BRITH},{BRITH}
+WARNING:BRITH,{:POSITION} has given birth to a {:WARNING:BRITH:SEX},{:POSITION}生下了一个{:WARNING:BRITH:SEX}
+WARNING:BRITH,{:PROFESSION} has given birth to a {:WARNING:BRITH:SEX},{:PROFESSION}生下了一个{:WARNING:BRITH:SEX}
+WARNING:BRITH,{SEX},{SEX}
+WARNING:BRITH:SEX,boy.,男孩。
+WARNING:BRITH:SEX,girl.,女孩。
+WARNING,{GETORE},{GETORE}
+WARNING:GETORE,You have struck {:WARNING:GETORE:NAME},你挖到了{:WARNING:GETORE:NAME}
+WARNING:GETORE,{NAME},{NAME}
+WARNING:GETORE:NAME,onyx!,缟玛瑙!
+WARNING:GETORE:NAME,morion!,黑水晶!
+WARNING:GETORE:NAME,schorl!,黑碧玺!
+WARNING:GETORE:NAME,lace agate!,蕾丝玛瑙!
+WARNING:GETORE:NAME,blue jade!,蓝翡翠!
+WARNING:GETORE:NAME,lapis lazuli!,青金石!
+WARNING:GETORE:NAME,prase!,苍绿石英!
+WARNING:GETORE:NAME,prase opal!,苍绿欧泊!
+WARNING:GETORE:NAME,bloodstone!,血石!
+WARNING:GETORE:NAME,moss agate!,苔藓玛瑙!
+WARNING:GETORE:NAME,moss opal!,苔藓欧泊!
+WARNING:GETORE:NAME,variscite!,磷铝石!
+WARNING:GETORE:NAME,chrysoprase!,绿玉髓!
+WARNING:GETORE:NAME,chrysocolla!,硅孔雀石!
+WARNING:GETORE:NAME,sard!,褐玉髓!
+WARNING:GETORE:NAME,carnelian!,红玉髓!
+WARNING:GETORE:NAME,banded agate!,条纹玛瑙!
+WARNING:GETORE:NAME,sardonyx!,缠丝玛瑙!
+WARNING:GETORE:NAME,cherry opal!,樱桃欧泊!
+WARNING:GETORE:NAME,lavender jade!,紫翡翠!
+WARNING:GETORE:NAME,pink jade!,粉红翡翠!
+WARNING:GETORE:NAME,tube agate!,管脉玛瑙!
+WARNING:GETORE:NAME,fire agate!,火玛瑙!
+WARNING:GETORE:NAME,plume agate!,羽毛玛瑙!
+WARNING:GETORE:NAME,brown jasper!,棕碧玉!
+WARNING:GETORE:NAME,picture jasper!,图画碧玉!
+WARNING:GETORE:NAME,smoky quartz!,烟石英!
+WARNING:GETORE:NAME,wax opal!,蜡质欧泊!
+WARNING:GETORE:NAME,wood opal!,木欧泊!
+WARNING:GETORE:NAME,amber opal!,琥珀欧泊!
+WARNING:GETORE:NAME,gold opal!,金欧泊!
+WARNING:GETORE:NAME,citrine!,黄水晶!
+WARNING:GETORE:NAME,yellow jasper!,黄碧玉!
+WARNING:GETORE:NAME,tigereye!,虎眼石!
+WARNING:GETORE:NAME,tiger iron!,虎铁石!
+WARNING:GETORE:NAME,sunstone!,日长石!
+WARNING:GETORE:NAME,resin opal!,脂光欧泊!
+WARNING:GETORE:NAME,pyrite!,黄铁矿!
+WARNING:GETORE:NAME,clear tourmaline!,透明碧玺!
+WARNING:GETORE:NAME,gray chalcedony!,灰玉髓!
+WARNING:GETORE:NAME,dendritic agate!,枝纹玛瑙!
+WARNING:GETORE:NAME,shell opal!,贝壳欧泊!
+WARNING:GETORE:NAME,bone opal!,骨质欧泊!
+WARNING:GETORE:NAME,white chalcedony!,白玉髓!
+WARNING:GETORE:NAME,fortification agate!,城垒玛瑙!
+WARNING:GETORE:NAME,milk quartz!,乳石英!
+WARNING:GETORE:NAME,moonstone!,月长石!
+WARNING:GETORE:NAME,white jade!,白翡翠!
+WARNING:GETORE:NAME,jasper opal!,碧玉欧泊!
+WARNING:GETORE:NAME,pineapple opal!,凤梨欧泊!
+WARNING:GETORE:NAME,onyx opal!,缟纹欧泊!
+WARNING:GETORE:NAME,milk opal!,乳欧泊!
+WARNING:GETORE:NAME,pipe opal!,管纹欧泊!
+WARNING:GETORE:NAME,aventurine!,砂金石!
+WARNING:GETORE:NAME,turquoise!,绿松石!
+WARNING:GETORE:NAME,rose quartz!,蔷薇石英!
+WARNING:GETORE:NAME,rock crystal!,岩石水晶!
+WARNING:GETORE:NAME,black zircon!,黑锆石!
+WARNING:GETORE:NAME,black pyrope!,黑榴石!
+WARNING:GETORE:NAME,melanite!,墨榴石!
+WARNING:GETORE:NAME,indigo tourmaline!,靛蓝碧玺!
+WARNING:GETORE:NAME,blue garnet!,蓝榴石!
+WARNING:GETORE:NAME,tsavorite!,沙弗莱石!
+WARNING:GETORE:NAME,green tourmaline!,绿碧玺!
+WARNING:GETORE:NAME,demantoid!,翠榴石!
+WARNING:GETORE:NAME,green zircon!,绿锆石!
+WARNING:GETORE:NAME,green jade!,绿翡翠!
+WARNING:GETORE:NAME,heliodor!,绿柱石!
+WARNING:GETORE:NAME,peridot!,橄榄石!
+WARNING:GETORE:NAME,red zircon!,红锆石!
+WARNING:GETORE:NAME,red tourmaline!,红碧玺!
+WARNING:GETORE:NAME,red pyrope!,赤榴石!
+WARNING:GETORE:NAME,almandine!,殷榴石!
+WARNING:GETORE:NAME,red grossular!,红榴石!
+WARNING:GETORE:NAME,pink tourmaline!,粉红碧玺!
+WARNING:GETORE:NAME,red beryl!,红柱石!
+WARNING:GETORE:NAME,fire opal!,火欧泊!
+WARNING:GETORE:NAME,rhodolite!,朱榴石!
+WARNING:GETORE:NAME,purple spinel!,紫尖晶石!
+WARNING:GETORE:NAME,alexandrite!,紫翠玉!
+WARNING:GETORE:NAME,tanzanite!,坦桑石!
+WARNING:GETORE:NAME,morganite!,摩根石!
+WARNING:GETORE:NAME,violet spessartine!,紫榴石!
+WARNING:GETORE:NAME,pink garnet!,粉红榴石!
+WARNING:GETORE:NAME,kunzite!,紫锂辉石!
+WARNING:GETORE:NAME,cinnamon grossular!,褐榴石!
+WARNING:GETORE:NAME,honey yellow beryl!,蜜黄柱石!
+WARNING:GETORE:NAME,jelly opal!,冻胶欧泊!
+WARNING:GETORE:NAME,brown zircon!,棕锆石!
+WARNING:GETORE:NAME,yellow zircon!,黄锆石!
+WARNING:GETORE:NAME,golden beryl!,金柱石!
+WARNING:GETORE:NAME,yellow spessartine!,橙榴石!
+WARNING:GETORE:NAME,topaz!,黄玉!
+WARNING:GETORE:NAME,topazolite!,黄榴石!
+WARNING:GETORE:NAME,yellow grossular!,缃榴石!
+WARNING:GETORE:NAME,rubicelle!,橙尖晶石!
+WARNING:GETORE:NAME,clear garnet!,透明榴石!
+WARNING:GETORE:NAME,goshenite!,白柱石!
+WARNING:GETORE:NAME,cat's eye!,猫眼石!
+WARNING:GETORE:NAME,clear zircon!,透明锆石!
+WARNING:GETORE:NAME,amethyst!,紫水晶!
+WARNING:GETORE:NAME,aquamarine!,海蓝宝石!
+WARNING:GETORE:NAME,red spinel!,红尖晶石!
+WARNING:GETORE:NAME,chrysoberyl!,金绿玉!
+WARNING:GETORE:NAME,precious fire opal!,贵火欧泊!
+WARNING:GETORE:NAME,red flash opal!,红闪欧泊!
+WARNING:GETORE:NAME,black opal!,黑欧泊!
+WARNING:GETORE:NAME,white opal!,白欧泊!
+WARNING:GETORE:NAME,crystal opal!,水晶欧泊!
+WARNING:GETORE:NAME,claro opal!,烟欧泊!
+WARNING:GETORE:NAME,levin opal!,雷电欧泊!
+WARNING:GETORE:NAME,harlequin opal!,斑斓欧泊!
+WARNING:GETORE:NAME,pinfire opal!,星火欧泊!
+WARNING:GETORE:NAME,bandfire opal!,火纹欧泊!
+WARNING:GETORE:NAME,light yellow diamond!,亮黄钻石!
+WARNING:GETORE:NAME,faint yellow diamond!,微黄钻石!
+WARNING:GETORE:NAME,emerald!,祖母绿宝石!
+WARNING:GETORE:NAME,ruby!,红宝石!
+WARNING:GETORE:NAME,sapphire!,蓝玉!
+WARNING:GETORE:NAME,clear diamond!,透明钻石!
+WARNING:GETORE:NAME,red diamond!,红钻石!
+WARNING:GETORE:NAME,green diamond!,绿钻石!
+WARNING:GETORE:NAME,blue diamond!,蓝钻石!
+WARNING:GETORE:NAME,yellow diamond!,黄钻石!
+WARNING:GETORE:NAME,black diamond!,黑钻石!
+WARNING:GETORE:NAME,star sapphire!,星彩蓝玉!
+WARNING:GETORE:NAME,star ruby!,星彩红宝石!
+WARNING:GETORE:NAME,sandstone!,砂岩!
+WARNING:GETORE:NAME,siltstone!,粉砂岩!
+WARNING:GETORE:NAME,mudstone!,泥岩!
+WARNING:GETORE:NAME,shale!,页岩!
+WARNING:GETORE:NAME,claystone!,黏土岩!
+WARNING:GETORE:NAME,rock salt!,岩盐!
+WARNING:GETORE:NAME,limestone!,石灰岩!
+WARNING:GETORE:NAME,conglomerate!,砾岩!
+WARNING:GETORE:NAME,dolomite!,白云石!
+WARNING:GETORE:NAME,chert!,角岩!
+WARNING:GETORE:NAME,chalk!,白垩岩!
+WARNING:GETORE:NAME,granite!,花岗岩!
+WARNING:GETORE:NAME,diorite!,闪长岩!
+WARNING:GETORE:NAME,gabbro!,辉长岩!
+WARNING:GETORE:NAME,rhyolite!,流纹岩!
+WARNING:GETORE:NAME,basalt!,玄武岩!
+WARNING:GETORE:NAME,andesite!,安山岩!
+WARNING:GETORE:NAME,dacite!,英安岩!
+WARNING:GETORE:NAME,obsidian!,黑曜石!
+WARNING:GETORE:NAME,quartzite!,石英岩!
+WARNING:GETORE:NAME,slate!,板岩!
+WARNING:GETORE:NAME,phyllite!,千枚岩!
+WARNING:GETORE:NAME,schist!,片岩!
+WARNING:GETORE:NAME,gneiss!,片麻岩!
+WARNING:GETORE:NAME,marble!,大理石!
+WARNING:GETORE:NAME,hematite!,赤铁矿!
+WARNING:GETORE:NAME,limonite!,褐铁矿!
+WARNING:GETORE:NAME,garnierite!,硅镁镍矿!
+WARNING:GETORE:NAME,native gold!,天然金矿!
+WARNING:GETORE:NAME,native silver!,天然银矿!
+WARNING:GETORE:NAME,native copper!,天然铜矿!
+WARNING:GETORE:NAME,malachite!,孔雀石!
+WARNING:GETORE:NAME,galena!,方铅矿!
+WARNING:GETORE:NAME,sphalerite!,闪锌矿!
+WARNING:GETORE:NAME,cassiterite!,锡石!
+WARNING:GETORE:NAME,bituminous coal!,烟煤!
+WARNING:GETORE:NAME,lignite!,褐煤!
+WARNING:GETORE:NAME,native platinum!,天然铂矿!
+WARNING:GETORE:NAME,cinnabar!,辰砂!
+WARNING:GETORE:NAME,cobaltite!,辉钴矿!
+WARNING:GETORE:NAME,tetrahedrite!,黝铜矿!
+WARNING:GETORE:NAME,horn silver!,角银矿!
+WARNING:GETORE:NAME,gypsum!,软石膏!
+WARNING:GETORE:NAME,talc!,滑石!
+WARNING:GETORE:NAME,jet!,煤玉!
+WARNING:GETORE:NAME,puddingstone!,布丁岩!
+WARNING:GETORE:NAME,petrified wood!,石化木!
+WARNING:GETORE:NAME,graphite!,石墨!
+WARNING:GETORE:NAME,brimstone!,硫磺!
+WARNING:GETORE:NAME,kimberlite!,金伯利岩!
+WARNING:GETORE:NAME,bismuthinite!,辉铋矿!
+WARNING:GETORE:NAME,realgar!,雄黄!
+WARNING:GETORE:NAME,orpiment!,雌黄!
+WARNING:GETORE:NAME,stibnite!,辉锑矿!
+WARNING:GETORE:NAME,marcasite!,白铁矿!
+WARNING:GETORE:NAME,sylvite!,钾岩!
+WARNING:GETORE:NAME,cryolite!,冰晶石!
+WARNING:GETORE:NAME,periclase!,方镁石!
+WARNING:GETORE:NAME,ilmenite!,钛铁矿!
+WARNING:GETORE:NAME,rutile!,金红石!
+WARNING:GETORE:NAME,magnetite!,磁铁矿!
+WARNING:GETORE:NAME,chromite!,铬铁矿!
+WARNING:GETORE:NAME,pyrolusite!,软锰矿!
+WARNING:GETORE:NAME,pitchblende!,沥青铀矿!
+WARNING:GETORE:NAME,bauxite!,铝土矿!
+WARNING:GETORE:NAME,native aluminum!,天然铝矿!
+WARNING:GETORE:NAME,borax!,硼砂!
+WARNING:GETORE:NAME,olivine!,橄榄岩!
+WARNING:GETORE:NAME,hornblende!,角闪石!
+WARNING:GETORE:NAME,kaolinite!,高岭石!
+WARNING:GETORE:NAME,serpentine!,蛇纹石!
+WARNING:GETORE:NAME,orthoclase!,正长石!
+WARNING:GETORE:NAME,microcline!,微斜长石!
+WARNING:GETORE:NAME,mica!,云母!
+WARNING:GETORE:NAME,calcite!,方解石!
+WARNING:GETORE:NAME,saltpeter!,硝石!
+WARNING:GETORE:NAME,alabaster!,雪花石膏!
+WARNING:GETORE:NAME,selenite!,透明石膏!
+WARNING:GETORE:NAME,satinspar!,纤维石膏!
+WARNING:GETORE:NAME,anhydrite!,硬石膏!
+WARNING:GETORE:NAME,alunite!,明矾石!
+WARNING:GETORE:NAME,raw adamantine!,原始精金!

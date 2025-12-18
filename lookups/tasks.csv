@@ -1,0 +1,132 @@
+table,text,translation
+TASK:^0,Assemble,组装
+TASK:^0,Forge,打造
+TASK:^0,Make,制作
+TASK:^0,Render,熬煮
+TASK:^0,Smelt,熔炼
+TASK:^0,Mint,铸造
+TASK:^0,Make coke from,精炼焦炭-消耗
+TASK:^0,Encrust ammo with,为弹药镶嵌
+TASK:^0,Encrust finished goods with,为成品镶嵌
+TASK:^0,Encrust furniture with,为家具镶嵌
+TASK:^0,,
+TASK:$0,ore,矿石
+TASK:$0,ore:,矿石:
+TASK:$0,(use bars),(使用锭)
+TASK:$0,(use ore),(使用矿石)
+TASK:$0,,
+TASK,{:ITEM},{:ITEM}
+TASK,Decorate with {:ITEM},装饰以{:ITEM}
+TASK,Make large wooden gem,制作大型木制宝石
+TASK,Make large wooden gem:,制作大型木制宝石:
+TASK,Store item in bin,储存物品到储存箱
+TASK,Store item in bin:,储存物品到储存箱:
+TASK,Store item in stockpile,储存物品到储存区
+TASK,Store item in stockpile:,储存物品到储存区:
+TASK,Dump item,丢弃物品
+TASK,Dump item:,丢弃物品:
+TASK,Store owned item,储存个人物品
+TASK,Store owned item:,储存个人物品:
+TASK,Store squad item,储存小队物品
+TASK,Store squad item:,储存小队物品:
+TASK,Store squad equipment,储存小队装备
+TASK,Store squad equipment:,储存小队装备:
+TASK,Pickup equipment,捡起装备
+TASK,Pickup equipment:,捡起装备:
+TASK,Construct building,建造建筑
+TASK,Construct building:,建造建筑:
+TASK,Fill pond,填满池塘
+TASK,Fill pond:,填满池塘:
+TASK,Smooth wall,打磨墙体
+TASK,Smooth wall:,打磨墙体:
+TASK,Sleep,睡眠
+TASK,Sleep:,睡眠:
+TASK,Melt a metal object,融炼一件金属物品
+TASK,Melt a metal object:,融炼一件金属物品:
+TASK,Make pig iron bars,制作生铁锭
+TASK,Make pig iron bars:,制作生铁锭:
+TASK,Fell tree:,砍树:
+TASK,Fell tree,砍树
+TASK,{MILL},{MILL}
+TASK:MILL,Mash plant into slurry,将植物研磨成纸浆
+TASK:MILL,Mill seeds/nuts to paste,将种子/坚果磨浆
+TASK,{SEW},{SEW}
+TASK:SEW,Sew leather image,缝缀皮质图案
+TASK:SEW,Sew cloth image,缝缀布质图案
+TASK:SEW,Sew silk image,缝缀丝质图案
+TASK:SEW,Sew yarn image,缝缀纱质图案
+TASK,{STUD},{STUD}
+TASK:STUD,Stud with,镶嵌
+TASK:STUD:$0,{:MATERIAL:STATE:SHARED},{:MATERIAL:STATE:SHARED}
+TASK,{STILL},{STILL}
+TASK:STILL,Brew drink from fruit,用果实酿酒
+TASK:STILL,Brew drink from plant,用植物酿酒
+TASK,{KILN},{KILN}
+TASK:KILN,Glaze clay/stone craft,为黏土/石头工艺品上釉
+TASK:KILN,Glaze clay/stone jug,为黏土/石头壶上釉
+TASK:KILN,Glaze clay/stone statue,为黏土/石头雕像上釉
+TASK:KILN,Glaze large clay/stone pot,为黏土/石头大罐上釉
+TASK:KILN,Make large clay pot,制作大黏土罐
+TASK:KILN,Make plaster powder,制作石膏粉
+TASK,{SOAP},{SOAP}
+TASK:SOAP,Make soap from oil,用植物油制作肥皂
+TASK:SOAP,Make soap from tallow,用脂油制作肥皂
+TASK,{CRAFT},{CRAFT}
+TASK:CRAFT,Make quire,制作稿纸
+TASK:CRAFT,Make scroll,制作卷轴
+TASK:CRAFT,Make wax crafts,制作蜂蜡工艺品
+TASK:CRAFT,Bind book,装订书籍
+TASK:CRAFT,Decorate with horn,用角装饰
+TASK:CRAFT,Decorate with ivory/tooth,用长牙/牙齿装饰
+TASK:CRAFT,Decorate with pearl,用珍珠装饰
+TASK,{FARM},{FARM}
+TASK:FARM,Make sheet from plant,用植物做纸张
+TASK:FARM,Milk animal,为动物挤奶
+TASK:FARM,Process plant to bag,用袋子进行甩籽
+TASK:FARM,Shear animal,为动物剪毛
+TASK,{TANNER},{TANNER}
+TASK:TANNER,Tan a hide,鞣制一张皮革
+TASK,{PRESS},{PRESS}
+TASK:PRESS,Press honey from honeycomb,从蜜脾中压出蜂蜜
+TASK:PRESS,Press liquid from fruit,从果实中压出液体
+TASK:PRESS,Press liquid from paste,从浆糊中压出液体
+TASK:PRESS,Press plant slurry into paper sheet,将植物纸浆压成纸张
+TASK,{BUCHER},{BUCHER}
+TASK:BUCHER,Slaughter {:CREATURE:CASTE:NAME},屠宰{:CREATURE:CASTE:NAME}
+TASK:BUCHER,Slaughter {:CREATURE:CHILD},屠宰{:CREATURE:CHILD}
+TASK:BUCHER,Slaughter {:CREATURE:NAME},屠宰{:CREATURE:NAME}
+TASK,{DYE},{DYE}
+TASK:DYE:$0,(opens menu), (打开菜单)
+TASK:DYE:$0,,
+TASK:DYE,Dye cloth a specific color,将布匹染为特定颜色
+TASK:DYE,Dye leather a specific color,将皮革染为特定颜色
+TASK:DYE,Dye thread a specific color,将细线染为特定颜色
+TASK:DYE,Mix dye,混合染料
+TASK:DYE,Make dye,制作染料
+TASK:DYE,Dye cloth,染布匹
+TASK:DYE,Dye leather,染皮革
+TASK:DYE,Dye thread,染细线
+TASK:DYE,{MENU},{MENU}
+TASK:DYE:MENU,Dye cloth {:COLOR:NAME},布匹-染为{:COLOR:NAME}
+TASK:DYE:MENU,Dye leather {:COLOR:NAME},皮革-染为{:COLOR:NAME}
+TASK:DYE:MENU,Dye thread {:COLOR:NAME},细线-染为{:COLOR:NAME}
+TASK:DYE,{TINT},{TINT}
+TASK:DYE:TINT,Tint cloth {:COLOR:NAME},布匹增色-底色{:COLOR:NAME}
+TASK:DYE:TINT,Tint leather {:COLOR:NAME},皮革增色-底色{:COLOR:NAME}
+TASK:DYE:TINT,Tint thread {:COLOR:NAME},细线增色-底色{:COLOR:NAME}
+TASK:DYE:TINT,{TAIL_TINT},{TAIL_TINT}
+TASK:DYE:TINT:TAIL_TINT,using {:TASK:DYE:TINT:TAIL_TINT:FIX_CO},-使用{:TASK:DYE:TINT:TAIL_TINT:FIX_CO}
+TASK:DYE:TINT:TAIL_TINT,{FIX_CO},{FIX_CO}
+TASK:DYE:TINT:TAIL_TINT:FIX_CO,{:COLOR:NAME} dye,{:COLOR:NAME}染料
+TASK:DYE:TINT,{HEAD_TINT},{HEAD_TINT}
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} leather,将{:COLOR:NAME}皮革增染为
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} thread,将{:COLOR:NAME}细线增染为
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} cloth,将{:COLOR:NAME}布匹增染为
+TASK:DYE:TINT,{:TASK:DYE:TINT:HEAD_TINT} {:COLOR:NAME} {:TASK:DYE:TINT:TAIL_TINT},{:TASK:DYE:TINT:HEAD_TINT}{:COLOR:NAME}{:TASK:DYE:TINT:TAIL_TINT}
+TASK:DYE,{MIX},{MIX}
+TASK:DYE:MIX,Mix {:COLOR:NAME} dye,合成{:COLOR:NAME}染料
+TASK:DYE:MIX,Mix {:COLOR:NAME} dye {:TASK:DYE:MIX:MIDDEN} {:TASK:DYE:MIX:TAIL},合成{:COLOR:NAME}染料{:TASK:DYE:MIX:MIDDEN}{:TASK:DYE:MIX:TAIL}
+TASK:DYE:MIX,{MIDDEN},{MIDDEN}
+TASK:DYE:MIX:MIDDEN,using {:COLOR:NAME},-使用{:COLOR:NAME}
+TASK:DYE:MIX,{TAIL},{TAIL}
+TASK:DYE:MIX:TAIL,and {:COLOR:NAME},和{:COLOR:NAME}
