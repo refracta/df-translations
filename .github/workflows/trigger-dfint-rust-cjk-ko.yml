@@ -48,7 +48,7 @@ jobs:
             -H "$AUTH_HEADER" -H "$ACCEPT_HEADER" \
             "$API_URL/repos/$TARGET_REPO/actions/workflows/upload-build.yml/dispatches" \
             -d "$PAYLOAD")"
-          if [[ "$STATUS" != "204" ]]; then
+          if [[ "$STATUS" != "204" && "$STATUS" != "200" ]]; then
             echo "Dispatch failed (HTTP $STATUS)" >&2
             cat "$TMP_RESP" >&2
             exit 1
