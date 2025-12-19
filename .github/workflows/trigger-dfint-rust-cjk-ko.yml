@@ -17,6 +17,7 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.DFINT_RUST_CJK_KO_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DFINT_RUST_CJK_KO_TOKEN }}
           TARGET_REPO: refracta/dfint-rust-cjk-ko
           TRANSLATIONS_REF: ${{ github.ref_name }}
           TRANSLATIONS_SHA: ${{ github.sha }}
