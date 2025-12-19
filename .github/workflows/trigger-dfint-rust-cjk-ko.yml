@@ -17,7 +17,6 @@ jobs:
         shell: bash
         env:
           GH_TOKEN: ${{ secrets.DFINT_RUST_CJK_KO_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.DFINT_RUST_CJK_KO_TOKEN }}
           TARGET_REPO: refracta/dfint-rust-cjk-ko
           TRANSLATIONS_REF: ${{ github.ref_name }}
           TRANSLATIONS_SHA: ${{ github.sha }}
@@ -27,9 +26,30 @@ jobs:
             echo "DFINT_RUST_CJK_KO_TOKEN secret is required to trigger the downstream workflow." >&2
             exit 1
           fi
-          DEFAULT_BRANCH="$(gh api "repos/$TARGET_REPO" --jq '.default_branch')"
-          gh workflow run upload-build.yml \
-            --repo "$TARGET_REPO" \
-            --ref "$DEFAULT_BRANCH" \
-            -f translations_ref="$TRANSLATIONS_REF" \
-            -f translations_sha="$TRANSLATIONS_SHA"
+          API_URL="https://api.github.com"
+          AUTH_HEADER="Authorization: token $GH_TOKEN"
+          ACCEPT_HEADER="Accept: application/vnd.github+json"
+
+          DEFAULT_BRANCH="$(curl -fsSL -H "$AUTH_HEADER" -H "$ACCEPT_HEADER" \
+            "$API_URL/repos/$TARGET_REPO" | jq -r '.default_branch')"
+          if [[ -z "$DEFAULT_BRANCH" || "$DEFAULT_BRANCH" == "null" ]]; then
+            echo "Failed to resolve default branch for $TARGET_REPO" >&2
+            exit 1
+          fi
+
+          PAYLOAD="$(jq -n \
+            --arg ref "$DEFAULT_BRANCH" \
+            --arg translations_ref "$TRANSLATIONS_REF" \
+            --arg translations_sha "$TRANSLATIONS_SHA" \
+            '{ref:$ref, inputs:{translations_ref:$translations_ref, translations_sha:$translations_sha}}')"
+
+          TMP_RESP="$(mktemp)"
+          STATUS="$(curl -sS -o "$TMP_RESP" -w "%{http_code}" -X POST \
+            -H "$AUTH_HEADER" -H "$ACCEPT_HEADER" \
+            "$API_URL/repos/$TARGET_REPO/actions/workflows/upload-build.yml/dispatches" \
+            -d "$PAYLOAD")"
+          if [[ "$STATUS" != "204" ]]; then
+            echo "Dispatch failed (HTTP $STATUS)" >&2
+            cat "$TMP_RESP" >&2
+            exit 1
+          fi
