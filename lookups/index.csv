@@ -20,8 +20,8 @@ table,text,translation
 ,{WARNING},{WARNING}
 ,{NAMERULE:RULE},{NAMERULE:RULE}
 ,{ITEM_MENUS},{ITEM_MENUS}
-,ash,灰烬
-,Make ash,制作灰烬
-,ash logs,白蜡树原木
-,pig iron,生铁
-,wood,木头
+,ash,재
+,Make ash,재 만들기
+,ash logs,물푸레나무 통나무
+,pig iron,선철
+,wood,목재

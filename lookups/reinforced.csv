@@ -1,717 +1,717 @@
 table,text,translation
-REINFORCED:PREFIX,rusted metal-reinforced,生锈金属加固的
-REINFORCED:PREFIX,twisting metal-reinforced,扭曲金属加固的
-REINFORCED:PREFIX,dark metal-reinforced,黑暗金属加固的
-REINFORCED:PREFIX,glowing metal-reinforced,柔和金属加固的
-REINFORCED:PREFIX,bright metal-reinforced,明亮金属加固的
-REINFORCED:PREFIX,pale metal-reinforced,苍白金属加固的
-REINFORCED:PREFIX,pock-marked metal-reinforced,凹陷金属加固的
-REINFORCED:PREFIX,blistered metal-reinforced,鼓泡金属加固的
-REINFORCED:PREFIX,ruddy metal-reinforced,红润金属加固的
-REINFORCED:PREFIX,flickering metal-reinforced,闪烁金属加固的
-REINFORCED:PREFIX,faceted metal-reinforced,多面金属加固的
-REINFORCED:PREFIX,shining metal-reinforced,发光金属加固的
-REINFORCED:PREFIX,flashing metal-reinforced,闪耀金属加固的
-REINFORCED:PREFIX,translucent metal-reinforced,透明金属加固的
-REINFORCED:PREFIX,frosty metal-reinforced,结霜金属加固的
-REINFORCED:PREFIX,slick metal-reinforced,光滑金属加固的
-REINFORCED:PREFIX,singing metal-reinforced,振鸣金属加固的
-REINFORCED:PREFIX,black metal-reinforced,乌黑金属加固的
-REINFORCED:PREFIX,multicolored metal-reinforced,多彩金属加固的
-REINFORCED:PREFIX,clear blue metal-reinforced,湛蓝金属加固的
-REINFORCED:PREFIX,twinkling metal-reinforced,闪亮金属加固的
-REINFORCED:PREFIX,crashing metal-reinforced,破碎金属加固的
-REINFORCED:PREFIX,blazing metal-reinforced,燃烧金属加固的
-REINFORCED:PREFIX,booming metal-reinforced,轰鸣金属加固的
-REINFORCED:PREFIX,searing metal-reinforced,灼热金属加固的
-REINFORCED:PREFIX,flowing metal-reinforced,流动金属加固的
-REINFORCED:PREFIX,rock-reinforced,岩石加固的
-REINFORCED:PREFIX,magma-reinforced,岩浆加固的
-REINFORCED:PREFIX,amber-reinforced,琥珀加固的
-REINFORCED:PREFIX,coral-reinforced,珊瑚加固的
-REINFORCED:PREFIX,green glass-reinforced,绿玻璃加固的
-REINFORCED:PREFIX,clear glass-reinforced,透明玻璃加固的
-REINFORCED:PREFIX,crystal glass-reinforced,水晶玻璃加固的
-REINFORCED:PREFIX,ice-reinforced,冰加固的
-REINFORCED:PREFIX,water-reinforced,水加固的
-REINFORCED:PREFIX,steam-reinforced,蒸汽加固的
-REINFORCED:PREFIX,snow-reinforced,雪加固的
-REINFORCED:PREFIX,slush-reinforced,泥地加固的
-REINFORCED:PREFIX,coal-reinforced,煤炭加固的
-REINFORCED:PREFIX,coal slush-reinforced,煤炭渣加固的
-REINFORCED:PREFIX,potash-reinforced,草碱加固的
-REINFORCED:PREFIX,potash slush-reinforced,草碱渣加固的
-REINFORCED:PREFIX,ash-reinforced,灰烬加固的
-REINFORCED:PREFIX,pearlash-reinforced,珍珠灰加固的
-REINFORCED:PREFIX,lye-reinforced,碱液加固的
-REINFORCED:PREFIX,lye slush-reinforced,碱液泥加固的
-REINFORCED:PREFIX,mud-reinforced,淤泥加固的
-REINFORCED:PREFIX,dirt-reinforced,土壤加固的
-REINFORCED:PREFIX,vomit-reinforced,呕吐物加固的
-REINFORCED:PREFIX,salt-reinforced,盐加固的
-REINFORCED:PREFIX,filth-reinforced,污垢加固的
-REINFORCED:PREFIX,filth slush-reinforced,污垢泥加固的
-REINFORCED:PREFIX,unknown frozen substance-reinforced,未知冻结物质加固的
-REINFORCED:PREFIX,unknown substance-reinforced,未知物质加固的
-REINFORCED:PREFIX,unknown boiling substance-reinforced,未知沸腾物质加固的
-REINFORCED:PREFIX,unknown frozen-reinforced,未知冻结加固的
-REINFORCED:PREFIX,unknown slush-reinforced,未知污水加固的
-REINFORCED:PREFIX,grime-reinforced,尘垢加固的
-REINFORCED:PREFIX,unknown frozen creature substance-reinforced,未知冻结生物质加固的
-REINFORCED:PREFIX,unknown creature substance-reinforced,未知生物质加固的
-REINFORCED:PREFIX,unknown boiling creature substance-reinforced,未知沸腾生物质加固的
-REINFORCED:PREFIX,unknown frozen creature-reinforced,未知生物质加固的
-REINFORCED:PREFIX,unknown creature-reinforced,未知生物加固的
-REINFORCED:PREFIX,unknown pressed frozen creature substance-reinforced,未知压实冻结生物质加固的
-REINFORCED:PREFIX,unknown frozen plant substance-reinforced,未知冻结植物衍生品加固的
-REINFORCED:PREFIX,unknown plant substance-reinforced,未知植物衍生品加固的
-REINFORCED:PREFIX,unknown boiling plant substance-reinforced,未知沸腾植物衍生品加固的
-REINFORCED:PREFIX,unknown frozen plant-reinforced,未知冻结植属加固的
-REINFORCED:PREFIX,unknown pressed frozen plant substance-reinforced,未知压实冻结植物衍生品加固的
-REINFORCED:PREFIX,iron-reinforced,铁加固的
-REINFORCED:PREFIX,gold-reinforced,金加固的
-REINFORCED:PREFIX,silver-reinforced,银加固的
-REINFORCED:PREFIX,copper-reinforced,铜加固的
-REINFORCED:PREFIX,nickel-reinforced,镍加固的
-REINFORCED:PREFIX,zinc-reinforced,锌加固的
-REINFORCED:PREFIX,bronze-reinforced,青铜加固的
-REINFORCED:PREFIX,brass-reinforced,黄铜加固的
-REINFORCED:PREFIX,steel-reinforced,钢加固的
-REINFORCED:PREFIX,pig iron-reinforced,生铁加固的
-REINFORCED:PREFIX,platinum-reinforced,铂加固的
-REINFORCED:PREFIX,electrum-reinforced,琥珀金加固的
-REINFORCED:PREFIX,tin-reinforced,锡加固的
-REINFORCED:PREFIX,fine pewter-reinforced,精白锡加固的
-REINFORCED:PREFIX,trifle pewter-reinforced,廉白锡加固的
-REINFORCED:PREFIX,lay pewter-reinforced,劣白锡加固的
-REINFORCED:PREFIX,lead-reinforced,铅加固的
-REINFORCED:PREFIX,aluminum-reinforced,铝加固的
-REINFORCED:PREFIX,nickel silver-reinforced,镍银加固的
-REINFORCED:PREFIX,billon-reinforced,铸币银合金加固的
-REINFORCED:PREFIX,sterling silver-reinforced,标准银加固的
-REINFORCED:PREFIX,black bronze-reinforced,乌青铜加固的
-REINFORCED:PREFIX,rose gold-reinforced,玫瑰金加固的
-REINFORCED:PREFIX,bismuth-reinforced,铋加固的
-REINFORCED:PREFIX,bismuth bronze-reinforced,铋青铜加固的
-REINFORCED:PREFIX,adamantine-reinforced,精金加固的
-REINFORCED:PREFIX,gypsum plaster-reinforced,石膏灰泥加固的
-REINFORCED:PREFIX,earthenware-reinforced,瓦陶加固的
-REINFORCED:PREFIX,stoneware-reinforced,炻瓷加固的
-REINFORCED:PREFIX,porcelain-reinforced,瓷器加固的
-REINFORCED:PREFIX,ash glaze-reinforced,灰釉加固的
-REINFORCED:PREFIX,tin glaze-reinforced,锡釉加固的
-REINFORCED:PREFIX,quicklime-reinforced,生石灰加固的
-REINFORCED:PREFIX,milk of lime-reinforced,石灰乳加固的
-REINFORCED:PREFIX,onyx-reinforced,缟玛瑙加固的
-REINFORCED:PREFIX,morion-reinforced,黑水晶加固的
-REINFORCED:PREFIX,schorl-reinforced,黑碧玺加固的
-REINFORCED:PREFIX,lace agate-reinforced,蕾丝玛瑙加固的
-REINFORCED:PREFIX,blue jade-reinforced,蓝翡翠加固的
-REINFORCED:PREFIX,lapis lazuli-reinforced,青金石加固的
-REINFORCED:PREFIX,prase-reinforced,苍绿石英加固的
-REINFORCED:PREFIX,prase opal-reinforced,苍绿欧泊加固的
-REINFORCED:PREFIX,bloodstone-reinforced,血石加固的
-REINFORCED:PREFIX,moss agate-reinforced,苔藓玛瑙加固的
-REINFORCED:PREFIX,moss opal-reinforced,苔藓欧泊加固的
-REINFORCED:PREFIX,variscite-reinforced,磷铝石加固的
-REINFORCED:PREFIX,chrysoprase-reinforced,绿玉髓加固的
-REINFORCED:PREFIX,chrysocolla-reinforced,硅孔雀石加固的
-REINFORCED:PREFIX,sard-reinforced,褐玉髓加固的
-REINFORCED:PREFIX,carnelian-reinforced,红玉髓加固的
-REINFORCED:PREFIX,banded agate-reinforced,条纹玛瑙加固的
-REINFORCED:PREFIX,sardonyx-reinforced,缠丝玛瑙加固的
-REINFORCED:PREFIX,cherry opal-reinforced,樱桃欧泊加固的
-REINFORCED:PREFIX,lavender jade-reinforced,紫翡翠加固的
-REINFORCED:PREFIX,pink jade-reinforced,粉红翡翠加固的
-REINFORCED:PREFIX,tube agate-reinforced,管脉玛瑙加固的
-REINFORCED:PREFIX,fire agate-reinforced,火玛瑙加固的
-REINFORCED:PREFIX,plume agate-reinforced,羽毛玛瑙加固的
-REINFORCED:PREFIX,brown jasper-reinforced,棕碧玉加固的
-REINFORCED:PREFIX,picture jasper-reinforced,图画碧玉加固的
-REINFORCED:PREFIX,smoky quartz-reinforced,烟石英加固的
-REINFORCED:PREFIX,wax opal-reinforced,蜡质欧泊加固的
-REINFORCED:PREFIX,wood opal-reinforced,木欧泊加固的
-REINFORCED:PREFIX,amber opal-reinforced,琥珀欧泊加固的
-REINFORCED:PREFIX,gold opal-reinforced,金欧泊加固的
-REINFORCED:PREFIX,citrine-reinforced,黄水晶加固的
-REINFORCED:PREFIX,yellow jasper-reinforced,黄碧玉加固的
-REINFORCED:PREFIX,tigereye-reinforced,虎眼石加固的
-REINFORCED:PREFIX,tiger iron-reinforced,虎铁石加固的
-REINFORCED:PREFIX,sunstone-reinforced,日长石加固的
-REINFORCED:PREFIX,resin opal-reinforced,脂光欧泊加固的
-REINFORCED:PREFIX,pyrite-reinforced,黄铁矿加固的
-REINFORCED:PREFIX,clear tourmaline-reinforced,透明碧玺加固的
-REINFORCED:PREFIX,gray chalcedony-reinforced,灰玉髓加固的
-REINFORCED:PREFIX,dendritic agate-reinforced,枝纹玛瑙加固的
-REINFORCED:PREFIX,shell opal-reinforced,贝壳欧泊加固的
-REINFORCED:PREFIX,bone opal-reinforced,骨质欧泊加固的
-REINFORCED:PREFIX,white chalcedony-reinforced,白玉髓加固的
-REINFORCED:PREFIX,fortification agate-reinforced,城垒玛瑙加固的
-REINFORCED:PREFIX,milk quartz-reinforced,乳石英加固的
-REINFORCED:PREFIX,moonstone-reinforced,月长石加固的
-REINFORCED:PREFIX,white jade-reinforced,白翡翠加固的
-REINFORCED:PREFIX,jasper opal-reinforced,碧玉欧泊加固的
-REINFORCED:PREFIX,pineapple opal-reinforced,凤梨欧泊加固的
-REINFORCED:PREFIX,onyx opal-reinforced,缟纹欧泊加固的
-REINFORCED:PREFIX,milk opal-reinforced,乳欧泊加固的
-REINFORCED:PREFIX,pipe opal-reinforced,管纹欧泊加固的
-REINFORCED:PREFIX,aventurine-reinforced,砂金石加固的
-REINFORCED:PREFIX,turquoise-reinforced,绿松石加固的
-REINFORCED:PREFIX,rose quartz-reinforced,蔷薇石英加固的
-REINFORCED:PREFIX,rock crystal-reinforced,岩石水晶加固的
-REINFORCED:PREFIX,black zircon-reinforced,黑锆石加固的
-REINFORCED:PREFIX,black pyrope-reinforced,黑榴石加固的
-REINFORCED:PREFIX,melanite-reinforced,墨榴石加固的
-REINFORCED:PREFIX,indigo tourmaline-reinforced,靛蓝碧玺加固的
-REINFORCED:PREFIX,blue garnet-reinforced,蓝榴石加固的
-REINFORCED:PREFIX,tsavorite-reinforced,沙弗莱石加固的
-REINFORCED:PREFIX,green tourmaline-reinforced,绿碧玺加固的
-REINFORCED:PREFIX,demantoid-reinforced,翠榴石加固的
-REINFORCED:PREFIX,green zircon-reinforced,绿锆石加固的
-REINFORCED:PREFIX,green jade-reinforced,绿翡翠加固的
-REINFORCED:PREFIX,heliodor-reinforced,绿柱石加固的
-REINFORCED:PREFIX,peridot-reinforced,橄榄石加固的
-REINFORCED:PREFIX,red zircon-reinforced,红锆石加固的
-REINFORCED:PREFIX,red tourmaline-reinforced,红碧玺加固的
-REINFORCED:PREFIX,red pyrope-reinforced,赤榴石加固的
-REINFORCED:PREFIX,almandine-reinforced,殷榴石加固的
-REINFORCED:PREFIX,red grossular-reinforced,红榴石加固的
-REINFORCED:PREFIX,pink tourmaline-reinforced,粉红碧玺加固的
-REINFORCED:PREFIX,red beryl-reinforced,红柱石加固的
-REINFORCED:PREFIX,fire opal-reinforced,火欧泊加固的
-REINFORCED:PREFIX,rhodolite-reinforced,朱榴石加固的
-REINFORCED:PREFIX,purple spinel-reinforced,紫尖晶石加固的
-REINFORCED:PREFIX,alexandrite-reinforced,紫翠玉加固的
-REINFORCED:PREFIX,tanzanite-reinforced,坦桑石加固的
-REINFORCED:PREFIX,morganite-reinforced,摩根石加固的
-REINFORCED:PREFIX,violet spessartine-reinforced,紫榴石加固的
-REINFORCED:PREFIX,pink garnet-reinforced,粉红榴石加固的
-REINFORCED:PREFIX,kunzite-reinforced,紫锂辉石加固的
-REINFORCED:PREFIX,cinnamon grossular-reinforced,褐榴石加固的
-REINFORCED:PREFIX,honey yellow beryl-reinforced,蜜黄柱石加固的
-REINFORCED:PREFIX,jelly opal-reinforced,冻胶欧泊加固的
-REINFORCED:PREFIX,brown zircon-reinforced,棕锆石加固的
-REINFORCED:PREFIX,yellow zircon-reinforced,黄锆石加固的
-REINFORCED:PREFIX,golden beryl-reinforced,金柱石加固的
-REINFORCED:PREFIX,yellow spessartine-reinforced,橙榴石加固的
-REINFORCED:PREFIX,topaz-reinforced,黄玉加固的
-REINFORCED:PREFIX,topazolite-reinforced,黄榴石加固的
-REINFORCED:PREFIX,yellow grossular-reinforced,缃榴石加固的
-REINFORCED:PREFIX,rubicelle-reinforced,橙尖晶石加固的
-REINFORCED:PREFIX,clear garnet-reinforced,透明榴石加固的
-REINFORCED:PREFIX,goshenite-reinforced,白柱石加固的
-REINFORCED:PREFIX,cat's eye-reinforced,猫眼石加固的
-REINFORCED:PREFIX,clear zircon-reinforced,透明锆石加固的
-REINFORCED:PREFIX,amethyst-reinforced,紫水晶加固的
-REINFORCED:PREFIX,aquamarine-reinforced,海蓝宝石加固的
-REINFORCED:PREFIX,red spinel-reinforced,红尖晶石加固的
-REINFORCED:PREFIX,chrysoberyl-reinforced,金绿玉加固的
-REINFORCED:PREFIX,precious fire opal-reinforced,贵火欧泊加固的
-REINFORCED:PREFIX,red flash opal-reinforced,红闪欧泊加固的
-REINFORCED:PREFIX,black opal-reinforced,黑欧泊加固的
-REINFORCED:PREFIX,white opal-reinforced,白欧泊加固的
-REINFORCED:PREFIX,crystal opal-reinforced,水晶欧泊加固的
-REINFORCED:PREFIX,claro opal-reinforced,烟欧泊加固的
-REINFORCED:PREFIX,levin opal-reinforced,雷电欧泊加固的
-REINFORCED:PREFIX,harlequin opal-reinforced,斑斓欧泊加固的
-REINFORCED:PREFIX,pinfire opal-reinforced,星火欧泊加固的
-REINFORCED:PREFIX,bandfire opal-reinforced,火纹欧泊加固的
-REINFORCED:PREFIX,light yellow diamond-reinforced,亮黄钻石加固的
-REINFORCED:PREFIX,faint yellow diamond-reinforced,微黄钻石加固的
-REINFORCED:PREFIX,emerald-reinforced,祖母绿宝石加固的
-REINFORCED:PREFIX,ruby-reinforced,红宝石加固的
-REINFORCED:PREFIX,sapphire-reinforced,蓝玉加固的
-REINFORCED:PREFIX,clear diamond-reinforced,透明钻石加固的
-REINFORCED:PREFIX,red diamond-reinforced,红钻石加固的
-REINFORCED:PREFIX,green diamond-reinforced,绿钻石加固的
-REINFORCED:PREFIX,blue diamond-reinforced,蓝钻石加固的
-REINFORCED:PREFIX,yellow diamond-reinforced,黄钻石加固的
-REINFORCED:PREFIX,black diamond-reinforced,黑钻石加固的
-REINFORCED:PREFIX,star sapphire-reinforced,星彩蓝玉加固的
-REINFORCED:PREFIX,star ruby-reinforced,星彩红宝石加固的
-REINFORCED:PREFIX,sandstone-reinforced,砂岩加固的
-REINFORCED:PREFIX,siltstone-reinforced,粉砂岩加固的
-REINFORCED:PREFIX,mudstone-reinforced,泥岩加固的
-REINFORCED:PREFIX,shale-reinforced,页岩加固的
-REINFORCED:PREFIX,claystone-reinforced,黏土岩加固的
-REINFORCED:PREFIX,rock salt-reinforced,岩盐加固的
-REINFORCED:PREFIX,limestone-reinforced,石灰岩加固的
-REINFORCED:PREFIX,conglomerate-reinforced,砾岩加固的
-REINFORCED:PREFIX,dolomite-reinforced,白云石加固的
-REINFORCED:PREFIX,chert-reinforced,角岩加固的
-REINFORCED:PREFIX,chalk-reinforced,白垩岩加固的
-REINFORCED:PREFIX,granite-reinforced,花岗岩加固的
-REINFORCED:PREFIX,diorite-reinforced,闪长岩加固的
-REINFORCED:PREFIX,gabbro-reinforced,辉长岩加固的
-REINFORCED:PREFIX,rhyolite-reinforced,流纹岩加固的
-REINFORCED:PREFIX,basalt-reinforced,玄武岩加固的
-REINFORCED:PREFIX,andesite-reinforced,安山岩加固的
-REINFORCED:PREFIX,dacite-reinforced,英安岩加固的
-REINFORCED:PREFIX,obsidian-reinforced,黑曜石加固的
-REINFORCED:PREFIX,quartzite-reinforced,石英岩加固的
-REINFORCED:PREFIX,slate-reinforced,板岩加固的
-REINFORCED:PREFIX,phyllite-reinforced,千枚岩加固的
-REINFORCED:PREFIX,schist-reinforced,片岩加固的
-REINFORCED:PREFIX,gneiss-reinforced,片麻岩加固的
-REINFORCED:PREFIX,marble-reinforced,大理石加固的
-REINFORCED:PREFIX,hematite-reinforced,赤铁矿加固的
-REINFORCED:PREFIX,limonite-reinforced,褐铁矿加固的
-REINFORCED:PREFIX,garnierite-reinforced,硅镁镍矿加固的
-REINFORCED:PREFIX,native gold-reinforced,天然金矿加固的
-REINFORCED:PREFIX,native silver-reinforced,天然银矿加固的
-REINFORCED:PREFIX,native copper-reinforced,天然铜矿加固的
-REINFORCED:PREFIX,malachite-reinforced,孔雀石加固的
-REINFORCED:PREFIX,galena-reinforced,方铅矿加固的
-REINFORCED:PREFIX,sphalerite-reinforced,闪锌矿加固的
-REINFORCED:PREFIX,cassiterite-reinforced,锡石加固的
-REINFORCED:PREFIX,bituminous coal-reinforced,烟煤加固的
-REINFORCED:PREFIX,lignite-reinforced,褐煤加固的
-REINFORCED:PREFIX,native platinum-reinforced,天然铂矿加固的
-REINFORCED:PREFIX,cinnabar-reinforced,辰砂加固的
-REINFORCED:PREFIX,cobaltite-reinforced,辉钴矿加固的
-REINFORCED:PREFIX,tetrahedrite-reinforced,黝铜矿加固的
-REINFORCED:PREFIX,horn silver-reinforced,角银矿加固的
-REINFORCED:PREFIX,gypsum-reinforced,软石膏加固的
-REINFORCED:PREFIX,talc-reinforced,滑石加固的
-REINFORCED:PREFIX,jet-reinforced,煤玉加固的
-REINFORCED:PREFIX,puddingstone-reinforced,布丁岩加固的
-REINFORCED:PREFIX,petrified wood-reinforced,石化木加固的
-REINFORCED:PREFIX,graphite-reinforced,石墨加固的
-REINFORCED:PREFIX,brimstone-reinforced,硫磺加固的
-REINFORCED:PREFIX,kimberlite-reinforced,金伯利岩加固的
-REINFORCED:PREFIX,bismuthinite-reinforced,辉铋矿加固的
-REINFORCED:PREFIX,realgar-reinforced,雄黄加固的
-REINFORCED:PREFIX,orpiment-reinforced,雌黄加固的
-REINFORCED:PREFIX,stibnite-reinforced,辉锑矿加固的
-REINFORCED:PREFIX,marcasite-reinforced,白铁矿加固的
-REINFORCED:PREFIX,sylvite-reinforced,钾岩加固的
-REINFORCED:PREFIX,cryolite-reinforced,冰晶石加固的
-REINFORCED:PREFIX,periclase-reinforced,方镁石加固的
-REINFORCED:PREFIX,ilmenite-reinforced,钛铁矿加固的
-REINFORCED:PREFIX,rutile-reinforced,金红石加固的
-REINFORCED:PREFIX,magnetite-reinforced,磁铁矿加固的
-REINFORCED:PREFIX,chromite-reinforced,铬铁矿加固的
-REINFORCED:PREFIX,pyrolusite-reinforced,软锰矿加固的
-REINFORCED:PREFIX,pitchblende-reinforced,沥青铀矿加固的
-REINFORCED:PREFIX,bauxite-reinforced,铝土矿加固的
-REINFORCED:PREFIX,native aluminum-reinforced,天然铝矿加固的
-REINFORCED:PREFIX,borax-reinforced,硼砂加固的
-REINFORCED:PREFIX,olivine-reinforced,橄榄岩加固的
-REINFORCED:PREFIX,hornblende-reinforced,角闪石加固的
-REINFORCED:PREFIX,kaolinite-reinforced,高岭石加固的
-REINFORCED:PREFIX,serpentine-reinforced,蛇纹石加固的
-REINFORCED:PREFIX,orthoclase-reinforced,正长石加固的
-REINFORCED:PREFIX,microcline-reinforced,微斜长石加固的
-REINFORCED:PREFIX,mica-reinforced,云母加固的
-REINFORCED:PREFIX,calcite-reinforced,方解石加固的
-REINFORCED:PREFIX,saltpeter-reinforced,硝石加固的
-REINFORCED:PREFIX,alabaster-reinforced,雪花石膏加固的
-REINFORCED:PREFIX,selenite-reinforced,透明石膏加固的
-REINFORCED:PREFIX,satinspar-reinforced,纤维石膏加固的
-REINFORCED:PREFIX,anhydrite-reinforced,硬石膏加固的
-REINFORCED:PREFIX,alunite-reinforced,明矾石加固的
-REINFORCED:PREFIX,raw adamantine-reinforced,原始精金加固的
-REINFORCED:PREFIX,slade-reinforced,基岩加固的
-REINFORCED:PREFIX,clay-reinforced,黏土加固的
-REINFORCED:PREFIX,silty clay-reinforced,粉质粘土加固的
-REINFORCED:PREFIX,sandy clay-reinforced,砂质黏土加固的
-REINFORCED:PREFIX,clay loam-reinforced,黏质壤土加固的
-REINFORCED:PREFIX,sandy clay loam-reinforced,砂质黏壤土加固的
-REINFORCED:PREFIX,silty clay loam-reinforced,粉质黏壤土加固的
-REINFORCED:PREFIX,loam-reinforced,壤土加固的
-REINFORCED:PREFIX,sandy loam-reinforced,砂质壤土加固的
-REINFORCED:PREFIX,silt loam-reinforced,粉质壤土加固的
-REINFORCED:PREFIX,loamy sand-reinforced,壤砂加固的
-REINFORCED:PREFIX,silt-reinforced,淤泥加固的
-REINFORCED:PREFIX,sand-reinforced,沙加固的
-REINFORCED:PREFIX,yellow sand-reinforced,黄沙加固的
-REINFORCED:PREFIX,white sand-reinforced,白沙加固的
-REINFORCED:PREFIX,black sand-reinforced,黑沙加固的
-REINFORCED:PREFIX,red sand-reinforced,红沙加固的
-REINFORCED:PREFIX,peat-reinforced,泥炭加固的
-REINFORCED:PREFIX,pelagic clay-reinforced,深海黏土加固的
-REINFORCED:PREFIX,calcareous ooze-reinforced,钙质软泥加固的
-REINFORCED:PREFIX,siliceous ooze-reinforced,硅藻软泥加固的
-REINFORCED:PREFIX,fire clay-reinforced,火黏土加固的
-REINFORCED:PREFIX,skin-reinforced,皮肤加固的
-REINFORCED:PREFIX,muscle-reinforced,肌肉加固的
-REINFORCED:PREFIX,bone-reinforced,骨头加固的
-REINFORCED:PREFIX,bone meal-reinforced,骨粉加固的
-REINFORCED:PREFIX,tooth-reinforced,牙齿加固的
-REINFORCED:PREFIX,eye tissue-reinforced,眼部组织加固的
-REINFORCED:PREFIX,nervous tissue-reinforced,神经组织加固的
-REINFORCED:PREFIX,brain-reinforced,大脑加固的
-REINFORCED:PREFIX,lung tissue-reinforced,肺部组织加固的
-REINFORCED:PREFIX,heart tissue-reinforced,心脏组织加固的
-REINFORCED:PREFIX,liver tissue-reinforced,肝脏组织加固的
-REINFORCED:PREFIX,gut-reinforced,肠加固的
-REINFORCED:PREFIX,stomach tissue-reinforced,胃组织加固的
-REINFORCED:PREFIX,gizzard tissue-reinforced,砂囊组织加固的
-REINFORCED:PREFIX,pancreatic tissue-reinforced,胰腺组织加固的
-REINFORCED:PREFIX,spleen tissue-reinforced,脾组织加固的
-REINFORCED:PREFIX,kidney tissue-reinforced,肾组织加固的
-REINFORCED:PREFIX,leather-reinforced,皮革加固的
-REINFORCED:PREFIX,parchment-reinforced,羊皮纸加固的
-REINFORCED:PREFIX,tallow-reinforced,脂油加固的
-REINFORCED:PREFIX,soap-reinforced,肥皂加固的
-REINFORCED:PREFIX,sinew-reinforced,肌腱加固的
-REINFORCED:PREFIX,blood-reinforced,血液加固的
-REINFORCED:PREFIX,pus-reinforced,脓加固的
-REINFORCED:PREFIX,ichor-reinforced,体液加固的
-REINFORCED:PREFIX,feather-reinforced,羽毛加固的
-REINFORCED:PREFIX,nail-reinforced,指甲加固的
-REINFORCED:PREFIX,eggshell-reinforced,蛋壳加固的
-REINFORCED:PREFIX,egg white-reinforced,蛋白加固的
-REINFORCED:PREFIX,egg yolk-reinforced,蛋黄加固的
-REINFORCED:PREFIX,chitin-reinforced,甲壳加固的
-REINFORCED:PREFIX,bark scorpion venom-reinforced,树皮蝎毒素加固的
-REINFORCED:PREFIX,bark scorpion man venom-reinforced,树皮蝎人毒素加固的
-REINFORCED:PREFIX,giant bark scorpion venom-reinforced,巨型树皮蝎毒素加固的
-REINFORCED:PREFIX,shell-reinforced,壳加固的
-REINFORCED:PREFIX,brown recluse spider venom-reinforced,棕色遁蛛毒素加固的
-REINFORCED:PREFIX,silk-reinforced,丝绸加固的
-REINFORCED:PREFIX,brown recluse spider man venom-reinforced,棕色遁蛛人毒素加固的
-REINFORCED:PREFIX,giant brown recluse spider venom-reinforced,巨型棕色遁蛛毒素加固的
-REINFORCED:PREFIX,scale-reinforced,鳞片加固的
-REINFORCED:PREFIX,gila monster venom-reinforced,毒蜥毒素加固的
-REINFORCED:PREFIX,gila monster man venom-reinforced,毒蜥人毒素加固的
-REINFORCED:PREFIX,giant gila monster venom-reinforced,巨型毒蜥毒素加固的
-REINFORCED:PREFIX,hair-reinforced,毛发加固的
-REINFORCED:PREFIX,hoof-reinforced,蹄加固的
-REINFORCED:PREFIX,donkey's milk-reinforced,驴奶加固的
-REINFORCED:PREFIX,donkey cheese-reinforced,驴奶奶酪加固的
-REINFORCED:PREFIX,horse's milk-reinforced,马奶加固的
-REINFORCED:PREFIX,horse cheese-reinforced,马奶奶酪加固的
-REINFORCED:PREFIX,vellum-reinforced,皮纸加固的
-REINFORCED:PREFIX,horn-reinforced,角加固的
-REINFORCED:PREFIX,cow's milk-reinforced,牛奶加固的
-REINFORCED:PREFIX,cow cheese-reinforced,牛奶奶酪加固的
-REINFORCED:PREFIX,wool-reinforced,绒线加固的
-REINFORCED:PREFIX,sheep's milk-reinforced,羊奶加固的
-REINFORCED:PREFIX,sheep cheese-reinforced,羊奶奶酪加固的
-REINFORCED:PREFIX,pig's milk-reinforced,猪奶加固的
-REINFORCED:PREFIX,pig cheese-reinforced,猪奶奶酪加固的
-REINFORCED:PREFIX,goat's milk-reinforced,山羊奶加固的
-REINFORCED:PREFIX,goat cheese-reinforced,山羊奶奶酪加固的
-REINFORCED:PREFIX,water buffalo's milk-reinforced,水牛奶加固的
-REINFORCED:PREFIX,water buffalo cheese-reinforced,水牛奶奶酪加固的
-REINFORCED:PREFIX,antler-reinforced,鹿角加固的
-REINFORCED:PREFIX,reindeer's milk-reinforced,驯鹿奶加固的
-REINFORCED:PREFIX,reindeer cheese-reinforced,驯鹿奶酪加固的
-REINFORCED:PREFIX,yak's milk-reinforced,牦牛奶加固的
-REINFORCED:PREFIX,yak cheese-reinforced,牦牛奶酪加固的
-REINFORCED:PREFIX,llama's milk-reinforced,无峰驼奶加固的
-REINFORCED:PREFIX,llama cheese-reinforced,无峰驼奶酪加固的
-REINFORCED:PREFIX,alpaca's milk-reinforced,羊驼奶加固的
-REINFORCED:PREFIX,alpaca cheese-reinforced,羊驼奶酪加固的
-REINFORCED:PREFIX,honey bee wax-reinforced,蜂蜡加固的
-REINFORCED:PREFIX,honey bee wax cake-reinforced,蜂蜡饼加固的
-REINFORCED:PREFIX,honey bee royal jelly-reinforced,蜜蜂蜂王浆加固的
-REINFORCED:PREFIX,honey bee honey-reinforced,蜜蜂蜜加固的
-REINFORCED:PREFIX,mead-reinforced,蜜酒加固的
-REINFORCED:PREFIX,honey bee venom-reinforced,蜜蜂毒素加固的
-REINFORCED:PREFIX,bumblebee wax-reinforced,大黄蜂蜡加固的
-REINFORCED:PREFIX,bumblebee wax cake-reinforced,大黄蜂蜡饼加固的
-REINFORCED:PREFIX,bumblebee royal jelly-reinforced,大黄蜂蜂王浆加固的
-REINFORCED:PREFIX,bumblebee honey-reinforced,大黄蜂蜜加固的
-REINFORCED:PREFIX,bumblebee mead-reinforced,大黄蜂蜜酒加固的
-REINFORCED:PREFIX,bumblebee venom-reinforced,大黄蜂毒素加固的
-REINFORCED:PREFIX,sweat-reinforced,汗液加固的
-REINFORCED:PREFIX,tears-reinforced,眼泪加固的
-REINFORCED:PREFIX,spit-reinforced,唾液加固的
-REINFORCED:PREFIX,ivory-reinforced,长牙加固的
-REINFORCED:PREFIX,platypus venom-reinforced,鸭嘴兽毒素加固的
-REINFORCED:PREFIX,platypus man venom-reinforced,鸭嘴兽人毒素加固的
-REINFORCED:PREFIX,giant platypus venom-reinforced,巨型鸭嘴兽毒素加固的
-REINFORCED:PREFIX,one-humped camel's milk-reinforced,单峰骆驼奶加固的
-REINFORCED:PREFIX,one-humped camel cheese-reinforced,单峰骆驼奶酪加固的
-REINFORCED:PREFIX,one-humped camel man's milk-reinforced,单峰骆驼人奶加固的
-REINFORCED:PREFIX,one-humped camel man cheese-reinforced,单峰骆驼人奶酪加固的
-REINFORCED:PREFIX,giant one-humped camel's milk-reinforced,巨型单峰骆驼奶加固的
-REINFORCED:PREFIX,giant one-humped camel cheese-reinforced,巨型单峰骆驼奶酪加固的
-REINFORCED:PREFIX,two-humped camel's milk-reinforced,双峰骆驼奶加固的
-REINFORCED:PREFIX,two-humped camel cheese-reinforced,双峰骆驼奶酪加固的
-REINFORCED:PREFIX,two-humped camel man's milk-reinforced,双峰骆驼人奶加固的
-REINFORCED:PREFIX,two-humped camel man cheese-reinforced,双峰骆驼人奶酪加固的
-REINFORCED:PREFIX,giant two-humped camel's milk-reinforced,巨型双峰骆驼奶加固的
-REINFORCED:PREFIX,giant two-humped camel cheese-reinforced,巨型双峰骆驼奶酪加固的
-REINFORCED:PREFIX,flesh-reinforced,血肉加固的
-REINFORCED:PREFIX,helmet snake venom-reinforced,头盔蛇毒素加固的
-REINFORCED:PREFIX,corrupted blood-reinforced,腐败血液加固的
-REINFORCED:PREFIX,cave floater juice-reinforced,洞穴飘浮者汁液加固的
-REINFORCED:PREFIX,cave floater gas-reinforced,洞穴飘浮者气体加固的
-REINFORCED:PREFIX,plump helmet man tissue-reinforced,肉盔菇人组织加固的
-REINFORCED:PREFIX,cave blob fluid-reinforced,洞穴滴团液体加固的
-REINFORCED:PREFIX,octopus ink-reinforced,章鱼墨汁加固的
-REINFORCED:PREFIX,octopus man ink-reinforced,章鱼人墨汁加固的
-REINFORCED:PREFIX,giant octopus ink-reinforced,巨型章鱼墨汁加固的
-REINFORCED:PREFIX,cuttlefish ink-reinforced,墨鱼墨汁加固的
-REINFORCED:PREFIX,cuttlefish man ink-reinforced,墨鱼人墨汁加固的
-REINFORCED:PREFIX,giant cuttlefish ink-reinforced,巨型墨鱼墨汁加固的
-REINFORCED:PREFIX,mog juice-reinforced,跳虫肉汁加固的
-REINFORCED:PREFIX,goo-reinforced,稠血加固的
-REINFORCED:PREFIX,fluff-reinforced,绒毛加固的
-REINFORCED:PREFIX,pudge-reinforced,球脂加固的
-REINFORCED:PREFIX,phantom spider venom-reinforced,幻影蜘蛛毒素加固的
-REINFORCED:PREFIX,spine-reinforced,脊椎加固的
-REINFORCED:PREFIX,squid ink-reinforced,鱿鱼墨汁加固的
-REINFORCED:PREFIX,squid man ink-reinforced,鱿鱼人墨汁加固的
-REINFORCED:PREFIX,giant squid ink-reinforced,巨型鱿鱼墨汁加固的
-REINFORCED:PREFIX,fur-reinforced,毛皮加固的
-REINFORCED:PREFIX,giant cave spider venom-reinforced,巨型洞穴蜘蛛毒素加固的
-REINFORCED:PREFIX,cave spider venom-reinforced,洞穴蜘蛛毒素加固的
-REINFORCED:PREFIX,flames-reinforced,火焰加固的
-REINFORCED:PREFIX,liquid fire-reinforced,液态火焰加固的
-REINFORCED:PREFIX,dwarven milk-reinforced,矮人奶加固的
-REINFORCED:PREFIX,dwarven cheese-reinforced,矮人奶酪加固的
-REINFORCED:PREFIX,iron man gas-reinforced,铁人气体加固的
-REINFORCED:PREFIX,condensed iron man gas-reinforced,稠密铁人气体加固的
-REINFORCED:PREFIX,serpent man venom-reinforced,毒蛇人毒素加固的
-REINFORCED:PREFIX,kangaroo's milk-reinforced,袋鼠奶加固的
-REINFORCED:PREFIX,kangaroo cheese-reinforced,袋鼠奶酪加固的
-REINFORCED:PREFIX,kangaroo man's milk-reinforced,袋鼠人奶加固的
-REINFORCED:PREFIX,kangaroo man cheese-reinforced,袋鼠人奶酪加固的
-REINFORCED:PREFIX,giant kangaroo's milk-reinforced,巨型袋鼠奶加固的
-REINFORCED:PREFIX,giant kangaroo cheese-reinforced,巨型袋鼠奶酪加固的
-REINFORCED:PREFIX,adder venom-reinforced,蝰蛇毒素加固的
-REINFORCED:PREFIX,adder man venom-reinforced,蝰蛇人毒素加固的
-REINFORCED:PREFIX,giant adder venom-reinforced,巨型蝰蛇毒素加固的
-REINFORCED:PREFIX,rattlesnake venom-reinforced,响尾蛇毒素加固的
-REINFORCED:PREFIX,rattlesnake man venom-reinforced,响尾蛇人毒素加固的
-REINFORCED:PREFIX,giant rattlesnake venom-reinforced,巨型响尾蛇毒素加固的
-REINFORCED:PREFIX,copperhead snake venom-reinforced,铜头蛇毒素加固的
-REINFORCED:PREFIX,copperhead snake man venom-reinforced,铜头蛇人毒素加固的
-REINFORCED:PREFIX,giant copperhead snake venom-reinforced,巨型铜头蛇毒素加固的
-REINFORCED:PREFIX,king cobra venom-reinforced,眼镜王蛇毒素加固的
-REINFORCED:PREFIX,king cobra man venom-reinforced,眼镜王蛇人毒素加固的
-REINFORCED:PREFIX,giant king cobra venom-reinforced,巨型眼镜王蛇毒素加固的
-REINFORCED:PREFIX,black mamba venom-reinforced,黑曼巴蛇毒素加固的
-REINFORCED:PREFIX,black mamba man venom-reinforced,黑曼巴蛇人毒素加固的
-REINFORCED:PREFIX,giant black mamba venom-reinforced,巨型黑曼巴蛇毒素加固的
-REINFORCED:PREFIX,bushmaster venom-reinforced,巨蝮毒素加固的
-REINFORCED:PREFIX,bushmaster man venom-reinforced,巨蝮人毒素加固的
-REINFORCED:PREFIX,giant bushmaster venom-reinforced,巨型巨蝮毒素加固的
-REINFORCED:PREFIX,tapir's milk-reinforced,貘奶加固的
-REINFORCED:PREFIX,tapir cheese-reinforced,貘奶酪加固的
-REINFORCED:PREFIX,tapir man's milk-reinforced,貘人奶加固的
-REINFORCED:PREFIX,tapir man cheese-reinforced,貘人奶酪加固的
-REINFORCED:PREFIX,giant tapir's milk-reinforced,巨型貘奶加固的
-REINFORCED:PREFIX,giant tapir cheese-reinforced,巨型貘奶酪加固的
-REINFORCED:PREFIX,plant-reinforced,植物加固的
-REINFORCED:PREFIX,single-grain wheat beer-reinforced,单粒小麦啤加固的
-REINFORCED:PREFIX,single-grain wheat flour-reinforced,单粒小麦面粉加固的
-REINFORCED:PREFIX,leaf-reinforced,叶加固的
-REINFORCED:PREFIX,seed-reinforced,种子加固的
-REINFORCED:PREFIX,two-grain wheat beer-reinforced,双粒小麦啤加固的
-REINFORCED:PREFIX,two-grain wheat flour-reinforced,双粒小麦面粉加固的
-REINFORCED:PREFIX,soft wheat beer-reinforced,软质小麦啤加固的
-REINFORCED:PREFIX,soft wheat flour-reinforced,软质小麦面粉加固的
-REINFORCED:PREFIX,hard wheat beer-reinforced,硬质小麦啤加固的
-REINFORCED:PREFIX,hard wheat flour-reinforced,硬质小麦面粉加固的
-REINFORCED:PREFIX,spelt beer-reinforced,斯佩尔特麦啤加固的
-REINFORCED:PREFIX,spelt flour-reinforced,斯佩尔特麦面粉加固的
-REINFORCED:PREFIX,barley wine-reinforced,大麦酒加固的
-REINFORCED:PREFIX,barley flour-reinforced,大麦面粉加固的
-REINFORCED:PREFIX,buckwheat beer-reinforced,荞麦啤酒加固的
-REINFORCED:PREFIX,buckwheat flour-reinforced,荞麦面粉加固的
-REINFORCED:PREFIX,flower-reinforced,花加固的
-REINFORCED:PREFIX,oat flour-reinforced,燕麦面粉加固的
-REINFORCED:PREFIX,rye beer-reinforced,黑麦啤酒加固的
-REINFORCED:PREFIX,rye flour-reinforced,黑麦面粉加固的
-REINFORCED:PREFIX,sorghum beer-reinforced,高粱啤酒加固的
-REINFORCED:PREFIX,sorghum flour-reinforced,高粱面粉加固的
-REINFORCED:PREFIX,rice beer-reinforced,稻米啤酒加固的
-REINFORCED:PREFIX,rice flour-reinforced,稻米面粉加固的
-REINFORCED:PREFIX,maize beer-reinforced,玉米啤酒加固的
-REINFORCED:PREFIX,maize flour-reinforced,玉米面粉加固的
-REINFORCED:PREFIX,quinoa beer-reinforced,藜麦啤酒加固的
-REINFORCED:PREFIX,quinoa flour-reinforced,藜麦面粉加固的
-REINFORCED:PREFIX,kaniwa beer-reinforced,彩藜啤酒加固的
-REINFORCED:PREFIX,kaniwa flour-reinforced,彩藜面粉加固的
-REINFORCED:PREFIX,pendant amaranth beer-reinforced,吊坠苋啤酒加固的
-REINFORCED:PREFIX,pendant amaranth flour-reinforced,吊坠苋面粉加固的
-REINFORCED:PREFIX,blood amaranth beer-reinforced,血苋啤酒加固的
-REINFORCED:PREFIX,blood amaranth flour-reinforced,血苋面粉加固的
-REINFORCED:PREFIX,purple amaranth beer-reinforced,紫苋啤酒加固的
-REINFORCED:PREFIX,purple amaranth flour-reinforced,紫苋面粉加固的
-REINFORCED:PREFIX,pearl millet beer-reinforced,珍珠粟啤酒加固的
-REINFORCED:PREFIX,pearl millet flour-reinforced,珍珠粟面粉加固的
-REINFORCED:PREFIX,white millet beer-reinforced,白粟啤酒加固的
-REINFORCED:PREFIX,white millet flour-reinforced,白粟面粉加固的
-REINFORCED:PREFIX,finger millet beer-reinforced,爪粟啤酒加固的
-REINFORCED:PREFIX,finger millet flour-reinforced,爪粟面粉加固的
-REINFORCED:PREFIX,foxtail millet beer-reinforced,狐尾粟啤酒加固的
-REINFORCED:PREFIX,foxtail millet flour-reinforced,狐尾粟面粉加固的
-REINFORCED:PREFIX,fonio beer-reinforced,非尼奥啤酒加固的
-REINFORCED:PREFIX,fonio flour-reinforced,非尼奥面粉加固的
-REINFORCED:PREFIX,teff beer-reinforced,苔麸啤酒加固的
-REINFORCED:PREFIX,teff flour-reinforced,苔麸面粉加固的
-REINFORCED:PREFIX,linseed oil-reinforced,亚麻籽油加固的
-REINFORCED:PREFIX,linseed oil soap-reinforced,亚麻籽油肥皂加固的
-REINFORCED:PREFIX,flax flour-reinforced,亚麻面粉加固的
-REINFORCED:PREFIX,flax seed-reinforced,亚麻种子加固的
-REINFORCED:PREFIX,linen-reinforced,亚麻纤维加固的
-REINFORCED:PREFIX,fiber-reinforced,纤维加固的
-REINFORCED:PREFIX,jute-reinforced,黄麻纤维加固的
-REINFORCED:PREFIX,hempseed oil-reinforced,大麻籽油加固的
-REINFORCED:PREFIX,hempseed oil soap-reinforced,大麻籽油肥皂加固的
-REINFORCED:PREFIX,hemp flour-reinforced,大麻面粉加固的
-REINFORCED:PREFIX,hemp seed-reinforced,大麻种子加固的
-REINFORCED:PREFIX,hemp-reinforced,大麻加固的
-REINFORCED:PREFIX,cottonseed oil-reinforced,棉花籽油加固的
-REINFORCED:PREFIX,cottonseed oil soap-reinforced,棉花籽油肥皂加固的
-REINFORCED:PREFIX,cotton seed-reinforced,棉花种子加固的
-REINFORCED:PREFIX,cotton-reinforced,棉花加固的
-REINFORCED:PREFIX,ramie-reinforced,苎麻加固的
-REINFORCED:PREFIX,kenaf seed oil-reinforced,洋麻籽油加固的
-REINFORCED:PREFIX,kenaf seed oil soap-reinforced,洋麻籽油肥皂加固的
-REINFORCED:PREFIX,kenaf seed-reinforced,洋麻种子加固的
-REINFORCED:PREFIX,kenaf-reinforced,洋麻加固的
-REINFORCED:PREFIX,papyrus-reinforced,纸莎草加固的
-REINFORCED:PREFIX,artichoke wine-reinforced,洋蓟酒加固的
-REINFORCED:PREFIX,fruit-reinforced,果实加固的
-REINFORCED:PREFIX,beetroot wine-reinforced,甜菜根酒加固的
-REINFORCED:PREFIX,bud-reinforced,花蕾加固的
-REINFORCED:PREFIX,carrot wine-reinforced,胡萝卜酒加固的
-REINFORCED:PREFIX,cassava beer-reinforced,木薯啤酒加固的
-REINFORCED:PREFIX,parsnip wine-reinforced,防风草酒加固的
-REINFORCED:PREFIX,potato wine-reinforced,马铃薯酒加固的
-REINFORCED:PREFIX,radish wine-reinforced,小萝卜酒加固的
-REINFORCED:PREFIX,sweet potato wine-reinforced,甘薯酒加固的
-REINFORCED:PREFIX,tomato wine-reinforced,番茄酒加固的
-REINFORCED:PREFIX,tomatillo wine-reinforced,灯笼番茄酒加固的
-REINFORCED:PREFIX,turnip wine-reinforced,芜菁酒加固的
-REINFORCED:PREFIX,passion fruit wine-reinforced,百香果酒加固的
-REINFORCED:PREFIX,wine-reinforced,葡萄酒加固的
-REINFORCED:PREFIX,cranberry wine-reinforced,蔓越莓酒加固的
-REINFORCED:PREFIX,bilberry wine-reinforced,越橘酒加固的
-REINFORCED:PREFIX,blueberry wine-reinforced,蓝莓酒加固的
-REINFORCED:PREFIX,blackberry wine-reinforced,黑莓酒加固的
-REINFORCED:PREFIX,raspberry wine-reinforced,树莓酒加固的
-REINFORCED:PREFIX,pineapple wine-reinforced,菠萝酒加固的
-REINFORCED:PREFIX,banana beer-reinforced,香蕉啤酒加固的
-REINFORCED:PREFIX,carambola wood-reinforced,杨桃木加固的
-REINFORCED:PREFIX,carambola wine-reinforced,杨桃酒加固的
-REINFORCED:PREFIX,cashew wood-reinforced,腰果木加固的
-REINFORCED:PREFIX,coffee wood-reinforced,咖啡木加固的
-REINFORCED:PREFIX,durian wood-reinforced,榴梿木加固的
-REINFORCED:PREFIX,durian wine-reinforced,榴梿酒加固的
-REINFORCED:PREFIX,guava wood-reinforced,番石榴木加固的
-REINFORCED:PREFIX,guava wine-reinforced,番石榴酒加固的
-REINFORCED:PREFIX,papaya wood-reinforced,番木瓜木加固的
-REINFORCED:PREFIX,papaya wine-reinforced,番木瓜酒加固的
-REINFORCED:PREFIX,paradise nut wood-reinforced,天堂果木加固的
-REINFORCED:PREFIX,rambutan wood-reinforced,红毛丹木加固的
-REINFORCED:PREFIX,rambutan wine-reinforced,红毛丹酒加固的
-REINFORCED:PREFIX,tea wood-reinforced,茶木加固的
-REINFORCED:PREFIX,avocado wood-reinforced,鳄梨木加固的
-REINFORCED:PREFIX,lime wood-reinforced,酸橙木加固的
-REINFORCED:PREFIX,pomelo wood-reinforced,蜜柚木加固的
-REINFORCED:PREFIX,citron wood-reinforced,香橼木加固的
-REINFORCED:PREFIX,orange wood-reinforced,橘子木加固的
-REINFORCED:PREFIX,bitter orange wood-reinforced,苦橙木加固的
-REINFORCED:PREFIX,finger lime wood-reinforced,指橘木加固的
-REINFORCED:PREFIX,round lime wood-reinforced,圆橘木加固的
-REINFORCED:PREFIX,desert lime wood-reinforced,漠橘木加固的
-REINFORCED:PREFIX,kumquat wood-reinforced,金橘木加固的
-REINFORCED:PREFIX,custard-apple wood-reinforced,番荔枝木加固的
-REINFORCED:PREFIX,custard-apple cider-reinforced,番荔枝西打加固的
-REINFORCED:PREFIX,date palm wood-reinforced,椰枣棕榈木加固的
-REINFORCED:PREFIX,date wine-reinforced,椰枣酒加固的
-REINFORCED:PREFIX,lychee wood-reinforced,荔枝木加固的
-REINFORCED:PREFIX,lychee wine-reinforced,荔枝酒加固的
-REINFORCED:PREFIX,macadamia wood-reinforced,奶油果木加固的
-REINFORCED:PREFIX,olive oil-reinforced,橄榄油加固的
-REINFORCED:PREFIX,olive oil soap-reinforced,橄榄油皂加固的
-REINFORCED:PREFIX,olive wood-reinforced,橄榄木加固的
-REINFORCED:PREFIX,olive fruit-reinforced,橄榄果加固的
-REINFORCED:PREFIX,olive pomace-reinforced,橄榄果渣加固的
-REINFORCED:PREFIX,pomegranate wood-reinforced,石榴木加固的
-REINFORCED:PREFIX,pomegranate wine-reinforced,石榴酒加固的
-REINFORCED:PREFIX,almond wood-reinforced,扁桃木加固的
-REINFORCED:PREFIX,apple wood-reinforced,苹果木加固的
-REINFORCED:PREFIX,apple cider-reinforced,苹果西打加固的
-REINFORCED:PREFIX,apricot wood-reinforced,杏木加固的
-REINFORCED:PREFIX,apricot wine-reinforced,杏酒加固的
-REINFORCED:PREFIX,bayberry wood-reinforced,杨梅木加固的
-REINFORCED:PREFIX,bayberry wine-reinforced,杨梅酒加固的
-REINFORCED:PREFIX,cherry wood-reinforced,樱桃木加固的
-REINFORCED:PREFIX,cherry wine-reinforced,樱桃酒加固的
-REINFORCED:PREFIX,ginkgo wood-reinforced,银杏木加固的
-REINFORCED:PREFIX,hazel wood-reinforced,榛木加固的
-REINFORCED:PREFIX,peach wood-reinforced,桃木加固的
-REINFORCED:PREFIX,peach cider-reinforced,桃子西打加固的
-REINFORCED:PREFIX,pear wood-reinforced,梨木加固的
-REINFORCED:PREFIX,perry-reinforced,梨酒加固的
-REINFORCED:PREFIX,pecan wood-reinforced,碧根果木加固的
-REINFORCED:PREFIX,persimmon wood-reinforced,柿木加固的
-REINFORCED:PREFIX,persimmon wine-reinforced,柿酒加固的
-REINFORCED:PREFIX,plum wood-reinforced,李子木加固的
-REINFORCED:PREFIX,plum wine-reinforced,李子酒加固的
-REINFORCED:PREFIX,sand pear wood-reinforced,沙梨木加固的
-REINFORCED:PREFIX,sand pear cider-reinforced,沙梨西打加固的
-REINFORCED:PREFIX,walnut wood-reinforced,胡桃木加固的
-REINFORCED:PREFIX,mushroom-reinforced,蘑菇加固的
-REINFORCED:PREFIX,dwarven wine-reinforced,矮人酒加固的
-REINFORCED:PREFIX,dwarven ale-reinforced,矮人精酿加固的
-REINFORCED:PREFIX,pig tail-reinforced,猪尾草加固的
-REINFORCED:PREFIX,dwarven beer-reinforced,矮人麦啤加固的
-REINFORCED:PREFIX,dwarven wheat flour-reinforced,矮人小麦粉加固的
-REINFORCED:PREFIX,dwarven rum-reinforced,矮人朗姆酒加固的
-REINFORCED:PREFIX,dwarven sugar-reinforced,矮人砂糖加固的
-REINFORCED:PREFIX,dwarven syrup-reinforced,矮人糖浆加固的
-REINFORCED:PREFIX,rock nut oil-reinforced,石头坚果油加固的
-REINFORCED:PREFIX,rock nut soap-reinforced,石头坚果皂加固的
-REINFORCED:PREFIX,rock nut-reinforced,石头坚果加固的
-REINFORCED:PREFIX,swamp whiskey-reinforced,沼泽威士忌加固的
-REINFORCED:PREFIX,tuber beer-reinforced,地根啤酒加固的
-REINFORCED:PREFIX,gnomeblight-reinforced,地精枯萎病加固的
-REINFORCED:PREFIX,prickle berry wine-reinforced,刺莓酒加固的
-REINFORCED:PREFIX,strawberry wine-reinforced,草莓酒加固的
-REINFORCED:PREFIX,Longland beer-reinforced,长岛啤酒加固的
-REINFORCED:PREFIX,Longland flour-reinforced,长岛草面粉加固的
-REINFORCED:PREFIX,golden salve-reinforced,金色药膏加固的
-REINFORCED:PREFIX,sewer brew-reinforced,阴沟佳酿加固的
-REINFORCED:PREFIX,fisher berry wine-reinforced,渔夫浆果酒加固的
-REINFORCED:PREFIX,river spirits-reinforced,河川烈酒加固的
-REINFORCED:PREFIX,rope reed-reinforced,绳索苇加固的
-REINFORCED:PREFIX,dimple dye-reinforced,窝杯染料加固的
-REINFORCED:PREFIX,emerald dye-reinforced,宝石绿染料加固的
-REINFORCED:PREFIX,redroot dye-reinforced,赤根染料加固的
-REINFORCED:PREFIX,gutter cruor-reinforced,凝血酒加固的
-REINFORCED:PREFIX,sliver dye-reinforced,裂钩染料加固的
-REINFORCED:PREFIX,sunshine-reinforced,日光酒加固的
-REINFORCED:PREFIX,whip wine-reinforced,长鞭酒加固的
-REINFORCED:PREFIX,whip vine flour-reinforced,鞭藤面粉加固的
-REINFORCED:PREFIX,mangrove-reinforced,红树加固的
-REINFORCED:PREFIX,pine-reinforced,针松加固的
-REINFORCED:PREFIX,cedar-reinforced,雪松加固的
-REINFORCED:PREFIX,mahogany-reinforced,褐芯树加固的
-REINFORCED:PREFIX,acacia-reinforced,刺槐加固的
-REINFORCED:PREFIX,kapok-reinforced,木棉树加固的
-REINFORCED:PREFIX,maple-reinforced,枫树加固的
-REINFORCED:PREFIX,willow-reinforced,柳树加固的
-REINFORCED:PREFIX,tower-cap-reinforced,塔菇加固的
-REINFORCED:PREFIX,black-cap-reinforced,黑菇加固的
-REINFORCED:PREFIX,nether-cap-reinforced,下界菇加固的
-REINFORCED:PREFIX,goblin-cap-reinforced,妖精菇加固的
-REINFORCED:PREFIX,fungiwood-reinforced,真菌木加固的
-REINFORCED:PREFIX,tunnel tube-reinforced,隧管菌加固的
-REINFORCED:PREFIX,spore tree-reinforced,孢子树加固的
-REINFORCED:PREFIX,blood thorn-reinforced,血荆棘加固的
-REINFORCED:PREFIX,glumprong-reinforced,紫影树加固的
-REINFORCED:PREFIX,feather wood-reinforced,羽毛树加固的
-REINFORCED:PREFIX,highwood-reinforced,极树加固的
-REINFORCED:PREFIX,larch-reinforced,落叶松加固的
-REINFORCED:PREFIX,chestnut-reinforced,板栗树加固的
-REINFORCED:PREFIX,alder-reinforced,桤树加固的
-REINFORCED:PREFIX,candlenut-reinforced,石栗加固的
-REINFORCED:PREFIX,mango wood-reinforced,芒果树加固的
-REINFORCED:PREFIX,mango wine-reinforced,芒果酒加固的
-REINFORCED:PREFIX,rubber wood-reinforced,橡胶树加固的
-REINFORCED:PREFIX,cacao wood-reinforced,可可树加固的
-REINFORCED:PREFIX,coconut palm-reinforced,椰棕榈加固的
-REINFORCED:PREFIX,rubber wood-reinforced,橡胶树加固的
-REINFORCED:PREFIX,cacao wood-reinforced,可可树加固的
-REINFORCED:PREFIX,coconut palm-reinforced,椰棕榈加固的
-REINFORCED:PREFIX,reinforced,加固的
+REINFORCED:PREFIX,rusted metal-reinforced,녹슨 금속으로 보강된
+REINFORCED:PREFIX,twisting metal-reinforced,뒤틀린 금속으로 보강된
+REINFORCED:PREFIX,dark metal-reinforced,어두운 금속으로 보강된
+REINFORCED:PREFIX,glowing metal-reinforced,은은히 빛나는 금속으로 보강된
+REINFORCED:PREFIX,bright metal-reinforced,밝은 금속으로 보강된
+REINFORCED:PREFIX,pale metal-reinforced,창백한 금속으로 보강된
+REINFORCED:PREFIX,pock-marked metal-reinforced,움푹 패인 금속으로 보강된
+REINFORCED:PREFIX,blistered metal-reinforced,부풀어 오른 금속으로 보강된
+REINFORCED:PREFIX,ruddy metal-reinforced,붉그스름한 금속으로 보강된
+REINFORCED:PREFIX,flickering metal-reinforced,깜박이는 금속으로 보강된
+REINFORCED:PREFIX,faceted metal-reinforced,각면이 있는 금속으로 보강된
+REINFORCED:PREFIX,shining metal-reinforced,빛나는 금속으로 보강된
+REINFORCED:PREFIX,flashing metal-reinforced,번쩍이는 금속으로 보강된
+REINFORCED:PREFIX,translucent metal-reinforced,반투명한 금속으로 보강된
+REINFORCED:PREFIX,frosty metal-reinforced,서리가 낀 금속으로 보강된
+REINFORCED:PREFIX,slick metal-reinforced,매끈한 금속으로 보강된
+REINFORCED:PREFIX,singing metal-reinforced,노래하는 금속으로 보강된
+REINFORCED:PREFIX,black metal-reinforced,검은 금속으로 보강된
+REINFORCED:PREFIX,multicolored metal-reinforced,다채로운 금속으로 보강된
+REINFORCED:PREFIX,clear blue metal-reinforced,맑은 파란 금속으로 보강된
+REINFORCED:PREFIX,twinkling metal-reinforced,반짝이는 금속으로 보강된
+REINFORCED:PREFIX,crashing metal-reinforced,부서진 금속으로 보강된
+REINFORCED:PREFIX,blazing metal-reinforced,불타는 금속으로 보강된
+REINFORCED:PREFIX,booming metal-reinforced,굉음이 나는 금속으로 보강된
+REINFORCED:PREFIX,searing metal-reinforced,작열하는 금속으로 보강된
+REINFORCED:PREFIX,flowing metal-reinforced,흐르는 금속으로 보강된
+REINFORCED:PREFIX,rock-reinforced,암석으로 보강된
+REINFORCED:PREFIX,magma-reinforced,마그마로 보강된
+REINFORCED:PREFIX,amber-reinforced,호박으로 보강된
+REINFORCED:PREFIX,coral-reinforced,산호로 보강된
+REINFORCED:PREFIX,green glass-reinforced,초록색 유리로 보강된
+REINFORCED:PREFIX,clear glass-reinforced,투명한 유리로 보강된
+REINFORCED:PREFIX,crystal glass-reinforced,수정 유리로 보강된
+REINFORCED:PREFIX,ice-reinforced,얼음으로 보강된
+REINFORCED:PREFIX,water-reinforced,물로 보강된
+REINFORCED:PREFIX,steam-reinforced,증기로 보강된
+REINFORCED:PREFIX,snow-reinforced,눈으로 보강된
+REINFORCED:PREFIX,slush-reinforced,슬러시로 보강된
+REINFORCED:PREFIX,coal-reinforced,석탄으로 보강된
+REINFORCED:PREFIX,coal slush-reinforced,석탄 슬러시로 보강된
+REINFORCED:PREFIX,potash-reinforced,포타시로 보강된
+REINFORCED:PREFIX,potash slush-reinforced,포타시 슬러시로 보강된
+REINFORCED:PREFIX,ash-reinforced,재로 보강된
+REINFORCED:PREFIX,pearlash-reinforced,진주회로 보강된
+REINFORCED:PREFIX,lye-reinforced,잿물로 보강된
+REINFORCED:PREFIX,lye slush-reinforced,잿물 슬러시로 보강된
+REINFORCED:PREFIX,mud-reinforced,진흙으로 보강된
+REINFORCED:PREFIX,dirt-reinforced,흙으로 보강된
+REINFORCED:PREFIX,vomit-reinforced,구토물로 보강된
+REINFORCED:PREFIX,salt-reinforced,소금으로 보강된
+REINFORCED:PREFIX,filth-reinforced,오물로 보강된
+REINFORCED:PREFIX,filth slush-reinforced,오물 진흙으로 보강된
+REINFORCED:PREFIX,unknown frozen substance-reinforced,알 수 없는 얼어붙은 물질로 보강된
+REINFORCED:PREFIX,unknown substance-reinforced,알 수 없는 물질로 보강된
+REINFORCED:PREFIX,unknown boiling substance-reinforced,알 수 없는 끓는 물질로 보강된
+REINFORCED:PREFIX,unknown frozen-reinforced,알 수 없는 얼어붙은 것으로 보강된
+REINFORCED:PREFIX,unknown slush-reinforced,알 수 없는 오수로 보강된
+REINFORCED:PREFIX,grime-reinforced,먼지때로 보강된
+REINFORCED:PREFIX,unknown frozen creature substance-reinforced,알 수 없는 얼어붙은 생물질로 보강된
+REINFORCED:PREFIX,unknown creature substance-reinforced,알 수 없는 생물질로 보강된
+REINFORCED:PREFIX,unknown boiling creature substance-reinforced,알 수 없는 끓는 생물질로 보강된
+REINFORCED:PREFIX,unknown frozen creature-reinforced,알 수 없는 생물질로 보강된
+REINFORCED:PREFIX,unknown creature-reinforced,알 수 없는 생물로 보강된
+REINFORCED:PREFIX,unknown pressed frozen creature substance-reinforced,알 수 없는 압축된 얼어붙은 생물질로 보강된
+REINFORCED:PREFIX,unknown frozen plant substance-reinforced,알 수 없는 얼어붙은 식물 유래물로 보강된
+REINFORCED:PREFIX,unknown plant substance-reinforced,알 수 없는 식물 유래물로 보강된
+REINFORCED:PREFIX,unknown boiling plant substance-reinforced,알 수 없는 끓는 식물 유래물로 보강된
+REINFORCED:PREFIX,unknown frozen plant-reinforced,알 수 없는 얼어붙은 식물로 보강된
+REINFORCED:PREFIX,unknown pressed frozen plant substance-reinforced,알 수 없는 압축된 얼어붙은 식물 유래물로 보강된
+REINFORCED:PREFIX,iron-reinforced,철로 보강된
+REINFORCED:PREFIX,gold-reinforced,금으로 보강된
+REINFORCED:PREFIX,silver-reinforced,은으로 보강된
+REINFORCED:PREFIX,copper-reinforced,구리로 보강된
+REINFORCED:PREFIX,nickel-reinforced,니켈로 보강된
+REINFORCED:PREFIX,zinc-reinforced,아연으로 보강된
+REINFORCED:PREFIX,bronze-reinforced,청동으로 보강된
+REINFORCED:PREFIX,brass-reinforced,황동으로 보강된
+REINFORCED:PREFIX,steel-reinforced,강철로 보강된
+REINFORCED:PREFIX,pig iron-reinforced,선철로 보강된
+REINFORCED:PREFIX,platinum-reinforced,백금으로 보강된
+REINFORCED:PREFIX,electrum-reinforced,호박금으로 보강된
+REINFORCED:PREFIX,tin-reinforced,주석으로 보강된
+REINFORCED:PREFIX,fine pewter-reinforced,정제 백랍으로 보강된
+REINFORCED:PREFIX,trifle pewter-reinforced,값싼 백랍으로 보강된
+REINFORCED:PREFIX,lay pewter-reinforced,열등한 백랍으로 보강된
+REINFORCED:PREFIX,lead-reinforced,납으로 보강된
+REINFORCED:PREFIX,aluminum-reinforced,알루미늄으로 보강된
+REINFORCED:PREFIX,nickel silver-reinforced,니켈은으로 보강된
+REINFORCED:PREFIX,billon-reinforced,주화용 은 합금으로 보강된
+REINFORCED:PREFIX,sterling silver-reinforced,표준 은으로 보강된
+REINFORCED:PREFIX,black bronze-reinforced,흑청동으로 보강된
+REINFORCED:PREFIX,rose gold-reinforced,장미금으로 보강된
+REINFORCED:PREFIX,bismuth-reinforced,비스무트로 보강된
+REINFORCED:PREFIX,bismuth bronze-reinforced,비스무트 청동으로 보강된
+REINFORCED:PREFIX,adamantine-reinforced,아다만틴으로 보강된
+REINFORCED:PREFIX,gypsum plaster-reinforced,석고 회반죽으로 보강된
+REINFORCED:PREFIX,earthenware-reinforced,토기로 보강된
+REINFORCED:PREFIX,stoneware-reinforced,석기질 도기로 보강된
+REINFORCED:PREFIX,porcelain-reinforced,자기로 보강된
+REINFORCED:PREFIX,ash glaze-reinforced,재유약으로 보강된
+REINFORCED:PREFIX,tin glaze-reinforced,주석 유약으로 강화된
+REINFORCED:PREFIX,quicklime-reinforced,생석회로 강화된
+REINFORCED:PREFIX,milk of lime-reinforced,석회유로 강화된
+REINFORCED:PREFIX,onyx-reinforced,오닉스로 강화된
+REINFORCED:PREFIX,morion-reinforced,모리온으로 강화된
+REINFORCED:PREFIX,schorl-reinforced,흑전기석으로 강화된
+REINFORCED:PREFIX,lace agate-reinforced,레이스 마노로 강화된
+REINFORCED:PREFIX,blue jade-reinforced,푸른 비취로 강화된
+REINFORCED:PREFIX,lapis lazuli-reinforced,청금석으로 강화된
+REINFORCED:PREFIX,prase-reinforced,프라세 석영으로 강화된
+REINFORCED:PREFIX,prase opal-reinforced,프라세 오팔로 강화된
+REINFORCED:PREFIX,bloodstone-reinforced,혈석으로 강화된
+REINFORCED:PREFIX,moss agate-reinforced,모스 마노로 강화된
+REINFORCED:PREFIX,moss opal-reinforced,모스 오팔로 강화된
+REINFORCED:PREFIX,variscite-reinforced,바리사이트로 강화된
+REINFORCED:PREFIX,chrysoprase-reinforced,크리소프레이즈로 강화된
+REINFORCED:PREFIX,chrysocolla-reinforced,크리소콜라로 강화된
+REINFORCED:PREFIX,sard-reinforced,사드로 강화된
+REINFORCED:PREFIX,carnelian-reinforced,카넬리언으로 강화된
+REINFORCED:PREFIX,banded agate-reinforced,줄무늬 마노로 강화된
+REINFORCED:PREFIX,sardonyx-reinforced,사도닉스로 강화된
+REINFORCED:PREFIX,cherry opal-reinforced,체리 오팔로 강화된
+REINFORCED:PREFIX,lavender jade-reinforced,라벤더 비취로 강화된
+REINFORCED:PREFIX,pink jade-reinforced,분홍 비취로 강화된
+REINFORCED:PREFIX,tube agate-reinforced,튜브 마노로 강화된
+REINFORCED:PREFIX,fire agate-reinforced,파이어 마노로 강화된
+REINFORCED:PREFIX,plume agate-reinforced,플룸 마노로 강화된
+REINFORCED:PREFIX,brown jasper-reinforced,갈색 벽옥으로 강화된
+REINFORCED:PREFIX,picture jasper-reinforced,그림 벽옥으로 강화된
+REINFORCED:PREFIX,smoky quartz-reinforced,연수정으로 강화된
+REINFORCED:PREFIX,wax opal-reinforced,왁스 오팔로 강화된
+REINFORCED:PREFIX,wood opal-reinforced,우드 오팔로 강화된
+REINFORCED:PREFIX,amber opal-reinforced,호박 오팔로 강화된
+REINFORCED:PREFIX,gold opal-reinforced,황금 오팔로 강화된
+REINFORCED:PREFIX,citrine-reinforced,황수정으로 강화된
+REINFORCED:PREFIX,yellow jasper-reinforced,노란 벽옥으로 강화된
+REINFORCED:PREFIX,tigereye-reinforced,호안석으로 강화된
+REINFORCED:PREFIX,tiger iron-reinforced,타이거 아이언으로 강화된
+REINFORCED:PREFIX,sunstone-reinforced,일장석으로 강화된
+REINFORCED:PREFIX,resin opal-reinforced,레진 오팔로 강화된
+REINFORCED:PREFIX,pyrite-reinforced,황철석으로 강화된
+REINFORCED:PREFIX,clear tourmaline-reinforced,투명 전기석으로 강화된
+REINFORCED:PREFIX,gray chalcedony-reinforced,회색 칼세도니로 강화된
+REINFORCED:PREFIX,dendritic agate-reinforced,덴드리틱 마노로 강화된
+REINFORCED:PREFIX,shell opal-reinforced,셸 오팔로 강화된
+REINFORCED:PREFIX,bone opal-reinforced,본 오팔로 강화된
+REINFORCED:PREFIX,white chalcedony-reinforced,흰색 칼세도니로 강화된
+REINFORCED:PREFIX,fortification agate-reinforced,성곽 마노로 강화된
+REINFORCED:PREFIX,milk quartz-reinforced,유백 석영으로 강화된
+REINFORCED:PREFIX,moonstone-reinforced,월장석으로 강화된
+REINFORCED:PREFIX,white jade-reinforced,백비취로 보강된
+REINFORCED:PREFIX,jasper opal-reinforced,벽옥오팔로 보강된
+REINFORCED:PREFIX,pineapple opal-reinforced,파인애플오팔로 보강된
+REINFORCED:PREFIX,onyx opal-reinforced,오닉스오팔로 보강된
+REINFORCED:PREFIX,milk opal-reinforced,유백오팔로 보강된
+REINFORCED:PREFIX,pipe opal-reinforced,파이프오팔로 보강된
+REINFORCED:PREFIX,aventurine-reinforced,사금석으로 보강된
+REINFORCED:PREFIX,turquoise-reinforced,터키석으로 보강된
+REINFORCED:PREFIX,rose quartz-reinforced,장미수정으로 보강된
+REINFORCED:PREFIX,rock crystal-reinforced,수정으로 보강된
+REINFORCED:PREFIX,black zircon-reinforced,흑지르콘으로 보강된
+REINFORCED:PREFIX,black pyrope-reinforced,흑파이로프로 보강된
+REINFORCED:PREFIX,melanite-reinforced,멜라나이트로 보강된
+REINFORCED:PREFIX,indigo tourmaline-reinforced,남색투르말린으로 보강된
+REINFORCED:PREFIX,blue garnet-reinforced,청색가넷으로 보강된
+REINFORCED:PREFIX,tsavorite-reinforced,차보라이트로 보강된
+REINFORCED:PREFIX,green tourmaline-reinforced,녹색투르말린으로 보강된
+REINFORCED:PREFIX,demantoid-reinforced,데만토이드로 보강된
+REINFORCED:PREFIX,green zircon-reinforced,녹지르콘으로 보강된
+REINFORCED:PREFIX,green jade-reinforced,녹비취로 보강된
+REINFORCED:PREFIX,heliodor-reinforced,헬리오도르로 보강된
+REINFORCED:PREFIX,peridot-reinforced,페리도트로 보강된
+REINFORCED:PREFIX,red zircon-reinforced,홍지르콘으로 보강된
+REINFORCED:PREFIX,red tourmaline-reinforced,홍투르말린으로 보강된
+REINFORCED:PREFIX,red pyrope-reinforced,적파이로프로 보강된
+REINFORCED:PREFIX,almandine-reinforced,알만딘으로 보강된
+REINFORCED:PREFIX,red grossular-reinforced,홍그로슐라로 보강된
+REINFORCED:PREFIX,pink tourmaline-reinforced,분홍투르말린으로 보강된
+REINFORCED:PREFIX,red beryl-reinforced,홍베릴로 보강된
+REINFORCED:PREFIX,fire opal-reinforced,화오팔로 보강된
+REINFORCED:PREFIX,rhodolite-reinforced,로돌라이트로 보강된
+REINFORCED:PREFIX,purple spinel-reinforced,자스피넬로 보강된
+REINFORCED:PREFIX,alexandrite-reinforced,알렉산드라이트로 보강된
+REINFORCED:PREFIX,tanzanite-reinforced,탄자나이트로 보강된
+REINFORCED:PREFIX,morganite-reinforced,모거나이트로 보강된
+REINFORCED:PREFIX,violet spessartine-reinforced,자스페서타인으로 보강된
+REINFORCED:PREFIX,pink garnet-reinforced,분홍가넷으로 보강된
+REINFORCED:PREFIX,kunzite-reinforced,쿤자이트로 보강된
+REINFORCED:PREFIX,cinnamon grossular-reinforced,계피색그로슐라로 보강된
+REINFORCED:PREFIX,honey yellow beryl-reinforced,꿀빛노란베릴로 보강된
+REINFORCED:PREFIX,jelly opal-reinforced,젤리오팔로 보강된
+REINFORCED:PREFIX,brown zircon-reinforced,갈색지르콘으로 보강된
+REINFORCED:PREFIX,yellow zircon-reinforced,황지르콘으로 보강된
+REINFORCED:PREFIX,golden beryl-reinforced,금베릴로 보강된
+REINFORCED:PREFIX,yellow spessartine-reinforced,황스페서타인으로 보강된
+REINFORCED:PREFIX,topaz-reinforced,토파즈로 보강된
+REINFORCED:PREFIX,topazolite-reinforced,토파졸라이트로 보강된
+REINFORCED:PREFIX,yellow grossular-reinforced,노란 그로슐라로 보강된
+REINFORCED:PREFIX,rubicelle-reinforced,주황 스피넬로 보강된
+REINFORCED:PREFIX,clear garnet-reinforced,투명한 가넷으로 보강된
+REINFORCED:PREFIX,goshenite-reinforced,고셔나이트로 보강된
+REINFORCED:PREFIX,cat's eye-reinforced,묘안석으로 보강된
+REINFORCED:PREFIX,clear zircon-reinforced,투명 지르콘으로 보강된
+REINFORCED:PREFIX,amethyst-reinforced,자수정으로 보강된
+REINFORCED:PREFIX,aquamarine-reinforced,아쿠아마린으로 보강된
+REINFORCED:PREFIX,red spinel-reinforced,붉은 스피넬로 보강된
+REINFORCED:PREFIX,chrysoberyl-reinforced,크리소베릴로 보강된
+REINFORCED:PREFIX,precious fire opal-reinforced,귀중한 파이어 오팔로 보강된
+REINFORCED:PREFIX,red flash opal-reinforced,붉은 플래시 오팔로 보강된
+REINFORCED:PREFIX,black opal-reinforced,검은 오팔로 보강된
+REINFORCED:PREFIX,white opal-reinforced,흰 오팔로 보강된
+REINFORCED:PREFIX,crystal opal-reinforced,크리스탈 오팔로 보강된
+REINFORCED:PREFIX,claro opal-reinforced,클라로 오팔로 보강된
+REINFORCED:PREFIX,levin opal-reinforced,레빈 오팔로 보강된
+REINFORCED:PREFIX,harlequin opal-reinforced,할리퀸 오팔로 보강된
+REINFORCED:PREFIX,pinfire opal-reinforced,핀파이어 오팔로 보강된
+REINFORCED:PREFIX,bandfire opal-reinforced,밴드파이어 오팔로 보강된
+REINFORCED:PREFIX,light yellow diamond-reinforced,밝은 노란 다이아몬드로 보강된
+REINFORCED:PREFIX,faint yellow diamond-reinforced,희미한 노란 다이아몬드로 보강된
+REINFORCED:PREFIX,emerald-reinforced,에메랄드로 보강된
+REINFORCED:PREFIX,ruby-reinforced,루비로 보강된
+REINFORCED:PREFIX,sapphire-reinforced,사파이어로 보강된
+REINFORCED:PREFIX,clear diamond-reinforced,투명 다이아몬드로 보강된
+REINFORCED:PREFIX,red diamond-reinforced,붉은 다이아몬드로 보강된
+REINFORCED:PREFIX,green diamond-reinforced,초록 다이아몬드로 보강된
+REINFORCED:PREFIX,blue diamond-reinforced,파란 다이아몬드로 보강된
+REINFORCED:PREFIX,yellow diamond-reinforced,노란 다이아몬드로 보강된
+REINFORCED:PREFIX,black diamond-reinforced,검은 다이아몬드로 보강된
+REINFORCED:PREFIX,star sapphire-reinforced,스타 사파이어로 보강된
+REINFORCED:PREFIX,star ruby-reinforced,스타 루비로 보강된
+REINFORCED:PREFIX,sandstone-reinforced,사암으로 보강된
+REINFORCED:PREFIX,siltstone-reinforced,실트암으로 보강된
+REINFORCED:PREFIX,mudstone-reinforced,이암으로 보강된
+REINFORCED:PREFIX,shale-reinforced,셰일로 보강된
+REINFORCED:PREFIX,claystone-reinforced,점토암으로 보강된
+REINFORCED:PREFIX,rock salt-reinforced,암염으로 보강된
+REINFORCED:PREFIX,limestone-reinforced,석회암으로 보강된
+REINFORCED:PREFIX,conglomerate-reinforced,역암으로 보강된
+REINFORCED:PREFIX,dolomite-reinforced,백운석으로 보강된
+REINFORCED:PREFIX,chert-reinforced,처트로 보강된
+REINFORCED:PREFIX,chalk-reinforced,백악으로 보강된
+REINFORCED:PREFIX,granite-reinforced,화강암으로 보강된
+REINFORCED:PREFIX,diorite-reinforced,섬록암으로 보강된
+REINFORCED:PREFIX,gabbro-reinforced,반려암으로 보강된
+REINFORCED:PREFIX,rhyolite-reinforced,유문암으로 보강된
+REINFORCED:PREFIX,basalt-reinforced,현무암으로 보강된
+REINFORCED:PREFIX,andesite-reinforced,안산암으로 보강된
+REINFORCED:PREFIX,dacite-reinforced,데사이트로 보강된
+REINFORCED:PREFIX,obsidian-reinforced,흑요석으로 보강된
+REINFORCED:PREFIX,quartzite-reinforced,석영암으로 보강된
+REINFORCED:PREFIX,slate-reinforced,점판암으로 보강된
+REINFORCED:PREFIX,phyllite-reinforced,천매암으로 보강된
+REINFORCED:PREFIX,schist-reinforced,편암으로 보강된
+REINFORCED:PREFIX,gneiss-reinforced,편마암으로 보강된
+REINFORCED:PREFIX,marble-reinforced,대리석으로 보강된
+REINFORCED:PREFIX,hematite-reinforced,적철석으로 보강된
+REINFORCED:PREFIX,limonite-reinforced,갈철석으로 보강된
+REINFORCED:PREFIX,garnierite-reinforced,가르니에라이트로 보강된
+REINFORCED:PREFIX,native gold-reinforced,자연금으로 보강된
+REINFORCED:PREFIX,native silver-reinforced,자연은으로 보강된
+REINFORCED:PREFIX,native copper-reinforced,자연동으로 보강된
+REINFORCED:PREFIX,malachite-reinforced,공작석으로 보강된
+REINFORCED:PREFIX,galena-reinforced,방연석으로 보강된
+REINFORCED:PREFIX,sphalerite-reinforced,섬아연석으로 보강된
+REINFORCED:PREFIX,cassiterite-reinforced,주석석으로 보강된
+REINFORCED:PREFIX,bituminous coal-reinforced,역청탄으로 보강된
+REINFORCED:PREFIX,lignite-reinforced,갈탄으로 보강된
+REINFORCED:PREFIX,native platinum-reinforced,자연백금으로 보강된
+REINFORCED:PREFIX,cinnabar-reinforced,진사로 보강된
+REINFORCED:PREFIX,cobaltite-reinforced,코발트석으로 보강된
+REINFORCED:PREFIX,tetrahedrite-reinforced,사면동석으로 보강된
+REINFORCED:PREFIX,horn silver-reinforced,각은석으로 보강된
+REINFORCED:PREFIX,gypsum-reinforced,석고로 보강된
+REINFORCED:PREFIX,talc-reinforced,활석으로 보강된
+REINFORCED:PREFIX,jet-reinforced,흑옥으로 보강된
+REINFORCED:PREFIX,puddingstone-reinforced,푸딩스톤으로 보강된
+REINFORCED:PREFIX,petrified wood-reinforced,규화목으로 보강된
+REINFORCED:PREFIX,graphite-reinforced,흑연으로 보강된
+REINFORCED:PREFIX,brimstone-reinforced,유황으로 보강된
+REINFORCED:PREFIX,kimberlite-reinforced,킴벌라이트로 보강된
+REINFORCED:PREFIX,bismuthinite-reinforced,비스무티나이트로 보강된
+REINFORCED:PREFIX,realgar-reinforced,웅황으로 보강된
+REINFORCED:PREFIX,orpiment-reinforced,자황으로 보강된
+REINFORCED:PREFIX,stibnite-reinforced,휘안티몬석으로 보강된
+REINFORCED:PREFIX,marcasite-reinforced,백철석으로 보강된
+REINFORCED:PREFIX,sylvite-reinforced,실바이트로 보강된
+REINFORCED:PREFIX,cryolite-reinforced,빙정석으로 보강된
+REINFORCED:PREFIX,periclase-reinforced,페리클라스로 보강된
+REINFORCED:PREFIX,ilmenite-reinforced,일메나이트로 보강된
+REINFORCED:PREFIX,rutile-reinforced,금홍석으로 보강된
+REINFORCED:PREFIX,magnetite-reinforced,자철석으로 보강된
+REINFORCED:PREFIX,chromite-reinforced,크롬철석으로 보강된
+REINFORCED:PREFIX,pyrolusite-reinforced,연망간석으로 보강된
+REINFORCED:PREFIX,pitchblende-reinforced,우라닌석으로 보강된
+REINFORCED:PREFIX,bauxite-reinforced,보크사이트로 보강된
+REINFORCED:PREFIX,native aluminum-reinforced,자연알루미늄으로 보강된
+REINFORCED:PREFIX,borax-reinforced,붕사로 보강된
+REINFORCED:PREFIX,olivine-reinforced,감람석으로 보강된
+REINFORCED:PREFIX,hornblende-reinforced,각섬석으로 보강된
+REINFORCED:PREFIX,kaolinite-reinforced,고령석으로 보강된
+REINFORCED:PREFIX,serpentine-reinforced,사문석으로 보강된
+REINFORCED:PREFIX,orthoclase-reinforced,정장석으로 보강된
+REINFORCED:PREFIX,microcline-reinforced,미사장석으로 보강된
+REINFORCED:PREFIX,mica-reinforced,운모로 보강된
+REINFORCED:PREFIX,calcite-reinforced,방해석으로 보강된
+REINFORCED:PREFIX,saltpeter-reinforced,초석으로 보강된
+REINFORCED:PREFIX,alabaster-reinforced,설화석고로 보강된
+REINFORCED:PREFIX,selenite-reinforced,투명석고로 보강된
+REINFORCED:PREFIX,satinspar-reinforced,섬유석고로 보강된
+REINFORCED:PREFIX,anhydrite-reinforced,무수석고로 보강된
+REINFORCED:PREFIX,alunite-reinforced,명반석으로 보강된
+REINFORCED:PREFIX,raw adamantine-reinforced,원시 아다만틴으로 보강된
+REINFORCED:PREFIX,slade-reinforced,슬레이드로 보강된
+REINFORCED:PREFIX,clay-reinforced,점토로 보강된
+REINFORCED:PREFIX,silty clay-reinforced,실트질 점토로 보강된
+REINFORCED:PREFIX,sandy clay-reinforced,사질 점토로 보강된
+REINFORCED:PREFIX,clay loam-reinforced,점토질 양토로 보강된
+REINFORCED:PREFIX,sandy clay loam-reinforced,사질 점토질 양토로 보강된
+REINFORCED:PREFIX,silty clay loam-reinforced,실트질 점토질 양토로 보강된
+REINFORCED:PREFIX,loam-reinforced,양토로 보강된
+REINFORCED:PREFIX,sandy loam-reinforced,사질 양토로 보강된
+REINFORCED:PREFIX,silt loam-reinforced,실트질 양토로 보강된
+REINFORCED:PREFIX,loamy sand-reinforced,양토질 모래로 보강된
+REINFORCED:PREFIX,silt-reinforced,실트로 보강된
+REINFORCED:PREFIX,sand-reinforced,모래로 보강된
+REINFORCED:PREFIX,yellow sand-reinforced,노란 모래로 보강된
+REINFORCED:PREFIX,white sand-reinforced,흰 모래로 보강된
+REINFORCED:PREFIX,black sand-reinforced,검은 모래로 보강된
+REINFORCED:PREFIX,red sand-reinforced,붉은 모래로 보강된
+REINFORCED:PREFIX,peat-reinforced,이탄으로 보강된
+REINFORCED:PREFIX,pelagic clay-reinforced,심해 점토로 보강된
+REINFORCED:PREFIX,calcareous ooze-reinforced,석회질 진흙으로 보강된
+REINFORCED:PREFIX,siliceous ooze-reinforced,규질 진흙으로 보강된
+REINFORCED:PREFIX,fire clay-reinforced,내화 점토로 보강된
+REINFORCED:PREFIX,skin-reinforced,피부로 보강된
+REINFORCED:PREFIX,muscle-reinforced,근육으로 보강된
+REINFORCED:PREFIX,bone-reinforced,뼈로 보강된
+REINFORCED:PREFIX,bone meal-reinforced,골분으로 보강된
+REINFORCED:PREFIX,tooth-reinforced,이빨로 보강된
+REINFORCED:PREFIX,eye tissue-reinforced,안구 조직으로 보강된
+REINFORCED:PREFIX,nervous tissue-reinforced,신경 조직으로 보강된
+REINFORCED:PREFIX,brain-reinforced,뇌로 보강된
+REINFORCED:PREFIX,lung tissue-reinforced,폐 조직으로 보강된
+REINFORCED:PREFIX,heart tissue-reinforced,심장 조직으로 보강된
+REINFORCED:PREFIX,liver tissue-reinforced,간 조직으로 보강된
+REINFORCED:PREFIX,gut-reinforced,창자로 보강된
+REINFORCED:PREFIX,stomach tissue-reinforced,위 조직으로 보강된
+REINFORCED:PREFIX,gizzard tissue-reinforced,모래주머니 조직으로 보강된
+REINFORCED:PREFIX,pancreatic tissue-reinforced,췌장 조직으로 보강된
+REINFORCED:PREFIX,spleen tissue-reinforced,비장 조직으로 보강된
+REINFORCED:PREFIX,kidney tissue-reinforced,신장 조직으로 강화된
+REINFORCED:PREFIX,leather-reinforced,가죽으로 강화된
+REINFORCED:PREFIX,parchment-reinforced,양피지로 강화된
+REINFORCED:PREFIX,tallow-reinforced,우지로 강화된
+REINFORCED:PREFIX,soap-reinforced,비누로 강화된
+REINFORCED:PREFIX,sinew-reinforced,힘줄로 강화된
+REINFORCED:PREFIX,blood-reinforced,혈액으로 강화된
+REINFORCED:PREFIX,pus-reinforced,고름으로 강화된
+REINFORCED:PREFIX,ichor-reinforced,이코르로 강화된
+REINFORCED:PREFIX,feather-reinforced,깃털로 강화된
+REINFORCED:PREFIX,nail-reinforced,손톱으로 강화된
+REINFORCED:PREFIX,eggshell-reinforced,달걀껍데기로 강화된
+REINFORCED:PREFIX,egg white-reinforced,달걀흰자로 강화된
+REINFORCED:PREFIX,egg yolk-reinforced,달걀노른자로 강화된
+REINFORCED:PREFIX,chitin-reinforced,키틴으로 강화된
+REINFORCED:PREFIX,bark scorpion venom-reinforced,나무껍질전갈 독소로 강화된
+REINFORCED:PREFIX,bark scorpion man venom-reinforced,나무껍질전갈인간 독소로 강화된
+REINFORCED:PREFIX,giant bark scorpion venom-reinforced,거대 나무껍질전갈 독소로 강화된
+REINFORCED:PREFIX,shell-reinforced,껍질로 강화된
+REINFORCED:PREFIX,brown recluse spider venom-reinforced,갈색은둔거미 독소로 강화된
+REINFORCED:PREFIX,silk-reinforced,비단으로 강화된
+REINFORCED:PREFIX,brown recluse spider man venom-reinforced,갈색은둔거미인간 독소로 강화된
+REINFORCED:PREFIX,giant brown recluse spider venom-reinforced,거대 갈색은둔거미 독소로 강화된
+REINFORCED:PREFIX,scale-reinforced,비늘로 강화된
+REINFORCED:PREFIX,gila monster venom-reinforced,힐라몬스터 독소로 강화된
+REINFORCED:PREFIX,gila monster man venom-reinforced,힐라몬스터인간 독소로 강화된
+REINFORCED:PREFIX,giant gila monster venom-reinforced,거대 힐라몬스터 독소로 강화된
+REINFORCED:PREFIX,hair-reinforced,머리카락으로 강화된
+REINFORCED:PREFIX,hoof-reinforced,굽으로 강화된
+REINFORCED:PREFIX,donkey's milk-reinforced,당나귀 젖으로 강화된
+REINFORCED:PREFIX,donkey cheese-reinforced,당나귀 젖 치즈로 강화된
+REINFORCED:PREFIX,horse's milk-reinforced,말 젖으로 강화된
+REINFORCED:PREFIX,horse cheese-reinforced,말 젖 치즈로 강화된
+REINFORCED:PREFIX,vellum-reinforced,벨럼으로 강화된
+REINFORCED:PREFIX,horn-reinforced,뿔로 강화된
+REINFORCED:PREFIX,cow's milk-reinforced,소 젖으로 강화된
+REINFORCED:PREFIX,cow cheese-reinforced,소 젖 치즈로 강화된
+REINFORCED:PREFIX,wool-reinforced,양모로 강화된
+REINFORCED:PREFIX,sheep's milk-reinforced,양 젖으로 강화된
+REINFORCED:PREFIX,sheep cheese-reinforced,양 젖 치즈로 강화된
+REINFORCED:PREFIX,pig's milk-reinforced,돼지 젖으로 강화된
+REINFORCED:PREFIX,pig cheese-reinforced,돼지 젖 치즈로 강화된
+REINFORCED:PREFIX,goat's milk-reinforced,염소 젖으로 강화된
+REINFORCED:PREFIX,goat cheese-reinforced,염소 젖 치즈로 강화된
+REINFORCED:PREFIX,water buffalo's milk-reinforced,물소 젖으로 강화된
+REINFORCED:PREFIX,water buffalo cheese-reinforced,물소 젖 치즈로 강화된
+REINFORCED:PREFIX,antler-reinforced,사슴뿔로 강화된
+REINFORCED:PREFIX,reindeer's milk-reinforced,순록 젖으로 강화된
+REINFORCED:PREFIX,reindeer cheese-reinforced,순록 젖 치즈로 강화된
+REINFORCED:PREFIX,yak's milk-reinforced,야크 젖으로 강화된
+REINFORCED:PREFIX,yak cheese-reinforced,야크 치즈로 강화된
+REINFORCED:PREFIX,llama's milk-reinforced,라마 우유로 강화된
+REINFORCED:PREFIX,llama cheese-reinforced,라마 치즈로 강화된
+REINFORCED:PREFIX,alpaca's milk-reinforced,알파카 우유로 강화된
+REINFORCED:PREFIX,alpaca cheese-reinforced,알파카 치즈로 강화된
+REINFORCED:PREFIX,honey bee wax-reinforced,꿀벌 밀랍으로 강화된
+REINFORCED:PREFIX,honey bee wax cake-reinforced,꿀벌 밀랍 케이크로 강화된
+REINFORCED:PREFIX,honey bee royal jelly-reinforced,꿀벌 로열젤리로 강화된
+REINFORCED:PREFIX,honey bee honey-reinforced,꿀벌 꿀로 강화된
+REINFORCED:PREFIX,mead-reinforced,미드로 강화된
+REINFORCED:PREFIX,honey bee venom-reinforced,꿀벌 독소로 강화된
+REINFORCED:PREFIX,bumblebee wax-reinforced,뒤영벌 밀랍으로 강화된
+REINFORCED:PREFIX,bumblebee wax cake-reinforced,뒤영벌 밀랍 케이크로 강화된
+REINFORCED:PREFIX,bumblebee royal jelly-reinforced,뒤영벌 로열젤리로 강화된
+REINFORCED:PREFIX,bumblebee honey-reinforced,뒤영벌 꿀로 강화된
+REINFORCED:PREFIX,bumblebee mead-reinforced,뒤영벌 미드로 강화된
+REINFORCED:PREFIX,bumblebee venom-reinforced,뒤영벌 독소로 강화된
+REINFORCED:PREFIX,sweat-reinforced,땀으로 강화된
+REINFORCED:PREFIX,tears-reinforced,눈물로 강화된
+REINFORCED:PREFIX,spit-reinforced,침으로 강화된
+REINFORCED:PREFIX,ivory-reinforced,상아로 강화된
+REINFORCED:PREFIX,platypus venom-reinforced,오리너구리 독소로 강화된
+REINFORCED:PREFIX,platypus man venom-reinforced,오리너구리인 독소로 강화된
+REINFORCED:PREFIX,giant platypus venom-reinforced,거대 오리너구리 독소로 강화된
+REINFORCED:PREFIX,one-humped camel's milk-reinforced,단봉낙타 우유로 강화된
+REINFORCED:PREFIX,one-humped camel cheese-reinforced,단봉낙타 치즈로 강화된
+REINFORCED:PREFIX,one-humped camel man's milk-reinforced,단봉낙타인 우유로 강화된
+REINFORCED:PREFIX,one-humped camel man cheese-reinforced,단봉낙타인 치즈로 강화된
+REINFORCED:PREFIX,giant one-humped camel's milk-reinforced,거대 단봉낙타 우유로 강화된
+REINFORCED:PREFIX,giant one-humped camel cheese-reinforced,거대 단봉낙타 치즈로 강화된
+REINFORCED:PREFIX,two-humped camel's milk-reinforced,쌍봉낙타 우유로 강화된
+REINFORCED:PREFIX,two-humped camel cheese-reinforced,쌍봉낙타 치즈로 강화된
+REINFORCED:PREFIX,two-humped camel man's milk-reinforced,쌍봉낙타인 우유로 강화된
+REINFORCED:PREFIX,two-humped camel man cheese-reinforced,쌍봉낙타인 치즈로 강화된
+REINFORCED:PREFIX,giant two-humped camel's milk-reinforced,거대 쌍봉낙타 우유로 강화된
+REINFORCED:PREFIX,giant two-humped camel cheese-reinforced,거대 쌍봉낙타 치즈로 강화된
+REINFORCED:PREFIX,flesh-reinforced,살점으로 강화된
+REINFORCED:PREFIX,helmet snake venom-reinforced,투구뱀 독소로 강화된
+REINFORCED:PREFIX,corrupted blood-reinforced,부패한 혈액으로 강화된
+REINFORCED:PREFIX,cave floater juice-reinforced,동굴 부유자 즙액으로 강화된
+REINFORCED:PREFIX,cave floater gas-reinforced,동굴 부유체 가스로 강화된
+REINFORCED:PREFIX,plump helmet man tissue-reinforced,통통한 투구버섯 인간 조직으로 강화된
+REINFORCED:PREFIX,cave blob fluid-reinforced,동굴 블롭 액체로 강화된
+REINFORCED:PREFIX,octopus ink-reinforced,문어 먹물로 강화된
+REINFORCED:PREFIX,octopus man ink-reinforced,문어인 먹물로 강화된
+REINFORCED:PREFIX,giant octopus ink-reinforced,거대 문어 먹물로 강화된
+REINFORCED:PREFIX,cuttlefish ink-reinforced,갑오징어 먹물로 강화된
+REINFORCED:PREFIX,cuttlefish man ink-reinforced,갑오징어 인간 먹물로 강화된
+REINFORCED:PREFIX,giant cuttlefish ink-reinforced,거대 갑오징어 먹물로 강화된
+REINFORCED:PREFIX,mog juice-reinforced,뜀벌레 육즙으로 강화된
+REINFORCED:PREFIX,goo-reinforced,점액으로 강화된
+REINFORCED:PREFIX,fluff-reinforced,솜털로 강화된
+REINFORCED:PREFIX,pudge-reinforced,지방으로 강화된
+REINFORCED:PREFIX,phantom spider venom-reinforced,환영 거미 독액으로 강화된
+REINFORCED:PREFIX,spine-reinforced,척추로 강화된
+REINFORCED:PREFIX,squid ink-reinforced,오징어 먹물로 강화된
+REINFORCED:PREFIX,squid man ink-reinforced,오징어인 먹물로 강화된
+REINFORCED:PREFIX,giant squid ink-reinforced,거대 오징어 먹물로 강화된
+REINFORCED:PREFIX,fur-reinforced,모피로 강화된
+REINFORCED:PREFIX,giant cave spider venom-reinforced,거대 동굴 거미 독액으로 강화된
+REINFORCED:PREFIX,cave spider venom-reinforced,동굴 거미 독액으로 강화된
+REINFORCED:PREFIX,flames-reinforced,화염으로 강화된
+REINFORCED:PREFIX,liquid fire-reinforced,액체 화염으로 강화된
+REINFORCED:PREFIX,dwarven milk-reinforced,드워프 우유로 강화된
+REINFORCED:PREFIX,dwarven cheese-reinforced,드워프 치즈로 강화된
+REINFORCED:PREFIX,iron man gas-reinforced,철인 가스로 강화된
+REINFORCED:PREFIX,condensed iron man gas-reinforced,농축된 철인 가스로 강화된
+REINFORCED:PREFIX,serpent man venom-reinforced,독사인 독액으로 강화된
+REINFORCED:PREFIX,kangaroo's milk-reinforced,캥거루 우유로 강화된
+REINFORCED:PREFIX,kangaroo cheese-reinforced,캥거루 치즈로 강화된
+REINFORCED:PREFIX,kangaroo man's milk-reinforced,캥거루 인간 우유로 강화된
+REINFORCED:PREFIX,kangaroo man cheese-reinforced,캥거루 인간 치즈로 강화된
+REINFORCED:PREFIX,giant kangaroo's milk-reinforced,거대 캥거루 우유로 강화된
+REINFORCED:PREFIX,giant kangaroo cheese-reinforced,거대 캥거루 치즈로 강화된
+REINFORCED:PREFIX,adder venom-reinforced,살무사 독액으로 강화된
+REINFORCED:PREFIX,adder man venom-reinforced,살무사인간 독액으로 강화된
+REINFORCED:PREFIX,giant adder venom-reinforced,거대 살무사 독액으로 강화된
+REINFORCED:PREFIX,rattlesnake venom-reinforced,방울뱀 독액으로 강화된
+REINFORCED:PREFIX,rattlesnake man venom-reinforced,방울뱀 인간 독액으로 강화된
+REINFORCED:PREFIX,giant rattlesnake venom-reinforced,거대 방울뱀 독액으로 강화된
+REINFORCED:PREFIX,copperhead snake venom-reinforced,구리머리뱀 독액으로 강화된
+REINFORCED:PREFIX,copperhead snake man venom-reinforced,구리머리뱀인간 독액으로 강화된
+REINFORCED:PREFIX,giant copperhead snake venom-reinforced,거대 구리머리뱀 독액으로 강화된
+REINFORCED:PREFIX,king cobra venom-reinforced,킹코브라 독액으로 강화된
+REINFORCED:PREFIX,king cobra man venom-reinforced,킹코브라 인간 독액으로 강화된
+REINFORCED:PREFIX,giant king cobra venom-reinforced,거대 킹코브라 독액으로 강화된
+REINFORCED:PREFIX,black mamba venom-reinforced,블랙맘바 독액으로 강화된
+REINFORCED:PREFIX,black mamba man venom-reinforced,블랙 맘바 뱀인간 독액으로 강화된
+REINFORCED:PREFIX,giant black mamba venom-reinforced,거대 검은맘바 독액으로 강화된
+REINFORCED:PREFIX,bushmaster venom-reinforced,부시마스터 독액으로 강화된
+REINFORCED:PREFIX,bushmaster man venom-reinforced,부시마스터인 독액으로 강화된
+REINFORCED:PREFIX,giant bushmaster venom-reinforced,거대 부시마스터 독액으로 강화된
+REINFORCED:PREFIX,tapir's milk-reinforced,맥 우유로 강화된
+REINFORCED:PREFIX,tapir cheese-reinforced,맥 치즈로 강화된
+REINFORCED:PREFIX,tapir man's milk-reinforced,맥인 우유로 강화된
+REINFORCED:PREFIX,tapir man cheese-reinforced,맥인 치즈로 강화된
+REINFORCED:PREFIX,giant tapir's milk-reinforced,거대 맥 우유로 강화된
+REINFORCED:PREFIX,giant tapir cheese-reinforced,거대 맥 치즈로 강화된
+REINFORCED:PREFIX,plant-reinforced,식물로 강화된
+REINFORCED:PREFIX,single-grain wheat beer-reinforced,외알밀 맥주로 강화된
+REINFORCED:PREFIX,single-grain wheat flour-reinforced,단립밀 밀가루로 보강된
+REINFORCED:PREFIX,leaf-reinforced,잎으로 보강된
+REINFORCED:PREFIX,seed-reinforced,씨앗으로 보강된
+REINFORCED:PREFIX,two-grain wheat beer-reinforced,쌍립밀 맥주로 보강된
+REINFORCED:PREFIX,two-grain wheat flour-reinforced,쌍립밀 밀가루로 보강된
+REINFORCED:PREFIX,soft wheat beer-reinforced,연질밀 맥주로 보강된
+REINFORCED:PREFIX,soft wheat flour-reinforced,연질밀 밀가루로 보강된
+REINFORCED:PREFIX,hard wheat beer-reinforced,경질밀 맥주로 보강된
+REINFORCED:PREFIX,hard wheat flour-reinforced,경질밀 밀가루로 보강된
+REINFORCED:PREFIX,spelt beer-reinforced,스펠트밀 맥주로 보강된
+REINFORCED:PREFIX,spelt flour-reinforced,스펠트밀 밀가루로 보강된
+REINFORCED:PREFIX,barley wine-reinforced,보리 와인으로 보강된
+REINFORCED:PREFIX,barley flour-reinforced,보리가루로 보강된
+REINFORCED:PREFIX,buckwheat beer-reinforced,메밀 맥주로 보강된
+REINFORCED:PREFIX,buckwheat flour-reinforced,메밀가루로 보강된
+REINFORCED:PREFIX,flower-reinforced,꽃으로 보강된
+REINFORCED:PREFIX,oat flour-reinforced,귀리가루로 보강된
+REINFORCED:PREFIX,rye beer-reinforced,호밀 맥주로 보강된
+REINFORCED:PREFIX,rye flour-reinforced,호밀가루로 보강된
+REINFORCED:PREFIX,sorghum beer-reinforced,수수 맥주로 보강된
+REINFORCED:PREFIX,sorghum flour-reinforced,수수가루로 보강된
+REINFORCED:PREFIX,rice beer-reinforced,쌀 맥주로 보강된
+REINFORCED:PREFIX,rice flour-reinforced,쌀가루로 보강된
+REINFORCED:PREFIX,maize beer-reinforced,옥수수 맥주로 보강된
+REINFORCED:PREFIX,maize flour-reinforced,옥수수가루로 보강된
+REINFORCED:PREFIX,quinoa beer-reinforced,퀴노아 맥주로 보강된
+REINFORCED:PREFIX,quinoa flour-reinforced,퀴노아가루로 보강된
+REINFORCED:PREFIX,kaniwa beer-reinforced,카니와 맥주로 보강된
+REINFORCED:PREFIX,kaniwa flour-reinforced,카니와가루로 보강된
+REINFORCED:PREFIX,pendant amaranth beer-reinforced,드리운비름 맥주로 보강된
+REINFORCED:PREFIX,pendant amaranth flour-reinforced,드리운비름가루로 보강된
+REINFORCED:PREFIX,blood amaranth beer-reinforced,피비름 맥주로 보강된
+REINFORCED:PREFIX,blood amaranth flour-reinforced,피비름가루로 보강된
+REINFORCED:PREFIX,purple amaranth beer-reinforced,자비름 맥주로 보강된
+REINFORCED:PREFIX,purple amaranth flour-reinforced,자비름가루로 보강된
+REINFORCED:PREFIX,pearl millet beer-reinforced,진주기장 맥주로 보강된
+REINFORCED:PREFIX,pearl millet flour-reinforced,진주기장가루로 보강된
+REINFORCED:PREFIX,white millet beer-reinforced,흰기장 맥주로 보강된
+REINFORCED:PREFIX,white millet flour-reinforced,흰기장가루로 보강된
+REINFORCED:PREFIX,finger millet beer-reinforced,손가락기장 맥주로 보강된
+REINFORCED:PREFIX,finger millet flour-reinforced,손가락기장가루로 보강된
+REINFORCED:PREFIX,foxtail millet beer-reinforced,여우꼬리조 맥주로 보강된
+REINFORCED:PREFIX,foxtail millet flour-reinforced,여우꼬리조가루로 보강된
+REINFORCED:PREFIX,fonio beer-reinforced,포니오 맥주로 보강된
+REINFORCED:PREFIX,fonio flour-reinforced,포니오가루로 보강된
+REINFORCED:PREFIX,teff beer-reinforced,테프 맥주로 보강된
+REINFORCED:PREFIX,teff flour-reinforced,테프가루로 보강된
+REINFORCED:PREFIX,linseed oil-reinforced,아마씨유로 보강된
+REINFORCED:PREFIX,linseed oil soap-reinforced,아마씨유 비누로 보강된
+REINFORCED:PREFIX,flax flour-reinforced,아마가루로 보강된
+REINFORCED:PREFIX,flax seed-reinforced,아마 씨앗으로 강화된
+REINFORCED:PREFIX,linen-reinforced,아마 섬유로 강화된
+REINFORCED:PREFIX,fiber-reinforced,섬유로 강화된
+REINFORCED:PREFIX,jute-reinforced,황마 섬유로 강화된
+REINFORCED:PREFIX,hempseed oil-reinforced,대마 씨앗 기름으로 강화된
+REINFORCED:PREFIX,hempseed oil soap-reinforced,대마 씨앗 기름 비누로 강화된
+REINFORCED:PREFIX,hemp flour-reinforced,대마 가루로 강화된
+REINFORCED:PREFIX,hemp seed-reinforced,대마 씨앗으로 강화된
+REINFORCED:PREFIX,hemp-reinforced,대마로 강화된
+REINFORCED:PREFIX,cottonseed oil-reinforced,면화 씨앗 기름으로 강화된
+REINFORCED:PREFIX,cottonseed oil soap-reinforced,면화 씨앗 기름 비누로 강화된
+REINFORCED:PREFIX,cotton seed-reinforced,면화 씨앗으로 강화된
+REINFORCED:PREFIX,cotton-reinforced,면화로 강화된
+REINFORCED:PREFIX,ramie-reinforced,저마로 강화된
+REINFORCED:PREFIX,kenaf seed oil-reinforced,케나프 씨앗 기름으로 강화된
+REINFORCED:PREFIX,kenaf seed oil soap-reinforced,케나프 씨앗 기름 비누로 강화된
+REINFORCED:PREFIX,kenaf seed-reinforced,케나프 씨앗으로 강화된
+REINFORCED:PREFIX,kenaf-reinforced,케나프로 강화된
+REINFORCED:PREFIX,papyrus-reinforced,파피루스로 강화된
+REINFORCED:PREFIX,artichoke wine-reinforced,아티초크 와인으로 강화된
+REINFORCED:PREFIX,fruit-reinforced,열매로 강화된
+REINFORCED:PREFIX,beetroot wine-reinforced,사탕무 뿌리 와인으로 강화된
+REINFORCED:PREFIX,bud-reinforced,꽃봉오리로 강화된
+REINFORCED:PREFIX,carrot wine-reinforced,당근 와인으로 강화된
+REINFORCED:PREFIX,cassava beer-reinforced,카사바 맥주로 강화된
+REINFORCED:PREFIX,parsnip wine-reinforced,파스닙 와인으로 강화된
+REINFORCED:PREFIX,potato wine-reinforced,감자 와인으로 강화된
+REINFORCED:PREFIX,radish wine-reinforced,래디시 와인으로 강화된
+REINFORCED:PREFIX,sweet potato wine-reinforced,고구마 와인으로 강화된
+REINFORCED:PREFIX,tomato wine-reinforced,토마토 와인으로 강화된
+REINFORCED:PREFIX,tomatillo wine-reinforced,토마틸로 와인으로 강화된
+REINFORCED:PREFIX,turnip wine-reinforced,순무 와인으로 강화된
+REINFORCED:PREFIX,passion fruit wine-reinforced,패션프루트 와인으로 강화된
+REINFORCED:PREFIX,wine-reinforced,와인으로 강화된
+REINFORCED:PREFIX,cranberry wine-reinforced,크랜베리 와인으로 강화된
+REINFORCED:PREFIX,bilberry wine-reinforced,빌베리 와인으로 강화된
+REINFORCED:PREFIX,blueberry wine-reinforced,블루베리 와인으로 강화된
+REINFORCED:PREFIX,blackberry wine-reinforced,블랙베리 와인으로 강화된
+REINFORCED:PREFIX,raspberry wine-reinforced,라즈베리 와인으로 강화된
+REINFORCED:PREFIX,pineapple wine-reinforced,파인애플 와인으로 강화된
+REINFORCED:PREFIX,banana beer-reinforced,바나나 맥주로 강화된
+REINFORCED:PREFIX,carambola wood-reinforced,카람볼라 나무로 강화된
+REINFORCED:PREFIX,carambola wine-reinforced,카람볼라 와인으로 강화된
+REINFORCED:PREFIX,cashew wood-reinforced,캐슈 나무로 강화된
+REINFORCED:PREFIX,coffee wood-reinforced,커피나무로 강화된
+REINFORCED:PREFIX,durian wood-reinforced,두리안나무로 강화된
+REINFORCED:PREFIX,durian wine-reinforced,두리안 와인으로 강화된
+REINFORCED:PREFIX,guava wood-reinforced,구아바나무로 강화된
+REINFORCED:PREFIX,guava wine-reinforced,구아바 와인으로 강화된
+REINFORCED:PREFIX,papaya wood-reinforced,파파야나무로 강화된
+REINFORCED:PREFIX,papaya wine-reinforced,보강된 파파야 와인
+REINFORCED:PREFIX,paradise nut wood-reinforced,보강된 파라다이스 너트 목재
+REINFORCED:PREFIX,rambutan wood-reinforced,보강된 람부탄 목재
+REINFORCED:PREFIX,rambutan wine-reinforced,보강된 람부탄 와인
+REINFORCED:PREFIX,tea wood-reinforced,보강된 차나무 목재
+REINFORCED:PREFIX,avocado wood-reinforced,보강된 아보카도 목재
+REINFORCED:PREFIX,lime wood-reinforced,보강된 라임 목재
+REINFORCED:PREFIX,pomelo wood-reinforced,보강된 포멜로 목재
+REINFORCED:PREFIX,citron wood-reinforced,보강된 시트론 목재
+REINFORCED:PREFIX,orange wood-reinforced,보강된 오렌지 목재
+REINFORCED:PREFIX,bitter orange wood-reinforced,보강된 비터 오렌지 목재
+REINFORCED:PREFIX,finger lime wood-reinforced,보강된 핑거 라임 목재
+REINFORCED:PREFIX,round lime wood-reinforced,보강된 라운드 라임 목재
+REINFORCED:PREFIX,desert lime wood-reinforced,보강된 사막 라임 목재
+REINFORCED:PREFIX,kumquat wood-reinforced,보강된 금귤 목재
+REINFORCED:PREFIX,custard-apple wood-reinforced,보강된 커스터드 애플 목재
+REINFORCED:PREFIX,custard-apple cider-reinforced,보강된 커스터드 애플 사이더
+REINFORCED:PREFIX,date palm wood-reinforced,보강된 대추야자나무 목재
+REINFORCED:PREFIX,date wine-reinforced,보강된 대추야자 와인
+REINFORCED:PREFIX,lychee wood-reinforced,보강된 리치 목재
+REINFORCED:PREFIX,lychee wine-reinforced,보강된 리치 와인
+REINFORCED:PREFIX,macadamia wood-reinforced,보강된 마카다미아 목재
+REINFORCED:PREFIX,olive oil-reinforced,보강된 올리브유
+REINFORCED:PREFIX,olive oil soap-reinforced,보강된 올리브유 비누
+REINFORCED:PREFIX,olive wood-reinforced,보강된 올리브 목재
+REINFORCED:PREFIX,olive fruit-reinforced,보강된 올리브 열매
+REINFORCED:PREFIX,olive pomace-reinforced,보강된 올리브 과육 찌꺼기
+REINFORCED:PREFIX,pomegranate wood-reinforced,보강된 석류 목재
+REINFORCED:PREFIX,pomegranate wine-reinforced,보강된 석류 와인
+REINFORCED:PREFIX,almond wood-reinforced,보강된 아몬드 목재
+REINFORCED:PREFIX,apple wood-reinforced,보강된 사과나무 목재
+REINFORCED:PREFIX,apple cider-reinforced,보강된 사과 사이더
+REINFORCED:PREFIX,apricot wood-reinforced,보강된 살구 목재
+REINFORCED:PREFIX,apricot wine-reinforced,보강된 살구 와인
+REINFORCED:PREFIX,bayberry wood-reinforced,보강된 베이베리 목재
+REINFORCED:PREFIX,bayberry wine-reinforced,보강된 베이베리 와인
+REINFORCED:PREFIX,cherry wood-reinforced,보강된 체리 목재
+REINFORCED:PREFIX,cherry wine-reinforced,보강된 체리 와인
+REINFORCED:PREFIX,ginkgo wood-reinforced,보강된 은행나무 목재
+REINFORCED:PREFIX,hazel wood-reinforced,보강된 헤이즐 목재
+REINFORCED:PREFIX,peach wood-reinforced,보강된 복숭아 목재
+REINFORCED:PREFIX,peach cider-reinforced,보강된 복숭아 사이더
+REINFORCED:PREFIX,pear wood-reinforced,보강된 배나무 목재
+REINFORCED:PREFIX,perry-reinforced,보강된 배 사이더
+REINFORCED:PREFIX,pecan wood-reinforced,보강된 피칸 목재
+REINFORCED:PREFIX,persimmon wood-reinforced,보강된 감나무 목재
+REINFORCED:PREFIX,persimmon wine-reinforced,보강된 감 와인
+REINFORCED:PREFIX,plum wood-reinforced,보강된 자두 목재
+REINFORCED:PREFIX,plum wine-reinforced,보강된 자두 와인
+REINFORCED:PREFIX,sand pear wood-reinforced,보강된 나시배나무 목재
+REINFORCED:PREFIX,sand pear cider-reinforced,강화된 사과배 사이더
+REINFORCED:PREFIX,walnut wood-reinforced,강화된 호두나무 목재
+REINFORCED:PREFIX,mushroom-reinforced,강화된 버섯
+REINFORCED:PREFIX,dwarven wine-reinforced,강화된 드워프 와인
+REINFORCED:PREFIX,dwarven ale-reinforced,강화된 드워프 에일
+REINFORCED:PREFIX,pig tail-reinforced,강화된 돼지꼬리풀
+REINFORCED:PREFIX,dwarven beer-reinforced,강화된 드워프 맥주
+REINFORCED:PREFIX,dwarven wheat flour-reinforced,강화된 드워프 밀가루
+REINFORCED:PREFIX,dwarven rum-reinforced,강화된 드워프 럼
+REINFORCED:PREFIX,dwarven sugar-reinforced,강화된 드워프 설탕
+REINFORCED:PREFIX,dwarven syrup-reinforced,강화된 드워프 시럽
+REINFORCED:PREFIX,rock nut oil-reinforced,강화된 바위 견과 기름
+REINFORCED:PREFIX,rock nut soap-reinforced,강화된 바위 견과 비누
+REINFORCED:PREFIX,rock nut-reinforced,강화된 바위 견과
+REINFORCED:PREFIX,swamp whiskey-reinforced,강화된 늪지 위스키
+REINFORCED:PREFIX,tuber beer-reinforced,강화된 괴경 맥주
+REINFORCED:PREFIX,gnomeblight-reinforced,강화된 노움 마름병
+REINFORCED:PREFIX,prickle berry wine-reinforced,강화된 가시베리 와인
+REINFORCED:PREFIX,strawberry wine-reinforced,강화된 딸기 와인
+REINFORCED:PREFIX,Longland beer-reinforced,강화된 롱랜드 맥주
+REINFORCED:PREFIX,Longland flour-reinforced,강화된 롱랜드 풀 가루
+REINFORCED:PREFIX,golden salve-reinforced,강화된 황금 연고
+REINFORCED:PREFIX,sewer brew-reinforced,강화된 하수구 양조주
+REINFORCED:PREFIX,fisher berry wine-reinforced,강화된 어부베리 와인
+REINFORCED:PREFIX,river spirits-reinforced,강화된 강의 증류주
+REINFORCED:PREFIX,rope reed-reinforced,강화된 밧줄 갈대
+REINFORCED:PREFIX,dimple dye-reinforced,강화된 오목 컵버섯 염료
+REINFORCED:PREFIX,emerald dye-reinforced,강화된 에메랄드색 염료
+REINFORCED:PREFIX,redroot dye-reinforced,강화된 붉은뿌리 염료
+REINFORCED:PREFIX,gutter cruor-reinforced,강화된 응혈주
+REINFORCED:PREFIX,sliver dye-reinforced,강화된 갈라진 갈고리풀 염료
+REINFORCED:PREFIX,sunshine-reinforced,강화된 일광주
+REINFORCED:PREFIX,whip wine-reinforced,강화된 채찍 와인
+REINFORCED:PREFIX,whip vine flour-reinforced,강화된 채찍덩굴 가루
+REINFORCED:PREFIX,mangrove-reinforced,강화된 맹그로브
+REINFORCED:PREFIX,pine-reinforced,강화된 소나무
+REINFORCED:PREFIX,cedar-reinforced,강화된 백향목
+REINFORCED:PREFIX,mahogany-reinforced,강화된 마호가니
+REINFORCED:PREFIX,acacia-reinforced,강화된 아카시아
+REINFORCED:PREFIX,kapok-reinforced,강화된 카폭나무
+REINFORCED:PREFIX,maple-reinforced,강화된 단풍나무
+REINFORCED:PREFIX,willow-reinforced,강화된 버드나무
+REINFORCED:PREFIX,tower-cap-reinforced,강화된 탑버섯
+REINFORCED:PREFIX,black-cap-reinforced,강화된 검은버섯
+REINFORCED:PREFIX,nether-cap-reinforced,강화된 네더버섯
+REINFORCED:PREFIX,goblin-cap-reinforced,강화된 고블린버섯
+REINFORCED:PREFIX,fungiwood-reinforced,강화된 진균목
+REINFORCED:PREFIX,tunnel tube-reinforced,강화된 터널관균
+REINFORCED:PREFIX,spore tree-reinforced,강화된 포자나무
+REINFORCED:PREFIX,blood thorn-reinforced,강화된 혈가시
+REINFORCED:PREFIX,glumprong-reinforced,자영나무로 보강된
+REINFORCED:PREFIX,feather wood-reinforced,깃털나무로 보강된
+REINFORCED:PREFIX,highwood-reinforced,극나무로 보강된
+REINFORCED:PREFIX,larch-reinforced,낙엽송으로 보강된
+REINFORCED:PREFIX,chestnut-reinforced,밤나무로 보강된
+REINFORCED:PREFIX,alder-reinforced,오리나무로 보강된
+REINFORCED:PREFIX,candlenut-reinforced,캔들넛으로 보강된
+REINFORCED:PREFIX,mango wood-reinforced,망고나무로 보강된
+REINFORCED:PREFIX,mango wine-reinforced,망고 와인으로 보강된
+REINFORCED:PREFIX,rubber wood-reinforced,고무나무로 보강된
+REINFORCED:PREFIX,cacao wood-reinforced,카카오나무로 보강된
+REINFORCED:PREFIX,coconut palm-reinforced,코코넛야자로 보강된
+REINFORCED:PREFIX,rubber wood-reinforced,고무나무로 보강된
+REINFORCED:PREFIX,cacao wood-reinforced,카카오나무로 보강된
+REINFORCED:PREFIX,coconut palm-reinforced,코코넛야자로 보강된
+REINFORCED:PREFIX,reinforced,보강된

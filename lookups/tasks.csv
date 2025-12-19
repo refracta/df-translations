@@ -1,132 +1,132 @@
 table,text,translation
-TASK:^0,Assemble,组装
-TASK:^0,Forge,打造
-TASK:^0,Make,制作
-TASK:^0,Render,熬煮
-TASK:^0,Smelt,熔炼
-TASK:^0,Mint,铸造
-TASK:^0,Make coke from,精炼焦炭-消耗
-TASK:^0,Encrust ammo with,为弹药镶嵌
-TASK:^0,Encrust finished goods with,为成品镶嵌
-TASK:^0,Encrust furniture with,为家具镶嵌
+TASK:^0,Assemble,조립
+TASK:^0,Forge,단조
+TASK:^0,Make,제작
+TASK:^0,Render,우려내기
+TASK:^0,Smelt,제련
+TASK:^0,Mint,주조
+TASK:^0,Make coke from,코크스 제작-소모
+TASK:^0,Encrust ammo with,탄약에 상감
+TASK:^0,Encrust finished goods with,완제품에 상감
+TASK:^0,Encrust furniture with,가구에 상감
 TASK:^0,,
-TASK:$0,ore,矿石
-TASK:$0,ore:,矿石:
-TASK:$0,(use bars),(使用锭)
-TASK:$0,(use ore),(使用矿石)
+TASK:$0,ore,광석
+TASK:$0,ore:,광석:
+TASK:$0,(use bars),(주괴 사용)
+TASK:$0,(use ore),(광석 사용)
 TASK:$0,,
 TASK,{:ITEM},{:ITEM}
-TASK,Decorate with {:ITEM},装饰以{:ITEM}
-TASK,Make large wooden gem,制作大型木制宝石
-TASK,Make large wooden gem:,制作大型木制宝石:
-TASK,Store item in bin,储存物品到储存箱
-TASK,Store item in bin:,储存物品到储存箱:
-TASK,Store item in stockpile,储存物品到储存区
-TASK,Store item in stockpile:,储存物品到储存区:
-TASK,Dump item,丢弃物品
-TASK,Dump item:,丢弃物品:
-TASK,Store owned item,储存个人物品
-TASK,Store owned item:,储存个人物品:
-TASK,Store squad item,储存小队物品
-TASK,Store squad item:,储存小队物品:
-TASK,Store squad equipment,储存小队装备
-TASK,Store squad equipment:,储存小队装备:
-TASK,Pickup equipment,捡起装备
-TASK,Pickup equipment:,捡起装备:
-TASK,Construct building,建造建筑
-TASK,Construct building:,建造建筑:
-TASK,Fill pond,填满池塘
-TASK,Fill pond:,填满池塘:
-TASK,Smooth wall,打磨墙体
-TASK,Smooth wall:,打磨墙体:
-TASK,Sleep,睡眠
-TASK,Sleep:,睡眠:
-TASK,Melt a metal object,融炼一件金属物品
-TASK,Melt a metal object:,融炼一件金属物品:
-TASK,Make pig iron bars,制作生铁锭
-TASK,Make pig iron bars:,制作生铁锭:
-TASK,Fell tree:,砍树:
-TASK,Fell tree,砍树
+TASK,Decorate with {:ITEM},{:ITEM}로 장식
+TASK,Make large wooden gem,대형 목제 보석 제작
+TASK,Make large wooden gem:,대형 목제 보석 제작:
+TASK,Store item in bin,물품을 상자에 보관
+TASK,Store item in bin:,물품을 상자에 보관:
+TASK,Store item in stockpile,물품을 비축지에 보관
+TASK,Store item in stockpile:,물품을 비축지에 보관:
+TASK,Dump item,물품 버리기
+TASK,Dump item:,물품 버리기:
+TASK,Store owned item,개인 소유 물품 보관
+TASK,Store owned item:,개인 소유 물품 보관:
+TASK,Store squad item,분대 물품 보관
+TASK,Store squad item:,분대 물품 보관:
+TASK,Store squad equipment,분대 장비 보관
+TASK,Store squad equipment:,분대 장비 보관:
+TASK,Pickup equipment,장비 줍기
+TASK,Pickup equipment:,장비 줍기:
+TASK,Construct building,건물 건설
+TASK,Construct building:,건물 건설:
+TASK,Fill pond,연못 채우기
+TASK,Fill pond:,연못 채우기:
+TASK,Smooth wall,벽 다듬기
+TASK,Smooth wall:,벽 다듬기:
+TASK,Sleep,수면
+TASK,Sleep:,수면:
+TASK,Melt a metal object,금속 물품 녹이기
+TASK,Melt a metal object:,금속 물품 녹이기:
+TASK,Make pig iron bars,선철 주괴 제작
+TASK,Make pig iron bars:,선철 주괴 제작:
+TASK,Fell tree:,나무 벌목:
+TASK,Fell tree,나무 벌목
 TASK,{MILL},{MILL}
-TASK:MILL,Mash plant into slurry,将植物研磨成纸浆
-TASK:MILL,Mill seeds/nuts to paste,将种子/坚果磨浆
+TASK:MILL,Mash plant into slurry,식물을 갈아 펄프로 만들기
+TASK:MILL,Mill seeds/nuts to paste,씨앗/견과를 갈아 페이스트로 만들기
 TASK,{SEW},{SEW}
-TASK:SEW,Sew leather image,缝缀皮质图案
-TASK:SEW,Sew cloth image,缝缀布质图案
-TASK:SEW,Sew silk image,缝缀丝质图案
-TASK:SEW,Sew yarn image,缝缀纱质图案
+TASK:SEW,Sew leather image,가죽 무늬 꿰매기
+TASK:SEW,Sew cloth image,천 무늬 꿰매기
+TASK:SEW,Sew silk image,실크 무늬 꿰매기
+TASK:SEW,Sew yarn image,실 무늬 꿰매기
 TASK,{STUD},{STUD}
-TASK:STUD,Stud with,镶嵌
+TASK:STUD,Stud with,박아넣기
 TASK:STUD:$0,{:MATERIAL:STATE:SHARED},{:MATERIAL:STATE:SHARED}
 TASK,{STILL},{STILL}
-TASK:STILL,Brew drink from fruit,用果实酿酒
-TASK:STILL,Brew drink from plant,用植物酿酒
+TASK:STILL,Brew drink from fruit,과일로 술 빚기
+TASK:STILL,Brew drink from plant,식물로 술 빚기
 TASK,{KILN},{KILN}
-TASK:KILN,Glaze clay/stone craft,为黏土/石头工艺品上釉
-TASK:KILN,Glaze clay/stone jug,为黏土/石头壶上釉
-TASK:KILN,Glaze clay/stone statue,为黏土/石头雕像上釉
-TASK:KILN,Glaze large clay/stone pot,为黏土/石头大罐上釉
-TASK:KILN,Make large clay pot,制作大黏土罐
-TASK:KILN,Make plaster powder,制作石膏粉
+TASK:KILN,Glaze clay/stone craft,점토/석재 공예품에 유약 바르기
+TASK:KILN,Glaze clay/stone jug,점토/석재 주전자에 유약 바르기
+TASK:KILN,Glaze clay/stone statue,점토/석재 조각상에 유약 바르기
+TASK:KILN,Glaze large clay/stone pot,점토/석재 큰 항아리에 유약 바르기
+TASK:KILN,Make large clay pot,큰 점토 항아리 만들기
+TASK:KILN,Make plaster powder,석고 가루 만들기
 TASK,{SOAP},{SOAP}
-TASK:SOAP,Make soap from oil,用植物油制作肥皂
-TASK:SOAP,Make soap from tallow,用脂油制作肥皂
+TASK:SOAP,Make soap from oil,식물성 기름으로 비누 만들기
+TASK:SOAP,Make soap from tallow,우지로 비누 만들기
 TASK,{CRAFT},{CRAFT}
-TASK:CRAFT,Make quire,制作稿纸
-TASK:CRAFT,Make scroll,制作卷轴
-TASK:CRAFT,Make wax crafts,制作蜂蜡工艺品
-TASK:CRAFT,Bind book,装订书籍
-TASK:CRAFT,Decorate with horn,用角装饰
-TASK:CRAFT,Decorate with ivory/tooth,用长牙/牙齿装饰
-TASK:CRAFT,Decorate with pearl,用珍珠装饰
+TASK:CRAFT,Make quire,종이 묶음 만들기
+TASK:CRAFT,Make scroll,두루마리 만들기
+TASK:CRAFT,Make wax crafts,밀랍 공예품 만들기
+TASK:CRAFT,Bind book,책 제본하기
+TASK:CRAFT,Decorate with horn,뿔로 장식하기
+TASK:CRAFT,Decorate with ivory/tooth,엄니/이빨로 장식하기
+TASK:CRAFT,Decorate with pearl,진주로 장식하기
 TASK,{FARM},{FARM}
-TASK:FARM,Make sheet from plant,用植物做纸张
-TASK:FARM,Milk animal,为动物挤奶
-TASK:FARM,Process plant to bag,用袋子进行甩籽
-TASK:FARM,Shear animal,为动物剪毛
+TASK:FARM,Make sheet from plant,식물로 종이 만들기
+TASK:FARM,Milk animal,동물 젖 짜기
+TASK:FARM,Process plant to bag,자루로 씨앗 털기
+TASK:FARM,Shear animal,동물 털 깎기
 TASK,{TANNER},{TANNER}
-TASK:TANNER,Tan a hide,鞣制一张皮革
+TASK:TANNER,Tan a hide,가죽 한 장 무두질하기
 TASK,{PRESS},{PRESS}
-TASK:PRESS,Press honey from honeycomb,从蜜脾中压出蜂蜜
-TASK:PRESS,Press liquid from fruit,从果实中压出液体
-TASK:PRESS,Press liquid from paste,从浆糊中压出液体
-TASK:PRESS,Press plant slurry into paper sheet,将植物纸浆压成纸张
+TASK:PRESS,Press honey from honeycomb,벌집에서 꿀 짜기
+TASK:PRESS,Press liquid from fruit,과일에서 즙 짜기
+TASK:PRESS,Press liquid from paste,페이스트에서 액체 짜기
+TASK:PRESS,Press plant slurry into paper sheet,식물 종이펄프를 눌러 종이 시트 만들기
 TASK,{BUCHER},{BUCHER}
-TASK:BUCHER,Slaughter {:CREATURE:CASTE:NAME},屠宰{:CREATURE:CASTE:NAME}
-TASK:BUCHER,Slaughter {:CREATURE:CHILD},屠宰{:CREATURE:CHILD}
-TASK:BUCHER,Slaughter {:CREATURE:NAME},屠宰{:CREATURE:NAME}
+TASK:BUCHER,Slaughter {:CREATURE:CASTE:NAME},도살{:CREATURE:CASTE:NAME}
+TASK:BUCHER,Slaughter {:CREATURE:CHILD},도살{:CREATURE:CHILD}
+TASK:BUCHER,Slaughter {:CREATURE:NAME},도살{:CREATURE:NAME}
 TASK,{DYE},{DYE}
-TASK:DYE:$0,(opens menu), (打开菜单)
+TASK:DYE:$0,(opens menu)," (메뉴 열기)"
 TASK:DYE:$0,,
-TASK:DYE,Dye cloth a specific color,将布匹染为特定颜色
-TASK:DYE,Dye leather a specific color,将皮革染为特定颜色
-TASK:DYE,Dye thread a specific color,将细线染为特定颜色
-TASK:DYE,Mix dye,混合染料
-TASK:DYE,Make dye,制作染料
-TASK:DYE,Dye cloth,染布匹
-TASK:DYE,Dye leather,染皮革
-TASK:DYE,Dye thread,染细线
+TASK:DYE,Dye cloth a specific color,천을 특정 색으로 염색하기
+TASK:DYE,Dye leather a specific color,가죽을 특정 색으로 염색
+TASK:DYE,Dye thread a specific color,실을 특정 색으로 염색
+TASK:DYE,Mix dye,염료 혼합
+TASK:DYE,Make dye,염료 제작
+TASK:DYE,Dye cloth,천 염색
+TASK:DYE,Dye leather,가죽 염색
+TASK:DYE,Dye thread,실 염색
 TASK:DYE,{MENU},{MENU}
-TASK:DYE:MENU,Dye cloth {:COLOR:NAME},布匹-染为{:COLOR:NAME}
-TASK:DYE:MENU,Dye leather {:COLOR:NAME},皮革-染为{:COLOR:NAME}
-TASK:DYE:MENU,Dye thread {:COLOR:NAME},细线-染为{:COLOR:NAME}
+TASK:DYE:MENU,Dye cloth {:COLOR:NAME},천-{:COLOR:NAME} 염색
+TASK:DYE:MENU,Dye leather {:COLOR:NAME},가죽-{:COLOR:NAME} 염색
+TASK:DYE:MENU,Dye thread {:COLOR:NAME},실-{:COLOR:NAME} 염색
 TASK:DYE,{TINT},{TINT}
-TASK:DYE:TINT,Tint cloth {:COLOR:NAME},布匹增色-底色{:COLOR:NAME}
-TASK:DYE:TINT,Tint leather {:COLOR:NAME},皮革增色-底色{:COLOR:NAME}
-TASK:DYE:TINT,Tint thread {:COLOR:NAME},细线增色-底色{:COLOR:NAME}
+TASK:DYE:TINT,Tint cloth {:COLOR:NAME},천 덧염색-바탕색{:COLOR:NAME}
+TASK:DYE:TINT,Tint leather {:COLOR:NAME},가죽 덧염색-바탕색{:COLOR:NAME}
+TASK:DYE:TINT,Tint thread {:COLOR:NAME},실 덧염색-바탕색{:COLOR:NAME}
 TASK:DYE:TINT,{TAIL_TINT},{TAIL_TINT}
-TASK:DYE:TINT:TAIL_TINT,using {:TASK:DYE:TINT:TAIL_TINT:FIX_CO},-使用{:TASK:DYE:TINT:TAIL_TINT:FIX_CO}
+TASK:DYE:TINT:TAIL_TINT,using {:TASK:DYE:TINT:TAIL_TINT:FIX_CO},으로 덧염색-사용 {:TASK:DYE:TINT:TAIL_TINT:FIX_CO}
 TASK:DYE:TINT:TAIL_TINT,{FIX_CO},{FIX_CO}
-TASK:DYE:TINT:TAIL_TINT:FIX_CO,{:COLOR:NAME} dye,{:COLOR:NAME}染料
+TASK:DYE:TINT:TAIL_TINT:FIX_CO,{:COLOR:NAME} dye,{:COLOR:NAME} 염료
 TASK:DYE:TINT,{HEAD_TINT},{HEAD_TINT}
-TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} leather,将{:COLOR:NAME}皮革增染为
-TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} thread,将{:COLOR:NAME}细线增染为
-TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} cloth,将{:COLOR:NAME}布匹增染为
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} leather,{:COLOR:NAME} 가죽→
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} thread,{:COLOR:NAME} 실→
+TASK:DYE:TINT:HEAD_TINT,Tint {:COLOR:NAME} cloth,{:COLOR:NAME} 천→
 TASK:DYE:TINT,{:TASK:DYE:TINT:HEAD_TINT} {:COLOR:NAME} {:TASK:DYE:TINT:TAIL_TINT},{:TASK:DYE:TINT:HEAD_TINT}{:COLOR:NAME}{:TASK:DYE:TINT:TAIL_TINT}
 TASK:DYE,{MIX},{MIX}
-TASK:DYE:MIX,Mix {:COLOR:NAME} dye,合成{:COLOR:NAME}染料
-TASK:DYE:MIX,Mix {:COLOR:NAME} dye {:TASK:DYE:MIX:MIDDEN} {:TASK:DYE:MIX:TAIL},合成{:COLOR:NAME}染料{:TASK:DYE:MIX:MIDDEN}{:TASK:DYE:MIX:TAIL}
+TASK:DYE:MIX,Mix {:COLOR:NAME} dye,{:COLOR:NAME} 염료 합성
+TASK:DYE:MIX,Mix {:COLOR:NAME} dye {:TASK:DYE:MIX:MIDDEN} {:TASK:DYE:MIX:TAIL},{:COLOR:NAME} 염료 합성{:TASK:DYE:MIX:MIDDEN}{:TASK:DYE:MIX:TAIL}
 TASK:DYE:MIX,{MIDDEN},{MIDDEN}
-TASK:DYE:MIX:MIDDEN,using {:COLOR:NAME},-使用{:COLOR:NAME}
+TASK:DYE:MIX:MIDDEN,using {:COLOR:NAME},-사용 {:COLOR:NAME}
 TASK:DYE:MIX,{TAIL},{TAIL}
-TASK:DYE:MIX:TAIL,and {:COLOR:NAME},和{:COLOR:NAME}
+TASK:DYE:MIX:TAIL,and {:COLOR:NAME},과 {:COLOR:NAME}

@@ -1,5 +1,5 @@
 table,text,translation
-ITEM:^0,grown,生长的
+ITEM:^0,grown,자란
 ITEM:^0,,
 ITEM,{BAR},{BAR}
 ITEM,{SMALLGEM},{SMALLGEM}
@@ -111,322 +111,322 @@ ITEM,{BOLTTHROWERPARTS},{BOLTTHROWERPARTS}
 ITEM,{CRAFTS},{CRAFTS}
 ITEM,{BRIDGE},{BRIDGE}
 ITEM,{DYE},{DYE}
-ITEM:PREFIX:EQUIPMENT,small,小
-ITEM:PREFIX:EQUIPMENT,large,大
-ITEM:BAR,bars,条锭
-ITEM:BAR,bars:,条锭:
-ITEM:BAR,bars.,条锭。
-ITEM:BAR,pig iron bars,制作生铁锭
-ITEM:BAR,pig iron bars:,制作生铁锭:
+ITEM:PREFIX:EQUIPMENT,small,작은
+ITEM:PREFIX:EQUIPMENT,large,큰
+ITEM:BAR,bars,주괴
+ITEM:BAR,bars:,주괴:
+ITEM:BAR,bars.,주괴。
+ITEM:BAR,pig iron bars,선철 주괴 제작
+ITEM:BAR,pig iron bars:,선철 주괴 제작:
 ITEM:BAR,{:MATERIAL},{:MATERIAL}
 ITEM:BAR,{INORGANIC},{INORGANIC}
 ITEM:BAR,{COAL},{COAL}
-ITEM:BAR:INORGANIC,metal bars,金属锭
-ITEM:BAR:INORGANIC,metal bars:,金属锭:
-ITEM:BAR:INORGANIC,metal bars.,金属锭。
-ITEM:BAR:INORGANIC,{:MATERIAL} bars,{:MATERIAL}锭
-ITEM:BAR:INORGANIC,{:MATERIAL} bars:,{:MATERIAL}锭:
-ITEM:BAR:INORGANIC,{:MATERIAL} bars.,{:MATERIAL}锭。
-ITEM:BAR:INORGANIC,{:MATERIAL} wafers,{:MATERIAL}薄片
-ITEM:BAR:INORGANIC,{:MATERIAL} wafers:,{:MATERIAL}薄片:
-ITEM:BAR:INORGANIC,{:MATERIAL} wafers.,{:MATERIAL}薄片。
-ITEM:BAR:COAL,charcoal,木炭
-ITEM:BAR:COAL,charcoal:,木炭:
-ITEM:BAR:COAL,charcoal.,木炭。
-ITEM:BAR:COAL,coke,焦炭
-ITEM:BAR:COAL,coke:,焦炭:
-ITEM:BAR:COAL,coke.,焦炭。
-ITEM:BAR:COAL,refined coal,精炼煤
-ITEM:BAR:COAL,refined coal:,精炼煤:
-ITEM:BAR:COAL,refined coal.,精炼煤。
-ITEM:SMALLGEM,gems,宝石
-ITEM:SMALLGEM,cut gems,切割宝石
-ITEM:SMALLGEM,cut glass,切割玻璃
-ITEM:SMALLGEM,polished stones,抛光石头
-ITEM:SMALLGEM,cut green glass gems,切割绿玻璃宝石
-ITEM:SMALLGEM,cut clear glass gems,切割透明玻璃宝石
-ITEM:SMALLGEM,cut crystal glass gems,切割水晶玻璃宝石
-ITEM:SMALLGEM,gems:,宝石:
-ITEM:SMALLGEM,cut gems:,切割宝石:
-ITEM:SMALLGEM,cut glass:,切割玻璃:
-ITEM:SMALLGEM,polished stones:,抛光石头:
-ITEM:SMALLGEM,cut green glass gems:,切割绿玻璃宝石:
-ITEM:SMALLGEM,cut clear glass gems:,切割透明玻璃宝石:
-ITEM:SMALLGEM,cut crystal glass gems:,切割水晶玻璃宝石:
-ITEM:SMALLGEM,gems.,宝石。
-ITEM:SMALLGEM,cut gems.,切割宝石。
-ITEM:SMALLGEM,cut glass.,切割玻璃。
-ITEM:SMALLGEM,polished stones.,抛光石头。
-ITEM:SMALLGEM,cut green glass gems.,切割绿玻璃宝石。
-ITEM:SMALLGEM,cut clear glass gems.,切割透明玻璃宝石。
-ITEM:SMALLGEM,cut crystal glass gems.,切割水晶玻璃宝石。
+ITEM:BAR:INORGANIC,metal bars,금속 주괴
+ITEM:BAR:INORGANIC,metal bars:,금속 주괴:
+ITEM:BAR:INORGANIC,metal bars.,금속 주괴。
+ITEM:BAR:INORGANIC,{:MATERIAL} bars,{:MATERIAL}주괴
+ITEM:BAR:INORGANIC,{:MATERIAL} bars:,{:MATERIAL}주괴:
+ITEM:BAR:INORGANIC,{:MATERIAL} bars.,{:MATERIAL}주괴。
+ITEM:BAR:INORGANIC,{:MATERIAL} wafers,{:MATERIAL}웨이퍼
+ITEM:BAR:INORGANIC,{:MATERIAL} wafers:,{:MATERIAL}웨이퍼:
+ITEM:BAR:INORGANIC,{:MATERIAL} wafers.,{:MATERIAL}웨이퍼。
+ITEM:BAR:COAL,charcoal,목탄
+ITEM:BAR:COAL,charcoal:,목탄:
+ITEM:BAR:COAL,charcoal.,목탄。
+ITEM:BAR:COAL,coke,코크스
+ITEM:BAR:COAL,coke:,코크스:
+ITEM:BAR:COAL,coke.,코크스。
+ITEM:BAR:COAL,refined coal,정제탄
+ITEM:BAR:COAL,refined coal:,정제탄:
+ITEM:BAR:COAL,refined coal.,정제탄。
+ITEM:SMALLGEM,gems,보석
+ITEM:SMALLGEM,cut gems,세공된 보석
+ITEM:SMALLGEM,cut glass,세공된 유리
+ITEM:SMALLGEM,polished stones,연마석
+ITEM:SMALLGEM,cut green glass gems,세공된 녹색 유리 보석
+ITEM:SMALLGEM,cut clear glass gems,세공된 투명 유리 보석
+ITEM:SMALLGEM,cut crystal glass gems,세공된 수정 유리 보석
+ITEM:SMALLGEM,gems:,보석:
+ITEM:SMALLGEM,cut gems:,세공된 보석:
+ITEM:SMALLGEM,cut glass:,세공된 유리:
+ITEM:SMALLGEM,polished stones:,연마한 돌:
+ITEM:SMALLGEM,cut green glass gems:,세공한 녹색 유리 보석:
+ITEM:SMALLGEM,cut clear glass gems:,세공한 투명 유리 보석:
+ITEM:SMALLGEM,cut crystal glass gems:,세공한 수정 유리 보석:
+ITEM:SMALLGEM,gems.,보석。
+ITEM:SMALLGEM,cut gems.,세공한 보석。
+ITEM:SMALLGEM,cut glass.,세공한 유리。
+ITEM:SMALLGEM,polished stones.,연마한 돌。
+ITEM:SMALLGEM,cut green glass gems.,세공한 녹색 유리 보석。
+ITEM:SMALLGEM,cut clear glass gems.,세공한 투명 유리 보석。
+ITEM:SMALLGEM,cut crystal glass gems.,세공한 수정 유리 보석。
 ITEM:SMALLGEM,{:GEM:PLURAL},{:GEM:PLURAL}
 ITEM:SMALLGEM,{:GEM_DETAILS:PLURAL},{:GEM_DETAILS:PLURAL}
 ITEM:BLOCKS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BLOCKS:^0,,
-ITEM:BLOCKS,blocks,方块
-ITEM:BLOCKS,bricks,砖块
-ITEM:ROUGH,rough gems,粗糙宝石
-ITEM:ROUGH,raw green glass,粗糙绿玻璃
-ITEM:ROUGH,raw clear glass,粗糙透明玻璃
-ITEM:ROUGH,raw crystal glass,粗糙水晶玻璃
-ITEM:BLOCKS,blocks:,方块:
-ITEM:BLOCKS,bricks:,砖块:
-ITEM:ROUGH,rough gems:,粗糙宝石:
-ITEM:ROUGH,raw green glass:,粗糙绿玻璃:
-ITEM:ROUGH,raw clear glass:,粗糙透明玻璃:
-ITEM:ROUGH,raw crystal glass:,粗糙水晶玻璃:
-ITEM:BLOCKS,blocks.,方块。
-ITEM:BLOCKS,bricks.,砖块。
-ITEM:ROUGH,rough gems.,粗糙宝石。
-ITEM:ROUGH,raw green glass.,粗糙绿玻璃。
-ITEM:ROUGH,raw clear glass.,粗糙透明玻璃。
-ITEM:ROUGH,raw crystal glass.,粗糙水晶玻璃。
-ITEM:ROUGH,rough {:GEM:PLURAL},粗糙{:GEM:PLURAL}
-ITEM:BOULDER,stones,石头
-ITEM:BOULDER,boulders,岩块
-ITEM:BOULDER,flux boulders,熔剂石
-ITEM:BOULDER,stones:,石头:
-ITEM:BOULDER,boulders:,岩块:
-ITEM:BOULDER,flux boulders:,熔剂石:
-ITEM:BOULDER,stones.,石头。
-ITEM:BOULDER,boulders.,岩块。
-ITEM:BOULDER,flux boulders.,熔剂石。
+ITEM:BLOCKS,blocks,블록
+ITEM:BLOCKS,bricks,벽돌
+ITEM:ROUGH,rough gems,거친 보석
+ITEM:ROUGH,raw green glass,거친 녹색 유리
+ITEM:ROUGH,raw clear glass,거친 투명 유리
+ITEM:ROUGH,raw crystal glass,거친 수정 유리
+ITEM:BLOCKS,blocks:,블록:
+ITEM:BLOCKS,bricks:,벽돌:
+ITEM:ROUGH,rough gems:,거친 보석:
+ITEM:ROUGH,raw green glass:,거친 녹색 유리:
+ITEM:ROUGH,raw clear glass:,거친 투명 유리:
+ITEM:ROUGH,raw crystal glass:,거친 수정 유리:
+ITEM:BLOCKS,blocks.,블록。
+ITEM:BLOCKS,bricks.,벽돌。
+ITEM:ROUGH,rough gems.,거친 보석。
+ITEM:ROUGH,raw green glass.,거친 녹색 유리。
+ITEM:ROUGH,raw clear glass.,거친 투명 유리。
+ITEM:ROUGH,raw crystal glass.,거친 수정 유리。
+ITEM:ROUGH,rough {:GEM:PLURAL},거친 {:GEM:PLURAL}
+ITEM:BOULDER,stones,돌
+ITEM:BOULDER,boulders,바위
+ITEM:BOULDER,flux boulders,용제석
+ITEM:BOULDER,stones:,돌:
+ITEM:BOULDER,boulders:,바위:
+ITEM:BOULDER,flux boulders:,용제석:
+ITEM:BOULDER,stones.,돌。
+ITEM:BOULDER,boulders.,바위。
+ITEM:BOULDER,flux boulders.,용제석。
 ITEM:BOULDER,{:MATERIAL},{:MATERIAL}
-ITEM:BOULDER,gold nuggets,金块
-ITEM:BOULDER,silver nuggets,银块
-ITEM:BOULDER,copper nuggets,铜块
-ITEM:BOULDER,platinum nuggets,铂块
-ITEM:WOOD,logs,原木
-ITEM:BOULDER,gold nuggets:,金块:
-ITEM:BOULDER,silver nuggets:,银块:
-ITEM:BOULDER,copper nuggets:,铜块:
-ITEM:BOULDER,platinum nuggets:,铂块:
-ITEM:WOOD,logs:,原木:
-ITEM:BOULDER,gold nuggets.,金块。
-ITEM:BOULDER,silver nuggets.,银块。
-ITEM:BOULDER,copper nuggets.,铜块。
-ITEM:BOULDER,platinum nuggets.,铂块。
-ITEM:WOOD,logs.,原木。
-ITEM:WOOD,{:MATERIAL} logs,{:MATERIAL}原木
-ITEM:WOOD,{:MATERIAL} logs:,{:MATERIAL}原木:
-ITEM:WOOD,{:MATERIAL} logs.,{:MATERIAL}原木。
+ITEM:BOULDER,gold nuggets,금 덩어리
+ITEM:BOULDER,silver nuggets,은 덩어리
+ITEM:BOULDER,copper nuggets,구리 덩어리
+ITEM:BOULDER,platinum nuggets,백금 덩어리
+ITEM:WOOD,logs,통나무
+ITEM:BOULDER,gold nuggets:,금 덩어리:
+ITEM:BOULDER,silver nuggets:,은 덩어리:
+ITEM:BOULDER,copper nuggets:,구리 덩어리:
+ITEM:BOULDER,platinum nuggets:,백금 덩어리:
+ITEM:WOOD,logs:,통나무:
+ITEM:BOULDER,gold nuggets.,금 덩어리。
+ITEM:BOULDER,silver nuggets.,은 덩어리。
+ITEM:BOULDER,copper nuggets.,구리 덩어리。
+ITEM:BOULDER,platinum nuggets.,백금 덩어리。
+ITEM:WOOD,logs.,통나무。
+ITEM:WOOD,{:MATERIAL} logs,{:MATERIAL}통나무
+ITEM:WOOD,{:MATERIAL} logs:,{:MATERIAL}통나무:
+ITEM:WOOD,{:MATERIAL} logs.,{:MATERIAL}통나무。
 ITEM:DOOR:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:DOOR:^0,,
-ITEM:DOOR,door,房门
-ITEM:DOOR,doors,房门
-ITEM:DOOR,portal,晶门
-ITEM:DOOR,portals,晶门
-ITEM:DOOR,door:,房门:
-ITEM:DOOR,doors:,房门:
-ITEM:DOOR,portal:,晶门:
-ITEM:DOOR,portals:,晶门:
-ITEM:DOOR,door.,房门。
-ITEM:DOOR,doors.,房门。
-ITEM:DOOR,portal.,晶门。
-ITEM:DOOR,portals.,晶门。
+ITEM:DOOR,door,문
+ITEM:DOOR,doors,문
+ITEM:DOOR,portal,포털
+ITEM:DOOR,portals,포털
+ITEM:DOOR,door:,문:
+ITEM:DOOR,doors:,문:
+ITEM:DOOR,portal:,포털:
+ITEM:DOOR,portals:,포털:
+ITEM:DOOR,door.,문。
+ITEM:DOOR,doors.,문。
+ITEM:DOOR,portal.,포털。
+ITEM:DOOR,portals.,포털。
 ITEM:FLOODGATE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:FLOODGATE:^0,,
-ITEM:FLOODGATE,floodgate,闸门
-ITEM:FLOODGATE,floodgates,闸门
-ITEM:FLOODGATE,floodgate:,闸门:
-ITEM:FLOODGATE,floodgates:,闸门:
-ITEM:FLOODGATE,floodgate.,闸门。
-ITEM:FLOODGATE,floodgates.,闸门。
+ITEM:FLOODGATE,floodgate,수문
+ITEM:FLOODGATE,floodgates,수문
+ITEM:FLOODGATE,floodgate:,수문:
+ITEM:FLOODGATE,floodgates:,수문:
+ITEM:FLOODGATE,floodgate.,수문。
+ITEM:FLOODGATE,floodgates.,수문。
 ITEM:BED:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BED:^0,,
-ITEM:BED,bed,床
-ITEM:BED,beds,床
-ITEM:BED,bed:,床:
-ITEM:BED,beds:,床:
-ITEM:BED,bed.,床。
-ITEM:BED,beds.,床。
+ITEM:BED,bed,침대
+ITEM:BED,beds,침대
+ITEM:BED,bed:,침대:
+ITEM:BED,beds:,침대:
+ITEM:BED,bed.,침대。
+ITEM:BED,beds.,침대。
 ITEM:CHAIR:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CHAIR:^0,,
-ITEM:CHAIR,chair,座椅
-ITEM:CHAIR,chairs,座椅
-ITEM:CHAIR,throne,王座
-ITEM:CHAIR,thrones,王座
-ITEM:CHAIR,chair:,座椅:
-ITEM:CHAIR,chairs:,座椅:
-ITEM:CHAIR,throne:,王座:
-ITEM:CHAIR,thrones:,王座:
-ITEM:CHAIR,chair.,座椅。
-ITEM:CHAIR,chairs.,座椅。
-ITEM:CHAIR,throne.,王座。
-ITEM:CHAIR,thrones.,王座。
+ITEM:CHAIR,chair,의자
+ITEM:CHAIR,chairs,의자
+ITEM:CHAIR,throne,왕좌
+ITEM:CHAIR,thrones,왕좌
+ITEM:CHAIR,chair:,의자:
+ITEM:CHAIR,chairs:,의자:
+ITEM:CHAIR,throne:,왕좌:
+ITEM:CHAIR,thrones:,왕좌:
+ITEM:CHAIR,chair.,의자。
+ITEM:CHAIR,chairs.,의자。
+ITEM:CHAIR,throne.,왕좌。
+ITEM:CHAIR,thrones.,왕좌。
 ITEM:CHAIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CHAIN:^0,,
-ITEM:CHAIN,chain,链条
-ITEM:CHAIN,chains,链条
-ITEM:CHAIN,rope,绳索
-ITEM:CHAIN,ropes,绳索
-ITEM:CHAIN,chain:,链条:
-ITEM:CHAIN,chains:,链条:
-ITEM:CHAIN,rope:,绳索:
-ITEM:CHAIN,ropes:,绳索:
-ITEM:CHAIN,chain.,链条。
-ITEM:CHAIN,chains.,链条。
-ITEM:CHAIN,rope.,绳索。
-ITEM:CHAIN,ropes.,绳索。
+ITEM:CHAIN,chain,사슬
+ITEM:CHAIN,chains,사슬
+ITEM:CHAIN,rope,밧줄
+ITEM:CHAIN,ropes,밧줄
+ITEM:CHAIN,chain:,사슬:
+ITEM:CHAIN,chains:,사슬:
+ITEM:CHAIN,rope:,밧줄:
+ITEM:CHAIN,ropes:,밧줄:
+ITEM:CHAIN,chain.,사슬。
+ITEM:CHAIN,chains.,사슬。
+ITEM:CHAIN,rope.,밧줄。
+ITEM:CHAIN,ropes.,밧줄。
 ITEM:FLASK:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:FLASK:^0,,
-ITEM:FLASK,flask,携带瓶
-ITEM:FLASK,flasks,携带瓶
-ITEM:FLASK,vial,小瓶
-ITEM:FLASK,vials,小瓶
-ITEM:FLASK,waterskin,水袋
-ITEM:FLASK,waterskins,水袋
-ITEM:FLASK,flask:,携带瓶:
-ITEM:FLASK,flasks:,携带瓶:
-ITEM:FLASK,vial:,小瓶:
-ITEM:FLASK,vials:,小瓶:
-ITEM:FLASK,waterskin:,水袋:
-ITEM:FLASK,waterskins:,水袋:
-ITEM:FLASK,flask.,携带瓶。
-ITEM:FLASK,flasks.,携带瓶。
-ITEM:FLASK,vial.,小瓶。
-ITEM:FLASK,vials.,小瓶。
-ITEM:FLASK,waterskin.,水袋。
-ITEM:FLASK,waterskins.,水袋。
+ITEM:FLASK,flask,플라스크
+ITEM:FLASK,flasks,플라스크
+ITEM:FLASK,vial,작은 병
+ITEM:FLASK,vials,작은 병
+ITEM:FLASK,waterskin,물주머니
+ITEM:FLASK,waterskins,물주머니
+ITEM:FLASK,flask:,플라스크:
+ITEM:FLASK,flasks:,플라스크:
+ITEM:FLASK,vial:,작은 병:
+ITEM:FLASK,vials:,작은 병:
+ITEM:FLASK,waterskin:,물주머니:
+ITEM:FLASK,waterskins:,물주머니:
+ITEM:FLASK,flask.,플라스크。
+ITEM:FLASK,flasks.,플라스크。
+ITEM:FLASK,vial.,작은 병。
+ITEM:FLASK,vials.,작은 병。
+ITEM:FLASK,waterskin.,물주머니。
+ITEM:FLASK,waterskins.,물주머니。
 ITEM:GOBLET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:GOBLET:^0,,
-ITEM:GOBLET,goblet,高脚杯
-ITEM:GOBLET,goblets,高脚杯
-ITEM:GOBLET,cup,茶杯
-ITEM:GOBLET,mug,柄杯
-ITEM:GOBLET,cups,茶杯
-ITEM:GOBLET,mugs,柄杯
-ITEM:GOBLET,goblet:,高脚杯:
-ITEM:GOBLET,goblets:,高脚杯:
-ITEM:GOBLET,cup:,茶杯:
-ITEM:GOBLET,mug:,柄杯:
-ITEM:GOBLET,cups:,茶杯:
-ITEM:GOBLET,mugs:,柄杯:
-ITEM:GOBLET,goblet.,高脚杯。
-ITEM:GOBLET,goblets.,高脚杯。
-ITEM:GOBLET,cup.,茶杯。
-ITEM:GOBLET,mug.,柄杯。
-ITEM:GOBLET,cups.,茶杯。
-ITEM:GOBLET,mugs.,柄杯。
+ITEM:GOBLET,goblet,고블릿
+ITEM:GOBLET,goblets,고블릿
+ITEM:GOBLET,cup,찻잔
+ITEM:GOBLET,mug,머그컵
+ITEM:GOBLET,cups,찻잔
+ITEM:GOBLET,mugs,머그컵
+ITEM:GOBLET,goblet:,고블릿:
+ITEM:GOBLET,goblets:,고블릿:
+ITEM:GOBLET,cup:,컵:
+ITEM:GOBLET,mug:,머그컵:
+ITEM:GOBLET,cups:,컵:
+ITEM:GOBLET,mugs:,머그컵:
+ITEM:GOBLET,goblet.,고블릿。
+ITEM:GOBLET,goblets.,고블릿。
+ITEM:GOBLET,cup.,컵。
+ITEM:GOBLET,mug.,머그컵。
+ITEM:GOBLET,cups.,컵。
+ITEM:GOBLET,mugs.,머그컵。
 ITEM:INSTRUMENT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:INSTRUMENT:^0,,
-ITEM:INSTRUMENT,musical instrument,乐器
-ITEM:INSTRUMENT,musical instruments,乐器
-ITEM:INSTRUMENT,musical instrument:,乐器:
-ITEM:INSTRUMENT,musical instruments:,乐器:
-ITEM:INSTRUMENT,musical instrument.,乐器。
-ITEM:INSTRUMENT,musical instruments.,乐器。
+ITEM:INSTRUMENT,musical instrument,악기
+ITEM:INSTRUMENT,musical instruments,악기
+ITEM:INSTRUMENT,musical instrument:,악기:
+ITEM:INSTRUMENT,musical instruments:,악기:
+ITEM:INSTRUMENT,musical instrument.,악기。
+ITEM:INSTRUMENT,musical instruments.,악기。
 ITEM:TOY:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:TOY:^0,,
-ITEM:TOY,toy,玩具
-ITEM:TOY,toys,玩具
-ITEM:TOY,toy:,玩具:
-ITEM:TOY,toys:,玩具:
-ITEM:TOY,toy.,玩具。
-ITEM:TOY,toys.,玩具。
+ITEM:TOY,toy,장난감
+ITEM:TOY,toys,장난감
+ITEM:TOY,toy:,장난감:
+ITEM:TOY,toys:,장난감:
+ITEM:TOY,toy.,장난감。
+ITEM:TOY,toys.,장난감。
 ITEM:WINDOW:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:WINDOW:^0,,
-ITEM:WINDOW,window,窗
-ITEM:WINDOW,windows,窗
-ITEM:WINDOW,window:,窗:
-ITEM:WINDOW,windows:,窗:
-ITEM:WINDOW,window.,窗。
-ITEM:WINDOW,windows.,窗。
+ITEM:WINDOW,window,창문
+ITEM:WINDOW,windows,창문
+ITEM:WINDOW,window:,창문:
+ITEM:WINDOW,windows:,창문:
+ITEM:WINDOW,window.,창문。
+ITEM:WINDOW,windows.,창문。
 ITEM:CAGE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CAGE:^0,,
-ITEM:CAGE,cage,笼子
-ITEM:CAGE,cages,笼子
-ITEM:CAGE,terrarium,玻璃缸
-ITEM:CAGE,terrariums,玻璃缸
-ITEM:CAGE,cage:,笼子:
-ITEM:CAGE,cages:,笼子:
-ITEM:CAGE,terrarium:,玻璃缸:
-ITEM:CAGE,terrariums:,玻璃缸:
-ITEM:CAGE,cage.,笼子。
-ITEM:CAGE,cages.,笼子。
-ITEM:CAGE,terrarium.,玻璃缸。
-ITEM:CAGE,terrariums.,玻璃缸。
+ITEM:CAGE,cage,새장
+ITEM:CAGE,cages,새장
+ITEM:CAGE,terrarium,테라리움
+ITEM:CAGE,terrariums,테라리움
+ITEM:CAGE,cage:,새장:
+ITEM:CAGE,cages:,새장:
+ITEM:CAGE,terrarium:,테라리움:
+ITEM:CAGE,terrariums:,테라리움:
+ITEM:CAGE,cage.,새장。
+ITEM:CAGE,cages.,새장。
+ITEM:CAGE,terrarium.,테라리움。
+ITEM:CAGE,terrariums.,테라리움。
 ITEM:BARREL:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BARREL:^0,,
 ITEM:BARREL:$0,{:NUM:NOTE},{:NUM:NOTE}
 ITEM:BARREL:$0,,
-ITEM:BARREL,barrel,圆桶
-ITEM:BARREL,barrels,圆桶
-ITEM:BARREL,barrel:,圆桶:
-ITEM:BARREL,barrels:,圆桶:
-ITEM:BARREL,barrel.,圆桶。
-ITEM:BARREL,barrels.,圆桶。
+ITEM:BARREL,barrel,통
+ITEM:BARREL,barrels,통
+ITEM:BARREL,barrel:,통:
+ITEM:BARREL,barrels:,통:
+ITEM:BARREL,barrel.,통。
+ITEM:BARREL,barrels.,통。
 ITEM:BUCKET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BUCKET:^0,,
-ITEM:BUCKET,bucket,提桶
-ITEM:BUCKET,buckets,提桶
-ITEM:BUCKET,bucket:,提桶:
-ITEM:BUCKET,buckets:,提桶:
-ITEM:BUCKET,bucket.,提桶。
-ITEM:BUCKET,buckets.,提桶。
+ITEM:BUCKET,bucket,양동이
+ITEM:BUCKET,buckets,양동이
+ITEM:BUCKET,bucket:,양동이:
+ITEM:BUCKET,buckets:,양동이:
+ITEM:BUCKET,bucket.,양동이。
+ITEM:BUCKET,buckets.,양동이。
 ITEM:ANIMALTRAP:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ANIMALTRAP:^0,,
-ITEM:ANIMALTRAP,animal trap,动物陷阱
-ITEM:ANIMALTRAP,animal traps,动物陷阱
-ITEM:ANIMALTRAP,animal trap:,动物陷阱:
-ITEM:ANIMALTRAP,animal traps:,动物陷阱:
-ITEM:ANIMALTRAP,animal trap.,动物陷阱。
-ITEM:ANIMALTRAP,animal traps.,动物陷阱。
+ITEM:ANIMALTRAP,animal trap,동물 덫
+ITEM:ANIMALTRAP,animal traps,동물 덫
+ITEM:ANIMALTRAP,animal trap:,동물 덫:
+ITEM:ANIMALTRAP,animal traps:,동물 덫:
+ITEM:ANIMALTRAP,animal trap.,동물 덫。
+ITEM:ANIMALTRAP,animal traps.,동물 덫。
 ITEM:TABLE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:TABLE:^0,,
-ITEM:TABLE,table,桌子
-ITEM:TABLE,tables,桌子
-ITEM:TABLE,table:,桌子:
-ITEM:TABLE,tables:,桌子:
-ITEM:TABLE,table.,桌子。
-ITEM:TABLE,tables.,桌子。
+ITEM:TABLE,table,탁자
+ITEM:TABLE,tables,탁자
+ITEM:TABLE,table:,탁자:
+ITEM:TABLE,tables:,탁자:
+ITEM:TABLE,table.,탁자。
+ITEM:TABLE,tables.,탁자。
 ITEM:COFFIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:COFFIN:^0,,
-ITEM:COFFIN,coffin,灵柩
-ITEM:COFFIN,coffins,灵柩
-ITEM:COFFIN,casket,棺
-ITEM:COFFIN,caskets,棺
-ITEM:COFFIN,sarcophagus,华棺
-ITEM:COFFIN,sarcophagi,华棺
-ITEM:COFFIN,coffin:,灵柩:
-ITEM:COFFIN,coffins:,灵柩:
-ITEM:COFFIN,casket:,棺:
-ITEM:COFFIN,caskets:,棺:
-ITEM:COFFIN,sarcophagus:,华棺:
-ITEM:COFFIN,sarcophagi:,华棺:
-ITEM:COFFIN,coffin.,灵柩。
-ITEM:COFFIN,coffins.,灵柩。
-ITEM:COFFIN,casket.,棺。
-ITEM:COFFIN,caskets.,棺。
-ITEM:COFFIN,sarcophagus.,华棺。
-ITEM:COFFIN,sarcophagi.,华棺。
+ITEM:COFFIN,coffin,관
+ITEM:COFFIN,coffins,관
+ITEM:COFFIN,casket,관
+ITEM:COFFIN,caskets,관
+ITEM:COFFIN,sarcophagus,석관
+ITEM:COFFIN,sarcophagi,석관
+ITEM:COFFIN,coffin:,관:
+ITEM:COFFIN,coffins:,관:
+ITEM:COFFIN,casket:,관:
+ITEM:COFFIN,caskets:,관:
+ITEM:COFFIN,sarcophagus:,석관:
+ITEM:COFFIN,sarcophagi:,석관:
+ITEM:COFFIN,coffin.,관。
+ITEM:COFFIN,coffins.,관。
+ITEM:COFFIN,casket.,관。
+ITEM:COFFIN,caskets.,관。
+ITEM:COFFIN,sarcophagus.,석관。
+ITEM:COFFIN,sarcophagi.,석관。
 ITEM:STATUE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:STATUE:^0,,
-ITEM:STATUE,statue,雕像
-ITEM:STATUE,statues,雕像
-ITEM:STATUE,statue:,雕像:
-ITEM:STATUE,statues:,雕像:
-ITEM:STATUE,statue.,雕像。
-ITEM:STATUE,statues.,雕像。
-ITEM:CORPSE:^0,rotten,腐烂的
+ITEM:STATUE,statue,조각상
+ITEM:STATUE,statues,조각상
+ITEM:STATUE,statue:,조각상:
+ITEM:STATUE,statues:,조각상:
+ITEM:STATUE,statue.,조각상。
+ITEM:STATUE,statues.,조각상。
+ITEM:CORPSE:^0,rotten,썩은
 ITEM:CORPSE:^0,,
-ITEM:CORPSE,corpse,尸体
-ITEM:CORPSE,corpses,尸体
-ITEM:CORPSE,corpse:,尸体:
-ITEM:CORPSE,corpses:,尸体:
-ITEM:CORPSE,corpse.,尸体。
-ITEM:CORPSE,corpses.,尸体。
+ITEM:CORPSE,corpse,시체
+ITEM:CORPSE,corpses,시체
+ITEM:CORPSE,corpse:,시체:
+ITEM:CORPSE,corpses:,시체:
+ITEM:CORPSE,corpse.,시체。
+ITEM:CORPSE,corpses.,시체。
 ITEM:WEAPON,{DEFAULT},{DEFAULT}
 ITEM:WEAPON,{:WEAPON},{:WEAPON}
 ITEM:WEAPON:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:WEAPON:DEFAULT:^0,,
-ITEM:WEAPON:DEFAULT,weapon,武器
-ITEM:WEAPON:DEFAULT,weapons,武器
-ITEM:WEAPON:DEFAULT,weapon:,武器:
-ITEM:WEAPON:DEFAULT,weapons:,武器:
-ITEM:WEAPON:DEFAULT,weapon.,武器。
-ITEM:WEAPON:DEFAULT,weapons.,武器。
+ITEM:WEAPON:DEFAULT,weapon,무기
+ITEM:WEAPON:DEFAULT,weapons,무기
+ITEM:WEAPON:DEFAULT,weapon:,무기:
+ITEM:WEAPON:DEFAULT,weapons:,무기:
+ITEM:WEAPON:DEFAULT,weapon.,무기。
+ITEM:WEAPON:DEFAULT,weapons.,무기。
 ITEM:ARMOR:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:ARMOR:^0,,
 ITEM:ARMOR,{DEFAULT},{DEFAULT}
@@ -435,899 +435,899 @@ ITEM:ARMOR:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ARMOR:DEFAULT:^0,,
 ITEM:ARMOR:DEFAULT:^1,suits of,
 ITEM:ARMOR:DEFAULT:^1,,
-ITEM:ARMOR:DEFAULT,armor,盔甲
-ITEM:ARMOR:DEFAULT,armor:,盔甲:
-ITEM:ARMOR:DEFAULT,armor.,盔甲。
+ITEM:ARMOR:DEFAULT,armor,갑옷
+ITEM:ARMOR:DEFAULT,armor:,갑옷:
+ITEM:ARMOR:DEFAULT,armor.,갑옷。
 ITEM:SHOES:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:SHOES:^0,,
 ITEM:SHOES,{DEFAULT},{DEFAULT}
 ITEM:SHOES,{:SHOES},{:SHOES}
 ITEM:SHOES:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SHOES:DEFAULT:^0,,
-ITEM:SHOES:DEFAULT,footwear,足装
-ITEM:SHOES:DEFAULT,footwear:,足装:
-ITEM:SHOES:DEFAULT,footwear.,足装。
+ITEM:SHOES:DEFAULT,footwear,신발
+ITEM:SHOES:DEFAULT,footwear:,신발:
+ITEM:SHOES:DEFAULT,footwear.,신발。
 ITEM:SHIELD,{DEFAULT},{DEFAULT}
 ITEM:SHIELD,{:SHIELD},{:SHIELD}
 ITEM:SHIELD:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SHIELD:DEFAULT:^0,,
-ITEM:SHIELD:DEFAULT,shield/buckler,尖盾/圆盾
-ITEM:SHIELD:DEFAULT,shields/bucklers,尖盾/圆盾
-ITEM:SHIELD:DEFAULT,shield/buckler:,尖盾/圆盾:
-ITEM:SHIELD:DEFAULT,shields/bucklers:,尖盾/圆盾:
-ITEM:SHIELD:DEFAULT,shield/buckler.,尖盾/圆盾。
-ITEM:SHIELD:DEFAULT,shields/bucklers.,尖盾/圆盾。
+ITEM:SHIELD:DEFAULT,shield/buckler,방패/버클러
+ITEM:SHIELD:DEFAULT,shields/bucklers,방패/버클러
+ITEM:SHIELD:DEFAULT,shield/buckler:,방패/버클러:
+ITEM:SHIELD:DEFAULT,shields/bucklers:,방패/버클러:
+ITEM:SHIELD:DEFAULT,shield/buckler.,방패/버클러。
+ITEM:SHIELD:DEFAULT,shields/bucklers.,방패/버클러。
 ITEM:HELM:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:HELM:^0,,
 ITEM:HELM,{DEFAULT},{DEFAULT}
 ITEM:HELM,{:HELM},{:HELM}
 ITEM:HELM:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:HELM:DEFAULT:^0,,
-ITEM:HELM:DEFAULT,headwear,头装
-ITEM:HELM:DEFAULT,headwear:,头装:
-ITEM:HELM:DEFAULT,headwear.,头装。
+ITEM:HELM:DEFAULT,headwear,머리장비
+ITEM:HELM:DEFAULT,headwear:,머리장비:
+ITEM:HELM:DEFAULT,headwear.,머리장비。
 ITEM:GLOVES:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:GLOVES:^0,,
 ITEM:GLOVES,{DEFAULT},{DEFAULT}
 ITEM:GLOVES,{:GLOVES},{:GLOVES}
 ITEM:GLOVES:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:GLOVES:DEFAULT:^0,,
-ITEM:GLOVES:DEFAULT,handwear,手装
-ITEM:GLOVES:DEFAULT,handwear:,手装:
-ITEM:GLOVES:DEFAULT,handwear.,手装。
+ITEM:GLOVES:DEFAULT,handwear,손장비
+ITEM:GLOVES:DEFAULT,handwear:,손장비:
+ITEM:GLOVES:DEFAULT,handwear.,손장비。
 ITEM:BOX:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BOX:^0,,
-ITEM:BOX,box,盒子
-ITEM:BOX,boxes,盒子
-ITEM:BOX,coffer,保险箱
-ITEM:BOX,coffers,保险箱
-ITEM:BOX,chest,箱子
-ITEM:BOX,chests,箱子
-ITEM:BOX,box:,盒子:
-ITEM:BOX,boxes:,盒子:
-ITEM:BOX,coffer:,保险箱:
-ITEM:BOX,coffers:,保险箱:
-ITEM:BOX,chest:,箱子:
-ITEM:BOX,chests:,箱子:
-ITEM:BOX,box.,盒子。
-ITEM:BOX,boxes.,盒子。
-ITEM:BOX,coffer.,保险箱。
-ITEM:BOX,coffers.,保险箱。
-ITEM:BOX,chest.,箱子。
-ITEM:BOX,chests.,箱子。
+ITEM:BOX,box,상자
+ITEM:BOX,boxes,상자
+ITEM:BOX,coffer,금고
+ITEM:BOX,coffers,금고
+ITEM:BOX,chest,궤짝
+ITEM:BOX,chests,궤짝
+ITEM:BOX,box:,상자:
+ITEM:BOX,boxes:,상자:
+ITEM:BOX,coffer:,금고:
+ITEM:BOX,coffers:,금고:
+ITEM:BOX,chest:,궤짝:
+ITEM:BOX,chests:,궤짝:
+ITEM:BOX,box.,상자。
+ITEM:BOX,boxes.,상자。
+ITEM:BOX,coffer.,금고。
+ITEM:BOX,coffers.,금고。
+ITEM:BOX,chest.,궤짝。
+ITEM:BOX,chests.,궤짝。
 ITEM:BAG:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BAG:^0,,
-ITEM:BAG,bag,袋子
-ITEM:BAG,bags,袋子
-ITEM:BAG,bag:,袋子:
-ITEM:BAG,bags:,袋子:
-ITEM:BAG,bag.,袋子。
-ITEM:BAG,bags.,袋子。
+ITEM:BAG,bag,자루
+ITEM:BAG,bags,자루
+ITEM:BAG,bag:,가방:
+ITEM:BAG,bags:,가방:
+ITEM:BAG,bag.,가방。
+ITEM:BAG,bags.,가방。
 ITEM:BIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BIN:^0,,
 ITEM:BIN:$0,{:NUM:NOTE},{:NUM:NOTE}
 ITEM:BIN:$0,,
-ITEM:BIN,bin,储物箱
-ITEM:BIN,bins,储物箱
-ITEM:BIN,bin:,储物箱:
-ITEM:BIN,bins:,储物箱:
-ITEM:BIN,bin.,储物箱。
-ITEM:BIN,bins.,储物箱。
+ITEM:BIN,bin,보관함
+ITEM:BIN,bins,보관함
+ITEM:BIN,bin:,보관함:
+ITEM:BIN,bins:,보관함:
+ITEM:BIN,bin.,보관함。
+ITEM:BIN,bins.,보관함。
 ITEM:ARMORSTAND:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ARMORSTAND:^0,,
-ITEM:ARMORSTAND,armor stand,盔甲支架
-ITEM:ARMORSTAND,armor stands,盔甲支架
-ITEM:ARMORSTAND,armor stand:,盔甲支架:
-ITEM:ARMORSTAND,armor stands:,盔甲支架:
-ITEM:ARMORSTAND,armor stand.,盔甲支架。
-ITEM:ARMORSTAND,armor stands.,盔甲支架。
+ITEM:ARMORSTAND,armor stand,갑옷 거치대
+ITEM:ARMORSTAND,armor stands,갑옷 거치대
+ITEM:ARMORSTAND,armor stand:,갑옷 거치대:
+ITEM:ARMORSTAND,armor stands:,갑옷 거치대:
+ITEM:ARMORSTAND,armor stand.,갑옷 거치대。
+ITEM:ARMORSTAND,armor stands.,갑옷 거치대。
 ITEM:WEAPONRACK:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:WEAPONRACK:^0,,
-ITEM:WEAPONRACK,weapon rack,武器支架
-ITEM:WEAPONRACK,weapon racks,武器支架
-ITEM:WEAPONRACK,weapon rack:,武器支架:
-ITEM:WEAPONRACK,weapon racks:,武器支架:
-ITEM:WEAPONRACK,weapon rack.,武器支架。
-ITEM:WEAPONRACK,weapon racks.,武器支架。
+ITEM:WEAPONRACK,weapon rack,무기 거치대
+ITEM:WEAPONRACK,weapon racks,무기 거치대
+ITEM:WEAPONRACK,weapon rack:,무기 거치대:
+ITEM:WEAPONRACK,weapon racks:,무기 거치대:
+ITEM:WEAPONRACK,weapon rack.,무기 거치대。
+ITEM:WEAPONRACK,weapon racks.,무기 거치대。
 ITEM:CABINET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CABINET:^0,,
-ITEM:CABINET,cabinet,柜子
-ITEM:CABINET,cabinets,柜子
-ITEM:CABINET,cabinet:,柜子:
-ITEM:CABINET,cabinets:,柜子:
-ITEM:CABINET,cabinet.,柜子。
-ITEM:CABINET,cabinets.,柜子。
+ITEM:CABINET,cabinet,캐비닛
+ITEM:CABINET,cabinets,캐비닛
+ITEM:CABINET,cabinet:,캐비닛:
+ITEM:CABINET,cabinets:,캐비닛:
+ITEM:CABINET,cabinet.,캐비닛。
+ITEM:CABINET,cabinets.,캐비닛。
 ITEM:FIGURINE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:FIGURINE:^0,,
-ITEM:FIGURINE,figurine,小塑像
-ITEM:FIGURINE,figurines,小塑像
-ITEM:FIGURINE,figurine:,小塑像:
-ITEM:FIGURINE,figurines:,小塑像:
-ITEM:FIGURINE,figurine.,小塑像。
-ITEM:FIGURINE,figurines.,小塑像。
+ITEM:FIGURINE,figurine,작은 조각상
+ITEM:FIGURINE,figurines,작은 조각상
+ITEM:FIGURINE,figurine:,작은 조각상:
+ITEM:FIGURINE,figurines:,작은 조각상:
+ITEM:FIGURINE,figurine.,작은 조각상。
+ITEM:FIGURINE,figurines.,작은 조각상。
 ITEM:AMULET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:AMULET:^0,,
-ITEM:AMULET,amulet,护符
-ITEM:AMULET,amulets,护符
-ITEM:AMULET,amulet:,护符:
-ITEM:AMULET,amulets:,护符:
-ITEM:AMULET,amulet.,护符。
-ITEM:AMULET,amulets.,护符。
+ITEM:AMULET,amulet,부적
+ITEM:AMULET,amulets,부적
+ITEM:AMULET,amulet:,부적:
+ITEM:AMULET,amulets:,부적:
+ITEM:AMULET,amulet.,부적。
+ITEM:AMULET,amulets.,부적。
 ITEM:SCEPTER:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SCEPTER:^0,,
-ITEM:SCEPTER,scepter,节杖
-ITEM:SCEPTER,scepters,节杖
-ITEM:SCEPTER,scepter:,节杖:
-ITEM:SCEPTER,scepters:,节杖:
-ITEM:SCEPTER,scepter.,节杖。
-ITEM:SCEPTER,scepters.,节杖。
+ITEM:SCEPTER,scepter,셉터
+ITEM:SCEPTER,scepters,셉터
+ITEM:SCEPTER,scepter:,셉터:
+ITEM:SCEPTER,scepters:,셉터:
+ITEM:SCEPTER,scepter.,셉터。
+ITEM:SCEPTER,scepters.,셉터。
 ITEM:AMMO,{DEFAULT},{DEFAULT}
 ITEM:AMMO,{:AMMO},{:AMMO}
 ITEM:AMMO:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:AMMO:DEFAULT:^0,,
-ITEM:AMMO:DEFAULT,ammunition,弹药
-ITEM:AMMO:DEFAULT,ammunition:,弹药:
-ITEM:AMMO:DEFAULT,ammunition.,弹药。
+ITEM:AMMO:DEFAULT,ammunition,탄약
+ITEM:AMMO:DEFAULT,ammunition:,탄약:
+ITEM:AMMO:DEFAULT,ammunition.,탄약。
 ITEM:CROWN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CROWN:^0,,
-ITEM:CROWN,crown,王冠
-ITEM:CROWN,crowns,王冠
-ITEM:CROWN,crown:,王冠:
-ITEM:CROWN,crowns:,王冠:
-ITEM:CROWN,crown.,王冠。
-ITEM:CROWN,crowns.,王冠。
+ITEM:CROWN,crown,왕관
+ITEM:CROWN,crowns,왕관
+ITEM:CROWN,crown:,왕관:
+ITEM:CROWN,crowns:,왕관:
+ITEM:CROWN,crown.,왕관。
+ITEM:CROWN,crowns.,왕관。
 ITEM:RING:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:RING:^0,,
-ITEM:RING,ring,戒指
-ITEM:RING,rings,戒指
-ITEM:RING,ring:,戒指:
-ITEM:RING,rings:,戒指:
-ITEM:RING,ring.,戒指。
-ITEM:RING,rings.,戒指。
+ITEM:RING,ring,반지
+ITEM:RING,rings,반지
+ITEM:RING,ring:,반지:
+ITEM:RING,rings:,반지:
+ITEM:RING,ring.,반지。
+ITEM:RING,rings.,반지。
 ITEM:EARRING:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:EARRING:^0,,
-ITEM:EARRING,earring,耳环
-ITEM:EARRING,earrings,耳环
-ITEM:EARRING,earring:,耳环:
-ITEM:EARRING,earrings:,耳环:
-ITEM:EARRING,earring.,耳环。
-ITEM:EARRING,earrings.,耳环。
+ITEM:EARRING,earring,귀걸이
+ITEM:EARRING,earrings,귀걸이
+ITEM:EARRING,earring:,귀걸이:
+ITEM:EARRING,earrings:,귀걸이:
+ITEM:EARRING,earring.,귀걸이。
+ITEM:EARRING,earrings.,귀걸이。
 ITEM:BRACELET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BRACELET:^0,,
-ITEM:BRACELET,bracelet,手镯
-ITEM:BRACELET,bracelets,手镯
-ITEM:BRACELET,bracelet:,手镯:
-ITEM:BRACELET,bracelets:,手镯:
-ITEM:BRACELET,bracelet.,手镯。
-ITEM:BRACELET,bracelets.,手镯。
-ITEM:GEM:^0,large,大型
-ITEM:GEM:^0,perfect,完美
-ITEM:GEM,gem,宝石
-ITEM:GEM,gems,宝石
-ITEM:GEM,gem:,宝石:
-ITEM:GEM,gems:,宝石:
-ITEM:GEM,gem.,宝石。
-ITEM:GEM,gems.,宝石。
+ITEM:BRACELET,bracelet,팔찌
+ITEM:BRACELET,bracelets,팔찌
+ITEM:BRACELET,bracelet:,팔찌:
+ITEM:BRACELET,bracelets:,팔찌:
+ITEM:BRACELET,bracelet.,팔찌。
+ITEM:BRACELET,bracelets.,팔찌.
+ITEM:GEM:^0,large,대형
+ITEM:GEM:^0,perfect,완벽한
+ITEM:GEM,gem,보석
+ITEM:GEM,gems,보석
+ITEM:GEM,gem:,보석:
+ITEM:GEM,gems:,보석:
+ITEM:GEM,gem.,보석.
+ITEM:GEM,gems.,보석.
 ITEM:GEM,{:GEM},{:GEM}
 ITEM:GEM,{:GEM_DETAILS},{:GEM_DETAILS}
 ITEM:ANVIL:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ANVIL:^0,,
-ITEM:ANVIL,anvil,金属砧
-ITEM:ANVIL,anvils,金属砧
-ITEM:ANVIL,anvil:,金属砧:
-ITEM:ANVIL,anvils:,金属砧:
-ITEM:ANVIL,anvil.,金属砧。
-ITEM:ANVIL,anvils.,金属砧。
-ITEM:CORPSEPIECE:^0,rotten,腐烂的
+ITEM:ANVIL,anvil,금속 모루
+ITEM:ANVIL,anvils,금속 모루
+ITEM:ANVIL,anvil:,금속 모루:
+ITEM:ANVIL,anvils:,금속 모루:
+ITEM:ANVIL,anvil.,금속 모루.
+ITEM:ANVIL,anvils.,금속 모루.
+ITEM:CORPSEPIECE:^0,rotten,썩은
 ITEM:CORPSEPIECE:^0,,
-ITEM:CORPSEPIECE,body part,身体部分
-ITEM:CORPSEPIECE,body parts,身体部分
-ITEM:CORPSEPIECE,wooden body part,木制身体部分
-ITEM:CORPSEPIECE,wooden body parts,木制身体部分
-ITEM:CORPSEPIECE,plant part,植物身体部分
-ITEM:CORPSEPIECE,plant parts,植物身体部分
-ITEM:CORPSEPIECE,silk body part,丝绸身体部分
-ITEM:CORPSEPIECE,silk body parts,丝绸身体部分
-ITEM:CORPSEPIECE,leather body part,皮革身体部分
-ITEM:CORPSEPIECE,leather body parts,皮革身体部分
-ITEM:CORPSEPIECE,bone,骨头
-ITEM:CORPSEPIECE,bones,骨头
-ITEM:CORPSEPIECE,shell,壳
-ITEM:CORPSEPIECE,shells,壳
-ITEM:CORPSEPIECE,soap body part,肥皂身体部分
-ITEM:CORPSEPIECE,soap body parts,肥皂身体部分
-ITEM:CORPSEPIECE,tooth,牙齿
-ITEM:CORPSEPIECE,teeth,牙齿
-ITEM:CORPSEPIECE,horn,角
-ITEM:CORPSEPIECE,horns,角
-ITEM:CORPSEPIECE,pearl,珍珠
-ITEM:CORPSEPIECE,pearls,珍珠
-ITEM:CORPSEPIECE,yarn body part,丝绸身体部分
-ITEM:CORPSEPIECE,yarn body parts,丝绸身体部分
-ITEM:CORPSEPIECE,strand body part,丝状身体部分
-ITEM:CORPSEPIECE,strand body parts,丝状身体部分
-ITEM:CORPSEPIECE,body part:,身体部分:
-ITEM:CORPSEPIECE,body parts:,身体部分:
-ITEM:CORPSEPIECE,wooden body part:,木制身体部分:
-ITEM:CORPSEPIECE,wooden body parts:,木制身体部分:
-ITEM:CORPSEPIECE,plant part:,植物身体部分:
-ITEM:CORPSEPIECE,plant parts:,植物身体部分:
-ITEM:CORPSEPIECE,silk body part:,丝绸身体部分:
-ITEM:CORPSEPIECE,silk body parts:,丝绸身体部分:
-ITEM:CORPSEPIECE,leather body part:,皮革身体部分:
-ITEM:CORPSEPIECE,leather body parts:,皮革身体部分:
-ITEM:CORPSEPIECE,bone:,骨头:
-ITEM:CORPSEPIECE,bones:,骨头:
-ITEM:CORPSEPIECE,shell:,壳:
-ITEM:CORPSEPIECE,shells:,壳:
-ITEM:CORPSEPIECE,soap body part:,肥皂身体部分:
-ITEM:CORPSEPIECE,soap body parts:,肥皂身体部分:
-ITEM:CORPSEPIECE,tooth:,牙齿:
-ITEM:CORPSEPIECE,teeth:,牙齿:
-ITEM:CORPSEPIECE,horn:,角:
-ITEM:CORPSEPIECE,horns:,角:
-ITEM:CORPSEPIECE,pearl:,珍珠:
-ITEM:CORPSEPIECE,pearls:,珍珠:
-ITEM:CORPSEPIECE,yarn body part:,丝绸身体部分:
-ITEM:CORPSEPIECE,yarn body parts:,丝绸身体部分:
-ITEM:CORPSEPIECE,strand body part:,丝状身体部分:
-ITEM:CORPSEPIECE,strand body parts:,丝状身体部分:
-ITEM:CORPSEPIECE,body part.,身体部分。
-ITEM:CORPSEPIECE,body parts.,身体部分。
-ITEM:CORPSEPIECE,wooden body part.,木制身体部分。
-ITEM:CORPSEPIECE,wooden body parts.,木制身体部分。
-ITEM:CORPSEPIECE,plant part.,植物身体部分。
-ITEM:CORPSEPIECE,plant parts.,植物身体部分。
-ITEM:CORPSEPIECE,silk body part.,丝绸身体部分。
-ITEM:CORPSEPIECE,silk body parts.,丝绸身体部分。
-ITEM:CORPSEPIECE,leather body part.,皮革身体部分。
-ITEM:CORPSEPIECE,leather body parts.,皮革身体部分。
-ITEM:CORPSEPIECE,bone.,骨头。
-ITEM:CORPSEPIECE,bones.,骨头。
-ITEM:CORPSEPIECE,shell.,壳。
-ITEM:CORPSEPIECE,shells.,壳。
-ITEM:CORPSEPIECE,soap body part.,肥皂身体部分。
-ITEM:CORPSEPIECE,soap body parts.,肥皂身体部分。
-ITEM:CORPSEPIECE,tooth.,牙齿。
-ITEM:CORPSEPIECE,teeth.,牙齿。
-ITEM:CORPSEPIECE,horn.,角。
-ITEM:CORPSEPIECE,horns.,角。
-ITEM:CORPSEPIECE,pearl.,珍珠。
-ITEM:CORPSEPIECE,pearls.,珍珠。
-ITEM:CORPSEPIECE,yarn body part.,丝绸身体部分。
-ITEM:CORPSEPIECE,yarn body parts.,丝绸身体部分。
-ITEM:CORPSEPIECE,strand body part.,丝状身体部分。
-ITEM:CORPSEPIECE,strand body parts.,丝状身体部分。
-ITEM:REMAINS:^0,Rotten,腐烂的
+ITEM:CORPSEPIECE,body part,신체 부위
+ITEM:CORPSEPIECE,body parts,신체 부위
+ITEM:CORPSEPIECE,wooden body part,목제 신체 부위
+ITEM:CORPSEPIECE,wooden body parts,목제 신체 부위
+ITEM:CORPSEPIECE,plant part,식물 부위
+ITEM:CORPSEPIECE,plant parts,식물 부위
+ITEM:CORPSEPIECE,silk body part,실크 신체 부위
+ITEM:CORPSEPIECE,silk body parts,실크 신체 부위
+ITEM:CORPSEPIECE,leather body part,가죽 신체 부위
+ITEM:CORPSEPIECE,leather body parts,가죽 신체 부위
+ITEM:CORPSEPIECE,bone,뼈
+ITEM:CORPSEPIECE,bones,뼈
+ITEM:CORPSEPIECE,shell,껍데기
+ITEM:CORPSEPIECE,shells,껍데기
+ITEM:CORPSEPIECE,soap body part,비누 신체 부위
+ITEM:CORPSEPIECE,soap body parts,비누 신체 부위
+ITEM:CORPSEPIECE,tooth,치아
+ITEM:CORPSEPIECE,teeth,치아
+ITEM:CORPSEPIECE,horn,뿔
+ITEM:CORPSEPIECE,horns,뿔
+ITEM:CORPSEPIECE,pearl,진주
+ITEM:CORPSEPIECE,pearls,진주
+ITEM:CORPSEPIECE,yarn body part,실 신체 부위
+ITEM:CORPSEPIECE,yarn body parts,실 신체 부위
+ITEM:CORPSEPIECE,strand body part,가닥 신체 부위
+ITEM:CORPSEPIECE,strand body parts,가닥 신체 부위
+ITEM:CORPSEPIECE,body part:,신체 부위:
+ITEM:CORPSEPIECE,body parts:,신체 부위:
+ITEM:CORPSEPIECE,wooden body part:,목제 신체 부위:
+ITEM:CORPSEPIECE,wooden body parts:,목제 신체 부위:
+ITEM:CORPSEPIECE,plant part:,식물 신체 부위:
+ITEM:CORPSEPIECE,plant parts:,식물 신체 부위:
+ITEM:CORPSEPIECE,silk body part:,실크 신체 부위:
+ITEM:CORPSEPIECE,silk body parts:,실크 신체 부위:
+ITEM:CORPSEPIECE,leather body part:,가죽 신체 부위:
+ITEM:CORPSEPIECE,leather body parts:,가죽 신체 부위:
+ITEM:CORPSEPIECE,bone:,뼈:
+ITEM:CORPSEPIECE,bones:,뼈:
+ITEM:CORPSEPIECE,shell:,껍질:
+ITEM:CORPSEPIECE,shells:,껍질:
+ITEM:CORPSEPIECE,soap body part:,비누 신체 부위:
+ITEM:CORPSEPIECE,soap body parts:,비누 신체 부위:
+ITEM:CORPSEPIECE,tooth:,치아:
+ITEM:CORPSEPIECE,teeth:,치아:
+ITEM:CORPSEPIECE,horn:,뿔:
+ITEM:CORPSEPIECE,horns:,뿔:
+ITEM:CORPSEPIECE,pearl:,진주:
+ITEM:CORPSEPIECE,pearls:,진주:
+ITEM:CORPSEPIECE,yarn body part:,실 신체 부위:
+ITEM:CORPSEPIECE,yarn body parts:,실 신체 부위:
+ITEM:CORPSEPIECE,strand body part:,가닥 신체 부위:
+ITEM:CORPSEPIECE,strand body parts:,가닥 신체 부위:
+ITEM:CORPSEPIECE,body part.,신체 부위。
+ITEM:CORPSEPIECE,body parts.,신체 부위。
+ITEM:CORPSEPIECE,wooden body part.,목제 신체 부위。
+ITEM:CORPSEPIECE,wooden body parts.,목제 신체 부위。
+ITEM:CORPSEPIECE,plant part.,식물 신체 부위。
+ITEM:CORPSEPIECE,plant parts.,식물 신체 부위。
+ITEM:CORPSEPIECE,silk body part.,실크 신체 부위。
+ITEM:CORPSEPIECE,silk body parts.,실크 신체 부위。
+ITEM:CORPSEPIECE,leather body part.,가죽 신체 부위。
+ITEM:CORPSEPIECE,leather body parts.,가죽 신체 부위。
+ITEM:CORPSEPIECE,bone.,뼈。
+ITEM:CORPSEPIECE,bones.,뼈。
+ITEM:CORPSEPIECE,shell.,껍질。
+ITEM:CORPSEPIECE,shells.,껍질。
+ITEM:CORPSEPIECE,soap body part.,비누 신체 부위。
+ITEM:CORPSEPIECE,soap body parts.,비누 신체 부위。
+ITEM:CORPSEPIECE,tooth.,치아。
+ITEM:CORPSEPIECE,teeth.,치아。
+ITEM:CORPSEPIECE,horn.,뿔。
+ITEM:CORPSEPIECE,horns.,뿔。
+ITEM:CORPSEPIECE,pearl.,진주。
+ITEM:CORPSEPIECE,pearls.,진주。
+ITEM:CORPSEPIECE,yarn body part.,실 신체 부위。
+ITEM:CORPSEPIECE,yarn body parts.,실 신체 부위。
+ITEM:CORPSEPIECE,strand body part.,가닥 신체 부위。
+ITEM:CORPSEPIECE,strand body parts.,가닥 신체 부위。
+ITEM:REMAINS:^0,Rotten,썩은
 ITEM:REMAINS:^0,,
 ITEM:REMAINS:^1,{:CREATURE:NAME:SINGULAR},{:CREATURE:NAME:SINGULAR}
 ITEM:REMAINS:^1,,
-ITEM:REMAINS,remains,残骸
-ITEM:REMAINS,chunk,残块
-ITEM:REMAINS,chunks,残块
-ITEM:REMAINS,remains:,残骸:
-ITEM:REMAINS,chunk:,残块:
-ITEM:REMAINS,chunks:,残块:
-ITEM:REMAINS,remains.,残骸。
-ITEM:REMAINS,chunk.,残块。
-ITEM:REMAINS,chunks.,残块。
-ITEM:MEAT:^0,rotten,腐烂的
+ITEM:REMAINS,remains,잔해
+ITEM:REMAINS,chunk,토막
+ITEM:REMAINS,chunks,토막
+ITEM:REMAINS,remains:,잔해:
+ITEM:REMAINS,chunk:,토막:
+ITEM:REMAINS,chunks:,토막:
+ITEM:REMAINS,remains.,잔해。
+ITEM:REMAINS,chunk.,토막。
+ITEM:REMAINS,chunks.,토막。
+ITEM:MEAT:^0,rotten,썩은
 ITEM:MEAT:^0,,
-ITEM:MEAT:^1,preserved,保存的
+ITEM:MEAT:^1,preserved,보존된
 ITEM:MEAT:^1,,
-ITEM:MEAT,meat,肉
-ITEM:MEAT,meat:,肉:
-ITEM:MEAT,meat.,肉。
+ITEM:MEAT,meat,고기
+ITEM:MEAT,meat:,고기:
+ITEM:MEAT,meat.,고기。
 ITEM:MEAT,{:MEAT},{:MEAT}
-ITEM:FISH:^0,rotten,腐烂的
+ITEM:FISH:^0,rotten,썩은
 ITEM:FISH:^0,,
-ITEM:FISH,fish,鱼
-ITEM:FISH,fish:,鱼:
-ITEM:FISH,fish.,鱼。
+ITEM:FISH,fish,물고기
+ITEM:FISH,fish:,물고기:
+ITEM:FISH,fish.,물고기。
 ITEM:FISH,{:CREATURE:CASTE:NAME:SINGULAR},{:CREATURE:CASTE:NAME:SINGULAR}
 ITEM:FISH,"{:CREATURE:CASTE:NAME:SINGULAR}, ♀","{:CREATURE:CASTE:NAME:SINGULAR}, ♀"
 ITEM:FISH,"{:CREATURE:CASTE:NAME:SINGULAR}, ♂","{:CREATURE:CASTE:NAME:SINGULAR}, ♂"
-ITEM:FISH_RAW:^0,rotten,腐烂的
+ITEM:FISH_RAW:^0,rotten,썩은
 ITEM:FISH_RAW:^0,,
-ITEM:FISH_RAW:^1,raw,未处理的
-ITEM:FISH_RAW,fish,鱼
-ITEM:FISH_RAW,fish:,鱼:
-ITEM:FISH_RAW,fish.,鱼。
+ITEM:FISH_RAW:^1,raw,손질되지 않은
+ITEM:FISH_RAW,fish,물고기
+ITEM:FISH_RAW,fish:,물고기:
+ITEM:FISH_RAW,fish.,물고기。
 ITEM:FISH_RAW,{:CREATURE:CASTE:NAME:SINGULAR},{:CREATURE:CASTE:NAME:SINGULAR}
 ITEM:FISH_RAW,"{:CREATURE:CASTE:NAME:SINGULAR}, ♀","{:CREATURE:CASTE:NAME:SINGULAR}, ♀"
 ITEM:FISH_RAW,"{:CREATURE:CASTE:NAME:SINGULAR}, ♂","{:CREATURE:CASTE:NAME:SINGULAR}, ♂"
-ITEM:VERMIN,small live animal,活的小动物
-ITEM:VERMIN,small live animals,活的小动物
-ITEM:VERMIN,small live animal:,活的小动物:
-ITEM:VERMIN,small live animals:,活的小动物:
-ITEM:VERMIN,small live animal.,活的小动物。
-ITEM:VERMIN,small live animals.,活的小动物。
-ITEM:VERMIN,live {:CREATURE:CASTE:NAME:SINGULAR},活{:CREATURE:CASTE:NAME:SINGULAR}
-ITEM:PET,small tame animal,驯化小动物
-ITEM:PET,small tame animals,驯化小动物
-ITEM:PET,small tame animal:,驯化小动物:
-ITEM:PET,small tame animals:,驯化小动物:
-ITEM:PET,small tame animal.,驯化小动物。
-ITEM:PET,small tame animals.,驯化小动物。
-ITEM:PET,tame {:CREATURE:CASTE:NAME:SINGULAR},驯化{:CREATURE:CASTE:NAME:SINGULAR}
-ITEM:SEEDS,seeds,种子
-ITEM:SEEDS,seeds:,种子:
-ITEM:SEEDS,seeds.,种子。
+ITEM:VERMIN,small live animal,살아 있는 작은 동물
+ITEM:VERMIN,small live animals,살아 있는 작은 동물
+ITEM:VERMIN,small live animal:,살아 있는 작은 동물:
+ITEM:VERMIN,small live animals:,살아 있는 작은 동물:
+ITEM:VERMIN,small live animal.,살아 있는 작은 동물。
+ITEM:VERMIN,small live animals.,살아 있는 작은 동물。
+ITEM:VERMIN,live {:CREATURE:CASTE:NAME:SINGULAR},살아있는{:CREATURE:CASTE:NAME:SINGULAR}
+ITEM:PET,small tame animal,길들여진 작은 동물
+ITEM:PET,small tame animals,길들여진 작은 동물
+ITEM:PET,small tame animal:,길들여진 작은 동물:
+ITEM:PET,small tame animals:,길들여진 작은 동물:
+ITEM:PET,small tame animal.,길들여진 작은 동물。
+ITEM:PET,small tame animals.,길들여진 작은 동물。
+ITEM:PET,tame {:CREATURE:CASTE:NAME:SINGULAR},길들인 {:CREATURE:CASTE:NAME:SINGULAR}
+ITEM:SEEDS,seeds,씨앗
+ITEM:SEEDS,seeds:,씨앗:
+ITEM:SEEDS,seeds.,씨앗。
 ITEM:SEEDS,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SEEDS,{:PLANT:SEED:PLURAL},{:PLANT:SEED:PLURAL}
-ITEM:PLANT:^0,withered,枯萎的
+ITEM:PLANT:^0,withered,시든
 ITEM:PLANT:^0,,
-ITEM:PLANT,plants,植物
-ITEM:PLANT,plants:,植物:
-ITEM:PLANT,plants.,植物。
+ITEM:PLANT,plants,식물
+ITEM:PLANT,plants:,식물:
+ITEM:PLANT,plants.,식물。
 ITEM:PLANT,{:PLANT:NAME:SINGULAR},{:PLANT:NAME:SINGULAR}
 ITEM:PLANT,{:PLANT:NAME:PLURAL},{:PLANT:NAME:PLURAL}
-ITEM:SKIN_TANNED,tanned hide,鞣制的生皮
-ITEM:SKIN_TANNED,tanned hides,鞣制的生皮
-ITEM:SKIN_TANNED,tanned hide:,鞣制的生皮:
-ITEM:SKIN_TANNED,tanned hides:,鞣制的生皮:
-ITEM:SKIN_TANNED,tanned hide.,鞣制的生皮。
-ITEM:SKIN_TANNED,tanned hides.,鞣制的生皮。
+ITEM:SKIN_TANNED,tanned hide,무두질한 가죽
+ITEM:SKIN_TANNED,tanned hides,무두질한 가죽
+ITEM:SKIN_TANNED,tanned hide:,무두질한 가죽:
+ITEM:SKIN_TANNED,tanned hides:,무두질한 가죽:
+ITEM:SKIN_TANNED,tanned hide.,무두질한 가죽。
+ITEM:SKIN_TANNED,tanned hides.,무두질한 가죽。
 ITEM:SKIN_TANNED,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
-ITEM:PLANT_GROWTH:^0,withered,枯萎的
+ITEM:PLANT_GROWTH:^0,withered,시든
 ITEM:PLANT_GROWTH:^0,,
 ITEM:PLANT_GROWTH,{:PLANT:GROWTH:NAME:SINGULAR},{:PLANT:GROWTH:NAME:SINGULAR}
 ITEM:PLANT_GROWTH,{:PLANT:GROWTH:NAME:PLURAL},{:PLANT:GROWTH:NAME:PLURAL}
-ITEM:PLANT_GROWTH,leaf or fruit,叶子和果实
-ITEM:PLANT_GROWTH,leaves and fruit,叶子和果实
-ITEM:PLANT_GROWTH,leaf or fruit:,叶子和果实:
-ITEM:PLANT_GROWTH,leaves and fruit:,叶子和果实:
-ITEM:PLANT_GROWTH,leaf or fruit.,叶子和果实。
-ITEM:PLANT_GROWTH,leaves and fruit.,叶子和果实。
+ITEM:PLANT_GROWTH,leaf or fruit,잎 또는 열매
+ITEM:PLANT_GROWTH,leaves and fruit,잎과 열매
+ITEM:PLANT_GROWTH,leaf or fruit:,잎 또는 열매:
+ITEM:PLANT_GROWTH,leaves and fruit:,잎과 열매:
+ITEM:PLANT_GROWTH,leaf or fruit.,잎 또는 열매。
+ITEM:PLANT_GROWTH,leaves and fruit.,잎과 열매。
 ITEM:THREAD:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:THREAD:^0,,
 ITEM:THREAD:$0,{:NUM:PERSENT},{:NUM:PERSENT}
-ITEM:THREAD,web,网
-ITEM:THREAD,webs,网
-ITEM:THREAD,strands,缕
-ITEM:THREAD,thread,细线
-ITEM:THREAD,yarn,纱线
-ITEM:THREAD,web:,网:
-ITEM:THREAD,webs:,网:
-ITEM:THREAD,strands:,缕:
-ITEM:THREAD,thread:,细线:
-ITEM:THREAD,yarn:,纱线:
-ITEM:THREAD,web.,网。
-ITEM:THREAD,webs.,网。
-ITEM:THREAD,strands.,缕。
-ITEM:THREAD,thread.,细线。
-ITEM:THREAD,yarn.,纱线。
+ITEM:THREAD,web,거미줄
+ITEM:THREAD,webs,거미줄
+ITEM:THREAD,strands,가닥
+ITEM:THREAD,thread,실
+ITEM:THREAD,yarn,털실
+ITEM:THREAD,web:,거미줄:
+ITEM:THREAD,webs:,거미줄:
+ITEM:THREAD,strands:,가닥:
+ITEM:THREAD,thread:,실:
+ITEM:THREAD,yarn:,털실:
+ITEM:THREAD,web.,거미줄。
+ITEM:THREAD,webs.,거미줄。
+ITEM:THREAD,strands.,가닥。
+ITEM:THREAD,thread.,실。
+ITEM:THREAD,yarn.,털실。
 ITEM:CLOTH:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CLOTH:^0,,
 ITEM:CLOTH:$0,{:NUM:PERSENT},{:NUM:PERSENT}
-ITEM:CLOTH,cloth,布匹
-ITEM:TOTEM,totem,图腾
-ITEM:TOTEM,totems,图腾
-ITEM:CLOTH,cloth:,布匹:
-ITEM:TOTEM,totem:,图腾:
-ITEM:TOTEM,totems:,图腾:
-ITEM:CLOTH,cloth.,布匹。
-ITEM:TOTEM,totem.,图腾。
-ITEM:TOTEM,totems.,图腾。
+ITEM:CLOTH,cloth,천
+ITEM:TOTEM,totem,토템
+ITEM:TOTEM,totems,토템
+ITEM:CLOTH,cloth:,천:
+ITEM:TOTEM,totem:,토템:
+ITEM:TOTEM,totems:,토템:
+ITEM:CLOTH,cloth.,천。
+ITEM:TOTEM,totem.,토템。
+ITEM:TOTEM,totems.,토템。
 ITEM:PANTS,{DEFAULT},{DEFAULT}
 ITEM:PANTS,{:PANTS},{:PANTS}
 ITEM:PANTS:DEFAULT:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:PANTS:DEFAULT:^0,,
 ITEM:PANTS:DEFAULT:^1,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:PANTS:DEFAULT:^1,,
-ITEM:PANTS:DEFAULT,legwear,腿装
-ITEM:PANTS:DEFAULT,legwear:,腿装:
-ITEM:PANTS:DEFAULT,legwear.,腿装。
+ITEM:PANTS:DEFAULT,legwear,하의
+ITEM:PANTS:DEFAULT,legwear:,하의:
+ITEM:PANTS:DEFAULT,legwear.,하의。
 ITEM:BACKPACK:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:BACKPACK:^0,,
 ITEM:BACKPACK:^1,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BACKPACK:^1,,
-ITEM:BACKPACK,backpack,背包
-ITEM:BACKPACK,backpacks,背包
-ITEM:BACKPACK,backpack:,背包:
-ITEM:BACKPACK,backpacks:,背包:
-ITEM:BACKPACK,backpack.,背包。
-ITEM:BACKPACK,backpacks.,背包。
+ITEM:BACKPACK,backpack,배낭
+ITEM:BACKPACK,backpacks,배낭
+ITEM:BACKPACK,backpack:,배낭:
+ITEM:BACKPACK,backpacks:,배낭:
+ITEM:BACKPACK,backpack.,배낭。
+ITEM:BACKPACK,backpacks.,배낭。
 ITEM:QUIVER:^0,{:ITEM:PREFIX:EQUIPMENT},{:ITEM:PREFIX:EQUIPMENT}
 ITEM:QUIVER:^0,,
 ITEM:QUIVER:^1,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:QUIVER:^1,,
-ITEM:QUIVER,quiver,箭筒
-ITEM:QUIVER,quivers,箭筒
-ITEM:QUIVER,quiver:,箭筒:
-ITEM:QUIVER,quivers:,箭筒:
-ITEM:QUIVER,quiver.,箭筒。
-ITEM:QUIVER,quivers.,箭筒。
+ITEM:QUIVER,quiver,화살통
+ITEM:QUIVER,quivers,화살통
+ITEM:QUIVER,quiver:,화살통:
+ITEM:QUIVER,quivers:,화살통:
+ITEM:QUIVER,quiver.,화살통。
+ITEM:QUIVER,quivers.,화살통。
 ITEM:CATAPULTPARTS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CATAPULTPARTS:^0,,
-ITEM:CATAPULTPARTS,catapult parts,投石机部件
-ITEM:CATAPULTPARTS,catapult parts:,投石机部件:
-ITEM:CATAPULTPARTS,catapult parts.,投石机部件。
+ITEM:CATAPULTPARTS,catapult parts,투석기 부품
+ITEM:CATAPULTPARTS,catapult parts:,투석기 부품:
+ITEM:CATAPULTPARTS,catapult parts.,투석기 부품。
 ITEM:BALLISTAPARTS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BALLISTAPARTS:^0,,
-ITEM:BALLISTAPARTS,ballista parts,弩炮部件
-ITEM:BALLISTAPARTS,ballista parts:,弩炮部件:
-ITEM:BALLISTAPARTS,ballista parts.,弩炮部件。
+ITEM:BALLISTAPARTS,ballista parts,발리스타 부품
+ITEM:BALLISTAPARTS,ballista parts:,발리스타 부품:
+ITEM:BALLISTAPARTS,ballista parts.,발리스타 부품。
 ITEM:SIEGEAMMO:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SIEGEAMMO:^0,,
-ITEM:SIEGEAMMO,siege ammo,攻城弹药
-ITEM:SIEGEAMMO,siege ammo:,攻城弹药:
-ITEM:SIEGEAMMO,siege ammo.,攻城弹药。
+ITEM:SIEGEAMMO,siege ammo,공성 탄약
+ITEM:SIEGEAMMO,siege ammo:,공성 탄약:
+ITEM:SIEGEAMMO,siege ammo.,공성 탄약。
 ITEM:SIEGEAMMO,{:SIEGEAMMO},{:SIEGEAMMO}
 ITEM:BALLISTAARROWHEAD:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BALLISTAARROWHEAD:^0,,
-ITEM:BALLISTAARROWHEAD,ballista arrow head,弩炮箭头
-ITEM:BALLISTAARROWHEAD,ballista arrow heads,弩炮箭头
-ITEM:BALLISTAARROWHEAD,ballista arrow head:,弩炮箭头:
-ITEM:BALLISTAARROWHEAD,ballista arrow heads:,弩炮箭头:
-ITEM:BALLISTAARROWHEAD,ballista arrow head.,弩炮箭头。
-ITEM:BALLISTAARROWHEAD,ballista arrow heads.,弩炮箭头。
+ITEM:BALLISTAARROWHEAD,ballista arrow head,발리스타 화살촉
+ITEM:BALLISTAARROWHEAD,ballista arrow heads,발리스타 화살촉
+ITEM:BALLISTAARROWHEAD,ballista arrow head:,발리스타 화살촉:
+ITEM:BALLISTAARROWHEAD,ballista arrow heads:,발리스타 화살촉:
+ITEM:BALLISTAARROWHEAD,ballista arrow head.,발리스타 화살촉。
+ITEM:BALLISTAARROWHEAD,ballista arrow heads.,발리스타 화살촉。
 ITEM:TRAPPARTS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:TRAPPARTS:^0,,
-ITEM:TRAPPARTS,mechanisms,机件
-ITEM:TRAPPARTS,mechanisms:,机件:
-ITEM:TRAPPARTS,mechanisms.,机件。
+ITEM:TRAPPARTS,mechanisms,기계장치
+ITEM:TRAPPARTS,mechanisms:,기계장치:
+ITEM:TRAPPARTS,mechanisms.,기계장치。
 ITEM:TRAPCOMP,{DEFAULT},{DEFAULT}
 ITEM:TRAPCOMP,{:TRAPCOMP},{:TRAPCOMP}
 ITEM:TRAPCOMP:DEFAULT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:TRAPCOMP:DEFAULT:^0,,
-ITEM:TRAPCOMP:DEFAULT,trap component,陷阱组件
-ITEM:TRAPCOMP:DEFAULT,trap components,陷阱组件
-ITEM:TRAPCOMP:DEFAULT,trap component:,陷阱组件:
-ITEM:TRAPCOMP:DEFAULT,trap components:,陷阱组件:
-ITEM:TRAPCOMP:DEFAULT,trap component.,陷阱组件。
-ITEM:TRAPCOMP:DEFAULT,trap components.,陷阱组件。
-ITEM:DRINK:^0,rotten,变质的
+ITEM:TRAPCOMP:DEFAULT,trap component,함정 부품
+ITEM:TRAPCOMP:DEFAULT,trap components,함정 부품
+ITEM:TRAPCOMP:DEFAULT,trap component:,함정 부품:
+ITEM:TRAPCOMP:DEFAULT,trap components:,함정 부품:
+ITEM:TRAPCOMP:DEFAULT,trap component.,함정 부품。
+ITEM:TRAPCOMP:DEFAULT,trap components.,함정 부품。
+ITEM:DRINK:^0,rotten,상한
 ITEM:DRINK:^0,,
 ITEM:DRINK,{:MATERIAL},{:MATERIAL}
-ITEM:DRINK,drink,饮料
-ITEM:DRINK,drink:,饮料:
-ITEM:DRINK,drink.,饮料。
-ITEM:DRINK,drinks,饮料
-ITEM:DRINK,drinks:,饮料:
-ITEM:DRINK,drinks.,饮料。
-ITEM:POWDER_MISC:^0,rotten,变质的
+ITEM:DRINK,drink,음료
+ITEM:DRINK,drink:,음료:
+ITEM:DRINK,drink.,음료。
+ITEM:DRINK,drinks,음료
+ITEM:DRINK,drinks:,음료:
+ITEM:DRINK,drinks.,음료。
+ITEM:POWDER_MISC:^0,rotten,상한
 ITEM:POWDER_MISC:^0,,
 ITEM:POWDER_MISC,{:MATERIAL},{:MATERIAL}
-ITEM:POWDER_MISC,powder,粉末
-ITEM:POWDER_MISC,powder:,粉末:
-ITEM:POWDER_MISC,powder.,粉末。
-ITEM:CHEESE:^0,rotten,变质的
+ITEM:POWDER_MISC,powder,가루
+ITEM:POWDER_MISC,powder:,가루:
+ITEM:POWDER_MISC,powder.,가루。
+ITEM:CHEESE:^0,rotten,상한
 ITEM:CHEESE:^0,,
 ITEM:CHEESE,{:MATERIAL},{:MATERIAL}
-ITEM:CHEESE,cheese,奶酪
-ITEM:FOOD,prepared meal,预备的餐点
-ITEM:FOOD,prepared meals,预备的餐点
-ITEM:FOOD,prepared food,预备的食物
-ITEM:FOOD,prepared meal:,预备的餐点:
-ITEM:FOOD,prepared meals:,预备的餐点:
-ITEM:FOOD,prepared food:,预备的食物:
-ITEM:FOOD,prepared meal.,预备的餐点。
-ITEM:FOOD,prepared meals.,预备的餐点。
-ITEM:FOOD,prepared food.,预备的食物。
+ITEM:CHEESE,cheese,치즈
+ITEM:FOOD,prepared meal,조리된 식사
+ITEM:FOOD,prepared meals,조리된 식사
+ITEM:FOOD,prepared food,조리된 음식
+ITEM:FOOD,prepared meal:,준비된 식사:
+ITEM:FOOD,prepared meals:,준비된 식사:
+ITEM:FOOD,prepared food:,준비된 음식:
+ITEM:FOOD,prepared meal.,준비된 식사。
+ITEM:FOOD,prepared meals.,준비된 식사。
+ITEM:FOOD,prepared food.,준비된 음식。
 ITEM:LIQUID_MISC,{:ITEM:LIQUID_GLOB},{:ITEM:LIQUID_GLOB}
 ITEM:COIN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:COIN:^0,,
-ITEM:COIN,coin,硬币
-ITEM:COIN,coins,硬币
-ITEM:COIN,coin:,硬币:
-ITEM:COIN,coins:,硬币:
-ITEM:COIN,coin.,硬币。
-ITEM:COIN,coins.,硬币。
+ITEM:COIN,coin,동전
+ITEM:COIN,coins,동전
+ITEM:COIN,coin:,동전:
+ITEM:COIN,coins:,동전:
+ITEM:COIN,coin.,동전。
+ITEM:COIN,coins.,동전。
 ITEM:GLOB,{:ITEM:LIQUID_GLOB},{:ITEM:LIQUID_GLOB}
-ITEM:LIQUID_GLOB:^0,rotten,变质的
+ITEM:LIQUID_GLOB:^0,rotten,썩은
 ITEM:LIQUID_GLOB:^0,,
-ITEM:LIQUID_GLOB:^1,filthy,骯髒的
-ITEM:LIQUID_GLOB:^1,sticky,黏稠的
-ITEM:LIQUID_GLOB:^1,vomitous,令人作呕的
-ITEM:LIQUID_GLOB:^1,slimy,黏糊糊的
-ITEM:LIQUID_GLOB:^1,stagnant,停滞的
-ITEM:LIQUID_GLOB:^1,dirty,肮脏的
-ITEM:LIQUID_GLOB:^1,gooey,黏糊糊的
-ITEM:LIQUID_GLOB:^1,purulent,化脓的
-ITEM:LIQUID_GLOB:^1,ichorous,脓液状的
-ITEM:LIQUID_GLOB:^1,bloody,血腥的
+ITEM:LIQUID_GLOB:^1,filthy,지저분한
+ITEM:LIQUID_GLOB:^1,sticky,끈적한
+ITEM:LIQUID_GLOB:^1,vomitous,구역질 나는
+ITEM:LIQUID_GLOB:^1,slimy,미끈미끈한
+ITEM:LIQUID_GLOB:^1,stagnant,고여 있는
+ITEM:LIQUID_GLOB:^1,dirty,더러운
+ITEM:LIQUID_GLOB:^1,gooey,질척한
+ITEM:LIQUID_GLOB:^1,purulent,곪은
+ITEM:LIQUID_GLOB:^1,ichorous,고름물 같은
+ITEM:LIQUID_GLOB:^1,bloody,피투성이의
 ITEM:LIQUID_GLOB:^1,,
-ITEM:LIQUID_GLOB,liquid,液体
-ITEM:LIQUID_GLOB,glob,软团
-ITEM:LIQUID_GLOB,liquid:,液体:
-ITEM:LIQUID_GLOB,glob:,软团:
-ITEM:LIQUID_GLOB,liquid.,液体。
-ITEM:LIQUID_GLOB,glob.,软团。
-ITEM:LIQUID_GLOB,{:CREATURE:CASTE:NAME:SINGULAR} paste,{:CREATURE:CASTE:NAME:SINGULAR}浆糊
+ITEM:LIQUID_GLOB,liquid,액체
+ITEM:LIQUID_GLOB,glob,덩어리
+ITEM:LIQUID_GLOB,liquid:,액체:
+ITEM:LIQUID_GLOB,glob:,덩어리:
+ITEM:LIQUID_GLOB,liquid.,액체。
+ITEM:LIQUID_GLOB,glob.,덩어리。
+ITEM:LIQUID_GLOB,{:CREATURE:CASTE:NAME:SINGULAR} paste,{:CREATURE:CASTE:NAME:SINGULAR} 풀
 ITEM:LIQUID_GLOB,{:MATERIAL},{:MATERIAL}
-ITEM:LIQUID_GLOB:$0,laced with {:MATERIAL},夹杂着{:MATERIAL}
+ITEM:LIQUID_GLOB:$0,laced with {:MATERIAL},{:MATERIAL} 섞인
 ITEM:LIQUID_GLOB:$0,,
-ITEM:ROCK:^0,small,小
+ITEM:ROCK:^0,small,작은
 ITEM:ROCK,{:MATERIAL},{:MATERIAL}
-ITEM:ROCK,rock,石子
-ITEM:ROCK,rock:,石子:
-ITEM:ROCK,rock.,石子。
+ITEM:ROCK,rock,돌멩이
+ITEM:ROCK,rock:,돌멩이:
+ITEM:ROCK,rock.,돌멩이。
 ITEM:PIPE_SECTION:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:PIPE_SECTION:^0,,
-ITEM:PIPE_SECTION,tube,晶管
-ITEM:PIPE_SECTION,pipe section,管段
-ITEM:PIPE_SECTION,tube:,晶管:
-ITEM:PIPE_SECTION,pipe section:,管段:
-ITEM:PIPE_SECTION,tube.,晶管。
-ITEM:PIPE_SECTION,pipe section.,管段。
+ITEM:PIPE_SECTION,tube,튜브
+ITEM:PIPE_SECTION,pipe section,파이프 조각
+ITEM:PIPE_SECTION,tube:,튜브:
+ITEM:PIPE_SECTION,pipe section:,파이프 조각:
+ITEM:PIPE_SECTION,tube.,튜브。
+ITEM:PIPE_SECTION,pipe section.,파이프 조각。
 ITEM:HATCH_COVER:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:HATCH_COVER:^0,,
-ITEM:HATCH_COVER,floor hatch,楼板活动盖板
-ITEM:HATCH_COVER,hatch cover,活动盖板
-ITEM:HATCH_COVER,hatch covers,活动盖板
-ITEM:HATCH_COVER,floor hatch:,楼板活动盖板:
-ITEM:HATCH_COVER,hatch cover:,活动盖板:
-ITEM:HATCH_COVER,hatch covers:,活动盖板:
-ITEM:HATCH_COVER,floor hatch.,楼板活动盖板。
-ITEM:HATCH_COVER,hatch cover.,活动盖板。
-ITEM:HATCH_COVER,hatch covers.,活动盖板。
+ITEM:HATCH_COVER,floor hatch,바닥 해치
+ITEM:HATCH_COVER,hatch cover,해치 덮개
+ITEM:HATCH_COVER,hatch covers,해치 덮개
+ITEM:HATCH_COVER,floor hatch:,바닥 해치:
+ITEM:HATCH_COVER,hatch cover:,해치 덮개:
+ITEM:HATCH_COVER,hatch covers:,해치 덮개:
+ITEM:HATCH_COVER,floor hatch.,바닥 해치。
+ITEM:HATCH_COVER,hatch cover.,해치 덮개。
+ITEM:HATCH_COVER,hatch covers.,해치 덮개。
 ITEM:GRATE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:GRATE:^0,,
-ITEM:GRATE,grate,格栅
-ITEM:GRATE,grates,格栅
-ITEM:GRATE,grate:,格栅:
-ITEM:GRATE,grates:,格栅:
-ITEM:GRATE,grate.,格栅。
-ITEM:GRATE,grates.,格栅。
-ITEM:GRATE,wall grate,墙体格栅
-ITEM:GRATE,wall grate.,墙体格栅。
-ITEM:GRATE,wall grate:,墙体格栅:
-ITEM:GRATE,floor grate,楼板格栅
-ITEM:GRATE,floor grate.,楼板格栅。
-ITEM:GRATE,floor grate:,楼板格栅:
+ITEM:GRATE,grate,격자
+ITEM:GRATE,grates,격자
+ITEM:GRATE,grate:,격자:
+ITEM:GRATE,grates:,격자:
+ITEM:GRATE,grate.,격자。
+ITEM:GRATE,grates.,격자。
+ITEM:GRATE,wall grate,벽 격자
+ITEM:GRATE,wall grate.,벽 격자。
+ITEM:GRATE,wall grate:,벽 격자:
+ITEM:GRATE,floor grate,바닥 격자
+ITEM:GRATE,floor grate.,바닥 격자。
+ITEM:GRATE,floor grate:,바닥 격자:
 ITEM:QUERN:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:QUERN:^0,,
-ITEM:QUERN,quern,手推磨
-ITEM:QUERN,querns,手推磨
-ITEM:QUERN,quern:,手推磨:
-ITEM:QUERN,querns:,手推磨:
-ITEM:QUERN,quern.,手推磨。
-ITEM:QUERN,querns.,手推磨。
+ITEM:QUERN,quern,손맷돌
+ITEM:QUERN,querns,손맷돌
+ITEM:QUERN,quern:,손맷돌:
+ITEM:QUERN,querns:,손맷돌:
+ITEM:QUERN,quern.,손맷돌。
+ITEM:QUERN,querns.,손맷돌。
 ITEM:MILLSTONE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:MILLSTONE:^0,,
-ITEM:MILLSTONE,millstone,磨石
-ITEM:MILLSTONE,millstones,磨石
-ITEM:MILLSTONE,millstone:,磨石:
-ITEM:MILLSTONE,millstones:,磨石:
-ITEM:MILLSTONE,millstone.,磨石。
-ITEM:MILLSTONE,millstones.,磨石。
+ITEM:MILLSTONE,millstone,맷돌
+ITEM:MILLSTONE,millstones,맷돌
+ITEM:MILLSTONE,millstone:,맷돌:
+ITEM:MILLSTONE,millstones:,맷돌:
+ITEM:MILLSTONE,millstone.,맷돌。
+ITEM:MILLSTONE,millstones.,맷돌。
 ITEM:SPLINT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SPLINT:^0,,
-ITEM:SPLINT,splint,夹板
-ITEM:SPLINT,splints,夹板
-ITEM:SPLINT,splint:,夹板:
-ITEM:SPLINT,splints:,夹板:
-ITEM:SPLINT,splint.,夹板。
-ITEM:SPLINT,splints.,夹板。
+ITEM:SPLINT,splint,부목
+ITEM:SPLINT,splints,부목
+ITEM:SPLINT,splint:,부목:
+ITEM:SPLINT,splints:,부목:
+ITEM:SPLINT,splint.,부목。
+ITEM:SPLINT,splints.,부목。
 ITEM:CRUTCH:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CRUTCH:^0,,
-ITEM:CRUTCH,crutch,拐杖
-ITEM:CRUTCH,crutches,拐杖
-ITEM:CRUTCH,crutch:,拐杖:
-ITEM:CRUTCH,crutches:,拐杖:
-ITEM:CRUTCH,crutch.,拐杖。
-ITEM:CRUTCH,crutches.,拐杖。
+ITEM:CRUTCH,crutch,목발
+ITEM:CRUTCH,crutches,목발
+ITEM:CRUTCH,crutch:,목발:
+ITEM:CRUTCH,crutches:,목발:
+ITEM:CRUTCH,crutch.,목발。
+ITEM:CRUTCH,crutches.,목발。
 ITEM:TRACTION_BENCH:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:TRACTION_BENCH:^0,,
-ITEM:TRACTION_BENCH,traction bench,牵引台
-ITEM:TRACTION_BENCH,traction benches,牵引台
-ITEM:TRACTION_BENCH,traction bench:,牵引台:
-ITEM:TRACTION_BENCH,traction benches:,牵引台:
-ITEM:TRACTION_BENCH,traction bench.,牵引台。
-ITEM:TRACTION_BENCH,traction benches.,牵引台。
+ITEM:TRACTION_BENCH,traction bench,견인대
+ITEM:TRACTION_BENCH,traction benches,견인대
+ITEM:TRACTION_BENCH,traction bench:,견인대:
+ITEM:TRACTION_BENCH,traction benches:,견인대:
+ITEM:TRACTION_BENCH,traction bench.,견인대。
+ITEM:TRACTION_BENCH,traction benches.,견인대。
 ITEM:ORTHOPEDIC_CAST:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ORTHOPEDIC_CAST:^0,,
-ITEM:ORTHOPEDIC_CAST,limb/body cast,肢体/身体石膏
-ITEM:ORTHOPEDIC_CAST,limb/body casts,肢体/身体石膏
-ITEM:ORTHOPEDIC_CAST,limb/body cast:,肢体/身体石膏:
-ITEM:ORTHOPEDIC_CAST,limb/body casts:,肢体/身体石膏:
-ITEM:ORTHOPEDIC_CAST,limb/body cast.,肢体/身体石膏。
-ITEM:ORTHOPEDIC_CAST,limb/body casts.,肢体/身体石膏。
-ITEM:TOOL,tool,工具
-ITEM:TOOL,tools,工具
-ITEM:TOOL,tool:,工具:
-ITEM:TOOL,tools:,工具:
-ITEM:TOOL,tool.,工具。
-ITEM:TOOL,tools.,工具。
+ITEM:ORTHOPEDIC_CAST,limb/body cast,사지/신체 석고
+ITEM:ORTHOPEDIC_CAST,limb/body casts,사지/신체 석고
+ITEM:ORTHOPEDIC_CAST,limb/body cast:,사지/신체 석고:
+ITEM:ORTHOPEDIC_CAST,limb/body casts:,사지/신체 석고:
+ITEM:ORTHOPEDIC_CAST,limb/body cast.,사지/신체 석고。
+ITEM:ORTHOPEDIC_CAST,limb/body casts.,사지/신체 석고。
+ITEM:TOOL,tool,도구
+ITEM:TOOL,tools,도구
+ITEM:TOOL,tool:,도구:
+ITEM:TOOL,tools:,도구:
+ITEM:TOOL,tool.,도구。
+ITEM:TOOL,tools.,도구。
 ITEM:SLAB:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SLAB:^0,,
-ITEM:SLAB,slab,石板
-ITEM:SLAB,slabs,石板
-ITEM:SLAB,memorial,纪念碑
-ITEM:SLAB,memorial,纪念碑
-ITEM:SLAB,craft shop sign,工艺品商店招牌
-ITEM:SLAB,craft shop signs,工艺品商店招牌
-ITEM:SLAB,weaponsmith's shop sign,武器匠商店招牌
-ITEM:SLAB,weaponsmith's shop signs,武器匠商店招牌
-ITEM:SLAB,armorsmith's shop sign,盔甲匠商店招牌
-ITEM:SLAB,armorsmith's shop signs,盔甲匠商店招牌
-ITEM:SLAB,general store sign,杂货商店招牌
-ITEM:SLAB,general store signs,杂货商店招牌
-ITEM:SLAB,food shop sign,食物商店招牌
-ITEM:SLAB,food shop signs,食物商店招牌
-ITEM:SLAB,food imports sign,食物进口招牌
-ITEM:SLAB,food imports signs,食物进口招牌
-ITEM:SLAB,clothing imports sign,衣服进口招牌
-ITEM:SLAB,clothing imports signs,衣服进口招牌
-ITEM:SLAB,general imports sign,杂货进口招牌
-ITEM:SLAB,general imports signs,杂货进口招牌
-ITEM:SLAB,cloth shop sign,衣服商店招牌
-ITEM:SLAB,cloth shop signs,衣服商店招牌
-ITEM:SLAB,leather shop sign,皮革商店招牌
-ITEM:SLAB,leather shop signs,皮革商店招牌
-ITEM:SLAB,woven clothing shop sign,编织衣服商店招牌
-ITEM:SLAB,woven clothing shop signs,编织衣服商店招牌
-ITEM:SLAB,leather clothing shop sign,皮革衣服商店招牌
-ITEM:SLAB,leather clothing shop signs,皮革衣服商店招牌
-ITEM:SLAB,bone carver's shop sign,骨雕师商店招牌
-ITEM:SLAB,bone carver's shop signs,骨雕师商店招牌
-ITEM:SLAB,gem cutter's shop sign,宝石切割师商店招牌
-ITEM:SLAB,gem cutter's shop signs,宝石切割师商店招牌
-ITEM:SLAB,bowyer's shop sign,弩匠商店招牌
-ITEM:SLAB,bowyer's shop signs,弩匠商店招牌
-ITEM:SLAB,blacksmith's shop sign,锻造师商店招牌
-ITEM:SLAB,blacksmith's shop signs,锻造师商店招牌
-ITEM:SLAB,metal craft shop sign,金属工匠商店招牌
-ITEM:SLAB,metal craft shop signs,金属工匠商店招牌
-ITEM:SLAB,leather goods shop sign,皮革商品商店招牌
-ITEM:SLAB,leather goods shop signs,皮革商品商店招牌
-ITEM:SLAB,carpenter's shop sign,木匠商店招牌
-ITEM:SLAB,carpenter's shop signs,木匠商店招牌
-ITEM:SLAB,stone furniture shop sign,石制家具商店招牌
-ITEM:SLAB,stone furniture shop signs,石制家具商店招牌
-ITEM:SLAB,metal furniture shop sign,金属家具商店招牌
-ITEM:SLAB,metal furniture shop signs,金属家具商店招牌
-ITEM:SLAB,tavern sign,酒馆招牌
-ITEM:SLAB,tavern signs,酒馆招牌
-ITEM:SLAB,slab:,石板:
-ITEM:SLAB,slabs:,石板:
-ITEM:SLAB,memorial:,纪念碑:
-ITEM:SLAB,memorial:,纪念碑:
-ITEM:SLAB,craft shop sign:,工艺品商店招牌:
-ITEM:SLAB,craft shop signs:,工艺品商店招牌:
-ITEM:SLAB,weaponsmith's shop sign:,武器匠商店招牌:
-ITEM:SLAB,weaponsmith's shop signs:,武器匠商店招牌:
-ITEM:SLAB,armorsmith's shop sign:,盔甲匠商店招牌:
-ITEM:SLAB,armorsmith's shop signs:,盔甲匠商店招牌:
-ITEM:SLAB,general store sign:,杂货商店招牌:
-ITEM:SLAB,general store signs:,杂货商店招牌:
-ITEM:SLAB,food shop sign:,食物商店招牌:
-ITEM:SLAB,food shop signs:,食物商店招牌:
-ITEM:SLAB,food imports sign:,食物进口招牌:
-ITEM:SLAB,food imports signs:,食物进口招牌:
-ITEM:SLAB,clothing imports sign:,衣服进口招牌:
-ITEM:SLAB,clothing imports signs:,衣服进口招牌:
-ITEM:SLAB,general imports sign:,杂货进口招牌:
-ITEM:SLAB,general imports signs:,杂货进口招牌:
-ITEM:SLAB,cloth shop sign:,衣服商店招牌:
-ITEM:SLAB,cloth shop signs:,衣服商店招牌:
-ITEM:SLAB,leather shop sign:,皮革商店招牌:
-ITEM:SLAB,leather shop signs:,皮革商店招牌:
-ITEM:SLAB,woven clothing shop sign:,编织衣服商店招牌:
-ITEM:SLAB,woven clothing shop signs:,编织衣服商店招牌:
-ITEM:SLAB,leather clothing shop sign:,皮革衣服商店招牌:
-ITEM:SLAB,leather clothing shop signs:,皮革衣服商店招牌:
-ITEM:SLAB,bone carver's shop sign:,骨雕师商店招牌:
-ITEM:SLAB,bone carver's shop signs:,骨雕师商店招牌:
-ITEM:SLAB,gem cutter's shop sign:,宝石切割师商店招牌:
-ITEM:SLAB,gem cutter's shop signs:,宝石切割师商店招牌:
-ITEM:SLAB,bowyer's shop sign:,弩匠商店招牌:
-ITEM:SLAB,bowyer's shop signs:,弩匠商店招牌:
-ITEM:SLAB,blacksmith's shop sign:,锻造师商店招牌:
-ITEM:SLAB,blacksmith's shop signs:,锻造师商店招牌:
-ITEM:SLAB,metal craft shop sign:,金属工匠商店招牌:
-ITEM:SLAB,metal craft shop signs:,金属工匠商店招牌:
-ITEM:SLAB,leather goods shop sign:,皮革商品商店招牌:
-ITEM:SLAB,leather goods shop signs:,皮革商品商店招牌:
-ITEM:SLAB,carpenter's shop sign:,木匠商店招牌:
-ITEM:SLAB,carpenter's shop signs:,木匠商店招牌:
-ITEM:SLAB,stone furniture shop sign:,石制家具商店招牌:
-ITEM:SLAB,stone furniture shop signs:,石制家具商店招牌:
-ITEM:SLAB,metal furniture shop sign:,金属家具商店招牌:
-ITEM:SLAB,metal furniture shop signs:,金属家具商店招牌:
-ITEM:SLAB,tavern sign:,酒馆招牌:
-ITEM:SLAB,tavern signs:,酒馆招牌:
-ITEM:SLAB,slab.,石板。
-ITEM:SLAB,slabs.,石板。
-ITEM:SLAB,memorial.,纪念碑。
-ITEM:SLAB,memorial.,纪念碑。
-ITEM:SLAB,craft shop sign.,工艺品商店招牌。
-ITEM:SLAB,craft shop signs.,工艺品商店招牌。
-ITEM:SLAB,weaponsmith's shop sign.,武器匠商店招牌。
-ITEM:SLAB,weaponsmith's shop signs.,武器匠商店招牌。
-ITEM:SLAB,armorsmith's shop sign.,盔甲匠商店招牌。
-ITEM:SLAB,armorsmith's shop signs.,盔甲匠商店招牌。
-ITEM:SLAB,general store sign.,杂货商店招牌。
-ITEM:SLAB,general store signs.,杂货商店招牌。
-ITEM:SLAB,food shop sign.,食物商店招牌。
-ITEM:SLAB,food shop signs.,食物商店招牌。
-ITEM:SLAB,food imports sign.,食物进口招牌。
-ITEM:SLAB,food imports signs.,食物进口招牌。
-ITEM:SLAB,clothing imports sign.,衣服进口招牌。
-ITEM:SLAB,clothing imports signs.,衣服进口招牌。
-ITEM:SLAB,general imports sign.,杂货进口招牌。
-ITEM:SLAB,general imports signs.,杂货进口招牌。
-ITEM:SLAB,cloth shop sign.,衣服商店招牌。
-ITEM:SLAB,cloth shop signs.,衣服商店招牌。
-ITEM:SLAB,leather shop sign.,皮革商店招牌。
-ITEM:SLAB,leather shop signs.,皮革商店招牌。
-ITEM:SLAB,woven clothing shop sign.,编织衣服商店招牌。
-ITEM:SLAB,woven clothing shop signs.,编织衣服商店招牌。
-ITEM:SLAB,leather clothing shop sign.,皮革衣服商店招牌。
-ITEM:SLAB,leather clothing shop signs.,皮革衣服商店招牌。
-ITEM:SLAB,bone carver's shop sign.,骨雕师商店招牌。
-ITEM:SLAB,bone carver's shop signs.,骨雕师商店招牌。
-ITEM:SLAB,gem cutter's shop sign.,宝石切割师商店招牌。
-ITEM:SLAB,gem cutter's shop signs.,宝石切割师商店招牌。
-ITEM:SLAB,bowyer's shop sign.,弩匠商店招牌。
-ITEM:SLAB,bowyer's shop signs.,弩匠商店招牌。
-ITEM:SLAB,blacksmith's shop sign.,锻造师商店招牌。
-ITEM:SLAB,blacksmith's shop signs.,锻造师商店招牌。
-ITEM:SLAB,metal craft shop sign.,金属工匠商店招牌。
-ITEM:SLAB,metal craft shop signs.,金属工匠商店招牌。
-ITEM:SLAB,leather goods shop sign.,皮革商品商店招牌。
-ITEM:SLAB,leather goods shop signs.,皮革商品商店招牌。
-ITEM:SLAB,carpenter's shop sign.,木匠商店招牌。
-ITEM:SLAB,carpenter's shop signs.,木匠商店招牌。
-ITEM:SLAB,stone furniture shop sign.,石制家具商店招牌。
-ITEM:SLAB,stone furniture shop signs.,石制家具商店招牌。
-ITEM:SLAB,metal furniture shop sign.,金属家具商店招牌。
-ITEM:SLAB,metal furniture shop signs.,金属家具商店招牌。
-ITEM:SLAB,tavern sign.,酒馆招牌。
-ITEM:SLAB,tavern signs.,酒馆招牌。
-ITEM:EGG:^0,rotten,腐烂的
+ITEM:SLAB,slab,석판
+ITEM:SLAB,slabs,석판
+ITEM:SLAB,memorial,기념비
+ITEM:SLAB,memorial,기념비
+ITEM:SLAB,craft shop sign,공예품 상점 간판
+ITEM:SLAB,craft shop signs,공예품 상점 간판
+ITEM:SLAB,weaponsmith's shop sign,무기 제작자 상점 간판
+ITEM:SLAB,weaponsmith's shop signs,무기 제작자 상점 간판
+ITEM:SLAB,armorsmith's shop sign,갑옷 제작자 상점 간판
+ITEM:SLAB,armorsmith's shop signs,갑옷 제작자 상점 간판
+ITEM:SLAB,general store sign,잡화 상점 간판
+ITEM:SLAB,general store signs,잡화 상점 간판
+ITEM:SLAB,food shop sign,음식 상점 간판
+ITEM:SLAB,food shop signs,음식 상점 간판
+ITEM:SLAB,food imports sign,음식 수입 간판
+ITEM:SLAB,food imports signs,음식 수입 간판
+ITEM:SLAB,clothing imports sign,의복 수입 간판
+ITEM:SLAB,clothing imports signs,의류 수입 간판
+ITEM:SLAB,general imports sign,잡화 수입 간판
+ITEM:SLAB,general imports signs,잡화 수입 간판
+ITEM:SLAB,cloth shop sign,의류 상점 간판
+ITEM:SLAB,cloth shop signs,의류 상점 간판
+ITEM:SLAB,leather shop sign,가죽 상점 간판
+ITEM:SLAB,leather shop signs,가죽 상점 간판
+ITEM:SLAB,woven clothing shop sign,직물 의류 상점 간판
+ITEM:SLAB,woven clothing shop signs,직물 의류 상점 간판
+ITEM:SLAB,leather clothing shop sign,가죽 의류 상점 간판
+ITEM:SLAB,leather clothing shop signs,가죽 의류 상점 간판
+ITEM:SLAB,bone carver's shop sign,뼈 조각사 상점 간판
+ITEM:SLAB,bone carver's shop signs,뼈 조각사 상점 간판
+ITEM:SLAB,gem cutter's shop sign,보석 세공사 상점 간판
+ITEM:SLAB,gem cutter's shop signs,보석 세공사 상점 간판
+ITEM:SLAB,bowyer's shop sign,활장이 상점 간판
+ITEM:SLAB,bowyer's shop signs,활장이 상점 간판
+ITEM:SLAB,blacksmith's shop sign,대장장이 상점 간판
+ITEM:SLAB,blacksmith's shop signs,대장장이 상점 간판
+ITEM:SLAB,metal craft shop sign,금속 공예가 상점 간판
+ITEM:SLAB,metal craft shop signs,금속 공예가 상점 간판
+ITEM:SLAB,leather goods shop sign,가죽 제품 상점 간판
+ITEM:SLAB,leather goods shop signs,가죽 제품 상점 간판
+ITEM:SLAB,carpenter's shop sign,목수 상점 간판
+ITEM:SLAB,carpenter's shop signs,목수 상점 간판
+ITEM:SLAB,stone furniture shop sign,석재 가구 상점 간판
+ITEM:SLAB,stone furniture shop signs,석재 가구 상점 간판
+ITEM:SLAB,metal furniture shop sign,금속 가구 상점 간판
+ITEM:SLAB,metal furniture shop signs,금속 가구 상점 간판
+ITEM:SLAB,tavern sign,선술집 간판
+ITEM:SLAB,tavern signs,선술집 간판
+ITEM:SLAB,slab:,석판:
+ITEM:SLAB,slabs:,석판:
+ITEM:SLAB,memorial:,기념비:
+ITEM:SLAB,memorial:,기념비:
+ITEM:SLAB,craft shop sign:,공예품 상점 간판:
+ITEM:SLAB,craft shop signs:,공예품 상점 간판:
+ITEM:SLAB,weaponsmith's shop sign:,무기 대장장이 상점 간판:
+ITEM:SLAB,weaponsmith's shop signs:,무기 대장장이 상점 간판:
+ITEM:SLAB,armorsmith's shop sign:,갑옷 대장장이 상점 간판:
+ITEM:SLAB,armorsmith's shop signs:,갑옷 대장장이 상점 간판:
+ITEM:SLAB,general store sign:,잡화 상점 간판:
+ITEM:SLAB,general store signs:,잡화 상점 간판:
+ITEM:SLAB,food shop sign:,식품 상점 간판:
+ITEM:SLAB,food shop signs:,식품 상점 간판:
+ITEM:SLAB,food imports sign:,식품 수입 간판:
+ITEM:SLAB,food imports signs:,식품 수입 간판:
+ITEM:SLAB,clothing imports sign:,의류 수입 간판:
+ITEM:SLAB,clothing imports signs:,의류 수입 간판:
+ITEM:SLAB,general imports sign:,잡화 수입 간판:
+ITEM:SLAB,general imports signs:,잡화 수입 간판:
+ITEM:SLAB,cloth shop sign:,옷감 상점 간판:
+ITEM:SLAB,cloth shop signs:,옷감 상점 간판:
+ITEM:SLAB,leather shop sign:,가죽 상점 간판:
+ITEM:SLAB,leather shop signs:,가죽 상점 간판:
+ITEM:SLAB,woven clothing shop sign:,직물 의류 상점 간판:
+ITEM:SLAB,woven clothing shop signs:,직물 의류 상점 간판:
+ITEM:SLAB,leather clothing shop sign:,가죽 의류 상점 간판:
+ITEM:SLAB,leather clothing shop signs:,가죽 의류 상점 간판:
+ITEM:SLAB,bone carver's shop sign:,골각사 상점 간판:
+ITEM:SLAB,bone carver's shop signs:,골각사 상점 간판:
+ITEM:SLAB,gem cutter's shop sign:,보석 세공사 상점 간판:
+ITEM:SLAB,gem cutter's shop signs:,보석 세공사 상점 간판:
+ITEM:SLAB,bowyer's shop sign:,활장이 상점 간판:
+ITEM:SLAB,bowyer's shop signs:,활장이 상점 간판:
+ITEM:SLAB,blacksmith's shop sign:,대장장이 상점 간판:
+ITEM:SLAB,blacksmith's shop signs:,대장장이 상점 간판:
+ITEM:SLAB,metal craft shop sign:,금속 공예 상점 간판:
+ITEM:SLAB,metal craft shop signs:,금속 공예 상점 간판:
+ITEM:SLAB,leather goods shop sign:,가죽 제품 상점 간판:
+ITEM:SLAB,leather goods shop signs:,가죽 제품 상점 간판:
+ITEM:SLAB,carpenter's shop sign:,목수 상점 간판:
+ITEM:SLAB,carpenter's shop signs:,목수 상점 간판:
+ITEM:SLAB,stone furniture shop sign:,석재 가구 상점 간판:
+ITEM:SLAB,stone furniture shop signs:,석재 가구 상점 간판:
+ITEM:SLAB,metal furniture shop sign:,금속 가구 상점 간판:
+ITEM:SLAB,metal furniture shop signs:,금속 가구 상점 간판:
+ITEM:SLAB,tavern sign:,술집 간판:
+ITEM:SLAB,tavern signs:,술집 간판:
+ITEM:SLAB,slab.,석판。
+ITEM:SLAB,slabs.,석판。
+ITEM:SLAB,memorial.,추모비。
+ITEM:SLAB,memorial.,추모비。
+ITEM:SLAB,craft shop sign.,공예품 상점 간판。
+ITEM:SLAB,craft shop signs.,공예품 상점 간판。
+ITEM:SLAB,weaponsmith's shop sign.,무기장이 상점 간판。
+ITEM:SLAB,weaponsmith's shop signs.,무기장이 상점 간판。
+ITEM:SLAB,armorsmith's shop sign.,갑옷장이 상점 간판。
+ITEM:SLAB,armorsmith's shop signs.,갑옷장이 상점 간판。
+ITEM:SLAB,general store sign.,잡화점 간판。
+ITEM:SLAB,general store signs.,잡화점 간판。
+ITEM:SLAB,food shop sign.,식품 상점 간판。
+ITEM:SLAB,food shop signs.,식품 상점 간판。
+ITEM:SLAB,food imports sign.,식품 수입 간판。
+ITEM:SLAB,food imports signs.,식품 수입 간판。
+ITEM:SLAB,clothing imports sign.,의류 수입 간판。
+ITEM:SLAB,clothing imports signs.,의류 수입 간판。
+ITEM:SLAB,general imports sign.,잡화 수입 간판。
+ITEM:SLAB,general imports signs.,잡화 수입 간판。
+ITEM:SLAB,cloth shop sign.,옷감 상점 간판。
+ITEM:SLAB,cloth shop signs.,의류 상점 간판。
+ITEM:SLAB,leather shop sign.,가죽 상점 간판。
+ITEM:SLAB,leather shop signs.,가죽 상점 간판。
+ITEM:SLAB,woven clothing shop sign.,직조 의류 상점 간판。
+ITEM:SLAB,woven clothing shop signs.,직조 의류 상점 간판。
+ITEM:SLAB,leather clothing shop sign.,가죽 의류 상점 간판。
+ITEM:SLAB,leather clothing shop signs.,가죽 의류 상점 간판。
+ITEM:SLAB,bone carver's shop sign.,뼈 조각가 상점 간판。
+ITEM:SLAB,bone carver's shop signs.,뼈 조각가 상점 간판。
+ITEM:SLAB,gem cutter's shop sign.,보석 세공사 상점 간판。
+ITEM:SLAB,gem cutter's shop signs.,보석 세공사 상점 간판。
+ITEM:SLAB,bowyer's shop sign.,활 제작자 상점 간판。
+ITEM:SLAB,bowyer's shop signs.,활 제작자 상점 간판。
+ITEM:SLAB,blacksmith's shop sign.,대장장이 상점 간판。
+ITEM:SLAB,blacksmith's shop signs.,대장장이 상점 간판。
+ITEM:SLAB,metal craft shop sign.,금속 공예 상점 간판。
+ITEM:SLAB,metal craft shop signs.,금속 공예 상점 간판。
+ITEM:SLAB,leather goods shop sign.,가죽 제품 상점 간판。
+ITEM:SLAB,leather goods shop signs.,가죽 제품 상점 간판。
+ITEM:SLAB,carpenter's shop sign.,목수 상점 간판。
+ITEM:SLAB,carpenter's shop signs.,목수 상점 간판。
+ITEM:SLAB,stone furniture shop sign.,석제 가구 상점 간판。
+ITEM:SLAB,stone furniture shop signs.,석제 가구 상점 간판。
+ITEM:SLAB,metal furniture shop sign.,금속 가구 상점 간판。
+ITEM:SLAB,metal furniture shop signs.,금속 가구 상점 간판。
+ITEM:SLAB,tavern sign.,선술집 간판。
+ITEM:SLAB,tavern signs.,선술집 간판。
+ITEM:EGG:^0,rotten,썩은
 ITEM:EGG:^0,,
 ITEM:EGG:^1,{:CREATURE:CASTE:NAME:SINGULAR},{:CREATURE:CASTE:NAME:SINGULAR}
 ITEM:EGG:^1,,
-ITEM:EGG,egg,蛋
-ITEM:EGG,egg:,蛋:
-ITEM:EGG,egg.,蛋。
-ITEM:BOOK,codex,抄本
-ITEM:BOOK,codices,抄本
-ITEM:BOOK,codex:,抄本:
-ITEM:BOOK,codices:,抄本:
-ITEM:BOOK,codex.,抄本。
-ITEM:BOOK,codices.,抄本。
+ITEM:EGG,egg,알
+ITEM:EGG,egg:,알:
+ITEM:EGG,egg.,알。
+ITEM:BOOK,codex,코덱스
+ITEM:BOOK,codices,코덱스
+ITEM:BOOK,codex:,코덱스:
+ITEM:BOOK,codices:,코덱스:
+ITEM:BOOK,codex.,코덱스。
+ITEM:BOOK,codices.,코덱스。
 ITEM:SHEET:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SHEET:^0,,
-ITEM:SHEET,sheet,纸类
-ITEM:SHEET,sheet:,纸类:
-ITEM:SHEET,sheet.,纸类。
+ITEM:SHEET,sheet,종이류
+ITEM:SHEET,sheet:,종이류:
+ITEM:SHEET,sheet.,종이류。
 ITEM:BRANCH:^0,{:MATERIAL},{:MATERIAL}
 ITEM:BRANCH:^0,,
-ITEM:BRANCH,branch,树枝
-ITEM:BRANCH,branches,树枝
-ITEM:BRANCH,branch:,树枝:
-ITEM:BRANCH,branches:,树枝:
-ITEM:BRANCH,branch.,树枝。
-ITEM:BRANCH,branches.,树枝。
+ITEM:BRANCH,branch,나뭇가지
+ITEM:BRANCH,branches,나뭇가지
+ITEM:BRANCH,branch:,나뭇가지:
+ITEM:BRANCH,branches:,나뭇가지:
+ITEM:BRANCH,branch.,나뭇가지。
+ITEM:BRANCH,branches.,나뭇가지。
 ITEM:WHEELBARROW:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:WHEELBARROW:^0,,
 ITEM:WHEELBARROW:$0,{:NUM:NOTE},{:NUM:NOTE}
 ITEM:WHEELBARROW:$0,,
-ITEM:WHEELBARROW,wheelbarrow,手推车
-ITEM:WHEELBARROW,wheelbarrow:,手推车:
-ITEM:WHEELBARROW,wheelbarrow.,手推车。
+ITEM:WHEELBARROW,wheelbarrow,손수레
+ITEM:WHEELBARROW,wheelbarrow:,손수레:
+ITEM:WHEELBARROW,wheelbarrow.,손수레。
 ITEM:ALTAR:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:ALTAR:^0,,
-ITEM:ALTAR,altar,圣坛
-ITEM:ALTAR,altars,圣坛
-ITEM:ALTAR,altar:,圣坛:
-ITEM:ALTAR,altars:,圣坛:
-ITEM:ALTAR,altar.,圣坛。
-ITEM:ALTAR,altars.,圣坛。
+ITEM:ALTAR,altar,제단
+ITEM:ALTAR,altars,제단
+ITEM:ALTAR,altar:,제단:
+ITEM:ALTAR,altars:,제단:
+ITEM:ALTAR,altar.,제단。
+ITEM:ALTAR,altars.,제단。
 ITEM:BOOKBLINDING:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BOOKBLINDING:^0,,
-ITEM:BOOKBLINDING,book binding,书壳
-ITEM:BOOKBLINDING,book bindings,书壳
-ITEM:BOOKBLINDING,book binding:,书壳:
-ITEM:BOOKBLINDING,book bindings:,书壳:
-ITEM:BOOKBLINDING,book binding.,书壳。
-ITEM:BOOKBLINDING,book bindings.,书壳。
+ITEM:BOOKBLINDING,book binding,책표지
+ITEM:BOOKBLINDING,book bindings,책표지
+ITEM:BOOKBLINDING,book binding:,책표지:
+ITEM:BOOKBLINDING,book bindings:,책표지:
+ITEM:BOOKBLINDING,book binding.,책표지。
+ITEM:BOOKBLINDING,book bindings.,책표지。
 ITEM:BOOKCASE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BOOKCASE:^0,,
-ITEM:BOOKCASE,bookcase,书架
-ITEM:BOOKCASE,bookcases,书架
-ITEM:BOOKCASE,bookcase:,书架:
-ITEM:BOOKCASE,bookcases:,书架:
-ITEM:BOOKCASE,bookcase.,书架。
-ITEM:BOOKCASE,bookcases.,书架。
+ITEM:BOOKCASE,bookcase,책장
+ITEM:BOOKCASE,bookcases,책장
+ITEM:BOOKCASE,bookcase:,책장:
+ITEM:BOOKCASE,bookcases:,책장:
+ITEM:BOOKCASE,bookcase.,책장。
+ITEM:BOOKCASE,bookcases.,책장。
 ITEM:DIE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:DIE:^0,,
-ITEM:DIE,die,骰子
-ITEM:DIE,dies,骰子
-ITEM:DIE,die:,骰子:
-ITEM:DIE,dies:,骰子:
-ITEM:DIE,die.,骰子。
-ITEM:DIE,dies.,骰子。
+ITEM:DIE,die,주사위
+ITEM:DIE,dies,주사위
+ITEM:DIE,die:,주사위:
+ITEM:DIE,dies:,주사위:
+ITEM:DIE,die.,주사위。
+ITEM:DIE,dies.,주사위。
 ITEM:HIVE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:HIVE:^0,,
-ITEM:HIVE,hive,蜂箱
-ITEM:HIVE,hives,蜂箱
-ITEM:HIVE,hive:,蜂箱:
-ITEM:HIVE,hives:,蜂箱:
-ITEM:HIVE,hive.,蜂箱。
-ITEM:HIVE,hives.,蜂箱。
+ITEM:HIVE,hive,벌통
+ITEM:HIVE,hives,벌통
+ITEM:HIVE,hive:,벌통:
+ITEM:HIVE,hives:,벌통:
+ITEM:HIVE,hive.,벌통。
+ITEM:HIVE,hives.,벌통。
 ITEM:JUG:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:JUG:^0,,
-ITEM:JUG,jug,壶
-ITEM:JUG,jugs,壶
-ITEM:JUG,jug:,壶:
-ITEM:JUG,jugs:,壶:
-ITEM:JUG,jug.,壶。
-ITEM:JUG,jugs.,壶。
+ITEM:JUG,jug,주전자
+ITEM:JUG,jugs,주전자
+ITEM:JUG,jug:,주전자:
+ITEM:JUG,jugs:,주전자:
+ITEM:JUG,jug.,주전자。
+ITEM:JUG,jugs.,주전자。
 ITEM:MINECART:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:MINECART:^0,,
-ITEM:MINECART,minecart,矿车
-ITEM:MINECART,minecarts,矿车
-ITEM:MINECART,minecart:,矿车:
-ITEM:MINECART,minecarts:,矿车:
-ITEM:MINECART,minecart.,矿车。
-ITEM:MINECART,minecarts.,矿车。
+ITEM:MINECART,minecart,광차
+ITEM:MINECART,minecarts,광차
+ITEM:MINECART,minecart:,광차:
+ITEM:MINECART,minecarts:,광차:
+ITEM:MINECART,minecart.,광차。
+ITEM:MINECART,minecarts.,광차。
 ITEM:NESTBOX:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:NESTBOX:^0,,
-ITEM:NESTBOX,nest box,巢箱
-ITEM:NESTBOX,nest boxes,巢箱
-ITEM:NESTBOX,nest box:,巢箱:
-ITEM:NESTBOX,nest boxes:,巢箱:
-ITEM:NESTBOX,nest box.,巢箱。
-ITEM:NESTBOX,nest boxes.,巢箱。
+ITEM:NESTBOX,nest box,둥지 상자
+ITEM:NESTBOX,nest boxes,둥지 상자
+ITEM:NESTBOX,nest box:,둥지 상자:
+ITEM:NESTBOX,nest boxes:,둥지 상자:
+ITEM:NESTBOX,nest box.,둥지 상자。
+ITEM:NESTBOX,nest boxes.,둥지 상자。
 ITEM:PEDESTAL:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:PEDESTAL:^0,,
-ITEM:PEDESTAL,pedestal,基座
-ITEM:PEDESTAL,pedestals,基座
-ITEM:PEDESTAL,pedestal:,基座:
-ITEM:PEDESTAL,pedestals:,基座:
-ITEM:PEDESTAL,pedestal.,基座。
-ITEM:PEDESTAL,pedestals.,基座。
+ITEM:PEDESTAL,pedestal,받침대
+ITEM:PEDESTAL,pedestals,받침대
+ITEM:PEDESTAL,pedestal:,받침대:
+ITEM:PEDESTAL,pedestals:,받침대:
+ITEM:PEDESTAL,pedestal.,받침대。
+ITEM:PEDESTAL,pedestals.,받침대。
 ITEM:POT:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:POT:^0,,
-ITEM:POT,pot,罐
-ITEM:POT,pots,罐
-ITEM:POT,pot:,罐:
-ITEM:POT,pots:,罐:
-ITEM:POT,pot.,罐。
-ITEM:POT,pots.,罐。
+ITEM:POT,pot,단지
+ITEM:POT,pots,단지
+ITEM:POT,pot:,단지:
+ITEM:POT,pots:,단지:
+ITEM:POT,pot.,단지。
+ITEM:POT,pots.,단지。
 ITEM:SCROLLROLLER:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:SCROLLROLLER:^0,,
-ITEM:SCROLLROLLER,scroll roller,卷筒
-ITEM:SCROLLROLLER,scroll rollers,卷筒
-ITEM:SCROLLROLLER,scroll roller:,卷筒:
-ITEM:SCROLLROLLER,scroll rollers:,卷筒:
-ITEM:SCROLLROLLER,scroll roller.,卷筒。
-ITEM:SCROLLROLLER,scroll rollers.,卷筒。
+ITEM:SCROLLROLLER,scroll roller,두루마리 롤러
+ITEM:SCROLLROLLER,scroll rollers,두루마리 롤러
+ITEM:SCROLLROLLER,scroll roller:,두루마리 롤러:
+ITEM:SCROLLROLLER,scroll rollers:,두루마리 롤러:
+ITEM:SCROLLROLLER,scroll roller.,두루마리 롤러。
+ITEM:SCROLLROLLER,scroll rollers.,두루마리 롤러。
 ITEM:STEPLADDER:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:STEPLADDER:^0,,
-ITEM:STEPLADDER,stepladder,折梯
-ITEM:STEPLADDER,stepladders,折梯
-ITEM:STEPLADDER,stepladder:,折梯:
-ITEM:STEPLADDER,stepladders:,折梯:
-ITEM:STEPLADDER,stepladder.,折梯。
-ITEM:STEPLADDER,stepladders.,折梯。
+ITEM:STEPLADDER,stepladder,접이식 사다리
+ITEM:STEPLADDER,stepladders,접이식 사다리
+ITEM:STEPLADDER,stepladder:,접이식 사다리:
+ITEM:STEPLADDER,stepladders:,접이식 사다리:
+ITEM:STEPLADDER,stepladder.,접이식 사다리。
+ITEM:STEPLADDER,stepladders.,접이식 사다리。
 ITEM:DISPLAYCASE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:DISPLAYCASE:^0,,
-ITEM:DISPLAYCASE,display case,展示柜
-ITEM:DISPLAYCASE,display cases,展示柜
-ITEM:DISPLAYCASE,display case:,展示柜:	
-ITEM:DISPLAYCASE,display cases:,展示柜:	
-ITEM:DISPLAYCASE,display case.,展示柜。
-ITEM:DISPLAYCASE,display cases.,展示柜。
+ITEM:DISPLAYCASE,display case,진열장
+ITEM:DISPLAYCASE,display cases,진열장
+ITEM:DISPLAYCASE,display case:,"진열장:	"
+ITEM:DISPLAYCASE,display cases:,"진열장:	"
+ITEM:DISPLAYCASE,display case.,진열장。
+ITEM:DISPLAYCASE,display cases.,진열장。
 ITEM:BOLTTHROWERPARTS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BOLTTHROWERPARTS:^0,,
-ITEM:BOLTTHROWERPARTS,bolt thrower parts,弩箭投射器部件
-ITEM:BOLTTHROWERPARTS,bolt thrower parts:,弩箭投射器部件:
-ITEM:BOLTTHROWERPARTS,bolt thrower parts.,弩箭投射器部件。
+ITEM:BOLTTHROWERPARTS,bolt thrower parts,볼트 발사기 부품
+ITEM:BOLTTHROWERPARTS,bolt thrower parts:,볼트 발사기 부품:
+ITEM:BOLTTHROWERPARTS,bolt thrower parts.,볼트 발사기 부품。
 ITEM:CRAFTS:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:CRAFTS:^0,,
-ITEM:CRAFTS,crafts,工艺品
-ITEM:CRAFTS,crafts:,工艺品:
-ITEM:WACRAFTSN,crafts.,工艺品。
+ITEM:CRAFTS,crafts,공예품
+ITEM:CRAFTS,crafts:,공예품:
+ITEM:WACRAFTSN,crafts.,공예품。
 ITEM:BRIDGE:^0,{:MATERIAL:ADJECTIVE},{:MATERIAL:ADJECTIVE}
 ITEM:BRIDGE:^0,,
-ITEM:BRIDGE,bridge,桥
-ITEM:BRIDGE,bridge:,桥:
-ITEM:BRIDGE,bridge.,桥。
+ITEM:BRIDGE,bridge,다리
+ITEM:BRIDGE,bridge:,다리:
+ITEM:BRIDGE,bridge.,다리。
 ITEM:DYE:^0,{:PLANT:NAME} {:ITEM:DYE:PREFIX},{:PLANT:NAME}{:ITEM:DYE:PREFIX}
 ITEM:DYE:^0,{:PLANT:NAME} {:PLANT:PREFSTRING},{:PLANT:NAME}{:PLANT:PREFSTRING}
 ITEM:DYE:^0,{:PLANT:GROWTH:NAME},{:PLANT:GROWTH:NAME}
@@ -1337,22 +1337,22 @@ ITEM:DYE:^0,{:PLANT:GROWTH:NAME} {:ITEM:DYE:PREFIX},{:PLANT:GROWTH:NAME}{:ITEM:D
 ITEM:DYE:^0,{:PLANT:SEED} {:ITEM:DYE:PREFIX},{:PLANT:SEED}{:ITEM:DYE:PREFIX}
 ITEM:DYE:^0,{:ITEM:DYE:NONE} {:ITEM:DYE:PREFIX},{:ITEM:DYE:NONE}{:ITEM:DYE:PREFIX}
 ITEM:DYE:^0,{:COLOR:NAME},{:COLOR:NAME}
-ITEM:DYE,dye,染料
+ITEM:DYE,dye,염료
 ITEM:DYE,{NONE},{NONE}
-ITEM:DYE:NONE,sweet potato,甘薯
-ITEM:DYE:NONE,turnip,芜菁
-ITEM:DYE:NONE,hazel,榛
-ITEM:DYE:NONE,carrot,胡萝卜
-ITEM:DYE:NONE,potato,马铃薯
-ITEM:DYE:NONE,radish,小萝卜
-ITEM:DYE:NONE,rice husk,稻壳
+ITEM:DYE:NONE,sweet potato,고구마
+ITEM:DYE:NONE,turnip,순무
+ITEM:DYE:NONE,hazel,개암
+ITEM:DYE:NONE,carrot,당근
+ITEM:DYE:NONE,potato,감자
+ITEM:DYE:NONE,radish,무
+ITEM:DYE:NONE,rice husk,왕겨
 ITEM:DYE,{PREFIX},{PREFIX}
-ITEM:DYE:PREFIX,bark,树皮
-ITEM:DYE:PREFIX,cone,球果
-ITEM:DYE:PREFIX,leaf,叶
-ITEM:DYE:PREFIX,skin,皮
-ITEM:DYE:PREFIX,rind,皮
-ITEM:DYE:PREFIX,peel,皮
-ITEM:DYE:PREFIX,husk,壳
-ITEM:DYE:PREFIX,hull,壳
-ITEM:DYE:PREFIX,shell,壳
+ITEM:DYE:PREFIX,bark,나무껍질
+ITEM:DYE:PREFIX,cone,솔방울
+ITEM:DYE:PREFIX,leaf,잎
+ITEM:DYE:PREFIX,skin,껍질
+ITEM:DYE:PREFIX,rind,껍질
+ITEM:DYE:PREFIX,peel,껍질
+ITEM:DYE:PREFIX,husk,껍데기
+ITEM:DYE:PREFIX,hull,껍데기
+ITEM:DYE:PREFIX,shell,껍데기

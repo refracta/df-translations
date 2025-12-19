@@ -11,22 +11,22 @@ CREATURE:CHILD,{SINGULAR},{SINGULAR}
 CREATURE:CHILD,{PLURAL},{PLURAL}
 CREATURE:CHILD:SINGULAR:^0,{:CREATURE:PREFIX},{:CREATURE:PREFIX}
 CREATURE:CHILD:SINGULAR:$0,{:CREATURE:SUFFIX},{:CREATURE:SUFFIX}
-CREATURE:PREFIX,hunting,寻猎
-CREATURE:PREFIX,stray,流浪
-CREATURE:PREFIX,stray hunting,无主寻猎
-CREATURE:PREFIX,stray war,无主战争
-CREATURE:PREFIX,war,战争
+CREATURE:PREFIX,hunting,사냥용
+CREATURE:PREFIX,stray,떠돌이
+CREATURE:PREFIX,stray hunting,떠돌이 사냥용
+CREATURE:PREFIX,stray war,떠돌이 전투용
+CREATURE:PREFIX,war,전투용
 CREATURE:PREFIX,,
 CREATURE:SUFFIX:^0,x♂x,x♂x
 CREATURE:SUFFIX:^0,♀,♀
 CREATURE:SUFFIX:^0,♂,♂
 CREATURE:SUFFIX:^0,,
-CREATURE:SUFFIX,(tame)," (驯服)"
-CREATURE:SUFFIX,(Masterfully trained)," (大师级的受训)"
-CREATURE:SUFFIX,(Exceptionally trained)," (独特受训)"
-CREATURE:SUFFIX,(Expertly trained)," (专业受训)"
-CREATURE:SUFFIX,(Skillfully trained)," (娴熟受训)"
-CREATURE:SUFFIX,(Well-trained)," (良好受训)"
-CREATURE:SUFFIX,(Trained)," (受训)"
-CREATURE:SUFFIX,(Semi-wild)," (半野生)"
+CREATURE:SUFFIX,(tame)," (길들여짐)"
+CREATURE:SUFFIX,(Masterfully trained)," (명인급으로 훈련됨)"
+CREATURE:SUFFIX,(Exceptionally trained)," (탁월하게 훈련됨)"
+CREATURE:SUFFIX,(Expertly trained)," (전문적으로 훈련됨)"
+CREATURE:SUFFIX,(Skillfully trained)," (능숙하게 훈련됨)"
+CREATURE:SUFFIX,(Well-trained)," (잘 훈련됨)"
+CREATURE:SUFFIX,(Trained)," (훈련됨)"
+CREATURE:SUFFIX,(Semi-wild)," (반야생)"
 CREATURE:SUFFIX,,

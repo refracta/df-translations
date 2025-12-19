@@ -1,686 +1,686 @@
 text,translation
-"Reinforced Wall","加固墙体"
-"Make bolt thrower parts","制作弩箭投射器部件"
-"Bolt Thrower","弩箭投射器"
-"Resting orientation","静置朝向"
-"Bolts loaded","装载弩箭数"
-"Bolts nearby and available: ","附近可使用的弩箭数: "
-"Bolts nearby but assigned to squads: ","附近被军队占用的弩箭数: "
-"Bolts nearby but assigned to hunters: ","附近被猎人占用的弩箭数: "
-"Keep loaded but do not stand ready","保持装填状态但不派人操控"
-"Stand ready but do not fire","派人操控但不射击"
-"Practice fire (uses many bolts!)","进行训练射击(将消耗非常多的弩箭!)"
-"Practice fire","进行训练射击"
-"* Will also target enemies","* 也会向敌人射击"
-"* Place archery targets for better training","* 放置箭靶以获得更好的训练"
-"Fire at enemies","向敌人射击"
-"[Requires Unrotten fat renderable glob]","[需要未腐烂的可烹饪脂肪软团]"
-"PETITIONS","申 请"
-" (V Rusty)"," (极度生疏)"
-" (Rusty)"," (生疏)"
-"Assemble","组装"
-"This crucial building ","这种重要的建筑是贸易的总枢纽，"
-"is where all trading ","其他文明的载货动物需要一条从"
-"will be done.  Pack ","边界到这个建筑的通行路线。在"
-"animals from distant ","未来，还需要3格宽的通行路径以"
-"civilizations will need ","供马车通行。"
-"to access this building ",""
-"from the edge of the ",""
-"map.  Later, wagons ",""
-"will need a clear ",""
-"3-wide path to the ",""
-"depot.",""
-"Cut raw glass into gems","将生玻璃切割成宝石"
-"Specify image","指定图像"
-"Succumb to the invasion","　　　向入侵屈服"
-"Save and return to title menu","　　　保存并返回游戏主菜单"
-"Save and continue playing","　　　保存并继续游玩"
-"Abandon the fortress to ruin","　　　遗弃此要塞"
-"Quit without saving","　　　退出且不保存"
-"Settings","　 设置"
-"Return to game","　　　返回游戏"
-"Continue active game","　　　　继续游戏"
-"Start new game in existing world","　　　　　在现有的世界中开始新游戏"
-"Create new world","　　创建新的世界"
-"Object testing arena","　　　目标测试竞技场"
-"Mods","模组"
-"Set tree chopping ","设置树木砍伐任务。"
-"orders.",""
-"Set plant gathering ","设置植物采集任务。"
-"Set wall smoothing","设置墙壁打磨，雕刻，轨道凿刻"
-"engraving, track ","和垛口凿刻命令。"
-"carving, and ",""
-"fortification orders.",""
-"Hotkey: ","快捷键："
-"Remove mining, ","取消挖掘，伐木，植物采集以及"
-"woodcutting, plant ","打磨命令。"
-"gathering, and ",""
-"smoothing orders.",""
-"Place structures and ","放置那些需要建筑材料的结构和"
-"work areas that require ","工作场所。"
-"construction materials.",""
-"Place stockpiles for ","放置储存处以供物品储存。"
-"item storage.",""
-"Place zones to ","放置功能区用以设立集会区域，"
-"establish meeting ","放牧和其他功能。"
-"areas, pastures, and ",""
-"more.",""
-"Establish burrows to ","设立活动区用以在更大的要塞组"
-"organize work and ","织工作和生活空间。"
-"living spaces in larger ",""
-"fortresses.",""
-"Set hauling routes for ","设置矿车的运输路线。"
-"minecarts.",""
-"Set high and low ","设置高、低优先级通行区域。"
-"traffic areas.",""
-"Designate items for ","指定物品进行丢弃和熔炼，启用"
-"dumping and melting, ","被禁用的物品和建筑，以及设置"
-"claim forbidden items ","物品的可见性。"
-"and buildings, and set ",""
-"item visibility.",""
-"Link a stockpile to ",""
-"this stop.  Citizens ",""
-"will haul items to and ",""
-"from the minecart as ",""
-"you specify.  Items for ",""
-"the minecart must be ","将这个站点链接到一个储存处。"
-"specified using the ","居民将根据你的设定给矿车装卸"
-"desired items button to ","物品。装载给矿车的物品还需在"
-"the left.","左边的所需按钮里进行额外设置。"
-"Most tasks in the ","要塞里的绝大部分工作都在工坊"
-"fortress are started ","里启动与完成。工作通常需要原"
-"and completed at ","材料。大部分工坊都是由岩块、"
-"workshops.  Tasks ","砖块或木头所建筑的。"
-"generally require raw ",""
-"materials and most ",""
-"workshops are ",""
-"constructed from ",""
-"boulders, blocks, or ",""
-"Open the nobles and ","打开贵族与官员目录。"
-"administrators menu.",""
-"Open the work orders ","打开工作订目录。"
-"menu.",""
-"Open the place ","打开地点信息目录。"
-"information menu.",""
-"Open the task ","打开任务信息目录。"
-"Open the citizen ","打开居民信息目录"
-"Open the labor menu.","打开工作目录。"
-"Open the objects menu.","打开物品目录。"
-"Open the justice menu.","打开司法目录。"
-"Open the squad sidebar.","打开军队侧边栏。"
-"Open the world screen.","打开世界界面。"
-"Set digging orders.","设置挖掘命令。"
-"Dig a regular hallway ","挖掘常规走廊或房间。如果没有"
-"or room.  Assign a ","矿工，可以在工作目录中指派一"
-"miner to the work ","名矿工。矿工需要一把镐子以开"
-"detail if necessary.  ","始工作。"
-"The miner requires a ",""
-"pick.",""
-"Dig a stairwell on this ","在这个高度挖掘一个向上或向下"
-"level, going up or ","的楼梯井。你的操作必须跨越多"
-"down.  Your selection ","个高度。点击一个格子、改变高"
-"must span multiple ","度、然后再次点击。"
-"elevations.  Click on a ",""
-"tile, change ",""
-"elevations, and click ",""
-"again.",""
-"Dig a ramp on this ","在这个高度挖掘一个向上的坡。"
-"level, going up.",""
-"Dig a channel, making a ","挖掘一个渠,并在低一格的高度创"
-"ramp on the level below.","建一个坡。"
-"Designate constructed ","指定已建造的墙壁、地板及其他"
-"walls, floors, and ","已建造的砖块由矿工拆除。此操"
-"other constructed tiles ","作也将指定所有楼梯井和坡道。"
-"to be removed by ",""
-"miners.  This also ",""
-"designates all ",""
-"stairwells and ramps.",""
-"Left click to choose ","左键点击以选择矩形的一角。"
-"corners of a rectangle.",""
-"Hold left button to ","按住左键进行绘制。"
-"draw.",""
-"Dig only ore and gems ","　　仅挖掘选中的矿石和宝石，"
-"selected, and automine ","并自动开采新露出的同类型矿石"
-"any ore and gems of the ","与宝石。"
-"same type which are ",""
-"uncovered.",""
-"Dig only ore and gems ","仅挖掘选中的矿石和宝石。"
-"selected",""
-"Selected tiles are very ",""
-"high priority.","所选区域将被设为最高优先级。"
-"low priority.","所选区域将被设为最低优先级。"
-"Selected tiles are high ","所选区域将被设为高优先级。"
-"Selected tiles are low ","所选区域将被设为低优先级。"
-"priority.",""
-"Selected tiles are ",""
-"high-medium priority.","所选区域将被设为中高优先级。"
-"medium priority. ","所选区域将被设为中优先级。"
-"medium-low priority.","所选区域将被设为中低优先级。"
-"[DEFAULT]","　　　　[默认设置]"
-"Change to ","切换到仅放置显示蓝图模式。"
-"blueprint-only mode.",""
-"Change to standard dig ","切换到标准挖掘模式。"
-"mode.",""
-"Change blueprints to ","将蓝图切换为标准选择模式。"
-"standard selections.",""
-"Change standard ","将标准选择切换为"
-"selections to ","蓝图模式。"
-"blueprints.",""
-"Finish setting dig ","结束挖掘设置"
-"Finish setting tree ","结束设置树木砍伐任务"
-"chopping orders.",""
-"orders.  Select the ","选择树木的基部，以便伐木工能"
-"base of the tree so ","够抵达。如果没有伐木工，可以"
-"that the woodcutter can ","在工作目录中指派一名伐木工执"
-"reach it.  Assign a ","行此项工作。"
-"woodcutter to the work ","伐木工需要一把斧子以开"
-"The woodcutter requires ",""
-"an axe.",""
-"Finish setting plant ","结束设置植物采集任务"
-"gathering orders.",""
-"Finish setting wall ","结束设置墙壁指令"
-"Smooth a rough wall to ","将粗糙的墙面打磨平整，让居民"
-"make it more pleasing ","更加满意。也为墙面的雕刻或加"
-"to your citizens.  This ","固做好准备。"
-"also prepares the wall ",""
-"for engraving or ",""
-"fortification.",""
-"Engrave artwork into a ","将艺术作品雕刻在平滑的墙面上。"
-"smooth wall.",""
-"Carve a track in a ","在石制地板上刻划一条轨道，用"
-"stone floor.  Tracks ","于装载已设置路线的矿车。"
-"are used by minecarts ",""
-"with routes set in the ",""
-"hauling menu.",""
-"Carve a gap in a smooth ","在光滑的墙面上凿一个缺口，让"
-"wall to allow your ","你的弓箭手向敌人射箭。"
-"archers to fire upon ",""
-"invaders.",""
-"Finish removing mining ","结束清除挖掘等指令。"
-"etc. orders.",""
-"Finish placing ",""
-"structures.","结束放置结构。"
-"These workshops are ","这些工坊被用于包括染色和纺织"
-"used in the ","以及使用鞣制皮革的服装制作工"
-"clothesmaking process, ","序。"
-"whether dyeing and ",""
-"weaving or using tanned ",""
-"hides.",""
-"Use leather tanned at ","在此使用制革作坊鞣制的皮革来"
-"the tanner's shop here ","制作衣物和工具(例如袋子和水囊)。"
-"to make clothing and ",""
-"tools, such as bags and ",""
-"waterskins.",""
-"Here you can turn ","在此可以将线织成布，无论是来"
-"thread into cloth, ","自农业工坊的线，还是地下收集"
-"whether it is thread ","的蛛丝。"
-"from the farmer's ",""
-"workshop or spider silk ",""
-"gathered underground.",""
-"Make cloth into ","在此将布料制成衣物和工具(例如"
-"clothing and tools ","袋子和绳索)。"
-"here, such as bags and ",""
-"ropes.",""
-"Use dyes here to color ","在此使用染料为线和布料染色。"
-"thread and cloth.  ","建造时需要圆桶和提桶。"
-"Requires a barrel and ",""
-"bucket for construction.",""
-"A wide variety of ","此类别包含多种与食品和酒水相"
-"food-and-drink-related ","关的工坊。"
-"workshops can be found ",""
-"in this category.",""
-"Plant crops at the ","在农田种植作物。你需要种子或"
-"farmplot.  You will ","孢子，并且必须按季节选择作物。"
-"need seeds or spawn and ","作物可用钾肥施肥。地下深处的"
-"must select crops by ","土壤更肥沃。"
-"season.  Crops can be ",""
-"fertilized with potash. ",""
-"Soil is richer deeper ",""
-"underground.",""
-"Brew alcohol from ","用植物、水果或蜂蜜酿造酒精饮"
-"plants, fruit, or honey.","料。"
-"Slaughter livestock ","在此屠宰牲畜以获取肉类、毛皮、"
-"here in order to obtain ","骨头和其他动物产品。"
-"meat, hides, bones, and ",""
-"other animal products.",""
-"Make leather from ","在此将动物毛皮制成皮革。你也"
-"animal hides here.  You ","可以使用石灰乳和毛皮制作羊皮纸。"
-"can also make parchment ",""
-"using milk of lime and ",""
-"a hide.",""
-"Process raw fish into ","在此将生鱼加工成可食用的食物。"
-"edible food here.  Raw ","未加工的生鱼不会被食用。"
-"fish will not be eaten.",""
-"Cook meals here.  You ","在此烹饪餐食。你也可以将脂肪"
-"can also render fat ","提炼成动物油脂。"
-"into tallow.",""
-"Process plants and work ","在此加工植物和照料牲畜。挤奶、"
-"with livestock here.  ","剪毛、制作奶酪以及将毛团纺成"
-"Milk and shear animals, ","细线。"
-"make cheese, and spin ",""
-"thread.",""
-"Make sugar, flour, and ","在此制作糖、面粉和各种有用的"
-"various useful slurries ","浆糊。与动力磨石相比，任务完"
-"here.  Tasks are ","成速度非常慢。"
-"completed very slowly ",""
-"compared to the powered ",""
-"millstone.",""
-"Capture and train small ","在此捕获和训练小动物。需要动"
-"animals here.  Requires ","物陷阱。"
-"animal traps.",""
-"When placed, a female ","放置后，如果有可用的雌鸟，它"
-"bird will claim the box ","会占据箱子并开始产蛋。"
-"and start laying eggs, ",""
-"if one is available.",""
-"Keep a colony of ","在蜂箱饲养蜂巢。蜂箱放置后必"
-"insects at your hives.  ","须收集野生蜂巢，或者可以从现"
-"A wild colony must be ","有蜂箱蜂巢中分蜂。"
-"collected after the ",""
-"hive is placed, or a ",""
-"colony can be split ",""
-"from an existing hive ",""
-"colony.",""
-"Furnaces are used for ","熔炉用于冶炼、玻璃制造、陶器"
-"smelting, glassmaking, ","制作、制灰，或从木材或原煤制"
-"pottery, ashmaking, or ","造燃料。熔炉需要燃料才能运作，"
-"to make fuel from wood ","有些则需要设置在岩浆上方以代"
-"or raw coal.  Furnaces ","替燃料。"
-"require fuel to ",""
-"function, or they can ",""
-"be set above magma.",""
-"Bake clay objects here, ","在此烘烤黏土制品以及其他一些"
-"as well as a few other ","有用材料。如果你有黏土收集区，"
-"useful materials.  Clay ","也可在此收集黏土。"
-"can also be collected ",""
-"here if you have a clay ",""
-"collection zone.  All ",""
-"tasks require fuel ","收集黏土外，所有任务都需要"
-"aside from clay ","燃料。"
-"collection.",""
-"You can make a variety ","你可以使用三种不同类型的玻璃"
-"of objects using three ","制造各种物品。如果你有沙收集"
-"different types of ","区，也可在此发起任务以用袋子"
-"glass.  You can also ","收集沙子。"
-"collect sand in bags ",""
-"from a task originating ",""
-"here, if you have a ",""
-"sand collection zone.  ",""
-"Glassmaking requires ","玻璃制造需要燃料。"
-"fuel.",""
-"Magma below the furnace ","熔炉下方的岩浆将为任务提供动"
-"will power tasks.  You ","力。你需要负责将熔炉放置在岩"
-"are responsible for ","浆上方，除此之外无需其他燃料。"
-"placing the furnace ",""
-"above the magma, but no ",""
-"other fuel is required.",""
-"collection zone.  Magma ","窑炉下方的岩浆将为任务提供动"
-"below the kiln will ","力。你需要负责将窑炉放置在岩"
-"power tasks.  You are ","浆上方，除此之外无需其他燃料。"
-"responsible for placing ",""
-"the kiln above the ",""
-"magma, but no other ",""
-"fuel is required.",""
-"Magma below the smelter ","熔炼炉下的岩浆将为任务提供动"
-"placing the smelter ",""
-"Make metal bars from ","在此将矿石制成金属锭。也可将"
-"ore here.  Can also ","煤精炼成可用燃料或制造合金。"
-"refine coal into usable ","所有任务都需要燃料。"
-"fuel or make alloys.  ",""
-"All tasks require fuel.",""
-"Make charcoal and ash ","在此将木材制成木炭和灰烬。"
-"from wood here.  Does ","无需燃料。"
-"not require fuel.",""
-"Used to make lye, ","用于制造碱液、草碱和石灰乳。"
-"potash, and milk of ","建造需要一个砖块、一个圆桶和"
-"lime.  Construction ","一只提桶。"
-"requires blocks, ",""
-"barrel, and a bucket.",""
-"Make crossbows here ","在此用木材或骨骼制造十字弩。"
-"from wood or bone.  The ","锻造间可用于制造金属十字弩和"
-"metalsmith's forge can ","金属弩箭，而手工艺工坊则用于"
-"be used for metal ","制造其他弩箭。"
-"crossbows and metal ",""
-"bolts, and the crafts ",""
-"workshop is used to ",""
-"make other bolts.",""
-"Make beds and various ","在此制造床和各种家具，以及储"
-"furniture here, as well ","物箱、圆桶等。"
-"as bins, barrels, and ",""
-"Make crafts for trade ","在此制造用于贸易和供自己居民"
-"and your own citizens ","使用的工艺品，以及各种工具、"
-"here, as well as a ","盔甲和弩箭。"
-"variety of tools, ",""
-"armor, and bolts.",""
-"Cut rough gems here to ","在此切割粗糙宝石以提高其价值，"
-"increase their value, ","并通过镶嵌切割好的宝石来提升"
-"and improve the value ","其他物品的价值。"
-"of other objects by ",""
-"encrusting them with ",""
-"cut gems.",""
-"Forge weapons and armor ","在此锻造武器和盔甲，以及大多"
-"here, as well as most ","数其他金属制品（从家具到陷阱"
-"other metal objects ","部件）。"
-"from furniture to trap ",""
-"components.  Magma ","锻炉下方的岩浆将为任务提供动"
-"below the forge will ","力。你需要负责将锻炉放置在岩"
-"the forge above the ",""
-"Make mechanisms here ","在此制造用于制作拉杆、压力板"
-"which are used to make ","和齿轮的机械装置。你也可使用"
-"levers, pressure ","机械装置将杠杆和压力板与其他"
-"plates, and gears.  You ","机械连接起来。"
-"can also use mechanisms ",""
-"to link levers and ",""
-"pressure plates to ",""
-"other machinery.",""
-"components.  These ",""
-"tasks require fuel.","这些任务需要燃料。"
-"A useful workshop for ","一个实用的工坊，用于从各种原"
-"pressing liquids from ","料中压榨液体。有些植物可能需"
-"various sources. Some ","要先研磨才能使用。需要空壶来"
-"plants might need to be ","储存液体产品。"
-"milled first before ",""
-"they can be used.  ",""
-"Empty jugs are required ",""
-"to store the liquid ",""
-"products.",""
-"Here you can make parts ","在此你可以制造弩炮和投石机的"
-"for ballistae and ","部件。此工坊也是组装弩炮弹药"
-"catapults.  This ","的地方。"
-"workshop is also the ",""
-"place where ballista ",""
-"ammo is assembled.",""
-"Use tallow (rendered ","在此使用脂油（提炼的脂肪）或"
-"fat) or oil here with ","油液与碱液制造肥皂。"
-"lye to make soap.",""
-"Make stone furniture ","在此制造石质家具，以及用于建"
-"here, as well as blocks ","筑的砖块。"
-"which are used in ",""
-"constructions.",""
-"Use options in this ","使用此类别中的选项来放置已在"
-"category to place ","工坊构造好的家具。"
-"furniture that has ",""
-"already been ",""
-"constructed in a ",""
-"workshop.",""
-"Your citizens need a ","你的居民需要一个舒适的睡眠场"
-"comfortable place to ","所。床物品必须在木匠铺制作完"
-"sleep.  A bed object ","成后才能放置。"
-"must be made at the ",""
-"carpenter's shop before ",""
-"it can be placed.",""
-"Chairs are required for ","椅子是办公室运作所必需的，而"
-"offices to function, ","桌子旁的椅子是首选的用餐布局。"
-"and a chair next to a ","椅子/王座物品必须先制作才能放"
-"table is the preferred ","置。"
-"dining arrangement.  A ",""
-"chair/throne object ",""
-"must be made before it ",""
-"can be placed.",""
-"Tables are required for ","桌子是用餐所必需的。应在桌子"
-"dining.  A chair should ","旁放置椅子。桌子物品必须先制"
-"be placed adjacent to ","作才能放置。"
-"the table.  A table ",""
-"object must be made ",""
-"before it can be placed.",""
-"Chests and coffers are ","箱子和保险箱用于个人卧室存放"
-"used in personal ","非服饰物品。它们也用于一些基"
-"bedrooms for storing ","于区域的场所（如酒馆、医院和"
-"non-clothing objects.  ","图书馆）存放有用材料。箱盒类"
-"They are also used in ",""
-"some zone-based ",""
-"locations like taverns, ",""
-"hospitals, and ",""
-"libraries for storing ",""
-"useful materials.  A ",""
-"box object must be made ",""
-"Cabinets are used in ","柜子用于个人卧室存放服饰物品。"
-"personal bedrooms for ","柜子物品必须先制作才能放置。"
-"storing clothing ",""
-"objects.  A cabinet ",""
-"The dead are buried in ","死者被安葬在棺材中。棺材必须"
-"coffins.  Coffins must ","放置在其专属的坟墓区域内才能"
-"be placed in their own ","生效。棺材物品必须先制作才能"
-"tomb zone in order to ","放置。"
-"work.  A coffin object ",""
-"Citizens that cannot be ","无法被妥善安葬的居民仍可从石"
-"buried properly can ","碑上纪念。石碑在石匠铺制作和"
-"still be memorialized ","雕刻。"
-"on slabs.  Slabs are ",""
-"created and engraved at ",""
-"the stoneworker's shop.",""
-"Statues can be used to ","雕像可用于装饰你的要塞并为你"
-"decorate your fortress ","的房间增添价值。雕像物品必须"
-"and add value to your ","先在相应的工坊制作。"
-"rooms.  A statue object ",""
-"must be made at an ",""
-"appropriate workshop ",""
-"first.",""
-"Certain injuries such ","某些伤害（如重叠式骨折）需要"
-"as overlapping ","牵引台等高级医疗装置进行治疗。"
-"fractures require ","牵引台物品必须先制作才能放置。"
-"advanced medical ",""
-"contraptions like the ",""
-"traction bench for ",""
-"treatment.  A traction ",""
-"bench object must be ",""
-"made before it can be ",""
-"placed.",""
-"Codices and scrolls in ","你图书馆中的抄本和卷轴可以存"
-"your library can be ","放在书架中。书架物品必须先制"
-"stored in bookcases.  A ","作才能放置。"
-"bookcase object must be ",""
-"Your most valuable ","你最有价值的物品可以放在房间"
-"objects can be placed ","中展示，以提升其价值并供路过"
-"for display in rooms to ","的居民欣赏。基座或展示柜必须"
-"increase their value ","先制作才能放置。"
-"and to entertain ",""
-"passing citizens.  A ",""
-"pedestal or display ",""
-"case must be made ",""
-"These ornamental ","这些装饰性物品会提升其所在房"
-"objects increase the ","间的价值。供奉处物品必须先制"
-"value of rooms in which ","作才能放置。"
-"they are placed.  An ",""
-"offering place object ",""
-"Large instruments must ","大型乐器必须放置在酒馆或神庙"
-"be placed in taverns or ","中才会被使用。这些乐器必须先"
-"temples before they ","在工坊组装完成。"
-"will be used.  These ",""
-"instruments must be ",""
-"assembled at a workshop ",""
-"Place doors and hatches ","在相应的工坊建造好门和活板门"
-"here after you have ","后，在此放置它们。"
-"constructed them in an ",""
-"appropriate workshop.",""
-"Doors can be used along ","门可与墙壁结合使用以封闭房间，"
-"with walls to enclose ","这在同时放置多个功能区时尤为"
-"rooms, which is ","重要。门也可被禁用或连接到杠"
-"especially important ","杆上，以控制要塞内的通行。"
-"when placing multiple ",""
-"zones at once.  Doors ",""
-"can also be forbidden ",""
-"or attached to levers ",""
-"to control movement in ",""
-"the fort.",""
-"Hatches can be placed ","盖板可放置在楼梯井顶部或斜坡"
-"at the tops of ","上方，当其被禁用或连接到拉杆"
-"stairwells or above ","时，用以控制要塞内的通行。"
-"ramps to control ",""
-"movement in the fort ",""
-"when they are forbidden ",""
-"or attached to levers.",""
-"Most terrain-altering ","大多数改变地形的建筑结构都可"
-"constructions can be ","以在这里找到，从墙壁、地板到"
-"found here, from walls ","桥梁、斜坡、楼梯等等。"
-"and floors to bridges, ",""
-"ramps, stairs, and more.",""
-"More complicated ","更复杂的建筑在这里，从水井到"
-"buildings from wells to ","动力机械部件，再到杠杆和闸门。"
-"powered machine ",""
-"components to levers ",""
-"and floodgates are ",""
-"found here.",""
-"Cages, ropes, and ","笼子、绳索和动物陷阱在这里。"
-"animal traps are found ","笼子可用于笼陷阱或运输大型动"
-"here.  Cages can be ","物。金属笼子和链条也用于司法"
-"used in cage traps or ","系统。"
-"to transport large ",""
-"animals.  Metal cages ",""
-"and chains are also ",""
-"used by the justice ",""
-"system.",""
-"Various mechanical ","各种机械陷阱可以在这里找到。"
-"traps can be found ","压力板也在这里，其应用不仅限"
-"here.  The pressure ","于陷阱。"
-"plate is also found ",""
-"here, which has ",""
-"applications beyond ",""
-"traps.",""
-"Archery targets, siege ","箭靶、攻城武器和一些装饰性展"
-"weapons, and some ","示物品可以在此类别中找到。"
-"ornamental display ",""
-"items can be found in ",""
-"this category.",""
-"wood.",""
-"Pressure plates, like ","压力板与杠杆类似，用于与机器、"
-"levers, are used with ","门、闸门、桥梁、笼子及其他结"
-"machines, doors, ","构配合，以改变它们的状态。压"
-"floodgates, bridges, ","力板的触发器可以根据生物重量、"
-"cages, and other ","流体或矿车通过来设置。"
-"structures to change ",""
-"are used with ",""
-"their state.  The ",""
-"trigger for pressure ",""
-"plates can be set by ",""
-"creature weight, fluid, ",""
-"or minecart passage.",""
-"Stone-fall traps drop a ","落石陷阱向入侵者投下岩石。必"
-"stone on intruders.  ","须装载石块。"
-"Must be loaded with ",""
-"boulders.",""
-"Weapon traps use a ","武器陷阱使用武器或陷阱组件攻"
-"weapon or trap ","击入侵者。可与远程武器一起使"
-"component to strike ","用并装载弹药。可以同时使用多"
-"intruders.  Can be used ","种武器。"
-"with ranged weapons and ",""
-"loaded with ammo.  Can ",""
-"use multiple weapons at ",""
-"once.",""
-"Cage traps capture ","笼子陷阱将入侵者捕获在笼子中。"
-"intruders in cages.  ","必须装载一个笼子。"
-"Must be loaded with a ",""
-"cage.",""
-"Upright weapons are a ","直立尖刺是入侵者跌落的险恶之"
-"nasty place for ","处。也可以连接到杠杆或压力板，"
-"intruders to fall upon. ","将其升起刺向入侵者。"
-"Can also be linked to ",""
-"levers or pressure ",""
-"plates to raise them ",""
-"into intruders.",""
-"Archery targets are ","箭靶用于射箭场区域训练射手。"
-"used in archery range ",""
-"zones for training ",""
-"archers.",""
-"Ornamental.  Demanded ","装饰品。部分贵族有需求。"
-"by some nobles.",""
-"A ballista fires a ","弩炮向固定方向发射弩炮大箭。"
-"ballista arrow in a ","操作员可以在一个锥形范围内"
-"fixed direction.  The ","自由调整瞄准。"
-"operator can adjust the ",""
-"aim freely within a ",""
-"cone.",""
-"A catapult fires a ","投石机向固定方向发射岩块。"
-"boulder in a fixed ","操作员可以在一个锥形范围内"
-"direction.  The ","自由调整瞄准。"
-"A bolt thrower fires a ","弩箭投射器能快速发射常规弩"
-"regular bolts rapidly.  ","矢。操作员从任意相邻可用地"
-"The operator swivels ","块旋转机器。"
-"the machine from any ",""
-"available adjacent ",""
-"tiles.",""
-"Start painting a new ","开始绘制新的储物处。选定地块"
-"stockpile.  Once the ","后，你将能够设置详细信息。"
-"tiles are chosen, ",""
-"you'll be able to set ",""
-"the details.",""
-"Erase a portion of this ","擦除一部分此处的储物处。"
-"stockpile.",""
-"Remove the stockpile ","永久移除正在绘制的储物处。同"
-"being painted ","时移除现有功能区！"
-"permanently.  Also ",""
-"stockpiles.","结束放置储物处。"
-"removes existing zones!",""
-"Finish placing zones.","结束放置功能区。"
-"Finish establishing ","结束划定活动区。"
-"burrows.",""
-"Finish setting hauling ","结束设置运输路线。"
-"routes.",""
-"Finish setting traffic ","结束设置交通区域。"
-"areas.",""
-"Set a high traffic ","设置高流量交通区域。在宽阔的"
-"area.  Use this in wide ","主要通道使用此设置。"
-"central passages.",""
-"Set a normal traffic ","设置正常交通区域，此为默认状"
-"area, the default state.","态。"
-"Set a low traffic area. ","设置低流量交通区域。居民将寻"
-"Citizens will look for ","找更好的路线。"
-"better routes.",""
-"Set a restricted ","设置限制通行区域。居民将尽力"
-"traffic area.  Citizens ","寻找更好的路线。如果其他路线"
-"will look hard for ","不存在或过长，他们仍会使用该"
-"better routes.  They ","区域。"
-"will still use the area ",""
-"if other routes do not ",""
-"exist or are too long.",""
-"Finish setting ","结束设置物品/建筑指定。"
-"item/building ",""
-"designations.",""
-"Claim a forbidden item ","认领一个被禁用的物品或建筑，"
-"or building so it will ","以便你的居民能够使用它。"
-"be used by your ",""
-"citizens.",""
-"Forbid your citizens ","禁止你的居民使用某个物品或建"
-"from using an item or ","筑。"
-"building.",""
-"Designate an item for ",""
-"dumping in a dumping ","指定物品在倾倒区进行倾倒。"
-"zone.",""
-"Remove dumping ","移除倾倒指定。"
-"melting at any smelter.","指定物品在任意熔炉进行熔炼。"
-"Remove melting ","移除熔炼指定。"
-"Remove hidden ","移除隐藏的指定。"
-"Hide an item or ","从你的视野中隐藏一个物品或建"
-"building from your ","筑。居民仍会使用它。"
-"view.  Citizens will ",""
-"still use it.",""
-"   * Requires wild colony or","   *需要野生蜂巢或"
-"   * Existing hive","   *现有的蜂箱"
-"Gather any products","收集任意产品"
-"   * Destroys colony","   *破坏蜂巢"
-"   * Requires a jug","   *需要一个壶"
-"   * Saves colony for split","   *保留蜂巢用于分蜂"
-"No outdoor access","没有通向户外的路径"
-"Outdoor access","通向户外的路径"
-"Not ready to be split","还没准备好分蜂"
-"No available colony","没有可用的蜂巢"
-"Colony to Install","用于安装的蜂巢"
-"Return Colony To Install","带回蜂巢用于安装"
-"New handwear","新的手部装备"
-"New footwear","新的足部装备"
-"New headwear","新的头部装备"
-"New legwear","新的腿部装备"
-"New bodywear","新的躯干装备"
-"Mat","材料"
-"Mechanic's Workshop","机械工坊"
-"became","改变状态"
-"down",""
-"with",""
-"devoured","吃掉了:"
-"enemy","被通缉-"
-"struck","击杀了-"
-"attacked","交战-"
-"fought","击退了-"
-"childhood",""
-"friends.","结识为童年玩伴"
-"other","其他"
-"Zones","功能区"
+Reinforced Wall,보강 벽
+Make bolt thrower parts,볼트 투척기 부품 제작
+Bolt Thrower,볼트 투척기
+Resting orientation,대기 방향
+Bolts loaded,장전된 볼트 수
+"Bolts nearby and available: ","근처에서 사용 가능한 볼트 수: "
+"Bolts nearby but assigned to squads: ","근처에 있지만 부대에 할당된 볼트 수: "
+"Bolts nearby but assigned to hunters: ","근처에 있지만 사냥꾼에게 할당된 볼트 수: "
+Keep loaded but do not stand ready,장전 상태는 유지하되 조작자는 배치하지 않음
+Stand ready but do not fire,조작자는 배치하되 발사하지 않음
+Practice fire (uses many bolts!),훈련 사격(볼트를 매우 많이 소모합니다!)
+Practice fire,훈련 사격
+* Will also target enemies,* 적도 겨냥함
+* Place archery targets for better training,* 더 나은 훈련을 위해 양궁 과녁을 배치
+Fire at enemies,적에게 사격
+[Requires Unrotten fat renderable glob],[썩지 않은 정제 가능한 지방 덩어리가 필요]
+PETITIONS,청 원
+" (V Rusty)"," (매우 녹슨)"
+" (Rusty)"," (녹슨)"
+Assemble,조립
+"This crucial building ",이 중요한 건물은 무역의 중심지이며，
+"is where all trading ",다른 문명의 짐짐승은 지도 가장자리에서
+"will be done.  Pack ",이 건물까지의 통행 경로가 필요합니다。그리고
+"animals from distant ",추후에는，마차가 다닐 수 있도록 3칸 너비의 통행로가
+"civilizations will need ",확보되어야 합니다。
+"to access this building ",
+"from the edge of the ",
+"map.  Later, wagons ",
+"will need a clear ",
+"3-wide path to the ",
+depot.,
+Cut raw glass into gems,생유리를 보석으로 깎기
+Specify image,이미지 지정
+Succumb to the invasion,　　　침공에 굴복
+Save and return to title menu,　　　저장하고 타이틀 메뉴로 돌아가기
+Save and continue playing,　　　저장하고 계속 플레이
+Abandon the fortress to ruin,　　　요새를 버리기
+Quit without saving,　　　저장하지 않고 종료
+Settings,　 설정
+Return to game,　　　게임으로 돌아가기
+Continue active game,　　　　진행 중인 게임 계속하기
+Start new game in existing world,　　　　　기존 세계에서 새 게임 시작
+Create new world,　　새 세계 생성
+Object testing arena,　　　객체 테스트 아레나
+Mods,모드
+"Set tree chopping ",나무 베기 명령을 설정합니다。
+orders.,
+"Set plant gathering ",식물 채집 명령을 설정합니다。
+Set wall smoothing,벽 다듬기，새김，궤도 새기기
+"engraving, track ",및 총안 새기기 명령을 설정합니다。
+"carving, and ",
+fortification orders.,
+"Hotkey: ","단축키: "
+"Remove mining, ","채굴, 벌목, 식물 채집을 취소하고"
+"woodcutting, plant ",연마 명령입니다.
+"gathering, and ",
+smoothing orders.,
+"Place structures and ",건축 자재가 필요한 구조물과
+"work areas that require ",작업장을 배치합니다.
+construction materials.,
+"Place stockpiles for ",물품을 저장할 비축구역을 배치합니다.
+item storage.,
+"Place zones to ","집회 구역을 만들 기능 구역을 배치하고,"
+"establish meeting ",방목 등 다른 기능을 설정합니다.
+"areas, pastures, and ",
+more.,
+"Establish burrows to ",활동 구역을 설정하여
+"organize work and ",더 큰 요새의 작업과 주거 공간을 조직합니다.
+"living spaces in larger ",
+fortresses.,
+"Set hauling routes for ",광차 운송 경로를 설정합니다.
+minecarts.,
+"Set high and low ",높은 우선순위와 낮은 우선순위 통행 구역을 설정합니다.
+traffic areas.,
+"Designate items for ","물품을 버리거나 용해하도록 지정하고,"
+"dumping and melting, ","비활성화된 물품과 건축물을 활성화하며,"
+"claim forbidden items ",물품의 가시성을 설정합니다.
+"and buildings, and set ",
+item visibility.,
+"Link a stockpile to ",
+"this stop.  Citizens ",
+"will haul items to and ",
+"from the minecart as ",
+"you specify.  Items for ",
+"the minecart must be ",이 정차지를 비축구역에 연결합니다.
+"specified using the ",거주민들이 설정에 따라 광차에 물품을 싣고 내립니다.
+"desired items button to ",광차에 적재할 물품은 또한
+the left.,왼쪽의 필요한 물품 버튼에서 추가로 설정해야 합니다.
+"Most tasks in the ",요새의 거의 모든 작업은 공방에서
+"fortress are started ",시작되고 완료됩니다. 작업은 보통 원자재가 필요합니다.
+"and completed at ","대부분의 공방은 바위,"
+"workshops.  Tasks ",벽돌이나 목재로 지어집니다.
+"generally require raw ",
+"materials and most ",
+"workshops are ",
+"constructed from ",
+"boulders, blocks, or ",
+"Open the nobles and ",귀족 및 관리 명단을 엽니다.
+administrators menu.,
+"Open the work orders ",작업 지시 목록을 엽니다.
+menu.,
+"Open the place ",장소 정보 메뉴를 엽니다.
+information menu.,
+"Open the task ",작업 정보 메뉴를 엽니다.
+"Open the citizen ",주민 정보 메뉴를 엽니다
+Open the labor menu.,노동 메뉴를 엽니다.
+Open the objects menu.,물품 메뉴를 엽니다.
+Open the justice menu.,사법 메뉴를 엽니다.
+Open the squad sidebar.,분대 사이드바를 엽니다.
+Open the world screen.,세계 화면을 엽니다.
+Set digging orders.,굴착 지시를 설정합니다.
+"Dig a regular hallway ","일반적인 복도나 방을 굴착합니다. 만약 "
+"or room.  Assign a ","광부가 없다면, 노동 메뉴에서 한 "
+"miner to the work ","명의 광부를 배정할 수 있습니다. 광부는 작업을 "
+"detail if necessary.  ",시작하려면 곡괭이가 필요합니다.
+"The miner requires a ",
+pick.,
+"Dig a stairwell on this ","이 높이에서 위로 또는 아래로 이어지는 "
+"level, going up or ","계단통을 굴착합니다. 선택 영역은 여러 "
+"down.  Your selection ","높이에 걸쳐야 합니다. 타일을 클릭하고 높이를 "
+"must span multiple ",바꾼 다음 다시 클릭하세요.
+"elevations.  Click on a ",
+"tile, change ",
+"elevations, and click ",
+again.,
+"Dig a ramp on this ",이 높이에서 위로 올라가는 경사로를 굴착합니다.
+"level, going up.",
+"Dig a channel, making a ","수로를 파고, 한 층 아래 높이에 경사로를 "
+ramp on the level below.,만듭니다.
+"Designate constructed ","지어진 벽, 바닥 및 기타 "
+"walls, floors, and ","건설된 타일을 광부가 철거하도록 지정합니다. 또한 "
+"other constructed tiles ",모든 계단통과 경사로를 지정합니다.
+"to be removed by ",
+"miners.  This also ",
+"designates all ",
+stairwells and ramps.,
+"Left click to choose ",왼쪽 버튼을 클릭하여 직사각형의 한 모서리를 선택합니다.
+corners of a rectangle.,
+"Hold left button to ",왼쪽 버튼을 누른 채로 그립니다.
+draw.,
+"Dig only ore and gems ","　　선택한 광석과 보석만 굴착하고, "
+"selected, and automine ","새로 드러난 같은 종류의 광석과 "
+"any ore and gems of the ",보석을 자동으로 채굴합니다.
+"same type which are ",
+uncovered.,
+"Dig only ore and gems ",선택한 광석과 보석만 굴착합니다.
+selected,
+"Selected tiles are very ",
+high priority.,선택한 영역은 최고 우선순위로 설정됩니다.
+low priority.,선택한 영역은 최저 우선순위로 설정됩니다.
+"Selected tiles are high ",선택한 타일은 높은 우선순위로 설정됩니다。
+"Selected tiles are low ",선택한 타일은 낮은 우선순위로 설정됩니다。
+priority.,
+"Selected tiles are ",
+high-medium priority.,선택한 타일은 중상 우선순위로 설정됩니다。
+"medium priority. ",선택한 타일은 중간 우선순위로 설정됩니다。
+medium-low priority.,선택한 타일은 중하 우선순위로 설정됩니다。
+[DEFAULT],　　　　[기본 설정]
+"Change to ",블루프린트 전용 모드로 전환합니다。
+blueprint-only mode.,
+"Change to standard dig ",표준 파기 모드로 전환합니다。
+mode.,
+"Change blueprints to ",블루프린트를 표준 선택 모드로 전환합니다。
+standard selections.,
+"Change standard ","표준 선택을 "
+"selections to ",블루프린트 모드로 전환합니다。
+blueprints.,
+"Finish setting dig ",파기 설정을 마칩니다
+"Finish setting tree ",나무 벌목 작업 설정을 마칩니다
+chopping orders.,
+"orders.  Select the ",나무꾼이 도달할 수 있도록 나무의 밑동을 선택해
+"base of the tree so ",주세요。나무꾼이 없다면，
+"that the woodcutter can ","작업 목록에서 나무꾼을 지정해 "
+"reach it.  Assign a ",이 작업을 수행하게 하세요。
+"woodcutter to the work ",나무꾼은 작업을 시작하려면 도끼가 필요합니다。
+"The woodcutter requires ",
+an axe.,
+"Finish setting plant ",식물 채집 작업 설정을 마칩니다
+gathering orders.,
+"Finish setting wall ",벽 명령 설정을 마칩니다
+"Smooth a rough wall to ","거친 벽을 매끈하게 다듬어，주민들이 "
+"make it more pleasing ","더 만족하도록 합니다。또한 벽에 새기거나 "
+"to your citizens.  This ",총안을 파기 위한 준비가 됩니다。
+"also prepares the wall ",
+"for engraving or ",
+fortification.,
+"Engrave artwork into a ",매끄러운 벽에 예술 작품을 새깁니다。
+smooth wall.,
+"Carve a track in a ",석제 바닥에 궤도를 새겨，
+"stone floor.  Tracks ",운반 메뉴에서 경로가 설정된 광차에 사용합니다。
+"are used by minecarts ",
+"with routes set in the ",
+hauling menu.,
+"Carve a gap in a smooth ",매끄러운 벽에 총안을 파서，
+"wall to allow your ",궁수들이 적에게 사격할 수 있게 합니다。
+"archers to fire upon ",
+invaders.,
+"Finish removing mining ",채굴 등 명령 제거를 마칩니다。
+etc. orders.,
+"Finish placing ",
+structures.,구조물 배치를 끝냅니다。
+"These workshops are ",이 공방들은 염색과 직조를 포함하여
+"used in the ",무두질한 가죽을 사용하는 등 의류 제작
+"clothesmaking process, ",공정에 사용됩니다。
+"whether dyeing and ",
+"weaving or using tanned ",
+hides.,
+"Use leather tanned at ",여기서 무두질 공방에서 무두질한 가죽을 사용해
+"the tanner's shop here ",의복과 도구(예를 들어 가방과 물주머니)를 만듭니다。
+"to make clothing and ",
+"tools, such as bags and ",
+waterskins.,
+"Here you can turn ",여기서 실을 천으로 짤 수 있습니다，농업 공방에서 온
+"thread into cloth, ",실이든，또는 지하에서 모은
+"whether it is thread ",거미줄이든 가능합니다。
+"from the farmer's ",
+"workshop or spider silk ",
+gathered underground.,
+"Make cloth into ",여기서 천을 의복과 도구(예를 들어
+"clothing and tools ",가방과 밧줄)로 만듭니다。
+"here, such as bags and ",
+ropes.,
+"Use dyes here to color ",여기서 염료로 실과 천을 염색합니다。
+"thread and cloth.  ",건설하려면 통과 양동이가 필요합니다。
+"Requires a barrel and ",
+bucket for construction.,
+"A wide variety of ",이 분류에는 음식과 음료와 관련된 다양한
+"food-and-drink-related ",공방이 포함됩니다。
+"workshops can be found ",
+in this category.,
+"Plant crops at the ",농경지에서 작물을 심습니다。씨앗이나
+"farmplot.  You will ",포자가 필요하며，계절에 맞춰 작물을 선택해야 합니다。
+"need seeds or spawn and ",작물은 칼륨비료로 비료를 줄 수 있습니다。지하 깊은 곳의
+"must select crops by ",토양이 더 비옥합니다。
+"season.  Crops can be ",
+"fertilized with potash. ",
+"Soil is richer deeper ",
+underground.,
+"Brew alcohol from ",식물、과일 또는 꿀로 알코올 음
+"plants, fruit, or honey.",료를 양조합니다。
+"Slaughter livestock ",여기서 가축을 도축하여 고기、생가죽、
+"here in order to obtain ",뼈와 기타 동물 제품을 얻습니다。
+"meat, hides, bones, and ",
+other animal products.,
+"Make leather from ",여기서 동물 생가죽을 가죽으로 만듭니다。또한
+"animal hides here.  You ",석회유와 생가죽으로 양피지를 만들 수도 있습니다。
+"can also make parchment ",
+"using milk of lime and ",
+a hide.,
+"Process raw fish into ",여기서 날생선을 가공해 먹을 수 있는 음식으로 만듭니다。
+"edible food here.  Raw ",가공되지 않은 생선은 먹지 않습니다。
+fish will not be eaten.,
+"Cook meals here.  You ","여기에서 식사를 조리합니다。또한 지방을 "
+"can also render fat ",녹여 동물성 유지로 만들 수 있습니다。
+into tallow.,
+"Process plants and work ",여기에서 식물을 가공하고 가축을 돌봅니다。젖을 짜고、
+"with livestock here.  ","털을 깎고、치즈를 만들며、털뭉치를 "
+"Milk and shear animals, ",실로 잣습니다。
+"make cheese, and spin ",
+thread.,
+"Make sugar, flour, and ","여기에서 설탕、밀가루와 다양한 유용한 "
+"various useful slurries ","반죽을 만듭니다。동력 맷돌과 비교하면，작업이 "
+"here.  Tasks are ",완료되는 속도가 매우 느립니다。
+"completed very slowly ",
+"compared to the powered ",
+millstone.,
+"Capture and train small ","여기에서 작은 동물을 포획하고 훈련합니다。동물 "
+"animals here.  Requires ",덫이 필요합니다。
+animal traps.,
+"When placed, a female ","설치하면，사용 가능한 암컷 새가 있다면，그 새가 "
+"bird will claim the box ",상자를 차지하고 알을 낳기 시작합니다。
+"and start laying eggs, ",
+if one is available.,
+"Keep a colony of ","벌통에서 벌 군락을 기릅니다。벌통을 설치한 뒤에는 반드시 "
+"insects at your hives.  ","야생 벌 군락을 수집해야 하며，또는 기존 "
+"A wild colony must be ",벌통의 벌 군락에서 분봉할 수도 있습니다。
+"collected after the ",
+"hive is placed, or a ",
+"colony can be split ",
+"from an existing hive ",
+colony.,
+"Furnaces are used for ","용광로는 제련、유리 제작、도자기 "
+"smelting, glassmaking, ","제작、재 만들기，또는 목재나 원탄에서 연료를 "
+"pottery, ashmaking, or ",만드는 데 사용됩니다。용광로는 연료가 있어야 작동하며，
+"to make fuel from wood ","일부는 연료를 대신해 마그마 위에 설치해야 "
+"or raw coal.  Furnaces ",합니다。
+"require fuel to ",
+"function, or they can ",
+be set above magma.,
+"Bake clay objects here, ","여기에서 점토 제품과 그 밖의 몇 가지 "
+"as well as a few other ",유용한 재료도 구워 냅니다。점토 수집 구역이 있다면，
+"useful materials.  Clay ",여기에서 점토를 수집할 수도 있습니다。
+"can also be collected ",
+"here if you have a clay ",
+"collection zone.  All ",
+"tasks require fuel ","점토 수집을 제외한 모든 작업에는 "
+"aside from clay ",연료가 필요합니다。
+collection.,
+"You can make a variety ","세 가지 서로 다른 종류의 유리를 사용해 "
+"of objects using three ","다양한 물품을 만들 수 있습니다。모래 수집 "
+"different types of ","구역이며，여기서 작업을 시작하면 가방을 사용해 "
+"glass.  You can also ",모래를 수집할 수도 있습니다。
+"collect sand in bags ",
+"from a task originating ",
+"here, if you have a ",
+"sand collection zone.  ",
+"Glassmaking requires ",유리 제작에는 연료가 필요합니다。
+fuel.,
+"Magma below the furnace ",용광로 아래의 마그마가 작업에 동
+"will power tasks.  You ",력을 공급합니다。 용광로를 마그
+"are responsible for ",마 위에 배치해야 하지만，그 외의 연료는 필요하지 않습니다。
+"placing the furnace ",
+"above the magma, but no ",
+other fuel is required.,
+"collection zone.  Magma ",가마 아래의 마그마가 작업에 동
+"below the kiln will ",력을 공급합니다。 가마를 마그
+"power tasks.  You are ",마 위에 배치해야 하지만，그 외의 연료는 필요하지 않습니다。
+"responsible for placing ",
+"the kiln above the ",
+"magma, but no other ",
+fuel is required.,
+"Magma below the smelter ",제련로 아래의 마그마가 작업에 동
+"placing the smelter ",
+"Make metal bars from ","여기서 광석을 금속괴로 만듭니다。또한 "
+"ore here.  Can also ",석탄을 정제해 사용할 수 있는 연료로 만들거나 합금을 만들 수 있습니다。
+"refine coal into usable ",모든 작업에는 연료가 필요합니다。
+"fuel or make alloys.  ",
+All tasks require fuel.,
+"Make charcoal and ash ",여기서 목재를 목탄과 재로 만듭니다。
+"from wood here.  Does ",연료가 필요하지 않습니다。
+not require fuel.,
+"Used to make lye, ",잿물、포타시、석회유를 만드는 데 사용합니다。
+"potash, and milk of ","건설에는 블록 1개、통 1개、그리고 "
+"lime.  Construction ",양동이 1개가 필요합니다。
+"requires blocks, ",
+"barrel, and a bucket.",
+"Make crossbows here ",여기서 목재나 뼈로 석궁을 만듭니다。
+"from wood or bone.  The ","금속세공소의 대장간은 금속 석궁과 "
+"metalsmith's forge can ","금속 볼트를 만들 수 있으며，공예 작업장은 "
+"be used for metal ",다른 볼트를 만드는 데 사용됩니다。
+"crossbows and metal ",
+"bolts, and the crafts ",
+"workshop is used to ",
+make other bolts.,
+"Make beds and various ",여기서 침대와 다양한 가구를 만들고，보관
+"furniture here, as well ",함、통 등도 제작합니다。
+"as bins, barrels, and ",
+"Make crafts for trade ","여기서 무역용과 주민들이 사용할 "
+"and your own citizens ",공예품을 만들고，다양한 도구、
+"here, as well as a ",갑옷과 볼트를 제작합니다。
+"variety of tools, ",
+"armor, and bolts.",
+"Cut rough gems here to ",여기서 거친 보석을 절단하여 가치를 높이고， 그
+"increase their value, ",리고 세공한 보석을 박아 넣어 다
+"and improve the value ",른 물건의 가치도 높일 수 있습니다。
+"of other objects by ",
+"encrusting them with ",
+cut gems.,
+"Forge weapons and armor ","여기서 무기와 방어구를 단조하며, 대다"
+"here, as well as most ",수의 다른 금속 물품（가구부터 함정부
+"other metal objects ",품까지）도 만듭니다。
+"from furniture to trap ",
+"components.  Magma ",단조장 아래의 마그마가 작업에 동
+"below the forge will ",력을 제공합니다。단조장을 마그마 위에 배치해야 합니다
+"the forge above the ",
+"Make mechanisms here ","여기서 레버, 압력판"
+"which are used to make ",과 기어를 만드는 데 쓰이는 기계장치를 제작합니다。또한 기계장치를 사용
+"levers, pressure ",하여 레버와 압력판을 다른 기계
+"plates, and gears.  You ",와 연결할 수 있습니다。
+"can also use mechanisms ",
+"to link levers and ",
+"pressure plates to ",
+other machinery.,
+"components.  These ",
+tasks require fuel.,이 작업에는 연료가 필요합니다。
+"A useful workshop for ","액체를 짜내는 데 유용한 공방으로, 다양한 원"
+"pressing liquids from ",료에서 액체를 짜낼 수 있습니다。일부 식물은 사
+"various sources. Some ",용하기 전에 먼저 빻아야 할 수도 있습니다。액체 제품을 저장하려면 빈 항아리가 필
+"plants might need to be ",요합니다。
+"milled first before ",
+"they can be used.  ",
+"Empty jugs are required ",
+"to store the liquid ",
+products.,
+"Here you can make parts ",여기서 발리스타와 투석기 부
+"for ballistae and ",품을 만들 수 있습니다。이 공방은 발리스타 탄약을 조립하는 곳이기
+"catapults.  This ",도 합니다。
+"workshop is also the ",
+"place where ballista ",
+ammo is assembled.,
+"Use tallow (rendered ",여기서 탤로（정제한 지방）또
+"fat) or oil here with ",는 기름을 잿물과 함께 사용해 비누를 만듭니다。
+lye to make soap.,
+"Make stone furniture ","여기서 석재 가구를 만들고, 건"
+"here, as well as blocks ",축에 쓰이는 블록도 만듭니다。
+"which are used in ",
+constructions.,
+"Use options in this ",이 분류의 옵션을 사용해 공방에서 이미 제작
+"category to place ",한 가구를 배치합니다。
+"furniture that has ",
+"already been ",
+"constructed in a ",
+workshop.,
+"Your citizens need a ",주민들에게는 편안한 수면 공간
+"comfortable place to ",이 필요합니다. 침대 물품은 목수 작업장에서 완성
+"sleep.  A bed object ",된 뒤에야 배치할 수 있습니다.
+"must be made at the ",
+"carpenter's shop before ",
+it can be placed.,
+"Chairs are required for ",의자는 사무실 운영에 필수이며
+"offices to function, ",테이블 옆에 의자를 두는 것이 선호되는 식사 배치입니다.
+"and a chair next to a ",의자/왕좌 물품은 먼저 제작되어야
+"table is the preferred ",배치할 수 있습니다.
+"dining arrangement.  A ",
+"chair/throne object ",
+"must be made before it ",
+can be placed.,
+"Tables are required for ",식사에는 테이블이 필수입니다. 테이블
+"dining.  A chair should "," 옆에 의자를 배치해야 합니다. 테이블 물품은 먼저 제"
+"be placed adjacent to ",작되어야 배치할 수 있습니다.
+"the table.  A table ",
+"object must be made ",
+before it can be placed.,
+"Chests and coffers are ",상자와 금고는 개인 침실에서
+"used in personal "," 의류가 아닌 물품을 보관하는 데 사용됩니다. 이들은 일부 구역"
+"bedrooms for storing "," 기반 장소(예: 주점, 병원과"
+"non-clothing objects.  "," 도서관)에서 유용한 재료를 보관하는 데도 쓰입니다. 상자류"
+"They are also used in ",
+"some zone-based ",
+"locations like taverns, ",
+"hospitals, and ",
+"libraries for storing ",
+"useful materials.  A ",
+"box object must be made ",
+"Cabinets are used in ",캐비닛은 개인 침실에서 의복을 보관하는 데 사용됩니다.
+"personal bedrooms for ",캐비닛 물품은 먼저 제작되어야 배치할 수 있습니다.
+"storing clothing ",
+"objects.  A cabinet ",
+"The dead are buried in ",고인은 관에 매장됩니다. 관은 반드시
+"coffins.  Coffins must "," 지정된 묘 구역에 배치되어야만"
+"be placed in their own "," 효력이 있습니다. 관 물품은 먼저 제작되어야"
+"tomb zone in order to "," 배치할 수 있습니다."
+"work.  A coffin object ",
+"Citizens that cannot be ",적절히 매장될 수 없는 주민은 여전히 석
+"buried properly can ",비를 통해 추모할 수 있습니다. 석비는 석공 작업장에서 제작하고
+"still be memorialized "," 조각합니다."
+"on slabs.  Slabs are ",
+"created and engraved at ",
+the stoneworker's shop.,
+"Statues can be used to ",조각상은 당신의 요새를 장식하고 당신에게
+"decorate your fortress ","방에 가치를 더합니다. 조각상 물품은 "
+"and add value to your ",반드시 해당 작업장에서 먼저 제작해야 합니다.
+"rooms.  A statue object ",
+"must be made at an ",
+"appropriate workshop ",
+first.,
+"Certain injuries such ","일부 부상(예: 중첩 골절)은 "
+"as overlapping ",견인대 같은 고급 의료 장치로 치료해야 합니다.
+"fractures require ",견인대 물품은 먼저 제작해야만 배치할 수 있습니다.
+"advanced medical ",
+"contraptions like the ",
+"traction bench for ",
+"treatment.  A traction ",
+"bench object must be ",
+"made before it can be ",
+placed.,
+"Codices and scrolls in ","도서관의 사본과 두루마리는 "
+"your library can be ",책장에 보관할 수 있습니다. 책장 물품은 먼저 제작
+"stored in bookcases.  A ",해야만 배치할 수 있습니다.
+"bookcase object must be ",
+"Your most valuable ","가장 귀중한 물품을 방에 "
+"objects can be placed ","전시해 가치를 높이고 지나가는 "
+"for display in rooms to ","주민들이 감상할 수 있게 합니다. 받침대나 진열장은 "
+"increase their value ",반드시 먼저 제작해야만 배치할 수 있습니다.
+"and to entertain ",
+"passing citizens.  A ",
+"pedestal or display ",
+"case must be made ",
+"These ornamental ","이 장식용 물품은 놓인 방의 "
+"objects increase the ",가치를 높입니다. 봉헌 장소 물품은 반드시 먼저 제작
+"value of rooms in which ",해야만 배치할 수 있습니다.
+"they are placed.  An ",
+"offering place object ",
+"Large instruments must ","대형 악기는 주점이나 신전에 배치해야만 "
+"be placed in taverns or ","사용됩니다. 이 악기들은 먼저 "
+"temples before they ",작업장에서 조립을 마쳐야 합니다.
+"will be used.  These ",
+"instruments must be ",
+"assembled at a workshop ",
+"Place doors and hatches ","해당 작업장에서 문과 함정문을 제작한 "
+"here after you have ",후 여기에서 배치하십시오.
+"constructed them in an ",
+appropriate workshop.,
+"Doors can be used along ","문은 벽과 함께 사용해 방을 닫을 수 있으며, "
+"with walls to enclose ","이는 여러 기능 구역을 한 번에 배치할 때 특히 "
+"rooms, which is ","중요합니다. 문은 비활성화하거나 지렛대에 연결하여 "
+"especially important ",요새 내 통행을 제어할 수 있습니다.
+"when placing multiple ",
+"zones at once.  Doors ",
+"can also be forbidden ",
+"or attached to levers ",
+"to control movement in ",
+the fort.,
+"Hatches can be placed ",해치 덮개는 계단통 상단이나 경사로
+"at the tops of ","위에 설치할 수 있으며, 금지되었거나 레버에 연결되어 있을"
+"stairwells or above ",때 요새 내부의 통행을 제어하는 데 사용합니다.
+"ramps to control ",
+"movement in the fort ",
+"when they are forbidden ",
+or attached to levers.,
+"Most terrain-altering ",지형을 변경하는 대부분의 건설물은
+"constructions can be ","여기에서 찾을 수 있으며, 벽과 바닥부터"
+"found here, from walls ","다리, 경사로, 계단 등까지 포함됩니다."
+"and floors to bridges, ",
+"ramps, stairs, and more.",
+"More complicated ",더 복잡한 건물도 여기 있습니다. 우물부터
+"buildings from wells to ","동력 기계 부품, 레버, 수문까지요."
+"powered machine ",
+"components to levers ",
+"and floodgates are ",
+found here.,
+"Cages, ropes, and ","우리, 밧줄, 동물 함정은 여기 있습니다."
+"animal traps are found ",우리는 우리 함정에 쓰거나 대형
+"here.  Cages can be ",동물을 운반하는 데 사용할 수 있습니다. 금속 우리와 사슬은 사법
+"used in cage traps or ",체계에도 사용됩니다.
+"to transport large ",
+"animals.  Metal cages ",
+"and chains are also ",
+"used by the justice ",
+system.,
+"Various mechanical ",다양한 기계식 함정은 여기에서 찾을 수 있습니다.
+"traps can be found ","압력판도 여기 있으며, 그 용도는"
+"here.  The pressure ",함정에만 국한되지 않습니다.
+"plate is also found ",
+"here, which has ",
+"applications beyond ",
+traps.,
+"Archery targets, siege ","과녁, 공성 무기, 그리고 일부 장식용 전시"
+"weapons, and some ",품은 이 분류에서 찾을 수 있습니다.
+"ornamental display ",
+"items can be found in ",
+this category.,
+wood.,
+"Pressure plates, like ","압력판은 레버와 비슷하며, 기계,"
+"levers, are used with ","문, 수문, 다리, 우리 및 기타 구조물과"
+"machines, doors, ",함께 사용되어 그 상태를 바꿉니다. 압
+"floodgates, bridges, ","력판의 트리거는 생물의 무게,"
+"cages, and other ",유체 또는 광차의 통과에 따라 설정할 수 있습니다.
+"structures to change ",
+"are used with ",
+"their state.  The ",
+"trigger for pressure ",
+"plates can be set by ",
+"creature weight, fluid, ",
+or minecart passage.,
+"Stone-fall traps drop a ",낙석 함정은 침입자에게 바위를 떨어뜨립니다。반드
+"stone on intruders.  ",시 바위를 장전해야 합니다。
+"Must be loaded with ",
+boulders.,
+"Weapon traps use a ",무기 함정은 무기나 함정 부품을 사용해 침입자를 공
+"weapon or trap ",격합니다。원거리 무기와 함께 사
+"component to strike ",용할 수 있으며 탄약을 장전할 수 있습니다。한 번에 여
+"intruders.  Can be used ",러 무기를 동시에 사용할 수 있습니다。
+"with ranged weapons and ",
+"loaded with ammo.  Can ",
+"use multiple weapons at ",
+once.,
+"Cage traps capture ",우리 함정은 침입자를 우리에 가둡니다。
+"intruders in cages.  ",반드시 우리 하나를 장전해야 합니다。
+"Must be loaded with a ",
+cage.,
+"Upright weapons are a ",직립 가시는 침입자가 떨어지기엔 위험한 장
+"nasty place for ",소입니다。또한 레버나 압력판에 연결할 수도 있으며，
+"intruders to fall upon. ",이를 들어 올려 침입자를 찌를 수 있습니다。
+"Can also be linked to ",
+"levers or pressure ",
+"plates to raise them ",
+into intruders.,
+"Archery targets are ",과녁은 양궁장 구역에서 궁수를 훈련시키는 데 사용됩니다。
+"used in archery range ",
+"zones for training ",
+archers.,
+"Ornamental.  Demanded ",장식품입니다。일부 귀족이 요구합니다。
+by some nobles.,
+"A ballista fires a ",발리스타는 고정된 방향으로 발리스타 화살을 발사합니다。
+"ballista arrow in a ",조작자는 원뿔형 범위 안에서
+"fixed direction.  The ",자유롭게 조준을 조절할 수 있습니다。
+"operator can adjust the ",
+"aim freely within a ",
+cone.,
+"A catapult fires a ",투석기는 고정된 방향으로 바위를 발사합니다。
+"boulder in a fixed ",조작자는 원뿔형 범위 안에서
+"direction.  The ",자유롭게 조준을 조절할 수 있습니다。
+"A bolt thrower fires a ",볼트 투척기는 일반 볼
+"regular bolts rapidly.  ",트를 빠르게 발사합니다。조작자는 인접한 사용 가능한 타
+"The operator swivels ",일에서 기계를 회전시킵니다。
+"the machine from any ",
+"available adjacent ",
+tiles.,
+"Start painting a new ",새로운 저장 구역을 그리기 시작합니다。타일을 선택
+"stockpile.  Once the ",후에는 자세한 내용을 설정할 수 있습니다。
+"tiles are chosen, ",
+"you'll be able to set ",
+the details.,
+"Erase a portion of this ",여기 있는 저장구역의 일부를 지웁니다。
+stockpile.,
+"Remove the stockpile ",지정 중인 저장구역을 영구적으로 제거합니다。동
+"being painted ",시에 기존 구역도 제거합니다！
+"permanently.  Also ",
+stockpiles.,저장구역 배치를 끝냅니다。
+removes existing zones!,
+Finish placing zones.,구역 배치를 끝냅니다。
+"Finish establishing ",활동구역 지정을 끝냅니다。
+burrows.,
+"Finish setting hauling ",운반 경로 설정을 끝냅니다。
+routes.,
+"Finish setting traffic ",통행 구역 설정을 끝냅니다。
+areas.,
+"Set a high traffic ",고통행 구역을 설정합니다。넓은0
+"area.  Use this in wide ",주요 통로에서는 이 설정을 사용합니다。
+central passages.,
+"Set a normal traffic ",일반 통행 구역을 설정합니다，이는 기본 상
+"area, the default state.",태입니다。
+"Set a low traffic area. ",저통행 구역을 설정합니다。주민들은 더 나은 경로를 찾
+"Citizens will look for ",을 것입니다。
+better routes.,
+"Set a restricted ",제한 통행 구역을 설정합니다。주민들은 더 나은 경로를 찾기 위해 최선을 다
+"traffic area.  Citizens ",할 것입니다。만약 다른 경로가0
+"will look hard for ",없거나 너무 길다면，그래도 그0
+"better routes.  They ",구역을 사용합니다。
+"will still use the area ",
+"if other routes do not ",
+exist or are too long.,
+"Finish setting ",물품/건물 지정을 끝냅니다。
+"item/building ",
+designations.,
+"Claim a forbidden item ",금지된 물품이나 건물을 소유로 지정하여，
+"or building so it will ",주민들이 그것을 사용할 수 있게 합니다。
+"be used by your ",
+citizens.,
+"Forbid your citizens ",주민들이 어떤 물품이나 건
+"from using an item or ",물을 사용하지 못하게 금지합니다。
+building.,
+"Designate an item for ",
+"dumping in a dumping ",물품을 투기 구역에 버리도록 지정합니다。
+zone.,
+"Remove dumping ",투기 지정을 제거합니다。
+melting at any smelter.,물품을 어떤 제련로에서든 용해하도록 지정합니다。
+"Remove melting ",용해 지정을 제거합니다。
+"Remove hidden ",숨김 지정을 제거합니다。
+"Hide an item or ",시야에서 아이템 또는 건
+"building from your ",물을 숨깁니다. 주민들은 여전히 이를 사용합니다.
+"view.  Citizens will ",
+still use it.,
+"   * Requires wild colony or","   *야생 벌 군체 또는"
+"   * Existing hive","   *기존 벌통"
+Gather any products,모든 생산품을 수집
+"   * Destroys colony","   *군체를 파괴함"
+"   * Requires a jug","   *항아리 필요"
+"   * Saves colony for split","   *분봉을 위해 군체를 보존함"
+No outdoor access,야외로 통하는 경로 없음
+Outdoor access,야외로 통하는 경로
+Not ready to be split,아직 분봉할 준비가 되지 않음
+No available colony,사용 가능한 군체 없음
+Colony to Install,설치할 군체
+Return Colony To Install,설치할 군체를 가져오기
+New handwear,새 손 장비
+New footwear,새 발 장비
+New headwear,새 머리 장비
+New legwear,새 다리 장비
+New bodywear,새 몸통 장비
+Mat,재료
+Mechanic's Workshop,기계공 작업장
+became,상태 변경
+down,
+with,
+devoured,잡아먹음:
+enemy,수배-
+struck,처치-
+attacked,교전-
+fought,격퇴-
+childhood,
+friends.,어린 시절 놀이 친구가 되었다
+other,기타
+Zones,구역

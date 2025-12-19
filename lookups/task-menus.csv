@@ -1,32 +1,32 @@
 table,text,translation
-TASK_MENU:$0,(opens menu), (打开菜单)
+TASK_MENU:$0,(opens menu)," (메뉴 열기)"
 TASK_MENU:$0,,
-TASK_MENU,Weapons and Ammunition,武器与弹药
-TASK_MENU,Armor,护甲
-TASK_MENU,wood,木头
-TASK_MENU,Furniture,家具
-TASK_MENU,Siege equipment,围攻装备
-TASK_MENU,Trap components,陷阱部件
-TASK_MENU,Other objects,其他物体
-TASK_MENU,Metal clothing,金属衣物
-TASK_MENU,Make instrument piece,制作乐器零件
-TASK_MENU,Make instrument,制作乐器
-TASK_MENU,Engrave memorial slab,雕刻纪念石板
-TASK_MENU,Metalsmith's Forge,锻造间
-TASK_MENU,stoneworker's Workshop,石匠工坊
-TASK_MENU,bowyer's workshop,弓弩匠工坊
-TASK_MENU,siege workshop,攻城器工坊
-TASK_MENU,Clothier's shop,裁缝铺
-TASK_MENU,Dyer's shop,染坊
-TASK_MENU,Butcher's shop,屠宰场
-TASK_MENU,Tanner's shop,制革作坊
-TASK_MENU,Jeweler's workshop,珠宝工坊
-TASK_MENU,Polish stones,抛光石头
-TASK_MENU,Craftsdwarf's Workshop,手艺工坊
-TASK_MENU,Carpenter's Workshop,木匠工坊
+TASK_MENU,Weapons and Ammunition,무기와 탄약
+TASK_MENU,Armor,방어구
+TASK_MENU,wood,목재
+TASK_MENU,Furniture,가구
+TASK_MENU,Siege equipment,공성 장비
+TASK_MENU,Trap components,함정 부품
+TASK_MENU,Other objects,기타 물체
+TASK_MENU,Metal clothing,금속 의류
+TASK_MENU,Make instrument piece,악기 부품 제작
+TASK_MENU,Make instrument,악기 제작
+TASK_MENU,Engrave memorial slab,추모 석판 새기기
+TASK_MENU,Metalsmith's Forge,대장간
+TASK_MENU,stoneworker's Workshop,석공 작업장
+TASK_MENU,bowyer's workshop,활 제작 작업장
+TASK_MENU,siege workshop,공성 병기 작업장
+TASK_MENU,Clothier's shop,재단사 작업장
+TASK_MENU,Dyer's shop,염색 작업장
+TASK_MENU,Butcher's shop,도살 작업장
+TASK_MENU,Tanner's shop,무두질 작업장
+TASK_MENU,Jeweler's workshop,보석 세공 작업장
+TASK_MENU,Polish stones,돌 연마
+TASK_MENU,Craftsdwarf's Workshop,수공예 작업장
+TASK_MENU,Carpenter's Workshop,목수 작업장
 TASK_MENU,{CLOTHIER},{CLOTHIER}
-TASK_MENU:CLOTHIER,cloth (opens menu),布匹 (打开菜单)
-TASK_MENU:CLOTHIER,silk (opens menu),丝绸 (打开菜单)
-TASK_MENU:CLOTHIER,yarn (opens menu),纱线 (打开菜单)
+TASK_MENU:CLOTHIER,cloth (opens menu),천 (메뉴 열기)
+TASK_MENU:CLOTHIER,silk (opens menu),실크 (메뉴 열기)
+TASK_MENU:CLOTHIER,yarn (opens menu),실 (메뉴 열기)
 TASK_MENU,{FORGE},{FORGE}
-TASK_MENU:FORGE,{:MATERIAL:STATE:SHARED} (opens menu),{:MATERIAL:STATE:SHARED} (打开菜单)
+TASK_MENU:FORGE,{:MATERIAL:STATE:SHARED} (opens menu),{:MATERIAL:STATE:SHARED} (메뉴 열기)
