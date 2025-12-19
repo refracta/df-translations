@@ -27,7 +27,7 @@ jobs:
             exit 1
           fi
           API_URL="https://api.github.com"
-          AUTH_HEADER="Authorization: token $DISPATCH_TOKEN"
+          AUTH_HEADER="Authorization: Bearer $DISPATCH_TOKEN"
           ACCEPT_HEADER="Accept: application/vnd.github+json"
 
           DEFAULT_BRANCH="$(curl -fsSL -H "$AUTH_HEADER" -H "$ACCEPT_HEADER" \
